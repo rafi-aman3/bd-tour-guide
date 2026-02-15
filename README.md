@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🇧🇩 BD Tour: Discover Bangladesh
 
-## Getting Started
+An interactive travel exploration platform designed to showcase the beauty and heritage of Bangladesh's 64 districts. Explore the country through an interactive map and discover detailed information about each region.
 
-First, run the development server:
+## ✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **🗺️ Interactive Map**: A custom-built, responsive map of Bangladesh allowing users to explore districts visually.
+- **🎨 Thematic Branding**: Each district page features dynamic coloring based on its division, creating a unique and immersive experience.
+- **📊 Detailed Statistics**: Quick access to essential data like area, population, and establishment date for every district.
+- **🏛️ Must-Visit Places**: Curated lists of landmark attractions with descriptions and visual previews.
+- **🍛 Local Specialties**: Insights into the unique cuisine and traditional crafts that define each region's culture.
+- **🧭 Traveler's Guide**: Essential information on the best time to visit, transportation, and travel difficulty.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework**: [Next.js 16](https://nextjs.org/) (App Router)
+- **UI Library**: [React 19](https://react.dev/)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+- **Maps**: [Leaflet](https://leafletjs.com/) & [React Leaflet](https://react-leaflet.js.org/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Components**: [Shadcn/UI](https://ui.shadcn.com/) (Radix UI)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Getting Started
 
-## Learn More
+### Prerequisites
 
-To learn more about Next.js, take a look at the following resources:
+- Node.js (Latest LTS recommended)
+- npm, yarn, pnpm, or bun
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1.  Clone the repository:
+    ```bash
+    git clone <repository-url>
+    cd bd-tour
+    ```
 
-## Deploy on Vercel
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3.  Run the development server:
+    ```bash
+    npm run dev
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4.  Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 📁 Project Structure
+
+- `app/`: Next.js App Router pages and layouts.
+- `components/`: Reusable React components (including the Interactive Map).
+- `data/`: JSON data files for districts and regional information.
+- `lib/`: Utility functions and shared data constants.
+- `public/`: Static assets such as images and fonts.
+- `scripts/`: Data generation and processing scripts.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the data or features of this project.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
