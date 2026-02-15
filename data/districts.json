@@ -1,0 +1,1696 @@
+{
+  "dhaka": {
+    "name": "Dhaka",
+    "division": "Dhaka",
+    "stats": {
+      "area": "1,463.60 sq km",
+      "population": "12,102,411",
+      "established": "1772",
+      "attractions": "20+"
+    },
+    "mustVisit": [
+      {
+        "name": "Lalbagh Fort",
+        "description": "17th-century Mughal palace fortress.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "name": "Ahsan Manzil",
+        "description": "The official residential palace of the Nawab of Dhaka.",
+        "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "name": "National Parliament House",
+        "description": "Masterpiece of modern architecture by Louis Kahn.",
+        "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Famous for Kacchi Biryani and Dhakai Bakorkhani.",
+      "crafts": "Jamdani and Muslin fabrics."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Air, rail, and road connections.",
+      "difficulty": "Easy"
+    }
+  },
+  "faridpur": {
+    "name": "Faridpur",
+    "division": "Dhaka",
+    "stats": {
+      "area": "2830.64 sq km",
+      "population": "2,308,488",
+      "established": "1919",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Faridpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "gazipur": {
+    "name": "Gazipur",
+    "division": "Dhaka",
+    "stats": {
+      "area": "1541.45 sq km",
+      "population": "1,217,726",
+      "established": "1899",
+      "attractions": "3+"
+    },
+    "mustVisit": [
+      {
+        "name": "Gazipur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "gopalganj": {
+    "name": "Gopalganj",
+    "division": "Dhaka",
+    "stats": {
+      "area": "2686.97 sq km",
+      "population": "2,600,570",
+      "established": "1804",
+      "attractions": "6+"
+    },
+    "mustVisit": [
+      {
+        "name": "Gopalganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "kishoreganj": {
+    "name": "Kishoreganj",
+    "division": "Dhaka",
+    "stats": {
+      "area": "2030.37 sq km",
+      "population": "2,656,694",
+      "established": "1891",
+      "attractions": "5+"
+    },
+    "mustVisit": [
+      {
+        "name": "Kishoreganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "madaripur": {
+    "name": "Madaripur",
+    "division": "Dhaka",
+    "stats": {
+      "area": "2431.04 sq km",
+      "population": "2,541,045",
+      "established": "1864",
+      "attractions": "6+"
+    },
+    "mustVisit": [
+      {
+        "name": "Madaripur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "manikganj": {
+    "name": "Manikganj",
+    "division": "Dhaka",
+    "stats": {
+      "area": "1951.23 sq km",
+      "population": "1,478,303",
+      "established": "1928",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Manikganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "munshiganj": {
+    "name": "Munshiganj",
+    "division": "Dhaka",
+    "stats": {
+      "area": "2814.86 sq km",
+      "population": "1,402,400",
+      "established": "1967",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Munshiganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "narayanganj": {
+    "name": "Narayanganj",
+    "division": "Dhaka",
+    "stats": {
+      "area": "1235.40 sq km",
+      "population": "2,978,836",
+      "established": "1960",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Narayanganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "narsingdi": {
+    "name": "Narsingdi",
+    "division": "Dhaka",
+    "stats": {
+      "area": "1300.19 sq km",
+      "population": "2,756,498",
+      "established": "1917",
+      "attractions": "6+"
+    },
+    "mustVisit": [
+      {
+        "name": "Narsingdi Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "rajbari": {
+    "name": "Rajbari",
+    "division": "Dhaka",
+    "stats": {
+      "area": "1750.94 sq km",
+      "population": "2,440,017",
+      "established": "1857",
+      "attractions": "5+"
+    },
+    "mustVisit": [
+      {
+        "name": "Rajbari Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "shariatpur": {
+    "name": "Shariatpur",
+    "division": "Dhaka",
+    "stats": {
+      "area": "1403.24 sq km",
+      "population": "2,202,321",
+      "established": "1944",
+      "attractions": "12+"
+    },
+    "mustVisit": [
+      {
+        "name": "Shariatpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "tangail": {
+    "name": "Tangail",
+    "division": "Dhaka",
+    "stats": {
+      "area": "2990.26 sq km",
+      "population": "1,043,625",
+      "established": "1802",
+      "attractions": "5+"
+    },
+    "mustVisit": [
+      {
+        "name": "Tangail Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "bandarban": {
+    "name": "Bandarban",
+    "division": "Chittagong",
+    "stats": {
+      "area": "4,479.01 sq km",
+      "population": "388,335",
+      "established": "1981",
+      "attractions": "20+"
+    },
+    "mustVisit": [
+      {
+        "name": "Nilgiri",
+        "description": "High altitude peak with breathtaking clouds.",
+        "image": "https://images.unsplash.com/photo-1580000000000-000000000003?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "name": "Golden Temple",
+        "description": "Beautiful Buddhist temple.",
+        "image": "https://images.unsplash.com/photo-1580000000000-000000000004?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional tribal bamboo shoot dishes.",
+      "crafts": "Tribal handloom fabrics."
+    },
+    "guide": {
+      "bestTime": "September to February",
+      "gettingThere": "Bus from Chittagong.",
+      "difficulty": "Challenging"
+    }
+  },
+  "brahmanbaria": {
+    "name": "Brahmanbaria",
+    "division": "Chittagong",
+    "stats": {
+      "area": "1,927.11 sq km",
+      "population": "2,840,497",
+      "established": "1984",
+      "attractions": "5+"
+    },
+    "mustVisit": [
+      {
+        "name": "Farazi Bari Mosque",
+        "description": "Historic mosque with beautiful design.",
+        "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Known for tasty sweets and river fish.",
+      "crafts": "Traditional handloom products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Train or bus.",
+      "difficulty": "Easy"
+    }
+  },
+  "chandpur": {
+    "name": "Chandpur",
+    "division": "Chittagong",
+    "stats": {
+      "area": "1717.59 sq km",
+      "population": "2,764,761",
+      "established": "1912",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Chandpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "chittagong": {
+    "name": "Chittagong",
+    "division": "Chittagong",
+    "stats": {
+      "area": "1030.07 sq km",
+      "population": "2,825,649",
+      "established": "1975",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Chittagong Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "comilla": {
+    "name": "Comilla",
+    "division": "Chittagong",
+    "stats": {
+      "area": "3,087.33 sq km",
+      "population": "5,387,288",
+      "established": "1790",
+      "attractions": "9+"
+    },
+    "mustVisit": [
+      {
+        "name": "Shalban Vihara",
+        "description": "Ancient Buddhist archaeological site.",
+        "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Famous for Rasmalai (sweet).",
+      "crafts": "Khadi fabrics."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Bus or train from Dhaka.",
+      "difficulty": "Easy"
+    }
+  },
+  "coxs-bazar": {
+    "name": "Cox's Bazar",
+    "division": "Chittagong",
+    "stats": {
+      "area": "2,491.85 sq km",
+      "population": "2,289,990",
+      "established": "1984",
+      "attractions": "15+"
+    },
+    "mustVisit": [
+      {
+        "name": "Longest Sea Beach",
+        "description": "120 km long natural sandy beach.",
+        "image": "https://images.unsplash.com/photo-1582200231580-0081d5eb856a?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "name": "Inani Beach",
+        "description": "Beautiful coral beach with crystal clear water.",
+        "image": "https://images.unsplash.com/photo-1580000000000-000000000000?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "name": "Saint Martin's Island",
+        "description": "The only coral island in Bangladesh.",
+        "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Dried fish (Shutki) and fresh seafood.",
+      "crafts": "Sea-shell crafts and Burmese textiles."
+    },
+    "guide": {
+      "bestTime": "November to February",
+      "gettingThere": "Air or luxury bus from Dhaka.",
+      "difficulty": "Easy"
+    }
+  },
+  "feni": {
+    "name": "Feni",
+    "division": "Chittagong",
+    "stats": {
+      "area": "1522.52 sq km",
+      "population": "1,899,978",
+      "established": "1870",
+      "attractions": "5+"
+    },
+    "mustVisit": [
+      {
+        "name": "Feni Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "khagrachhari": {
+    "name": "Khagrachhari",
+    "division": "Chittagong",
+    "stats": {
+      "area": "2064.53 sq km",
+      "population": "2,442,398",
+      "established": "1957",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Khagrachhari Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "lakshmipur": {
+    "name": "Lakshmipur",
+    "division": "Chittagong",
+    "stats": {
+      "area": "2069.75 sq km",
+      "population": "1,269,079",
+      "established": "1948",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Lakshmipur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "noakhali": {
+    "name": "Noakhali",
+    "division": "Chittagong",
+    "stats": {
+      "area": "2912.32 sq km",
+      "population": "2,273,302",
+      "established": "1852",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Noakhali Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "rangamati": {
+    "name": "Rangamati",
+    "division": "Chittagong",
+    "stats": {
+      "area": "1009.02 sq km",
+      "population": "2,286,528",
+      "established": "1965",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Rangamati Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "bogra": {
+    "name": "Bogra",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "2,898.68 sq km",
+      "population": "3,400,874",
+      "established": "1821",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Mahasthangarh",
+        "description": "Oldest archaeological site in Bangladesh.",
+        "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Famous for Bograra Doi (Yogurt).",
+      "crafts": "Terracotta and pottery."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Bus from Dhaka.",
+      "difficulty": "Easy"
+    }
+  },
+  "chapainawabganj": {
+    "name": "Chapainawabganj",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "1380.47 sq km",
+      "population": "1,916,356",
+      "established": "1976",
+      "attractions": "5+"
+    },
+    "mustVisit": [
+      {
+        "name": "Chapainawabganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "joypurhat": {
+    "name": "Joypurhat",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "2142.97 sq km",
+      "population": "2,393,344",
+      "established": "1815",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Joypurhat Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "naogaon": {
+    "name": "Naogaon",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "1715.56 sq km",
+      "population": "2,500,212",
+      "established": "1891",
+      "attractions": "6+"
+    },
+    "mustVisit": [
+      {
+        "name": "Naogaon Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "natore": {
+    "name": "Natore",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "2960.28 sq km",
+      "population": "1,282,967",
+      "established": "1952",
+      "attractions": "9+"
+    },
+    "mustVisit": [
+      {
+        "name": "Natore Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "pabna": {
+    "name": "Pabna",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "2183.89 sq km",
+      "population": "2,176,948",
+      "established": "1824",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Pabna Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "rajshahi": {
+    "name": "Rajshahi",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "2,407.01 sq km",
+      "population": "2,595,197",
+      "established": "1825",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Varendra Research Museum",
+        "description": "Oldest museum in Bangladesh.",
+        "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "World's best mangoes (various types).",
+      "crafts": "Rajshahi Silk."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Air, rail, and road.",
+      "difficulty": "Easy"
+    }
+  },
+  "sirajganj": {
+    "name": "Sirajganj",
+    "division": "Rajshahi",
+    "stats": {
+      "area": "2043.01 sq km",
+      "population": "2,483,272",
+      "established": "1832",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Sirajganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "bagherhat": {
+    "name": "Bagherhat",
+    "division": "Khulna",
+    "stats": {
+      "area": "2856.61 sq km",
+      "population": "1,483,344",
+      "established": "1875",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Bagherhat Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "chuadanga": {
+    "name": "Chuadanga",
+    "division": "Khulna",
+    "stats": {
+      "area": "2046.67 sq km",
+      "population": "1,429,969",
+      "established": "1988",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Chuadanga Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "jessore": {
+    "name": "Jessore",
+    "division": "Khulna",
+    "stats": {
+      "area": "1589.14 sq km",
+      "population": "1,849,715",
+      "established": "1900",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Jessore Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "jhenaidah": {
+    "name": "Jhenaidah",
+    "division": "Khulna",
+    "stats": {
+      "area": "2503.71 sq km",
+      "population": "1,747,170",
+      "established": "1982",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Jhenaidah Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "khulna": {
+    "name": "Khulna",
+    "division": "Khulna",
+    "stats": {
+      "area": "4,394.45 sq km",
+      "population": "2,318,527",
+      "established": "1882",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Sundarbans",
+        "description": "Largest mangrove forest in the world.",
+        "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Chuijhal meat dishes.",
+      "crafts": "Jute and pottery products."
+    },
+    "guide": {
+      "bestTime": "November to February",
+      "gettingThere": "Train or bus.",
+      "difficulty": "Moderate"
+    }
+  },
+  "kushtia": {
+    "name": "Kushtia",
+    "division": "Khulna",
+    "stats": {
+      "area": "2975.93 sq km",
+      "population": "2,065,727",
+      "established": "1893",
+      "attractions": "6+"
+    },
+    "mustVisit": [
+      {
+        "name": "Kushtia Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "magura": {
+    "name": "Magura",
+    "division": "Khulna",
+    "stats": {
+      "area": "2787.38 sq km",
+      "population": "1,679,354",
+      "established": "1808",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Magura Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "meherpur": {
+    "name": "Meherpur",
+    "division": "Khulna",
+    "stats": {
+      "area": "2498.23 sq km",
+      "population": "1,056,273",
+      "established": "1904",
+      "attractions": "3+"
+    },
+    "mustVisit": [
+      {
+        "name": "Meherpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "narail": {
+    "name": "Narail",
+    "division": "Khulna",
+    "stats": {
+      "area": "2153.50 sq km",
+      "population": "1,012,553",
+      "established": "1947",
+      "attractions": "12+"
+    },
+    "mustVisit": [
+      {
+        "name": "Narail Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "satkhira": {
+    "name": "Satkhira",
+    "division": "Khulna",
+    "stats": {
+      "area": "2020.81 sq km",
+      "population": "1,387,510",
+      "established": "1820",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Satkhira Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "barguna": {
+    "name": "Barguna",
+    "division": "Barisal",
+    "stats": {
+      "area": "1448.03 sq km",
+      "population": "2,563,922",
+      "established": "1826",
+      "attractions": "9+"
+    },
+    "mustVisit": [
+      {
+        "name": "Barguna Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "barisal": {
+    "name": "Barisal",
+    "division": "Barisal",
+    "stats": {
+      "area": "2,784.52 sq km",
+      "population": "2,324,310",
+      "established": "1797",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Floating Guava Market",
+        "description": "Unique traditional market on boats.",
+        "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Ilish fish and various river fish.",
+      "crafts": "Traditional boat making."
+    },
+    "guide": {
+      "bestTime": "November to February",
+      "gettingThere": "By launch (river ferry) from Dhaka.",
+      "difficulty": "Easy"
+    }
+  },
+  "bhola": {
+    "name": "Bhola",
+    "division": "Barisal",
+    "stats": {
+      "area": "2198.83 sq km",
+      "population": "1,097,434",
+      "established": "1954",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Bhola Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "jhalokati": {
+    "name": "Jhalokati",
+    "division": "Barisal",
+    "stats": {
+      "area": "2403.27 sq km",
+      "population": "1,459,367",
+      "established": "1811",
+      "attractions": "4+"
+    },
+    "mustVisit": [
+      {
+        "name": "Jhalokati Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "patuakhali": {
+    "name": "Patuakhali",
+    "division": "Barisal",
+    "stats": {
+      "area": "1922.37 sq km",
+      "population": "1,025,568",
+      "established": "1838",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Patuakhali Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "pirojpur": {
+    "name": "Pirojpur",
+    "division": "Barisal",
+    "stats": {
+      "area": "1277.80 sq km",
+      "population": "1,198,195",
+      "established": "1984",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Pirojpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Dulal Ghosh Roshogolla",
+      "crafts": "Local handicraftsg and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "habiganj": {
+    "name": "Habiganj",
+    "division": "Sylhet",
+    "stats": {
+      "area": "1295.66 sq km",
+      "population": "1,501,489",
+      "established": "1889",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Habiganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "moulvibazar": {
+    "name": "Moulvibazar",
+    "division": "Sylhet",
+    "stats": {
+      "area": "1212.26 sq km",
+      "population": "2,958,505",
+      "established": "1934",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Moulvibazar Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "sunamganj": {
+    "name": "Sunamganj",
+    "division": "Sylhet",
+    "stats": {
+      "area": "2713.41 sq km",
+      "population": "2,819,165",
+      "established": "1998",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Sunamganj Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "sylhet": {
+    "name": "Sylhet",
+    "division": "Sylhet",
+    "stats": {
+      "area": "3,452.07 sq km",
+      "population": "3,434,188",
+      "established": "1782",
+      "attractions": "12+"
+    },
+    "mustVisit": [
+      {
+        "name": "Ratargul Swamp Forest",
+        "description": "Only freshwater swamp forest in Bangladesh.",
+        "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800"
+      },
+      {
+        "name": "Bisnakhandi",
+        "description": "Beautiful landscape where hills meet water.",
+        "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Shatkora Beef and aromatic Tea.",
+      "crafts": "Manipuri handloom and Sheetal Pati."
+    },
+    "guide": {
+      "bestTime": "June to September (Monsoon) or November to February",
+      "gettingThere": "Air, rail, and road.",
+      "difficulty": "Moderate"
+    }
+  },
+  "dinajpur": {
+    "name": "Dinajpur",
+    "division": "Rangpur",
+    "stats": {
+      "area": "2966.72 sq km",
+      "population": "1,588,079",
+      "established": "1891",
+      "attractions": "4+"
+    },
+    "mustVisit": [
+      {
+        "name": "Dinajpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "gaibandha": {
+    "name": "Gaibandha",
+    "division": "Rangpur",
+    "stats": {
+      "area": "2523.40 sq km",
+      "population": "2,346,122",
+      "established": "1961",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Gaibandha Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "kurigram": {
+    "name": "Kurigram",
+    "division": "Rangpur",
+    "stats": {
+      "area": "1576.16 sq km",
+      "population": "1,693,644",
+      "established": "1946",
+      "attractions": "3+"
+    },
+    "mustVisit": [
+      {
+        "name": "Kurigram Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "lalmonirhat": {
+    "name": "Lalmonirhat",
+    "division": "Rangpur",
+    "stats": {
+      "area": "2621.16 sq km",
+      "population": "1,634,934",
+      "established": "1903",
+      "attractions": "9+"
+    },
+    "mustVisit": [
+      {
+        "name": "Lalmonirhat Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "nilphamari": {
+    "name": "Nilphamari",
+    "division": "Rangpur",
+    "stats": {
+      "area": "2642.96 sq km",
+      "population": "1,908,808",
+      "established": "1995",
+      "attractions": "8+"
+    },
+    "mustVisit": [
+      {
+        "name": "Nilphamari Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "panchagarh": {
+    "name": "Panchagarh",
+    "division": "Rangpur",
+    "stats": {
+      "area": "1014.39 sq km",
+      "population": "2,108,498",
+      "established": "1964",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Panchagarh Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "rangpur": {
+    "name": "Rangpur",
+    "division": "Rangpur",
+    "stats": {
+      "area": "2,370.45 sq km",
+      "population": "2,881,086",
+      "established": "1769",
+      "attractions": "7+"
+    },
+    "mustVisit": [
+      {
+        "name": "Tajhat Palace",
+        "description": "Grand historical palace.",
+        "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Harivanga Mango and traditional curries.",
+      "crafts": "Shatranji carpets."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Air or bus.",
+      "difficulty": "Easy"
+    }
+  },
+  "thakurgaon": {
+    "name": "Thakurgaon",
+    "division": "Rangpur",
+    "stats": {
+      "area": "1034.16 sq km",
+      "population": "1,464,361",
+      "established": "1889",
+      "attractions": "4+"
+    },
+    "mustVisit": [
+      {
+        "name": "Thakurgaon Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "jamalpur": {
+    "name": "Jamalpur",
+    "division": "Mymensingh",
+    "stats": {
+      "area": "1652.24 sq km",
+      "population": "2,193,757",
+      "established": "1976",
+      "attractions": "12+"
+    },
+    "mustVisit": [
+      {
+        "name": "Jamalpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "mymensingh": {
+    "name": "Mymensingh",
+    "division": "Mymensingh",
+    "stats": {
+      "area": "4,394.57 sq km",
+      "population": "5,110,272",
+      "established": "1787",
+      "attractions": "6+"
+    },
+    "mustVisit": [
+      {
+        "name": "Alexandra Castle",
+        "description": "Historic mansion with unique architecture.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Famous for Muktagachara Manda (sweet).",
+      "crafts": "Handmade fans and pottery."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Train or bus from Dhaka.",
+      "difficulty": "Easy"
+    }
+  },
+  "netrokona": {
+    "name": "Netrokona",
+    "division": "Mymensingh",
+    "stats": {
+      "area": "1039.90 sq km",
+      "population": "1,918,292",
+      "established": "1935",
+      "attractions": "6+"
+    },
+    "mustVisit": [
+      {
+        "name": "Netrokona Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  },
+  "sherpur": {
+    "name": "Sherpur",
+    "division": "Mymensingh",
+    "stats": {
+      "area": "1844.30 sq km",
+      "population": "1,471,392",
+      "established": "1986",
+      "attractions": "11+"
+    },
+    "mustVisit": [
+      {
+        "name": "Sherpur Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": {
+      "cuisine": "Traditional Bengali cuisine with local variations.",
+      "crafts": "Local handicrafts and weaving products."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    }
+  }
+}
