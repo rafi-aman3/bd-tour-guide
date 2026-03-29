@@ -1,0 +1,234 @@
+{
+  "dhaka": {
+    "name": "Dhaka",
+    "slug": "dhaka",
+    "stats": {
+      "area": "31,119 km²",
+      "population": "44M+",
+      "established": "1829",
+      "attractions": "100+"
+    },
+    "mustVisit": [
+      {
+        "name": "Ahsan Manzil",
+        "description": "Historical palace of the Nawabs of Dhaka, a stunning pink architectural marvel building situated along the banks of the Buriganga River."
+      },
+      {
+        "name": "National Parliament House",
+        "description": "A magnificent architectural masterpiece designed by Louis Kahn, symbolizing the democratic framework of Bangladesh."
+      }
+    ],
+    "specialties": {
+      "cuisine": "World-famous Haji Biryani, Bakarkhani, and rich Mughal-influenced dishes.",
+      "crafts": "Dhakai Jamdani sarees, known for their delicate and intricate weaving patterns."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "The massive Hazrat Shahjalal International Airport and intricate bus & rail networks connect Dhaka from all points.",
+      "difficulty": "Easy to Moderate (due to traffic)"
+    }
+  },
+  "chittagong": {
+    "name": "Chittagong",
+    "slug": "chittagong",
+    "stats": {
+      "area": "33,771 km²",
+      "population": "33M+",
+      "established": "1829",
+      "attractions": "80+"
+    },
+    "mustVisit": [
+      {
+        "name": "Cox's Bazar",
+        "description": "The world's longest unbroken natural sandy sea beach, a major tourism destination for sea lovers."
+      },
+      {
+        "name": "Sajek Valley",
+        "description": "Known as the roofs of Rangamati, offering stunning vistas of clouds blending with mountain peaks."
+      }
+    ],
+    "specialties": {
+      "cuisine": "Famous Mezbani beef, traditional fiery curries, and rich seafood.",
+      "crafts": "Tribal handloom textiles, bamboo and cane artifacts."
+    },
+    "guide": {
+      "bestTime": "November to February",
+      "gettingThere": "Well connected by air (Shah Amanat Airport), train, and highways from Dhaka.",
+      "difficulty": "Moderate"
+    }
+  },
+  "rajshahi": {
+    "name": "Rajshahi",
+    "slug": "rajshahi",
+    "stats": {
+      "area": "18,174 km²",
+      "population": "20M+",
+      "established": "1829",
+      "attractions": "50+"
+    },
+    "mustVisit": [
+      {
+        "name": "Somapura Mahavihara",
+        "description": "A magnificent ancient Buddhist vihara at Paharpur, listed as a UNESCO World Heritage site."
+      },
+      {
+        "name": "Mahasthangarh",
+        "description": "One of the earliest urban archaeological sites discovered in Bangladesh dating back to 3rd century BC."
+      }
+    ],
+    "specialties": {
+      "cuisine": "Famous for the juiciest mango varieties, Kalai Ruti, and date molasses.",
+      "crafts": "Renowned for soft Rajshahi Silk production and brass metalwork."
+    },
+    "guide": {
+      "bestTime": "Winter (December to February)",
+      "gettingThere": "Excellent road and direct train networks. Domestic flights to Shah Makhdum Airport.",
+      "difficulty": "Easy"
+    }
+  },
+  "khulna": {
+    "name": "Khulna",
+    "slug": "khulna",
+    "stats": {
+      "area": "22,285 km²",
+      "population": "17M+",
+      "established": "1960",
+      "attractions": "40+"
+    },
+    "mustVisit": [
+      {
+        "name": "The Sundarbans",
+        "description": "The largest continuous mangrove forest in the world and home to the majestic Royal Bengal Tiger."
+      },
+      {
+        "name": "Sixty Dome Mosque",
+        "description": "A UNESCO World Heritage Site located in Bagerhat, an impressive architectural structure of the Sultanate period."
+      }
+    ],
+    "specialties": {
+      "cuisine": "Chui Jhal infused meat curries and fresh tiger prawns.",
+      "crafts": "Local honey, beeswax products, and traditional pottery."
+    },
+    "guide": {
+      "bestTime": "November to February",
+      "gettingThere": "Train or bus, followed by boat networks. Domestic flights land in nearby Jessore.",
+      "difficulty": "Moderate to Adventurous"
+    }
+  },
+  "sylhet": {
+    "name": "Sylhet",
+    "slug": "sylhet",
+    "stats": {
+      "area": "12,596 km²",
+      "population": "11M+",
+      "established": "1995",
+      "attractions": "60+"
+    },
+    "mustVisit": [
+      {
+        "name": "Ratargul Swamp Forest",
+        "description": "The only freshwater swamp forest in Bangladesh, enchanting travelers with its sunken trees."
+      },
+      {
+        "name": "Jaflong & Tea Gardens",
+        "description": "Breathtaking views of rolling tea estates and crystal rivers carrying stones from the Himalayas."
+      }
+    ],
+    "specialties": {
+      "cuisine": "Exotic citrus dishes using Shatkora beef, traditional rice cakes (Pithas).",
+      "crafts": "Cane furniture (Shital Pati), handcrafted tea accessories."
+    },
+    "guide": {
+      "bestTime": "Rainy Season or Winter (June to February)",
+      "gettingThere": "Direct international and domestic flights to Osmani Airport. Scenic train rides from Dhaka.",
+      "difficulty": "Easy to Moderate"
+    }
+  },
+  "barisal": {
+    "name": "Barisal",
+    "slug": "barisal",
+    "stats": {
+      "area": "13,297 km²",
+      "population": "9M+",
+      "established": "1993",
+      "attractions": "30+"
+    },
+    "mustVisit": [
+      {
+        "name": "Kuakata",
+        "description": "The magical beach where you can observe both sunrise and sunset over the Bay of Bengal."
+      },
+      {
+        "name": "Floating Guava Markets",
+        "description": "Vibrant and busy network of boats carrying fresh, green guavas down local narrow canals."
+      }
+    ],
+    "specialties": {
+      "cuisine": "Exceptional Hilsha fish varieties, coconut-infused recipes, and sweet yogurts.",
+      "crafts": "Intricate boat building and bamboo crafts."
+    },
+    "guide": {
+      "bestTime": "July for Guava Market, Winter for the beach",
+      "gettingThere": "Major river networks connecting launch terminals. Direct flights or comfortable highways via Padma bridge.",
+      "difficulty": "Easy to Moderate"
+    }
+  },
+  "rangpur": {
+    "name": "Rangpur",
+    "slug": "rangpur",
+    "stats": {
+      "area": "16,184 km²",
+      "population": "17M+",
+      "established": "2010",
+      "attractions": "35+"
+    },
+    "mustVisit": [
+      {
+        "name": "Kantajew Temple",
+        "description": "A stunning late medieval Hindu temple uniquely built with exquisite terracotta art."
+      },
+      {
+        "name": "Tajhat Palace",
+        "description": "A magnificent royal palace boasting grand staircases, turning into an interesting historical museum."
+      }
+    ],
+    "specialties": {
+      "cuisine": "Local potato and egg dishes, uniquely distinct sweetmeats.",
+      "crafts": "Shatranji traditional carpets and handlooms."
+    },
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Connected by major North-bound highways from Dhaka and trains from kamalapur.",
+      "difficulty": "Easy"
+    }
+  },
+  "mymensingh": {
+    "name": "Mymensingh",
+    "slug": "mymensingh",
+    "stats": {
+      "area": "10,584 km²",
+      "population": "12M+",
+      "established": "2015",
+      "attractions": "25+"
+    },
+    "mustVisit": [
+      {
+        "name": "Muktagacha Rajbari",
+        "description": "A grand, decaying palace hinting at the majestic lifestyles of the former Zamindars."
+      },
+      {
+        "name": "Garo Hills",
+        "description": "Scenic hills lying across the Indian border populated by indigenous tribes with a rich cultural tapestry."
+      }
+    ],
+    "specialties": {
+      "cuisine": "The legendary Muktagachha Monda (a highly prized sweetmeat) uniquely crafted from milk.",
+      "crafts": "Tribal weaves, intricate bamboo products, and local folklore arts."
+    },
+    "guide": {
+      "bestTime": "November to February",
+      "gettingThere": "Only a comfortable few hours drive from Dhaka on dedicated highways.",
+      "difficulty": "Easy"
+    }
+  }
+}

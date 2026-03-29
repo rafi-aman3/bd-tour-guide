@@ -1,16 +1,6 @@
 "use client";
 
-import dynamic from "next/dynamic";
-import { Suspense } from "react";
-
-const BangladeshMap = dynamic(() => import("@/components/BangladeshMap"), {
-  ssr: false,
-  loading: () => (
-    <div className="flex h-full w-full items-center justify-center rounded-xl bg-slate-100 animate-pulse">
-      <p className="text-slate-500 font-medium">Loading Map Component...</p>
-    </div>
-  ),
-});
+import DynamicMap from "@/components/DynamicMap";
 
 export default function Home() {
   return (
@@ -21,14 +11,12 @@ export default function Home() {
             Discover <span className="text-indigo-600">Bangladesh</span>
           </h1>
           <p className="text-xl text-slate-600 max-w-2xl mx-auto">
-            Explore the beauty of various districts across the country through our interactive map.
+            Explore the beauty of various divisions across the country through our interactive map.
           </p>
         </header>
 
         <div className="max-w-5xl h-full mx-auto">
-          <Suspense fallback={<div>Loading...</div>}>
-            <BangladeshMap />
-          </Suspense>
+          <DynamicMap />
         </div>
       </section>
     </main>
