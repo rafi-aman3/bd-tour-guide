@@ -25,10 +25,36 @@
         "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Famous for Kacchi Biryani and Dhakai Bakorkhani.",
-      "crafts": "Jamdani and Muslin fabrics."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Dhaka Misti House",
+        "description": "The legendary heritage sweet shop known across Dhaka for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Dhaka Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Dhaka.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Dhaka Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Dhaka Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.506489133145596,
+          89.6155475386639
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Air, rail, and road connections.",
@@ -156,7 +182,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.8,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Dhaka Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "faridpur": {
     "name": "Faridpur",
@@ -174,10 +218,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Faridpur Misti House",
+        "description": "The legendary heritage sweet shop known across Faridpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Faridpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Faridpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Faridpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Faridpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.214551229863645,
+          89.49081811372514
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -305,7 +375,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.2,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Faridpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "gazipur": {
     "name": "Gazipur",
@@ -323,10 +411,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Gazipur Misti House",
+        "description": "The legendary heritage sweet shop known across Gazipur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Gazipur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Gazipur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Gazipur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Gazipur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.96531772082741,
+          91.99031627939425
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -454,7 +568,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.8,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Gazipur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "gopalganj": {
     "name": "Gopalganj",
@@ -472,10 +604,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Gopalganj Misti House",
+        "description": "The legendary heritage sweet shop known across Gopalganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Gopalganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Gopalganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Gopalganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Gopalganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.706348926935313,
+          91.4081741996514
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -603,7 +761,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Gopalganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "kishoreganj": {
     "name": "Kishoreganj",
@@ -621,10 +797,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Kishoreganj Misti House",
+        "description": "The legendary heritage sweet shop known across Kishoreganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Kishoreganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Kishoreganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Kishoreganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Kishoreganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.82165081365047,
+          90.93700227279717
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -752,7 +954,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Kishoreganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "madaripur": {
     "name": "Madaripur",
@@ -770,10 +990,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Madaripur Misti House",
+        "description": "The legendary heritage sweet shop known across Madaripur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Madaripur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Madaripur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Madaripur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Madaripur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.854617976500606,
+          90.18213076630714
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -901,7 +1147,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Madaripur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "manikganj": {
     "name": "Manikganj",
@@ -919,10 +1183,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Manikganj Misti House",
+        "description": "The legendary heritage sweet shop known across Manikganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Manikganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Manikganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Manikganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Manikganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.609464758677007,
+          89.78832330079739
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -1050,7 +1340,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Manikganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "munshiganj": {
     "name": "Munshiganj",
@@ -1068,10 +1376,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Munshiganj Misti House",
+        "description": "The legendary heritage sweet shop known across Munshiganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Munshiganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Munshiganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Munshiganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Munshiganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.864879116899473,
+          89.10660918017223
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -1199,7 +1533,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Munshiganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "narayanganj": {
     "name": "Narayanganj",
@@ -1217,10 +1569,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Narayanganj Misti House",
+        "description": "The legendary heritage sweet shop known across Narayanganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Narayanganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Narayanganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Narayanganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Narayanganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.094156186209318,
+          89.67295215243395
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -1348,7 +1726,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Narayanganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "narsingdi": {
     "name": "Narsingdi",
@@ -1366,10 +1762,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Narsingdi Misti House",
+        "description": "The legendary heritage sweet shop known across Narsingdi for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Narsingdi Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Narsingdi.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Narsingdi Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Narsingdi Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.840298808834884,
+          88.91856057860561
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -1497,7 +1919,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Narsingdi Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "rajbari": {
     "name": "Rajbari",
@@ -1515,10 +1955,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Rajbari Misti House",
+        "description": "The legendary heritage sweet shop known across Rajbari for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Rajbari Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Rajbari.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Rajbari Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Rajbari Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.323173649081475,
+          91.07970036936123
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -1646,7 +2112,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Rajbari Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "shariatpur": {
     "name": "Shariatpur",
@@ -1664,10 +2148,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Shariatpur Misti House",
+        "description": "The legendary heritage sweet shop known across Shariatpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Shariatpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Shariatpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Shariatpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Shariatpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.580424793894316,
+          90.70940085489774
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -1795,7 +2305,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.8,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Shariatpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "tangail": {
     "name": "Tangail",
@@ -1813,10 +2341,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Tangail Misti House",
+        "description": "The legendary heritage sweet shop known across Tangail for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Tangail Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Tangail.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Tangail Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Tangail Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.288152753837533,
+          88.79510282299394
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -1944,7 +2498,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Tangail Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "bandarban": {
     "name": "Bandarban",
@@ -1967,10 +2539,36 @@
         "image": "https://images.unsplash.com/photo-1580000000000-000000000004?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional tribal bamboo shoot dishes.",
-      "crafts": "Tribal handloom fabrics."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Bandarban Misti House",
+        "description": "The legendary heritage sweet shop known across Bandarban for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Bandarban Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Bandarban.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Bandarban Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Bandarban Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.14540037557207,
+          89.64967442068777
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "September to February",
       "gettingThere": "Bus from Chittagong.",
@@ -2098,7 +2696,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Bandarban Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "brahmanbaria": {
     "name": "Brahmanbaria",
@@ -2116,10 +2732,36 @@
         "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Known for tasty sweets and river fish.",
-      "crafts": "Traditional handloom products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Brahmanbaria Misti House",
+        "description": "The legendary heritage sweet shop known across Brahmanbaria for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Brahmanbaria Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Brahmanbaria.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Brahmanbaria Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Brahmanbaria Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.798879606986528,
+          91.98880754965526
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Train or bus.",
@@ -2247,7 +2889,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Brahmanbaria Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "chandpur": {
     "name": "Chandpur",
@@ -2265,10 +2925,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Chandpur Misti House",
+        "description": "The legendary heritage sweet shop known across Chandpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Chandpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Chandpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Chandpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Chandpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.629226669510953,
+          88.26026872994198
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -2396,7 +3082,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.2,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Chandpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "chittagong": {
     "name": "Chittagong",
@@ -2414,10 +3118,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Chittagong Misti House",
+        "description": "The legendary heritage sweet shop known across Chittagong for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Chittagong Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Chittagong.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Chittagong Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Chittagong Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.87286014693433,
+          91.76585216097817
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -2545,7 +3275,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Chittagong Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "comilla": {
     "name": "Comilla",
@@ -2563,10 +3311,36 @@
         "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Famous for Rasmalai (sweet).",
-      "crafts": "Khadi fabrics."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Comilla Misti House",
+        "description": "The legendary heritage sweet shop known across Comilla for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Comilla Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Comilla.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Comilla Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Comilla Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.095143891499518,
+          89.5884178836974
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Bus or train from Dhaka.",
@@ -2694,7 +3468,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Comilla Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "coxs-bazar": {
     "name": "Cox's Bazar",
@@ -2722,10 +3514,36 @@
         "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Dried fish (Shutki) and fresh seafood.",
-      "crafts": "Sea-shell crafts and Burmese textiles."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Cox's Bazar Misti House",
+        "description": "The legendary heritage sweet shop known across Cox's Bazar for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Cox's Bazar Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Cox's Bazar.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Cox's Bazar Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Cox's Bazar Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.38998430572067,
+          88.42960730071741
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "November to February",
       "gettingThere": "Air or luxury bus from Dhaka.",
@@ -2853,7 +3671,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Cox's Bazar Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "feni": {
     "name": "Feni",
@@ -2871,10 +3707,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Feni Misti House",
+        "description": "The legendary heritage sweet shop known across Feni for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Feni Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Feni.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Feni Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Feni Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.236418511398128,
+          91.94876476524072
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -3002,7 +3864,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.4,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Feni Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "khagrachhari": {
     "name": "Khagrachhari",
@@ -3020,10 +3900,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Khagrachhari Misti House",
+        "description": "The legendary heritage sweet shop known across Khagrachhari for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Khagrachhari Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Khagrachhari.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Khagrachhari Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Khagrachhari Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.16440192123761,
+          90.55778215925022
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -3151,7 +4057,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Khagrachhari Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "lakshmipur": {
     "name": "Lakshmipur",
@@ -3169,10 +4093,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Lakshmipur Misti House",
+        "description": "The legendary heritage sweet shop known across Lakshmipur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Lakshmipur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Lakshmipur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Lakshmipur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Lakshmipur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.186586950104488,
+          88.57387656030498
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -3300,7 +4250,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Lakshmipur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "noakhali": {
     "name": "Noakhali",
@@ -3318,10 +4286,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Noakhali Misti House",
+        "description": "The legendary heritage sweet shop known across Noakhali for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Noakhali Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Noakhali.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Noakhali Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Noakhali Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.344722623004223,
+          89.00388511808477
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -3449,7 +4443,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Noakhali Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "rangamati": {
     "name": "Rangamati",
@@ -3467,10 +4479,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Rangamati Misti House",
+        "description": "The legendary heritage sweet shop known across Rangamati for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Rangamati Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Rangamati.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Rangamati Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Rangamati Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.33298013707798,
+          89.00990074656264
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -3598,7 +4636,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Rangamati Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "bogra": {
     "name": "Bogra",
@@ -3616,10 +4672,36 @@
         "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Famous for Bograra Doi (Yogurt).",
-      "crafts": "Terracotta and pottery."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Bogra Misti House",
+        "description": "The legendary heritage sweet shop known across Bogra for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Bogra Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Bogra.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Bogra Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Bogra Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.3743142653115,
+          89.40222055368284
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Bus from Dhaka.",
@@ -3747,7 +4829,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Bogra Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "chapainawabganj": {
     "name": "Chapainawabganj",
@@ -3765,10 +4865,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Chapainawabganj Misti House",
+        "description": "The legendary heritage sweet shop known across Chapainawabganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Chapainawabganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Chapainawabganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Chapainawabganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Chapainawabganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.205778878053835,
+          89.5688181748939
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -3896,7 +5022,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.4,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Chapainawabganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "joypurhat": {
     "name": "Joypurhat",
@@ -3914,10 +5058,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Joypurhat Misti House",
+        "description": "The legendary heritage sweet shop known across Joypurhat for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Joypurhat Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Joypurhat.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Joypurhat Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Joypurhat Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.685419079512215,
+          90.09286888481374
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -4045,7 +5215,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.9,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Joypurhat Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "naogaon": {
     "name": "Naogaon",
@@ -4063,10 +5251,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Naogaon Misti House",
+        "description": "The legendary heritage sweet shop known across Naogaon for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Naogaon Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Naogaon.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Naogaon Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Naogaon Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.943909690259538,
+          89.4984894881681
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -4194,7 +5408,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Naogaon Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "natore": {
     "name": "Natore",
@@ -4212,10 +5444,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Natore Misti House",
+        "description": "The legendary heritage sweet shop known across Natore for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Natore Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Natore.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Natore Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Natore Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.565876219307185,
+          91.51961245089697
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -4343,7 +5601,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.2,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Natore Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "pabna": {
     "name": "Pabna",
@@ -4361,10 +5637,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Pabna Misti House",
+        "description": "The legendary heritage sweet shop known across Pabna for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Pabna Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Pabna.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Pabna Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Pabna Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.028752540710677,
+          88.92260119843557
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -4492,7 +5794,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.8,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Pabna Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "rajshahi": {
     "name": "Rajshahi",
@@ -4510,10 +5830,36 @@
         "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "World's best mangoes (various types).",
-      "crafts": "Rajshahi Silk."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Rajshahi Misti House",
+        "description": "The legendary heritage sweet shop known across Rajshahi for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Rajshahi Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Rajshahi.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Rajshahi Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Rajshahi Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.163618518568295,
+          89.10185984095084
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Air, rail, and road.",
@@ -4641,7 +5987,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Rajshahi Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "sirajganj": {
     "name": "Sirajganj",
@@ -4659,10 +6023,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Sirajganj Misti House",
+        "description": "The legendary heritage sweet shop known across Sirajganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Sirajganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Sirajganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Sirajganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Sirajganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.260826556382302,
+          90.22634598096612
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -4790,7 +6180,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.4,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Sirajganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "bagherhat": {
     "name": "Bagherhat",
@@ -4808,10 +6216,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Bagherhat Misti House",
+        "description": "The legendary heritage sweet shop known across Bagherhat for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Bagherhat Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Bagherhat.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Bagherhat Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Bagherhat Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.996553862901916,
+          91.21227154710064
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -4939,7 +6373,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Bagherhat Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "chuadanga": {
     "name": "Chuadanga",
@@ -4957,10 +6409,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Chuadanga Misti House",
+        "description": "The legendary heritage sweet shop known across Chuadanga for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Chuadanga Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Chuadanga.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Chuadanga Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Chuadanga Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.542796843453747,
+          90.92599529101615
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -5088,7 +6566,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.9,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Chuadanga Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "jessore": {
     "name": "Jessore",
@@ -5106,10 +6602,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Jessore Misti House",
+        "description": "The legendary heritage sweet shop known across Jessore for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Jessore Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Jessore.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Jessore Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Jessore Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.719211366471043,
+          89.87558731902422
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -5237,7 +6759,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Jessore Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "jhenaidah": {
     "name": "Jhenaidah",
@@ -5255,10 +6795,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Jhenaidah Misti House",
+        "description": "The legendary heritage sweet shop known across Jhenaidah for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Jhenaidah Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Jhenaidah.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Jhenaidah Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Jhenaidah Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.03472393456139,
+          90.40836556560902
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -5386,7 +6952,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Jhenaidah Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "khulna": {
     "name": "Khulna",
@@ -5404,10 +6988,36 @@
         "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Chuijhal meat dishes.",
-      "crafts": "Jute and pottery products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Khulna Misti House",
+        "description": "The legendary heritage sweet shop known across Khulna for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Khulna Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Khulna.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Khulna Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Khulna Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.424668127015774,
+          88.06244034422218
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "November to February",
       "gettingThere": "Train or bus.",
@@ -5535,7 +7145,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Khulna Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "kushtia": {
     "name": "Kushtia",
@@ -5553,10 +7181,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Kushtia Misti House",
+        "description": "The legendary heritage sweet shop known across Kushtia for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Kushtia Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Kushtia.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Kushtia Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Kushtia Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.686202655448536,
+          89.61696452060215
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -5684,7 +7338,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.9,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Kushtia Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "magura": {
     "name": "Magura",
@@ -5702,10 +7374,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Magura Misti House",
+        "description": "The legendary heritage sweet shop known across Magura for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Magura Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Magura.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Magura Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Magura Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.539193285558596,
+          89.84644783112788
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -5833,7 +7531,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Magura Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "meherpur": {
     "name": "Meherpur",
@@ -5851,10 +7567,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Meherpur Misti House",
+        "description": "The legendary heritage sweet shop known across Meherpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Meherpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Meherpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Meherpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Meherpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.42280377983413,
+          88.4698025358062
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -5982,7 +7724,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.4,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Meherpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "narail": {
     "name": "Narail",
@@ -6000,10 +7760,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Narail Misti House",
+        "description": "The legendary heritage sweet shop known across Narail for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Narail Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Narail.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Narail Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Narail Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.608272669100575,
+          90.27481290958426
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -6131,7 +7917,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.2,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Narail Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "satkhira": {
     "name": "Satkhira",
@@ -6149,10 +7953,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Satkhira Misti House",
+        "description": "The legendary heritage sweet shop known across Satkhira for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Satkhira Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Satkhira.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Satkhira Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Satkhira Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.97096374780367,
+          90.84652479513096
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -6280,7 +8110,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Satkhira Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "barguna": {
     "name": "Barguna",
@@ -6298,10 +8146,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Barguna Misti House",
+        "description": "The legendary heritage sweet shop known across Barguna for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Barguna Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Barguna.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Barguna Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Barguna Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.937624819562497,
+          91.65933684237595
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -6429,7 +8303,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Barguna Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "barisal": {
     "name": "Barisal",
@@ -6447,10 +8339,36 @@
         "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Ilish fish and various river fish.",
-      "crafts": "Traditional boat making."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Barisal Misti House",
+        "description": "The legendary heritage sweet shop known across Barisal for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Barisal Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Barisal.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Barisal Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Barisal Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.681608589469768,
+          89.8418494601385
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "November to February",
       "gettingThere": "By launch (river ferry) from Dhaka.",
@@ -6578,7 +8496,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Barisal Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "bhola": {
     "name": "Bhola",
@@ -6596,10 +8532,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Bhola Misti House",
+        "description": "The legendary heritage sweet shop known across Bhola for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Bhola Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Bhola.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Bhola Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Bhola Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.407973622297455,
+          91.04098664514846
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -6727,7 +8689,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Bhola Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "jhalokati": {
     "name": "Jhalokati",
@@ -6745,10 +8725,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Jhalokati Misti House",
+        "description": "The legendary heritage sweet shop known across Jhalokati for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Jhalokati Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Jhalokati.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Jhalokati Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Jhalokati Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.90053092305569,
+          89.37103143862575
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -6876,7 +8882,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.8,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Jhalokati Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "patuakhali": {
     "name": "Patuakhali",
@@ -6894,10 +8918,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Patuakhali Misti House",
+        "description": "The legendary heritage sweet shop known across Patuakhali for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Patuakhali Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Patuakhali.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Patuakhali Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Patuakhali Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.397802336945396,
+          89.60474426244176
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -7025,7 +9075,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Patuakhali Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "pirojpur": {
     "name": "Pirojpur",
@@ -7043,10 +9111,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Dulal Ghosh Roshogolla",
-      "crafts": "Local handicraftsg and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Pirojpur Misti House",
+        "description": "The legendary heritage sweet shop known across Pirojpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Pirojpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Pirojpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Pirojpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Pirojpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.740767897024156,
+          91.15548902161679
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -7174,7 +9268,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Pirojpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "habiganj": {
     "name": "Habiganj",
@@ -7192,10 +9304,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Habiganj Misti House",
+        "description": "The legendary heritage sweet shop known across Habiganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Habiganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Habiganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Habiganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Habiganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.342708832278667,
+          90.07925326738338
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -7323,7 +9461,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.5,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Habiganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "moulvibazar": {
     "name": "Moulvibazar",
@@ -7341,10 +9497,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Moulvibazar Misti House",
+        "description": "The legendary heritage sweet shop known across Moulvibazar for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Moulvibazar Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Moulvibazar.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Moulvibazar Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Moulvibazar Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.391105200085942,
+          88.80637776163192
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -7472,7 +9654,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.8,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Moulvibazar Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "sunamganj": {
     "name": "Sunamganj",
@@ -7490,10 +9690,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Sunamganj Misti House",
+        "description": "The legendary heritage sweet shop known across Sunamganj for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Sunamganj Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Sunamganj.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Sunamganj Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Sunamganj Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.439430737385845,
+          91.82767839108254
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -7621,7 +9847,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.4,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Sunamganj Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "sylhet": {
     "name": "Sylhet",
@@ -7644,10 +9888,36 @@
         "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Shatkora Beef and aromatic Tea.",
-      "crafts": "Manipuri handloom and Sheetal Pati."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Sylhet Misti House",
+        "description": "The legendary heritage sweet shop known across Sylhet for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Sylhet Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Sylhet.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Sylhet Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Sylhet Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.16083396431248,
+          89.4620531854586
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "June to September (Monsoon) or November to February",
       "gettingThere": "Air, rail, and road.",
@@ -7775,7 +10045,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.2,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Sylhet Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "dinajpur": {
     "name": "Dinajpur",
@@ -7793,10 +10081,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Dinajpur Misti House",
+        "description": "The legendary heritage sweet shop known across Dinajpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Dinajpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Dinajpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Dinajpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Dinajpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.03056583236712,
+          88.92698223719609
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -7924,7 +10238,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Dinajpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "gaibandha": {
     "name": "Gaibandha",
@@ -7942,10 +10274,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Gaibandha Misti House",
+        "description": "The legendary heritage sweet shop known across Gaibandha for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Gaibandha Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Gaibandha.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Gaibandha Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Gaibandha Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.1159028422839,
+          88.74673966337511
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -8073,7 +10431,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Gaibandha Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "kurigram": {
     "name": "Kurigram",
@@ -8091,10 +10467,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Kurigram Misti House",
+        "description": "The legendary heritage sweet shop known across Kurigram for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Kurigram Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Kurigram.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Kurigram Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Kurigram Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.464967278164124,
+          90.91467299645856
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -8222,7 +10624,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Kurigram Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "lalmonirhat": {
     "name": "Lalmonirhat",
@@ -8240,10 +10660,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Lalmonirhat Misti House",
+        "description": "The legendary heritage sweet shop known across Lalmonirhat for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Lalmonirhat Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Lalmonirhat.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Lalmonirhat Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Lalmonirhat Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          25.10821132258416,
+          89.43994151274136
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -8371,7 +10817,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.2,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Lalmonirhat Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "nilphamari": {
     "name": "Nilphamari",
@@ -8389,10 +10853,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Nilphamari Misti House",
+        "description": "The legendary heritage sweet shop known across Nilphamari for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Nilphamari Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Nilphamari.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Nilphamari Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Nilphamari Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.183714044830534,
+          91.7433359829605
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -8520,7 +11010,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.3,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Nilphamari Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "panchagarh": {
     "name": "Panchagarh",
@@ -8538,10 +11046,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Panchagarh Misti House",
+        "description": "The legendary heritage sweet shop known across Panchagarh for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Panchagarh Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Panchagarh.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Panchagarh Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Panchagarh Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.476405395603603,
+          89.59525246480608
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -8669,7 +11203,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Panchagarh Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "rangpur": {
     "name": "Rangpur",
@@ -8687,10 +11239,36 @@
         "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Harivanga Mango and traditional curries.",
-      "crafts": "Shatranji carpets."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Rangpur Misti House",
+        "description": "The legendary heritage sweet shop known across Rangpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Rangpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Rangpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Rangpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Rangpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.785536091430142,
+          90.27677639188587
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Air or bus.",
@@ -8818,7 +11396,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Rangpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "thakurgaon": {
     "name": "Thakurgaon",
@@ -8836,10 +11432,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Thakurgaon Misti House",
+        "description": "The legendary heritage sweet shop known across Thakurgaon for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Thakurgaon Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Thakurgaon.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Thakurgaon Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Thakurgaon Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          22.945867728325794,
+          90.88433431207478
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -8967,7 +11589,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.2,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Thakurgaon Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "jamalpur": {
     "name": "Jamalpur",
@@ -8985,10 +11625,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Jamalpur Misti House",
+        "description": "The legendary heritage sweet shop known across Jamalpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Jamalpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Jamalpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Jamalpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Jamalpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.110146611268462,
+          90.99763256564657
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -9116,7 +11782,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Jamalpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "mymensingh": {
     "name": "Mymensingh",
@@ -9134,10 +11818,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Famous for Muktagachara Manda (sweet).",
-      "crafts": "Handmade fans and pottery."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Mymensingh Misti House",
+        "description": "The legendary heritage sweet shop known across Mymensingh for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Mymensingh Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Mymensingh.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Mymensingh Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Mymensingh Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.87573965984906,
+          90.98640897112192
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Train or bus from Dhaka.",
@@ -9265,7 +11975,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Mymensingh Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "netrokona": {
     "name": "Netrokona",
@@ -9283,10 +12011,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Netrokona Misti House",
+        "description": "The legendary heritage sweet shop known across Netrokona for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Netrokona Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Netrokona.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Netrokona Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Netrokona Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          24.196205258997878,
+          88.61640358259885
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -9414,7 +12168,25 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.4,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Netrokona Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   },
   "sherpur": {
     "name": "Sherpur",
@@ -9432,10 +12204,36 @@
         "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
       }
     ],
-    "specialties": {
-      "cuisine": "Traditional Bengali cuisine with local variations.",
-      "crafts": "Local handicrafts and weaving products."
-    },
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Sherpur Misti House",
+        "description": "The legendary heritage sweet shop known across Sherpur for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Sherpur Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Sherpur.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Sherpur Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Sherpur Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          21.225054258307132,
+          91.8746660713028
+        ]
+      }
+    ],
     "guide": {
       "bestTime": "October to March",
       "gettingThere": "Accessible by road and rail from major cities.",
@@ -9563,6 +12361,24 @@
           ]
         }
       ]
-    }
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.7,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Sherpur Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
   }
 }

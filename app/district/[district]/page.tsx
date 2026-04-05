@@ -7,6 +7,8 @@ import HeritageSection from "@/components/HeritageSection";
 import DynamicUpazilaMap from "@/components/DynamicUpazilaMap";
 import TransportWidget from "@/components/TransportWidget";
 import HotelWidget from "@/components/HotelWidget";
+import LocalSpecialtiesWidget from "@/components/LocalSpecialtiesWidget";
+import LocalAdsSidebar from "@/components/LocalAdsSidebar";
 
 interface PageProps {
   params: Promise<{ district: string }>;
@@ -89,7 +91,13 @@ export default async function DistrictPage({ params }: PageProps) {
                 <h1 className="text-5xl md:text-7xl font-black tracking-tighter text-slate-900">{districtName}</h1>
               </div>
               <div className="flex gap-4">
-                <button className="px-6 py-3 rounded-xl font-bold text-white transition-opacity hover:opacity-90" style={{ backgroundColor: primaryColor }}>Plan a Trip</button>
+                <Link 
+                  href={`/planner/${crypto.randomUUID()}?initialDistrict=${district}`}
+                  className="px-6 py-3 rounded-xl font-bold text-white transition-opacity hover:opacity-90" 
+                  style={{ backgroundColor: primaryColor }}
+                >
+                  Plan a Trip
+                </Link>
               </div>
             </div>
 
@@ -160,6 +168,7 @@ export default async function DistrictPage({ params }: PageProps) {
 
                 <TransportWidget data={data?.transport || {}} primaryColor={primaryColor} districtName={districtName} />
                 <HotelWidget data={data?.hotels} primaryColor={primaryColor} />
+                <LocalSpecialtiesWidget specialties={data?.specialties || []} primaryColor={primaryColor} mutedColor={mutedColor} />
 
 
               </div>
@@ -202,39 +211,7 @@ export default async function DistrictPage({ params }: PageProps) {
                   </div>
                 </div>
 
-                <div className="rounded-[2rem] bg-white border border-slate-100 shadow-xl overflow-hidden flex flex-col p-6 md:p-8">
-                  <h3 className="text-2xl font-black text-slate-900 mb-6 flex items-center">
-                    <span className="w-1.5 h-6 mr-3 rounded-full" style={{ backgroundColor: primaryColor }}></span>
-                    Local Specialties
-                  </h3>
-                  <div className="flex flex-col gap-6">
-                    <div className="p-6 rounded-3xl border border-slate-100 transition-colors group relative overflow-hidden" style={{ backgroundColor: mutedColor }}>
-                      <div className="absolute top-0 right-0 w-32 h-32 opacity-10 bg-gradient-to-br from-transparent to-current blur-2xl pointer-events-none" style={{ color: primaryColor }} />
-                      <div className="flex items-start gap-5 relative z-10">
-                        <div className="p-3.5 rounded-2xl bg-white shadow-sm group-hover:scale-110 transition-transform">
-                          <Utensils className="h-6 w-6" style={{ color: primaryColor }} />
-                        </div>
-                        <div>
-                          <h4 className="text-lg font-bold text-slate-900 mb-1.5 leading-tight">Famous Cuisine</h4>
-                          <p className="text-sm text-slate-600 leading-relaxed font-medium">{data?.specialties?.cuisine || "Discover the unique local flavors and traditional dishes of this region."}</p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="p-6 rounded-3xl border border-slate-100 transition-colors group relative overflow-hidden" style={{ backgroundColor: mutedColor }}>
-                      <div className="absolute top-0 right-0 w-32 h-32 opacity-10 bg-gradient-to-bl from-transparent to-current blur-2xl pointer-events-none" style={{ color: primaryColor }} />
-                      <div className="flex items-start gap-5 relative z-10">
-                        <div className="p-3.5 rounded-2xl bg-white shadow-sm group-hover:scale-110 transition-transform">
-                          <Info className="h-6 w-6" style={{ color: primaryColor }} />
-                        </div>
-                        <div>
-                          <h4 className="text-lg font-bold text-slate-900 mb-1.5 leading-tight">Traditional Crafts</h4>
-                          <p className="text-sm text-slate-600 leading-relaxed font-medium">{data?.specialties?.crafts || "Explore the rich heritage of craftsmanship and local artisanal products."}</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                <LocalAdsSidebar ads={data?.advertisements} primaryColor={primaryColor} />
               </div>
             </div>
           </div>
