@@ -113,6 +113,8 @@ All new fields are optional. Other districts (no schema change) render exactly a
 
 When a string field equals `"—"`, the renderer omits the row entirely (does not show "Entry fee: —"). This lets the JSON act as a checklist of "what's still missing" without leaking placeholders to the page.
 
+**Emergency component exception:** for police / hospital / tourist-police entries, if the phone is `"—"` the row is *kept* — the station name stays visible and the phone slot is replaced with a small "Call 999" pill. Faking emergency numbers would be unsafe, but hiding the whole row would also hide useful "ask a local for this place" information.
+
 ## 4. Page layout (`/district/satkhira`)
 
 Top-to-bottom reading order. **Bold** = new section.
@@ -210,7 +212,9 @@ const has = {
   didYouKnow:   (data?.didYouKnow?.length   ?? 0) > 0,
   emergency:    !!data?.emergency,
 };
-const fullyBuilt = has.bucketlist && has.foods && has.famousPeople && has.emergency;
+// `famousPeople` is intentionally NOT part of the gate — knowable famous people
+// vary widely per district and we'd rather omit the section than fabricate names.
+const fullyBuilt = has.bucketlist && has.foods && has.emergency;
 ```
 
 - Each new section renders only when its flag is true.
