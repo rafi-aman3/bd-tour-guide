@@ -14,7 +14,7 @@ export default function DidYouKnow({ facts, primaryColor }: Props) {
   const fact = facts[idx];
 
   return (
-    <div className="p-7 rounded-[2rem] border border-[var(--hairline)] bg-white/70 relative overflow-hidden">
+    <div className="p-7 rounded-md border border-[var(--hairline)] bg-white/70 relative overflow-hidden">
       <div className="flex items-center gap-2 mb-4 text-[0.7rem] tracking-[0.18em] uppercase font-semibold font-body text-slate-500">
         <Sparkles className="h-3.5 w-3.5" style={{ color: primaryColor }} />
         Did You Know?

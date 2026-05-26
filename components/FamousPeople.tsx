@@ -13,7 +13,7 @@ export default function FamousPeople({ people, primaryColor }: Props) {
     <section className="mb-16">
       <header className="mb-6">
         <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body">
-          § 08 &nbsp;People of the District
+          § 07 &nbsp;People of the District
         </div>
         <h2 className="font-display text-4xl md:text-5xl font-semibold text-slate-900 mt-2 tracking-tight">
           Names from here

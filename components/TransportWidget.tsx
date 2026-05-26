@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Bus, Train, Ship, Plane, Calendar, Phone, ExternalLink } from "lucide-react";
+import { Bus, Train, Ship, Plane, Calendar, Phone, ArrowRight } from "lucide-react";
 
 interface TransportData {
   available: boolean;
@@ -20,7 +20,7 @@ interface TransportWidgetProps {
   districtName: string;
 }
 
-type TabType = 'bus' | 'train' | 'launch' | 'plane';
+type TabType = "bus" | "train" | "launch" | "plane";
 
 const MAJOR_CITIES = ["Dhaka", "Chittagong", "Sylhet", "Rajshahi", "Khulna", "Barisal", "Rangpur", "Mymensingh", "Cox's Bazar"];
 const CITY_AIR_CODES: Record<string, string> = { "Dhaka": "DAC", "Chittagong": "CGP", "Sylhet": "ZYL", "Cox's Bazar": "CXB", "Rajshahi": "RJH", "Barisal": "BZL" };
@@ -28,127 +28,126 @@ const CITY_AIR_CODES: Record<string, string> = { "Dhaka": "DAC", "Chittagong": "
 // Helper to format date and tokens based on booking engine requirements
 const formatBookingUrl = (urlPattern: string, isoDate: string, fromCity: string) => {
   let finalUrl = urlPattern;
-  
+
   // 1. Resolve FROM CITY tokens
   finalUrl = finalUrl.replace(/{fromCityLowercase}/g, fromCity.toLowerCase().replace(/[^a-z]/g, ""));
   finalUrl = finalUrl.replace(/{fromCity}/g, fromCity);
   finalUrl = finalUrl.replace(/{fromCityAir}/g, CITY_AIR_CODES[fromCity] || "DAC");
-  
+
   // 2. Resolve DATE tokens
-  
   // Railway and Shohoz require dd-MMM-yyyy (e.g., 04-Apr-2026)
   if (urlPattern.includes("railway.gov.bd") || urlPattern.includes("shohoz.com")) {
     const d = new Date(isoDate);
     const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-    const engineDate = `${String(d.getDate()).padStart(2, '0')}-${months[d.getMonth()]}-${d.getFullYear()}`;
-    finalUrl = finalUrl.replace('{date}', engineDate);
+    const engineDate = `${String(d.getDate()).padStart(2, "0")}-${months[d.getMonth()]}-${d.getFullYear()}`;
+    finalUrl = finalUrl.replace("{date}", engineDate);
   } else {
     // Default format YYYY-MM-DD
-    finalUrl = finalUrl.replace('{date}', isoDate);
+    finalUrl = finalUrl.replace("{date}", isoDate);
   }
 
   return finalUrl;
 };
 
 export default function TransportWidget({ data, primaryColor, districtName }: TransportWidgetProps) {
-  const [activeTab, setActiveTab] = useState<TabType>('bus');
+  const [activeTab, setActiveTab] = useState<TabType>("bus");
   const [fromCity, setFromCity] = useState<string>("Dhaka");
-  
+
   // Default to tomorrow's date for realistic default interaction
   const tomorrow = new Date();
   tomorrow.setDate(tomorrow.getDate() + 1);
-  const defaultDate = tomorrow.toISOString().split('T')[0];
-  
+  const defaultDate = tomorrow.toISOString().split("T")[0];
+
   const [journeyDate, setJourneyDate] = useState<string>(defaultDate);
 
   const tabs = [
-    { id: 'bus', label: 'Bus', icon: Bus },
-    { id: 'train', label: 'Train', icon: Train },
-    { id: 'launch', label: 'Launch', icon: Ship },
-    { id: 'plane', label: 'Flight', icon: Plane }
+    { id: "bus", label: "Bus", icon: Bus },
+    { id: "train", label: "Train", icon: Train },
+    { id: "launch", label: "Launch", icon: Ship },
+    { id: "plane", label: "Flight", icon: Plane },
   ] as const;
 
   const currentData = data?.[activeTab];
+  const inputClasses =
+    "w-full px-4 py-3 rounded-md border border-[var(--hairline)] bg-white font-body text-sm font-medium text-slate-900 focus:outline-none focus:ring-1 focus:border-transparent transition-all";
 
   return (
-    <div className="bg-white rounded-[2rem] border border-slate-100 shadow-xl overflow-hidden mt-12">
-      <div className="p-8 border-b border-slate-50">
-        <h2 className="text-2xl font-black text-slate-900 mb-6 flex items-center">
-          <span className="w-1.5 h-6 mr-3 rounded-full" style={{ backgroundColor: primaryColor }} />
-          How to Go There
-        </h2>
-
-        {/* Custom Tab Selector */}
-        <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-none">
-          {tabs.map(tab => {
-            const Icon = tab.icon;
-            const isActive = activeTab === tab.id;
-            const isAvailable = data?.[tab.id as TabType]?.available;
-            
-            return (
-              <button
-                key={tab.id}
-                onClick={() => setActiveTab(tab.id)}
-                disabled={!isAvailable}
-                className={`flex items-center gap-2 px-6 py-3 rounded-full font-bold transition-all whitespace-nowrap
-                  ${isActive 
-                    ? 'text-white shadow-md' 
-                    : 'text-slate-500 bg-slate-50 hover:bg-slate-100'}
-                  ${!isAvailable && 'opacity-40 cursor-not-allowed'}
-                `}
-                style={isActive ? { backgroundColor: primaryColor } : {}}
-              >
-                <Icon className="w-5 h-5" />
-                {tab.label}
-              </button>
-            );
-          })}
+    <section className="mb-16">
+      <header className="mb-6">
+        <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body">
+          § 05 &nbsp;Getting There
         </div>
+        <h2 className="font-display text-4xl md:text-5xl font-semibold text-slate-900 mt-2 tracking-tight">
+          How to reach {districtName}
+        </h2>
+      </header>
+
+      {/* Underline tab selector */}
+      <div className="flex gap-6 overflow-x-auto border-b border-[var(--hairline)]">
+        {tabs.map((tab) => {
+          const Icon = tab.icon;
+          const isActive = activeTab === tab.id;
+          const isAvailable = data?.[tab.id as TabType]?.available;
+
+          return (
+            <button
+              key={tab.id}
+              onClick={() => setActiveTab(tab.id)}
+              disabled={!isAvailable}
+              className={`flex items-center gap-2 pb-3 -mb-px border-b-2 font-body text-sm font-semibold whitespace-nowrap transition-colors
+                ${isActive ? "text-slate-900" : "border-transparent text-slate-400 hover:text-slate-700"}
+                ${!isAvailable ? "opacity-40 cursor-not-allowed" : "cursor-pointer"}
+              `}
+              style={isActive ? { borderColor: primaryColor } : { borderColor: "transparent" }}
+            >
+              <Icon className="w-4 h-4" />
+              {tab.label}
+            </button>
+          );
+        })}
       </div>
 
-      <div className="p-8 bg-slate-50/50">
-        
-        {/* Booking Form Grid */}
+      <div className="pt-8">
+        {/* Booking Form */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-          
-          {/* FROM Input */}
           <div>
-            <label className="text-xs uppercase font-black tracking-widest text-slate-400 mb-2 block">Origin (From)</label>
+            <label className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-2 block">
+              Origin (from)
+            </label>
             <select
               value={fromCity}
               onChange={(e) => setFromCity(e.target.value)}
-              className="w-full px-4 py-4 rounded-xl border border-slate-200 bg-white font-bold text-slate-800 shadow-sm focus:outline-none focus:ring-2 focus:border-transparent transition-all cursor-pointer appearance-none"
-              style={{ focusRingColor: primaryColor } as any}
+              className={`${inputClasses} cursor-pointer appearance-none`}
             >
-              {MAJOR_CITIES.map(city => (
-                <option key={city} value={city}>{city}</option>
+              {MAJOR_CITIES.map((city) => (
+                <option key={city} value={city}>
+                  {city}
+                </option>
               ))}
             </select>
           </div>
 
-          {/* DATE Input */}
           <div>
-            <label className="text-xs uppercase font-black tracking-widest text-slate-400 mb-2 block">Journey Date</label>
+            <label className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-2 block">
+              Journey date
+            </label>
             <div className="relative">
-              <div className="absolute inset-y-0 left-4 flex items-center pointer-events-none">
-                <Calendar className="w-5 h-5 text-slate-400" />
+              <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
+                <Calendar className="w-4 h-4 text-slate-400" />
               </div>
               <input
                 type="date"
                 value={journeyDate}
                 onChange={(e) => setJourneyDate(e.target.value)}
-                className="w-full pl-12 pr-4 py-4 rounded-xl border border-slate-200 bg-white font-bold text-slate-800 shadow-sm focus:outline-none focus:ring-2 focus:border-transparent transition-all"
-                style={{ focusRingColor: primaryColor } as any}
+                className={`${inputClasses} pl-10`}
               />
             </div>
           </div>
-
         </div>
 
-        {/* Action / Bookings Area */}
         {currentData && currentData.available ? (
           <div className="space-y-8">
-            {/* Online Bookings Grid */}
+            {/* Online bookings */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {currentData.bookingUrls.map((booking, idx) => (
                 <a
@@ -156,58 +155,61 @@ export default function TransportWidget({ data, primaryColor, districtName }: Tr
                   href={formatBookingUrl(booking.url, journeyDate, fromCity)}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex justify-between items-center w-full p-4 rounded-xl text-white shadow-md transition-transform duration-200 active:scale-95 hover:-translate-y-1 hover:shadow-xl group"
+                  className="group flex justify-between items-center w-full px-5 py-4 rounded-md text-white font-body transition-opacity hover:opacity-90"
                   style={{ backgroundColor: primaryColor }}
                 >
-                  <div className="flex flex-col text-left">
-                    <span className="font-bold text-white/95 text-base leading-tight">Book via {booking.name}</span>
-                    <span className="text-[11px] font-bold text-white/70 uppercase tracking-wider mt-1">{fromCity} &#8594; {districtName}</span>
-                  </div>
-                  <div className="flex items-center gap-2 bg-white/20 px-4 py-2 rounded-lg backdrop-blur-md group-hover:bg-white/30 transition-colors border border-white/10 shadow-sm">
-                    <span className="font-black text-sm tracking-wide">BOOK</span>
-                    <ExternalLink className="w-4 h-4 ml-1" />
-                  </div>
+                  <span className="flex flex-col text-left">
+                    <span className="font-semibold text-sm leading-tight">Book via {booking.name}</span>
+                    <span className="text-[0.6rem] font-semibold text-white/70 uppercase tracking-[0.16em] mt-1">
+                      {fromCity} &rarr; {districtName}
+                    </span>
+                  </span>
+                  <ArrowRight className="w-4 h-4 shrink-0 transition-transform group-hover:translate-x-1" />
                 </a>
               ))}
               {currentData.bookingUrls.length === 0 && (
-                <div className="col-span-full py-4 text-center border-2 border-dashed border-slate-200 rounded-xl">
-                  <p className="text-slate-400 font-bold text-sm uppercase tracking-wide">No online partners configured</p>
+                <div className="col-span-full py-6 text-center border border-dashed border-[var(--hairline)] rounded-md">
+                  <p className="text-slate-400 font-body text-xs uppercase tracking-[0.16em] font-semibold">
+                    No online partners configured
+                  </p>
                 </div>
               )}
             </div>
 
-            {/* Offline Counters */}
-            <div className="border-t border-slate-200/60 pt-8 mt-8">
-              <h4 className="text-xs uppercase font-black tracking-widest text-slate-400 mb-6 flex items-center">
-                <Phone className="w-4 h-4 mr-2 opacity-50" />
-                Offline Manual Booking Counters
-              </h4>
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                {currentData.manualBookings.map((counter, idx) => (
-                  <a
-                    key={idx}
-                    href={`tel:${counter.phone}`}
-                    className="flex justify-between items-center p-4 rounded-xl bg-white border border-slate-100 hover:border-slate-300 hover:shadow-md transition-all group"
-                  >
-                    <div className="flex flex-col text-left">
-                      <span className="font-bold text-slate-800 text-sm">{counter.name}</span>
-                      <span className="text-xs font-black text-slate-400 mt-1 tracking-wider">{counter.phone}</span>
-                    </div>
-                    <div className="w-8 h-8 rounded-full flex items-center justify-center bg-slate-50 text-slate-400 group-hover:bg-emerald-500 group-hover:text-white transition-colors border border-slate-100">
-                      <Phone className="w-3.5 h-3.5" />
-                    </div>
-                  </a>
-                ))}
+            {/* Offline counters */}
+            {currentData.manualBookings.length > 0 && (
+              <div>
+                <h4 className="text-[0.65rem] uppercase tracking-[0.18em] font-semibold text-slate-500 font-body mb-4 flex items-center gap-2">
+                  <Phone className="w-3.5 h-3.5" />
+                  Manual booking counters
+                </h4>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-8 gap-y-0 border-t border-[var(--hairline)]">
+                  {currentData.manualBookings.map((counter, idx) => (
+                    <a
+                      key={idx}
+                      href={`tel:${counter.phone}`}
+                      className="group flex justify-between items-center gap-3 py-4 border-b border-[var(--hairline)] transition-colors"
+                    >
+                      <span className="flex flex-col text-left">
+                        <span className="font-body text-sm font-semibold text-slate-900">{counter.name}</span>
+                        <span className="font-body tabular-nums text-xs text-slate-400 mt-0.5">{counter.phone}</span>
+                      </span>
+                      <Phone
+                        className="w-4 h-4 shrink-0 text-slate-300 group-hover:text-slate-700 transition-colors"
+                      />
+                    </a>
+                  ))}
+                </div>
               </div>
-            </div>
+            )}
           </div>
         ) : (
-          <div className="flex flex-col items-center justify-center py-16 bg-white rounded-2xl border-2 border-dashed border-slate-100 mt-4">
-            <span className="font-bold text-slate-400 text-lg">Transport method unavailable for this route.</span>
-            <p className="text-sm text-slate-400 mt-2 font-medium">Please select a different tab.</p>
+          <div className="flex flex-col items-center justify-center py-12 border border-dashed border-[var(--hairline)] rounded-md">
+            <span className="font-display text-lg font-semibold text-slate-700">Not available on this route</span>
+            <p className="text-sm text-slate-400 mt-1 font-body">Try a different mode of transport.</p>
           </div>
         )}
       </div>
-    </div>
+    </section>
   );
 }

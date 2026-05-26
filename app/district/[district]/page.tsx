@@ -210,7 +210,7 @@ export default async function DistrictPage({ params }: PageProps) {
               <div className="flex gap-4">
                 <Link
                   href={`/planner/${crypto.randomUUID()}?initialDistrict=${district}`}
-                  className="px-6 py-3 rounded-xl font-bold text-white transition-opacity hover:opacity-90"
+                  className="px-6 py-3 rounded-md font-body font-semibold text-white transition-opacity hover:opacity-90"
                   style={{ backgroundColor: primaryColor }}
                 >
                   Plan a Trip
@@ -224,12 +224,12 @@ export default async function DistrictPage({ params }: PageProps) {
                 { label: "Population", value: data?.stats?.population || "N/A", icon: Users },
                 { label: "Established", value: data?.stats?.established || "N/A", icon: Calendar },
               ].map((stat, idx) => (
-                <div key={idx} className="p-6 rounded-2xl bg-slate-50 border border-slate-100 flex flex-col items-start">
-                  <div className="p-3 rounded-lg mb-4" style={{ backgroundColor: mutedColor }}>
-                    <stat.icon className="h-6 w-6" style={{ color: primaryColor }} />
+                <div key={idx} className="p-6 rounded-md bg-white/60 border border-[var(--hairline)] flex flex-col items-start">
+                  <div className="p-2.5 rounded-md mb-4" style={{ backgroundColor: mutedColor }}>
+                    <stat.icon className="h-5 w-5" style={{ color: primaryColor }} />
                   </div>
-                  <span className="text-sm font-medium text-slate-500 mb-1">{stat.label}</span>
-                  <span className={`text-xl text-slate-900 ${fullyBuilt ? "font-display font-semibold tabular-nums" : "font-black"}`}>
+                  <span className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-1.5">{stat.label}</span>
+                  <span className={`text-2xl text-slate-900 ${fullyBuilt ? "font-display font-semibold tabular-nums" : "font-black"}`}>
                     {stat.value}
                   </span>
                 </div>
@@ -299,10 +299,12 @@ export default async function DistrictPage({ params }: PageProps) {
 
               <div className="space-y-8">
                 {geoJsonUrl && (
-                  <div className="rounded-[2rem] bg-white border border-slate-100 shadow-xl overflow-hidden flex flex-col">
-                    <div className="p-6 pb-4 border-b border-slate-50 text-center">
-                      <h3 className="text-xl font-black text-slate-900">Map of {districtName}</h3>
-                      <p className="text-xs font-bold text-slate-400 mt-1 uppercase tracking-widest">Upazilas</p>
+                  <div className="rounded-md border border-[var(--hairline)] bg-white/70 overflow-hidden flex flex-col">
+                    <div className="p-6 pb-4 border-b border-[var(--hairline)]">
+                      <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body">
+                        Upazila map
+                      </div>
+                      <h3 className="font-display text-xl font-semibold text-slate-900 mt-1">{districtName}</h3>
                     </div>
                     <div className="h-[350px] w-full bg-slate-50 relative group">
                       <div className="absolute inset-0 bg-slate-900/5 z-[9] pointer-events-none group-hover:bg-transparent transition-colors duration-500" />
@@ -311,23 +313,25 @@ export default async function DistrictPage({ params }: PageProps) {
                   </div>
                 )}
 
-                <div className="p-8 rounded-[2rem] bg-slate-900 text-white relative overflow-hidden group">
-                  <Navigation className="absolute -right-8 -bottom-8 h-40 w-40 text-white/5 transition-transform group-hover:scale-110" />
-                  <h3 className="text-2xl font-black mb-6">Traveler&rsquo;s Guide</h3>
-                  <div className="space-y-6">
-                    <div>
-                      <h4 className="text-xs uppercase font-black tracking-widest text-white/40 mb-2">Best Time to Visit</h4>
-                      <p className="font-bold">{data?.guide?.bestTime || "October to March"}</p>
-                    </div>
-                    <div>
-                      <h4 className="text-xs uppercase font-black tracking-widest text-white/40 mb-2">Getting There</h4>
-                      <p className="font-bold leading-relaxed">{data?.guide?.gettingThere || "Connected via major highways and transport networks."}</p>
-                    </div>
-                    <div>
-                      <h4 className="text-xs uppercase font-black tracking-widest text-white/40 mb-2">Difficulty Level</h4>
-                      <p className="font-bold">{data?.guide?.difficulty || "Easy / Family Friendly"}</p>
-                    </div>
+                <div className="rounded-md border border-[var(--hairline)] bg-white/70 p-7">
+                  <div className="flex items-center gap-2 mb-5 text-[0.7rem] tracking-[0.18em] uppercase font-semibold font-body text-slate-500">
+                    <Navigation className="h-3.5 w-3.5" style={{ color: primaryColor }} />
+                    Traveler&rsquo;s Guide
                   </div>
+                  <dl className="space-y-5">
+                    <div>
+                      <dt className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-400 font-body mb-1">Best time to visit</dt>
+                      <dd className="font-body text-sm text-slate-800 leading-relaxed">{data?.guide?.bestTime || "October to March"}</dd>
+                    </div>
+                    <div>
+                      <dt className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-400 font-body mb-1">Getting there</dt>
+                      <dd className="font-body text-sm text-slate-800 leading-relaxed">{data?.guide?.gettingThere || "Connected via major highways and transport networks."}</dd>
+                    </div>
+                    <div>
+                      <dt className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-400 font-body mb-1">Difficulty level</dt>
+                      <dd className="font-body text-sm text-slate-800 leading-relaxed">{data?.guide?.difficulty || "Easy / Family Friendly"}</dd>
+                    </div>
+                  </dl>
                 </div>
 
                 {has.didYouKnow && data?.didYouKnow && (

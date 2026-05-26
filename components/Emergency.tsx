@@ -32,7 +32,7 @@ export default function Emergency({ data, primaryColor }: Props) {
     <section className="mb-16">
       <header className="mb-6">
         <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body">
-          § 09 &nbsp;Emergency & Useful Contacts
+          § 08 &nbsp;Emergency & Useful Contacts
         </div>
         <h2 className="font-display text-4xl md:text-5xl font-semibold text-slate-900 mt-2 tracking-tight">
           If something goes wrong

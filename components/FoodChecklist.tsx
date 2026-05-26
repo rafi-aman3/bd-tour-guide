@@ -14,7 +14,7 @@ export default function FoodChecklist({ foods, primaryColor, mutedColor }: Props
     <section className="mb-16">
       <header className="mb-6">
         <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body">
-          § 04 &nbsp;What to Eat
+          § 03 &nbsp;What to Eat
         </div>
         <h2 className="font-display text-4xl md:text-5xl font-semibold text-slate-900 mt-2 tracking-tight flex items-center gap-3">
           <Utensils className="h-7 w-7" style={{ color: primaryColor }} />
