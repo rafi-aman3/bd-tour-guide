@@ -3,6 +3,7 @@ import { ChevronLeft, MapPin, Users, Calendar, Camera, Utensils, Navigation, Inf
 import { DISTRICT_TO_DIVISION, getThematicColor } from "@/lib/map-data";
 import fs from "fs";
 import path from "path";
+import { getDistrictData } from "@/lib/district-data";
 import HeritageSection from "@/components/HeritageSection";
 import DynamicUpazilaMap from "@/components/DynamicUpazilaMap";
 import TransportWidget from "@/components/TransportWidget";
@@ -12,13 +13,6 @@ import LocalAdsSidebar from "@/components/LocalAdsSidebar";
 
 interface PageProps {
   params: Promise<{ district: string }>;
-}
-
-async function getDistrictData(slug: string) {
-  const filePath = path.join(process.cwd(), "data", "districts.json");
-  const jsonData = fs.readFileSync(filePath, "utf8");
-  const data = JSON.parse(jsonData);
-  return data[slug];
 }
 
 export default async function DistrictPage({ params }: PageProps) {

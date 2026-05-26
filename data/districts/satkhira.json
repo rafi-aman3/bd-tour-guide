@@ -1,0 +1,193 @@
+{
+    "name": "Satkhira",
+    "division": "Khulna",
+    "stats": {
+      "area": "2020.81 sq km",
+      "population": "1,387,510",
+      "established": "1820",
+      "attractions": "10+"
+    },
+    "mustVisit": [
+      {
+        "name": "Satkhira Central Park",
+        "description": "A popular recreational spot for locals and tourists.",
+        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
+      }
+    ],
+    "specialties": [
+      {
+        "type": "food",
+        "name": "Famous Satkhira Misti House",
+        "description": "The legendary heritage sweet shop known across Satkhira for its authentic preparation over generations.",
+        "venue": "Central City Bazaar"
+      },
+      {
+        "type": "craft",
+        "name": "Satkhira Handloom Sharee",
+        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Satkhira.",
+        "venue": "Heritage Weavers Palli"
+      },
+      {
+        "type": "festival",
+        "name": "Satkhira Cultural Festival",
+        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
+        "timing": "Mid-Winter / Late December"
+      },
+      {
+        "type": "mela",
+        "name": "Annual Authentic Satkhira Mela",
+        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
+        "timing": "Mid-April",
+        "coordinates": [
+          23.97096374780367,
+          90.84652479513096
+        ]
+      }
+    ],
+    "guide": {
+      "bestTime": "October to March",
+      "gettingThere": "Accessible by road and rail from major cities.",
+      "difficulty": "Easy"
+    },
+    "heritageSites": [
+      {
+        "name": "Protected Heritage Site of Satkhira",
+        "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+        "coordinates": [
+          24.17970060558484,
+          90.62905121550469
+        ]
+      }
+    ],
+    "transport": {
+      "bus": {
+        "available": true,
+        "bookingUrls": [
+          {
+            "name": "BDTickets",
+            "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-satkhira?journeyDate={date}"
+          },
+          {
+            "name": "Shohoz",
+            "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Satkhira&doj={date}&dor="
+          }
+        ],
+        "manualBookings": [
+          {
+            "name": "Hanif Paribahan",
+            "phone": "01711-XXXX01"
+          },
+          {
+            "name": "Ena Transport",
+            "phone": "01711-XXXX02"
+          },
+          {
+            "name": "Green Line",
+            "phone": "01711-XXXX03"
+          }
+        ]
+      },
+      "train": {
+        "available": true,
+        "bookingUrls": [
+          {
+            "name": "Bangladesh Railway",
+            "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Satkhira&doj={date}&class=SNIGDHA"
+          }
+        ],
+        "manualBookings": [
+          {
+            "name": "Regional Station Inquiry",
+            "phone": "01711-XXXX04"
+          }
+        ]
+      },
+      "launch": {
+        "available": true,
+        "bookingUrls": [
+          {
+            "name": "BDTickets Launch",
+            "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-satkhira?journeyDate={date}"
+          }
+        ],
+        "manualBookings": [
+          {
+            "name": "Sadarghat Terminal Box",
+            "phone": "01711-XXXX05"
+          },
+          {
+            "name": "BIWTA Inquiry",
+            "phone": "01711-XXXX06"
+          }
+        ]
+      },
+      "plane": {
+        "available": true,
+        "bookingUrls": [
+          {
+            "name": "Biman Bangladesh",
+            "url": "https://biman-airlines.com/?from={fromCityAir}&to=CXB&date={date}"
+          },
+          {
+            "name": "US-Bangla",
+            "url": "https://usbair.com/"
+          }
+        ],
+        "manualBookings": [
+          {
+            "name": "Biman Agency Ticket Office",
+            "phone": "01711-XXXX07"
+          }
+        ]
+      }
+    },
+    "hotels": {
+      "available": true,
+      "bookingUrls": [
+        {
+          "name": "GoZayaan",
+          "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Satkhira&rooms={rooms},2,0&child_ages=&sort=POPULARITY"
+        },
+        {
+          "name": "ShareTrip",
+          "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Satkhira&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002"
+        }
+      ],
+      "manualBookings": [
+        {
+          "name": "Grand Satkhira Resort & Spa",
+          "phone": "+880 1711-000001",
+          "coordinates": [
+            24.725071339200248,
+            89.53756413661043
+          ]
+        },
+        {
+          "name": "Hotel Satkhira International",
+          "phone": "+880 1911-000002",
+          "coordinates": [
+            24.77507133920025,
+            89.48756413661043
+          ]
+        }
+      ]
+    },
+    "advertisements": [
+      {
+        "type": "guide",
+        "name": "Ahmed Rafiq",
+        "rating": 4.6,
+        "languages": [
+          "Bengali",
+          "English"
+        ],
+        "phone": "+880 1711-555555"
+      },
+      {
+        "type": "business",
+        "name": "Satkhira Tourist Rentals",
+        "description": "AC Microbus & Car hires for district-wide exploring.",
+        "phone": "+880 1911-555555"
+      }
+    ]
+  }

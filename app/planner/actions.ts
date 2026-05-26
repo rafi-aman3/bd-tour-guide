@@ -1,42 +1,41 @@
 "use server";
 
-import fs from "fs";
-import path from "path";
+import { getAllDistrictSlugs, getDistrictData } from "@/lib/district-data";
 
 export async function getPlacesForDistricts(districts: string[]) {
-  const filePath = path.join(process.cwd(), "data", "districts.json");
-  const jsonData = fs.readFileSync(filePath, "utf8");
-  const data = JSON.parse(jsonData);
-  
+  const slugs = getAllDistrictSlugs();
+
   const places: any[] = [];
-  
+
   for (const dist of districts) {
-    if (data[dist]) {
-      const mustVisit = data[dist].mustVisit || [];
-      const heritageSites = data[dist].heritageSites || [];
-      
-      mustVisit.forEach((item: any) => {
-        places.push({ 
-          name: item.name,
-          description: item.description,
-          image: item.image,
-          coordinates: item.coordinates,
-          district: dist, 
-          category: "Must Visit" 
-        });
+    if (!slugs.includes(dist)) continue;
+    const d = getDistrictData(dist);
+    if (!d) continue;
+
+    const mustVisit = d.mustVisit || [];
+    const heritageSites = d.heritageSites || [];
+
+    mustVisit.forEach((item: any) => {
+      places.push({
+        name: item.name,
+        description: item.description,
+        image: item.image,
+        coordinates: item.coordinates,
+        district: dist,
+        category: "Must Visit"
       });
-      
-      heritageSites.forEach((item: any) => {
-        places.push({ 
-          name: item.name,
-          image: item.image,
-          coordinates: item.coordinates,
-          district: dist, 
-          category: "Heritage Site" 
-        });
+    });
+
+    heritageSites.forEach((item: any) => {
+      places.push({
+        name: item.name,
+        image: item.image,
+        coordinates: item.coordinates,
+        district: dist,
+        category: "Heritage Site"
       });
-    }
+    });
   }
-  
+
   return places;
 }
