@@ -4,7 +4,7 @@ import { DISTRICT_TO_DIVISION, getThematicColor } from "@/lib/map-data";
 import fs from "fs";
 import path from "path";
 import { getDistrictData, type DistrictMustVisit } from "@/lib/district-data";
-import { folioNumber, BUILT_DISTRICTS } from "@/lib/field-guide-folio";
+import { folioNumber } from "@/lib/field-guide-folio";
 import HeritageSection from "@/components/HeritageSection";
 import DynamicUpazilaMap from "@/components/DynamicUpazilaMap";
 import TransportWidget from "@/components/TransportWidget";
@@ -85,13 +85,11 @@ function MustVisitCard({ spot, primaryColor, mutedColor }: { spot: DistrictMustV
               <Row icon={CalendarDays} label="Best time" value={spot.bestTime} />
               {spot.howToReach && (
                 <div className="md:col-span-2 mt-3">
-                  <div className="grid grid-cols-[1rem_auto_1fr] items-baseline gap-2 py-1.5">
-                    <Route className="h-3.5 w-3.5 text-slate-400" />
-                    <span className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body">How to reach</span>
-                    <span className="text-sm text-slate-800 font-body">
-                      {spot.howToReach.fromDistrictTown} · {spot.howToReach.transport}
-                    </span>
-                  </div>
+                  <Row
+                    icon={Route}
+                    label="How to reach"
+                    value={`${spot.howToReach.fromDistrictTown} · ${spot.howToReach.transport}`}
+                  />
                 </div>
               )}
 
@@ -255,9 +253,11 @@ export default async function DistrictPage({ params }: PageProps) {
 
                 <section className="mb-16">
                   <header className="mb-6">
-                    <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body">
-                      § 02 &nbsp;Must Visit
-                    </div>
+                    {fullyBuilt && (
+                      <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body">
+                        § 02 &nbsp;Must Visit
+                      </div>
+                    )}
                     <h2 className="font-display text-4xl md:text-5xl font-semibold text-slate-900 mt-2 tracking-tight">
                       Places to visit
                     </h2>
@@ -266,8 +266,8 @@ export default async function DistrictPage({ params }: PageProps) {
                   <div className="border-t border-[var(--hairline)]">
                     {(data?.mustVisit ?? [
                       { name: "Local Landmark", description: "A popular spot known for its unique culture and scenery.", image: "" },
-                    ]).map((spot, idx) => (
-                      <MustVisitCard key={idx} spot={spot as DistrictMustVisit} primaryColor={primaryColor} mutedColor={mutedColor} />
+                    ]).map((spot) => (
+                      <MustVisitCard key={spot.name} spot={spot as DistrictMustVisit} primaryColor={primaryColor} mutedColor={mutedColor} />
                     ))}
                   </div>
 
@@ -342,7 +342,6 @@ export default async function DistrictPage({ params }: PageProps) {
           </div>
         </div>
 
-        <span className="sr-only" data-built-districts={BUILT_DISTRICTS.join(",")} />
       </div>
     </main>
   );
