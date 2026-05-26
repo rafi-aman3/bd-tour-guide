@@ -142,7 +142,11 @@ function loadAll(): Record<string, DistrictRecord> {
       if (!file.endsWith(".json")) continue;
       const slug = file.replace(/\.json$/, "");
       const filePath = path.join(overridesDir, file);
-      overrides[slug] = JSON.parse(fs.readFileSync(filePath, "utf8")) as DistrictRecord;
+      try {
+        overrides[slug] = JSON.parse(fs.readFileSync(filePath, "utf8")) as DistrictRecord;
+      } catch (e) {
+        console.error(`[district-data] Failed to parse ${filePath}:`, e);
+      }
     }
   }
 

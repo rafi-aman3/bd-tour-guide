@@ -1,14 +1,11 @@
 "use server";
 
-import { getAllDistrictSlugs, getDistrictData } from "@/lib/district-data";
+import { getDistrictData } from "@/lib/district-data";
 
 export async function getPlacesForDistricts(districts: string[]) {
-  const slugs = getAllDistrictSlugs();
-
   const places: any[] = [];
 
   for (const dist of districts) {
-    if (!slugs.includes(dist)) continue;
     const d = getDistrictData(dist);
     if (!d) continue;
 

@@ -17,7 +17,7 @@ interface PageProps {
 
 export default async function DistrictPage({ params }: PageProps) {
   const { district } = await params;
-  const data = await getDistrictData(district);
+  const data = getDistrictData(district);
 
   // Fallback name if data is missing (shouldn't happen)
   const fallbackName = district
