@@ -1,193 +1,303 @@
 {
-    "name": "Satkhira",
-    "division": "Khulna",
-    "stats": {
-      "area": "2020.81 sq km",
-      "population": "1,387,510",
-      "established": "1820",
-      "attractions": "10+"
-    },
-    "mustVisit": [
-      {
-        "name": "Satkhira Central Park",
-        "description": "A popular recreational spot for locals and tourists.",
-        "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800"
-      }
-    ],
-    "specialties": [
-      {
-        "type": "food",
-        "name": "Famous Satkhira Misti House",
-        "description": "The legendary heritage sweet shop known across Satkhira for its authentic preparation over generations.",
-        "venue": "Central City Bazaar"
+  "name": "Satkhira",
+  "division": "Khulna",
+  "tagline": "Where Bangladesh meets the mangrove, the tiger, and the border.",
+  "stats": {
+    "area": "3858.33 sq km",
+    "population": "2,231,000",
+    "established": "1852",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry; Sundarbans navigable)",
+    "gettingThere": "By road from Khulna (~75 km, ~2 hr). Long-haul AC coaches run nightly from Dhaka (~10–12 hr). Nearest airport is Jashore (~80 km).",
+    "difficulty": "Moderate — Sundarbans excursions require boat permits and a guide."
+  },
+  "mustVisit": [
+    {
+      "name": "Sundarbans Mangrove Forest (Munshiganj Gate)",
+      "type": "nature",
+      "description": "The Bangladesh half of the world's largest contiguous mangrove. Satkhira's Munshiganj entry is the closest of the three official gates to district headquarters and the quietest of the three.",
+      "history": "Designated a UNESCO World Heritage Site in 1997. Home to the Royal Bengal Tiger, spotted deer, estuarine crocodiles, and Irrawaddy dolphins. The mangrove's tidal channels have sheltered fishermen, woodcutters, and honey-collectors (mowalis) for centuries.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1700, 89.1800],
+      "practical": {
+        "hours": "Daylight only — boats leave Munshiganj launch ghat from ~6 am",
+        "entryFee": "BDT 150 (Bangladeshi adult) · USD ~30 equivalent for foreign nationals (Forest Dept permit)",
+        "contact": "—",
+        "website": "—"
       },
-      {
-        "type": "craft",
-        "name": "Satkhira Handloom Sharee",
-        "description": "Intricately woven traditional garments showcasing the finest local weaving heritage of Satkhira.",
-        "venue": "Heritage Weavers Palli"
+      "howToReach": {
+        "fromDistrictTown": "Take a bus or local pick-up south to Munshiganj (about 65 km), then walk to the launch ghat",
+        "distanceKm": 65,
+        "transport": "Bus or microbus to Munshiganj, then book a country boat or trawler at the ghat"
       },
-      {
-        "type": "festival",
-        "name": "Satkhira Cultural Festival",
-        "description": "An annual celebration of heritage, music, and local art native to the heart of the district.",
-        "timing": "Mid-Winter / Late December"
-      },
-      {
-        "type": "mela",
-        "name": "Annual Authentic Satkhira Mela",
-        "description": "The largest village fair gathering thousands of artisans, merchants, and singers in the region.",
-        "timing": "Mid-April",
-        "coordinates": [
-          23.97096374780367,
-          90.84652479513096
-        ]
-      }
-    ],
-    "guide": {
-      "bestTime": "October to March",
-      "gettingThere": "Accessible by road and rail from major cities.",
-      "difficulty": "Easy"
-    },
-    "heritageSites": [
-      {
-        "name": "Protected Heritage Site of Satkhira",
-        "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
-        "coordinates": [
-          24.17970060558484,
-          90.62905121550469
-        ]
-      }
-    ],
-    "transport": {
-      "bus": {
-        "available": true,
-        "bookingUrls": [
-          {
-            "name": "BDTickets",
-            "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-satkhira?journeyDate={date}"
-          },
-          {
-            "name": "Shohoz",
-            "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Satkhira&doj={date}&dor="
-          }
-        ],
-        "manualBookings": [
-          {
-            "name": "Hanif Paribahan",
-            "phone": "01711-XXXX01"
-          },
-          {
-            "name": "Ena Transport",
-            "phone": "01711-XXXX02"
-          },
-          {
-            "name": "Green Line",
-            "phone": "01711-XXXX03"
-          }
-        ]
-      },
-      "train": {
-        "available": true,
-        "bookingUrls": [
-          {
-            "name": "Bangladesh Railway",
-            "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Satkhira&doj={date}&class=SNIGDHA"
-          }
-        ],
-        "manualBookings": [
-          {
-            "name": "Regional Station Inquiry",
-            "phone": "01711-XXXX04"
-          }
-        ]
-      },
-      "launch": {
-        "available": true,
-        "bookingUrls": [
-          {
-            "name": "BDTickets Launch",
-            "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-satkhira?journeyDate={date}"
-          }
-        ],
-        "manualBookings": [
-          {
-            "name": "Sadarghat Terminal Box",
-            "phone": "01711-XXXX05"
-          },
-          {
-            "name": "BIWTA Inquiry",
-            "phone": "01711-XXXX06"
-          }
-        ]
-      },
-      "plane": {
-        "available": true,
-        "bookingUrls": [
-          {
-            "name": "Biman Bangladesh",
-            "url": "https://biman-airlines.com/?from={fromCityAir}&to=CXB&date={date}"
-          },
-          {
-            "name": "US-Bangla",
-            "url": "https://usbair.com/"
-          }
-        ],
-        "manualBookings": [
-          {
-            "name": "Biman Agency Ticket Office",
-            "phone": "01711-XXXX07"
-          }
-        ]
-      }
-    },
-    "hotels": {
-      "available": true,
-      "bookingUrls": [
-        {
-          "name": "GoZayaan",
-          "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Satkhira&rooms={rooms},2,0&child_ages=&sort=POPULARITY"
-        },
-        {
-          "name": "ShareTrip",
-          "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Satkhira&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002"
-        }
-      ],
-      "manualBookings": [
-        {
-          "name": "Grand Satkhira Resort & Spa",
-          "phone": "+880 1711-000001",
-          "coordinates": [
-            24.725071339200248,
-            89.53756413661043
-          ]
-        },
-        {
-          "name": "Hotel Satkhira International",
-          "phone": "+880 1911-000002",
-          "coordinates": [
-            24.77507133920025,
-            89.48756413661043
-          ]
-        }
+      "bestTime": "November to February (cool, calm water, best wildlife sightings)",
+      "tips": [
+        "Permits are mandatory and easiest to arrange through a Khulna or Satkhira tour operator",
+        "Wear closed shoes — the mud is sticky and the spiders are large",
+        "Carry a fully charged power bank — no electricity past Munshiganj"
       ]
     },
-    "advertisements": [
-      {
-        "type": "guide",
-        "name": "Ahmed Rafiq",
-        "rating": 4.6,
-        "languages": [
-          "Bengali",
-          "English"
-        ],
-        "phone": "+880 1711-555555"
+    {
+      "name": "Jeshoreshwari Kali Temple",
+      "type": "religious",
+      "description": "One of the 51 Shakti Peethas of the subcontinent — a deeply revered Hindu pilgrimage site set in a small village in Shyamnagar Upazila.",
+      "history": "Legend places this temple where the palm of the goddess Sati fell. Believed to date in some form to the 12th century, with major reconstructions across the Mughal and colonial eras. Prime Minister Narendra Modi of India visited the site during his 2021 trip to Bangladesh, drawing renewed attention to it.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1486, 89.0875],
+      "practical": {
+        "hours": "Open daily ~6 am to ~8 pm; busiest at sunset",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
       },
-      {
-        "type": "business",
-        "name": "Satkhira Tourist Rentals",
-        "description": "AC Microbus & Car hires for district-wide exploring.",
-        "phone": "+880 1911-555555"
-      }
+      "howToReach": {
+        "fromDistrictTown": "About 75 km south of Satkhira town; ~45 km south of Shyamnagar bazar",
+        "distanceKm": 75,
+        "transport": "Bus to Shyamnagar, then local CNG / easybike to Ishwaripur"
+      },
+      "bestTime": "Durga Puja (Sep–Oct) for the festival crowds; cool months for a quieter visit",
+      "tips": [
+        "Remove shoes before entering the inner shrine",
+        "Modest dress recommended — covered shoulders and knees",
+        "Photography is permitted in the courtyard but not inside the sanctum"
+      ]
+    },
+    {
+      "name": "Tetulia Jame Mosque",
+      "type": "religious",
+      "description": "A 19th-century mosque in Tala Upazila built in a fusion of Bengal Sultanate and Mughal styles — one of the most ornate pre-modern mosques in the country.",
+      "history": "Commissioned in 1858 by zamindar Salamatullah Khan Chowdhury. Three terracotta-decorated façades, multiple domes, and a hand-carved mihrab. Listed under the Department of Archaeology of Bangladesh.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7886, 89.2483],
+      "practical": {
+        "hours": "Open during all five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km north of Satkhira town, near Tala bazar",
+        "distanceKm": 25,
+        "transport": "CNG / easybike from Satkhira town to Tala, then a short walk"
+      },
+      "bestTime": "Late afternoon — the western façade lights up at golden hour",
+      "tips": [
+        "Avoid Friday Jumu'ah prayers (12–2 pm) unless you intend to pray",
+        "Cover head if female; remove shoes before stepping onto the platform"
+      ]
+    },
+    {
+      "name": "Mozaffar Garden & Resort",
+      "type": "landmark",
+      "description": "A privately developed family resort and botanical garden — the closest 'leisure park' to Satkhira town and a common weekend destination for local families.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7367, 89.0853],
+      "practical": {
+        "hours": "—",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 10 km from Satkhira town, off the Khulna highway",
+        "distanceKm": 10,
+        "transport": "CNG / private car from town"
+      },
+      "bestTime": "Cool months, weekend afternoons",
+      "tips": [
+        "Bring cash — card payments are unreliable",
+        "Outside food is generally restricted at the gate"
+      ]
+    },
+    {
+      "name": "Bhomra Land Port",
+      "type": "landmark",
+      "description": "Bangladesh's second-largest land port with India and the closest land crossing to Kolkata — a few minutes from Satkhira town. The viewing area gives you a clear look at the Ichamati River and India's West Bengal on the other side.",
+      "history": "Activated as a full customs station in 1996; today handles a major share of cross-border trade between Bangladesh and India after Benapole.",
+      "image": "https://images.unsplash.com/photo-1604934385267-3a0d4e8d59ff?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6886, 88.9522],
+      "practical": {
+        "hours": "Viewing area accessible during daylight; immigration desks operate ~6 am to ~6 pm",
+        "entryFee": "Free to visit; crossing requires a valid passport and Indian visa",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 12 km west of Satkhira town",
+        "distanceKm": 12,
+        "transport": "CNG / easybike from town; ~25 min"
+      },
+      "bestTime": "Mid-morning, before customs queues build",
+      "tips": [
+        "Photography of border-fence infrastructure is not permitted",
+        "Carry your NID / passport even if you are not crossing"
+      ]
+    },
+    {
+      "name": "Debhata Zamindar Bari",
+      "type": "heritage",
+      "description": "Crumbling 19th-century landlord's manor in Debhata Upazila, slowly being reclaimed by figs and creeper roots. A quiet, atmospheric stop for anyone interested in the architectural footprint of the Bengal zamindari system.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5897, 89.0408],
+      "practical": {
+        "hours": "Always open (exterior only)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km south of Satkhira town",
+        "distanceKm": 35,
+        "transport": "Bus to Debhata bazar, then easybike to the bari"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "The interior is structurally unsafe — do not climb",
+        "Bring water; no shops at the site"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Satkhira Mishti",
+      "description": "Local sweet tradition known for denser, less syrupy preparations than the Comilla or Tangail styles. Heritage shops in Sadar bazaar are the best places to try them.",
+      "venue": "Sadar Bazaar sweet shops"
+    },
+    {
+      "type": "craft",
+      "name": "Sundarbans Honey (Mowali Madhu)",
+      "description": "Raw honey collected from the mangrove forest by traditional mowali honey-hunters during the brief April–June season. Available at the Forest Department's seasonal sale points.",
+      "venue": "Forest Dept depot, Munshiganj (Apr–Jun only)"
+    },
+    {
+      "type": "festival",
+      "name": "Banbibi Pala",
+      "description": "Folk dramatic tradition honouring Banbibi, the legendary protector spirit of the Sundarbans, revered by both Hindu and Muslim woodcutters and honey-collectors. Performed in southern villages during winter months.",
+      "timing": "December – February (varies by village)"
+    },
+    {
+      "type": "mela",
+      "name": "Jeshoreshwari Durga Puja",
+      "description": "The largest annual gathering at Jeshoreshwari Kali Temple. The five-day Durga Puja festival draws pilgrims from across Bangladesh and India.",
+      "timing": "Late September to early October",
+      "coordinates": [22.1486, 89.0875]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Tetulia Jame Mosque (1858)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7886, 89.2483]
+    },
+    {
+      "name": "Jeshoreshwari Kali Temple (Shakti Peetha)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1486, 89.0875]
+    },
+    {
+      "name": "Debhata Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5897, 89.0408]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-satkhira?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Satkhira&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Paribahan", "phone": "—" },
+        { "name": "Eagle Paribahan", "phone": "—" },
+        { "name": "Sohag Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Satkhira&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Satkhira&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": [
+      { "name": "Mozaffar Garden & Resort", "phone": "—", "coordinates": [22.7367, 89.0853] },
+      { "name": "Hotel Tower International (Sadar)", "phone": "—", "coordinates": [22.7196, 89.0721] }
     ]
+  },
+  "advertisements": [
+    { "type": "guide", "name": "Sundarbans Local Guides Co-op", "rating": 4.7, "languages": ["Bengali", "English"], "phone": "—" },
+    { "type": "business", "name": "Satkhira Microbus Rentals", "description": "AC microbus and car hires for Munshiganj day trips and Shyamnagar pilgrimage runs.", "phone": "—" }
+  ],
+  "bucketlist": [
+    { "id": "satkhira-sundarbans-sunrise", "title": "Take a sunrise boat into the Sundarbans", "category": "experience", "detail": "The mangrove is at its quietest in the first hour of daylight. Birds wake first; the tide is usually low enough to see crab and mudskipper tracks on the banks.", "whereOrHow": "Munshiganj launch ghat", "bestTime": "Nov–Feb, ~5:30 am" },
+    { "id": "satkhira-tiger-tracks", "title": "Look for Royal Bengal Tiger pugmarks at a patrol post", "category": "experience", "detail": "Sightings are extraordinarily rare, but fresh pugmarks on a riverbank are common in the southern blocks. Patrol officers will often point them out.", "whereOrHow": "Kalinchi or Burigoalini forest stations" },
+    { "id": "satkhira-tetulia-mosque", "title": "Pray at Tetulia Jame Mosque", "category": "place", "detail": "One of the country's most ornate pre-modern mosques — three carved façades and a hand-cut mihrab still in active use after 165+ years.", "whereOrHow": "Tala Upazila", "bestTime": "Outside Friday noon prayers" },
+    { "id": "satkhira-bhomra-port", "title": "Stand at Bhomra land port and look across the Ichamati into India", "category": "moment", "detail": "On a clear morning you can see Indian customs lorries queueing on the other side. It is the closest land-port crossing to Kolkata.", "whereOrHow": "Bhomra, ~12 km from Sadar", "bestTime": "Mid-morning" },
+    { "id": "satkhira-golda-chingri", "title": "Eat fresh golda chingri at a Munshiganj stall", "category": "food", "detail": "King prawn grilled or curried on the spot — the catch comes in within hours. Cheaper and fresher than anything you'll find in Dhaka.", "whereOrHow": "Roadside stalls, Munshiganj bazaar" },
+    { "id": "satkhira-mowali-honey", "title": "Taste raw Sundarbans honey from a mowali", "category": "food", "detail": "Mowalis enter the forest each spring at significant personal risk to collect wild honey. The flavour is darker, smokier, and more medicinal than commercial honey.", "whereOrHow": "Forest Dept honey depot, Munshiganj", "bestTime": "April–June only" },
+    { "id": "satkhira-jeshoreshwari", "title": "Visit Jeshoreshwari Kali Temple", "category": "place", "detail": "One of the 51 Shakti Peethas — Sati's palm is believed to have fallen here. The site holds significance for Hindu pilgrims across the subcontinent.", "whereOrHow": "Ishwaripur, Shyamnagar", "bestTime": "Durga Puja (Sep–Oct)" },
+    { "id": "satkhira-mozaffar-sunset", "title": "Watch sunset over the lake at Mozaffar Garden", "category": "moment", "detail": "The most accessible 'green' break near Satkhira town — a planned garden around a small lake. Quiet on weekdays, busy with families on Fridays.", "whereOrHow": "~10 km from Sadar", "bestTime": "Cool months" },
+    { "id": "satkhira-mishti", "title": "Try Satkhira mishti at a heritage shop in Sadar", "category": "food", "detail": "Less syrupy and denser than the Comilla or Tangail styles. Ask for the day's batch.", "whereOrHow": "Sadar Bazaar sweet shops" },
+    { "id": "satkhira-banbibi", "title": "Hear a Banbibi pala — folk song of the mangrove's protector spirit", "category": "experience", "detail": "Banbibi is venerated by both Hindu and Muslim forest-workers. Village performances run on winter evenings; ask any local mowali household for the next date.", "whereOrHow": "Shyamnagar / Burigoalini villages", "bestTime": "December–February" },
+    { "id": "satkhira-debhata", "title": "Walk the ruins of Debhata Zamindar Bari", "category": "place", "detail": "Crumbling 19th-century landlord's manor slowly being reclaimed by figs and creepers. Quiet, atmospheric, no entry fee.", "whereOrHow": "Debhata Upazila" },
+    { "id": "satkhira-crab-curry", "title": "Eat coastal crab curry on a chilly night near the Sundarbans edge", "category": "food", "detail": "Munshiganj guesthouses serve fresh-catch crab curry — the same crab that ends up in Bangkok and Dhaka markets, here for a fraction of the price.", "whereOrHow": "Munshiganj guesthouses", "bestTime": "Winter evenings" }
+  ],
+  "foods": [
+    { "name": "Golda Chingri (King Prawn)", "description": "Coastal king prawn — sweetest in the country, often grilled with mustard or in a rich coconut curry.", "whereToFind": "Munshiganj roadside stalls" },
+    { "name": "Sundarbans Crab Curry", "description": "Fresh mud crab from the mangrove channels, slow-cooked with mustard oil and panch phoron.", "whereToFind": "Munshiganj guesthouses" },
+    { "name": "Shutki Bhuna", "description": "Dried-fish stir-fry in the bold southern coastal style — onions, garlic, dried chilies, lots of heat.", "whereToFind": "Local rice-meal canteens, Sadar" },
+    { "name": "Sundarbans Honey (Mowali Madhu)", "description": "Raw wild honey collected by mowali honey-hunters from the mangrove during the brief April–June season.", "whereToFind": "Forest Dept depot, Munshiganj (Apr–Jun)" },
+    { "name": "Satkhira Mishti", "description": "Local sweet tradition — denser and less syrupy than other regional styles. Tastes best the day it's made.", "whereToFind": "Sadar Bazaar heritage sweet shops" },
+    { "name": "Narkel Chitoi", "description": "Winter rice-flour pancake served with thickened date-palm syrup and grated coconut.", "whereToFind": "Winter morning pitha stalls, Sadar" },
+    { "name": "Khejur Gur", "description": "Concentrated date-palm jaggery from the winter sap harvest. The base of many local pithas and a strong tea sweetener.", "whereToFind": "Rural haats, December–February" },
+    { "name": "Hilsa with Mustard", "description": "Sundarbans-edge cooking — hilsa fillets steamed in a mustard-and-mustard-oil paste, served with red rice.", "whereToFind": "Home-style restaurants, Sadar & Munshiganj" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Kazi Imdadul Haq",
+      "knownFor": "Bengali novelist and educator. His 1933 novel Abdullah is regarded as one of the foundational social novels of the Bengali Muslim middle class.",
+      "era": "1882 – 1926"
+    }
+  ],
+  "didYouKnow": [
+    "Satkhira shares the Bangladesh Sundarbans with Khulna and Bagerhat — its share is the smallest of the three, but holds the country's southernmost forest patrols.",
+    "Bhomra land port is the second-busiest land crossing between Bangladesh and India after Benapole, and the closest to Kolkata.",
+    "Jeshoreshwari Kali Temple in Shyamnagar is one of the 51 Shakti Peethas of Hindu mythology — Sati's palm is said to have fallen here.",
+    "Banbibi, the protector spirit of the mangrove forest, is venerated by both Hindu and Muslim woodcutters and honey-collectors — a rare cross-faith folk tradition.",
+    "Tetulia Jame Mosque (1858) has three terracotta-decorated façades and is listed under the Department of Archaeology of Bangladesh."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Satkhira Sadar Police Station", "phone": "—" },
+      { "name": "Shyamnagar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Satkhira Sadar Hospital", "phone": "—" },
+      { "name": "Shyamnagar Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
   }
+}
