@@ -1,0 +1,298 @@
+{
+  "name": "Lakshmipur",
+  "division": "Chattogram",
+  "tagline": "Betel nut, coconut and soybean on the Meghna's edge — a zamindar's lost town and the shifting chars of the great river.",
+  "stats": {
+    "area": "1,440.39 sq km",
+    "population": "1,937,948",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry). The Meghna and its chars are calmest, and the betel-nut and coconut country is greenest, outside the monsoon.",
+    "gettingThere": "By road from Dhaka (~200 km) — faster since the Padma Bridge (2022) opened the southern route, or via Comilla / Noakhali; buses take ~4–5 hr. Launches and ferries cross the Meghna from Lakshmipur (Majirhat) to Bhola. Nearest airports are Dhaka and Chattogram.",
+    "difficulty": "Easy — the Dalal Bazar heritage cluster is a short hop from town; the Meghna chars (Char Alexander, Ramgati) are an hour or more south by road and local transport."
+  },
+  "mustVisit": [
+    {
+      "name": "Dalal Bazar Zamindar Bari",
+      "type": "heritage",
+      "description": "A sprawling three-century-old zamindar estate near Dalal Bazar — seven buildings, four ponds and a garden across some 7.5 acres, the grandest heritage site in the district.",
+      "history": "The seat of the Dalal Bazar zamindar family, the complex grew over the 18th and 19th centuries into a small town of its own, with residential and ceremonial buildings, temples and tanks. Much of it still stands about 5 km from the district headquarters on the Dhaka–Raipur road.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9550, 90.8000],
+      "practical": {
+        "hours": "Open during daylight",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 5 km from Lakshmipur town at Dalal Bazar, on the Dhaka–Raipur road",
+        "distanceKm": 5,
+        "transport": "CNG / easybike from Lakshmipur town"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Parts are old and fragile — admire rather than climb",
+        "Combine with Khoa Sagar Dighi and the Dalal Bazar mosque, all close together"
+      ]
+    },
+    {
+      "name": "Khoa Sagar Dighi",
+      "type": "nature",
+      "description": "A serene 25-acre lake at Dalal Bazar, said to be perpetually wreathed in a light mist — the 'khoa' (fog) that gives it its name.",
+      "history": "Local tradition holds that the dighi was excavated around 1755 by Brajaballabh Roy, the zamindar of Dalal Bazar, and later renovated by Raja Gaur Kishore Roy. It has watered and cooled the area for over two and a half centuries.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9560, 90.8020],
+      "practical": {
+        "hours": "Open access; pleasant late afternoon",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Dalal Bazar, east of the Lakshmipur–Raipur road",
+        "distanceKm": 5,
+        "transport": "CNG / easybike from town"
+      },
+      "bestTime": "Early morning for the mist; late afternoon for the light",
+      "tips": [
+        "Walk the banks at dawn when the fog is thickest",
+        "Pair with the Dalal Bazar Zamindar Bari next door"
+      ]
+    },
+    {
+      "name": "Dalal Bazar Tin Gombuj Mosque",
+      "type": "religious",
+      "description": "A historic three-domed mosque from the Dalal Bazar zamindar era — a modest but elegant piece of the estate's surviving architecture.",
+      "history": "Built in the zamindari period alongside the Dalal Bazar estate, the three-domed (tin gombuj) mosque remains in use and rounds out the cluster of heritage buildings around Dalal Bazar.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9555, 90.8010],
+      "practical": {
+        "hours": "Open during the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Dalal Bazar, beside the zamindar estate",
+        "distanceKm": 5,
+        "transport": "CNG / easybike from town"
+      },
+      "bestTime": "Outside Friday noon prayers",
+      "tips": [
+        "Remove shoes; cover head if female",
+        "It sits within easy walking distance of the dighi and the bari"
+      ]
+    },
+    {
+      "name": "Char Alexander & the Meghna",
+      "type": "nature",
+      "description": "A river-and-char destination in Ramgati where the broad Meghna meets a long protective embankment — a popular spot to watch the river, the boats and the sunset.",
+      "history": "Char Alexander, named in the colonial era, lies on the Meghna's eastern bank in Ramgati. The embankment and riverside, developed in recent years, have made it a favourite local outing on the edge of the great estuary.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6300, 90.9700],
+      "practical": {
+        "hours": "Daylight hours; sunset is the draw",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 50 km south of Lakshmipur town, in Ramgati Upazila",
+        "distanceKm": 50,
+        "transport": "Bus / CNG toward Ramgati–Alexander"
+      },
+      "bestTime": "Late afternoon for sunset over the Meghna",
+      "tips": [
+        "The river is vast and currents strong — admire from the embankment",
+        "Carry water; facilities are limited"
+      ]
+    },
+    {
+      "name": "Matir Hat Meghna Embankment",
+      "type": "nature",
+      "description": "A riverfront viewpoint in Kamalnagar where the embankment runs along the Meghna — wide skies, fishing boats and one of the district's best sunset spots.",
+      "history": "Kamalnagar's coast is the front line of the district's long struggle with Meghna erosion, and the embankment built to hold the river has also become a place to come and watch it.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7500, 90.8300],
+      "practical": {
+        "hours": "Daylight hours; best at sunset",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Kamalnagar Upazila, on the Meghna south-west of Lakshmipur town",
+        "distanceKm": 30,
+        "transport": "Bus / CNG toward Kamalnagar (Matir Hat)"
+      },
+      "bestTime": "Late afternoon to sunset",
+      "tips": [
+        "Eat fresh river fish at the embankment stalls",
+        "Go on a clear day for the widest river views"
+      ]
+    },
+    {
+      "name": "Sreerampur Rajbari",
+      "type": "heritage",
+      "description": "A weathered old zamindar mansion in the Ramganj countryside — a quieter heritage stop for those who want the landlord-era architecture without the crowds of Dalal Bazar.",
+      "history": "The Sreerampur estate is one of the district's older landlord houses, listed among Lakshmipur's heritage sites; its ageing buildings recall the zamindari order that shaped this part of greater Noakhali.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1000, 90.8500],
+      "practical": {
+        "hours": "Open during daylight (exterior)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Ramganj Upazila, north of Lakshmipur town",
+        "distanceKm": 30,
+        "transport": "Bus / CNG toward Ramganj"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "The structure is old — view from outside",
+        "Ask locally for directions; it is off the main road"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Supari (Betel Nut)",
+      "description": "Lakshmipur is one of the country's leading producers of betel nut — groves of supari palms define the landscape, and the nut, chewed with paan, is the district's signature crop.",
+      "venue": "Haats and markets across the district"
+    },
+    {
+      "type": "food",
+      "name": "Coconut",
+      "description": "Alongside betel nut, coconut is the district's great crop — daab (green coconut) by the roadside and coconut in every other sweet.",
+      "venue": "Town and village markets"
+    },
+    {
+      "type": "food",
+      "name": "Soybean",
+      "description": "The Meghna chars of Ramgati and Kamalnagar make Lakshmipur the heart of Bangladesh's soybean cultivation — the 'soybean land' of the country.",
+      "venue": "Char farmland, Ramgati & Kamalnagar"
+    },
+    {
+      "type": "festival",
+      "name": "Murshidi & Sarigan",
+      "description": "Murshidi (Sufi devotional song) and Sarigan (boatmen's work song) are living folk traditions of this riverine country, sung at gatherings and on the water.",
+      "timing": "Folk gatherings, year-round"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Dalal Bazar Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9550, 90.8000]
+    },
+    {
+      "name": "Dalal Bazar Tin Gombuj Mosque",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9555, 90.8010]
+    },
+    {
+      "name": "Khoa Sagar Dighi (c. 1755)",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9560, 90.8020]
+    },
+    {
+      "name": "Sreerampur Rajbari",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1000, 90.8500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-lakshmipur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Lakshmipur&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Lakshmipur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Lakshmipur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "lakshmipur-dalal-bazar", "title": "Wander the 300-year-old Dalal Bazar Zamindar Bari", "category": "place", "detail": "Seven buildings, four ponds and a garden across 7.5 acres — the grandest landlord estate in the district.", "whereOrHow": "Dalal Bazar, ~5 km from town" },
+    { "id": "lakshmipur-khoa-sagar", "title": "Catch the mist over Khoa Sagar Dighi at dawn", "category": "moment", "detail": "A 25-acre lake dug around 1755, named for the fog ('khoa') that hangs over its water in the early morning.", "whereOrHow": "Dalal Bazar", "bestTime": "Early morning" },
+    { "id": "lakshmipur-tin-gombuj", "title": "See the three-domed Dalal Bazar mosque", "category": "place", "detail": "A modest, elegant zamindar-era mosque, part of the Dalal Bazar heritage cluster.", "whereOrHow": "Dalal Bazar" },
+    { "id": "lakshmipur-char-alexander", "title": "Watch the Meghna at Char Alexander", "category": "experience", "detail": "Stand on the embankment where the vast Meghna runs past Ramgati — boats, river and a huge sky.", "whereOrHow": "Char Alexander, Ramgati", "bestTime": "Sunset" },
+    { "id": "lakshmipur-matir-hat", "title": "See sunset over the Meghna at Matir Hat", "category": "moment", "detail": "Kamalnagar's riverfront embankment is one of the district's best places to watch the great river go gold.", "whereOrHow": "Matir Hat, Kamalnagar", "bestTime": "Late afternoon" },
+    { "id": "lakshmipur-sreerampur", "title": "Explore Sreerampur Rajbari", "category": "place", "detail": "A quieter old zamindar mansion in the Ramganj countryside for landlord-era architecture without the crowds.", "whereOrHow": "Ramganj" },
+    { "id": "lakshmipur-paan-supari", "title": "Chew fresh paan with Lakshmipur supari", "category": "food", "detail": "The district grows some of the country's best betel nut — try it with paan straight from a village haat.", "whereOrHow": "Markets across the district" },
+    { "id": "lakshmipur-daab", "title": "Drink a green coconut by the road", "category": "food", "detail": "Coconut is everywhere here — a cold daab is the natural roadside refreshment.", "whereOrHow": "Roadside stalls" },
+    { "id": "lakshmipur-hilsa", "title": "Eat Meghna hilsa", "category": "food", "detail": "Hilsa from the Meghna estuary, fried or in mustard curry, is the river's great gift to the table.", "whereOrHow": "Town and riverside eateries" },
+    { "id": "lakshmipur-soybean", "title": "See the soybean fields on the chars", "category": "experience", "detail": "Ramgati and Kamalnagar's Meghna chars are the heart of Bangladesh's soybean country — green to the horizon in season.", "whereOrHow": "Char farmland, Ramgati / Kamalnagar" },
+    { "id": "lakshmipur-meghna-ferry", "title": "Take the Meghna ferry toward Bhola", "category": "experience", "detail": "Cross the great river from Majirhat toward Bhola — the estuary at its widest and busiest.", "whereOrHow": "Majirhat ghat, Sadar" },
+    { "id": "lakshmipur-coconut-haat", "title": "Buy coconut and betel at a Raipur haat", "category": "food", "detail": "The market days are piled high with the district's two great crops — a glimpse of the local economy at work.", "whereOrHow": "Raipur and village haats" }
+  ],
+  "foods": [
+    { "name": "Meghna Hilsa", "description": "Hilsa from the Meghna estuary — fried crisp or steamed in mustard, the river's signature fish.", "whereToFind": "Town and riverside eateries" },
+    { "name": "Char & River Fish", "description": "Freshwater and estuarine catch from the Meghna and Dakatia, cooked in light home-style curries.", "whereToFind": "Local rice-meal canteens" },
+    { "name": "Daab & Coconut Sweets", "description": "Green coconut to drink and coconut naru and sweets to eat, from a district awash in coconut palms.", "whereToFind": "Roadside stalls and sweet shops" },
+    { "name": "Paan-Supari", "description": "Betel leaf with the district's prized supari (betel nut) — the local way to round off a meal.", "whereToFind": "Markets and haats everywhere" },
+    { "name": "Soy-based Foods", "description": "From the soybean heartland — soy milk, soy snacks and soy worked into everyday cooking.", "whereToFind": "Ramgati / Kamalnagar markets" },
+    { "name": "Coastal Shutki", "description": "Sun-dried river and sea fish in the bold southern style, cooked into fiery bhuna.", "whereToFind": "Local markets and canteens" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Munier Chowdhury",
+      "knownFor": "Playwright, linguist and literary critic, author of the classic 1971-era drama 'Kabar' and a martyred intellectual of the Liberation War; his family home is at Vamni in Raipur, Lakshmipur.",
+      "era": "1925 – 1971"
+    },
+    {
+      "name": "Ferdousi Majumdar",
+      "knownFor": "One of Bangladesh's most celebrated stage and television actresses and a winner of the Ekushey Padak; younger sister of Munier Chowdhury, from the same Lakshmipur family.",
+      "era": "b. 1943"
+    }
+  ],
+  "didYouKnow": [
+    "Lakshmipur was carved out of greater Noakhali to become a district in 1984.",
+    "The district is one of Bangladesh's leading producers of betel nut (supari) and coconut, and the Meghna chars of Ramgati and Kamalnagar make it the heart of the country's soybean cultivation.",
+    "The Dalal Bazar Zamindar Bari, around three centuries old, spreads over 7.5 acres with seven buildings and four ponds.",
+    "Khoa Sagar Dighi, a 25-acre lake said to be dug around 1755 by the Dalal Bazar zamindar Brajaballabh Roy, is named for the mist ('khoa') that hangs over its water.",
+    "The Meghna forms the district's south-western edge, and its shifting chars are both rich farmland and a constant battle against erosion."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Lakshmipur Sadar Police Station", "phone": "—" },
+      { "name": "Raipur Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Lakshmipur Sadar Hospital", "phone": "—" },
+      { "name": "Ramgati Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
