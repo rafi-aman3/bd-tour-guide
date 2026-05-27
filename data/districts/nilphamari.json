@@ -1,0 +1,297 @@
+{
+  "name": "Nilphamari",
+  "division": "Rangpur",
+  "tagline": "The indigo country of the north — an old railway town, a sacred lake, and the Teesta spread wide.",
+  "stats": {
+    "area": "1,580.59 sq km",
+    "population": "2,092,568",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry; migratory birds at Nilsagar and full flow at the Teesta Barrage). Winter mornings in the north can be foggy.",
+    "gettingThere": "By air to Saidpur Airport — daily flights from Dhaka (~55 min) make Nilphamari one of the easiest northern districts to reach. Intercity trains run from Dhaka to Saidpur, Nilphamari and Chilahati. By road it's ~350 km from Dhaka (~8–10 hr).",
+    "difficulty": "Easy — Saidpur's airport and railway put the district within easy reach; sites spread across Sadar, Saidpur and the Teesta-side upazilas, linked by bus and local transport."
+  },
+  "mustVisit": [
+    {
+      "name": "Nilsagar",
+      "type": "nature",
+      "description": "A large ancient lake set in the fields at Godgram, ringed by trees and famous as a winter haven for migratory birds — the district's signature beauty spot.",
+      "history": "Spread over about 54 acres, Nilsagar (once called Bindu Sarovar) is an old excavated lake of uncertain age, woven into local legend. It was declared a bird sanctuary in 1998 and fills with migratory waterfowl through the cool months.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0500, 88.8500],
+      "practical": {
+        "hours": "Daylight hours; birds best at dawn",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 15 km north of Nilphamari town, in Godgram, Sadar Upazila",
+        "distanceKm": 15,
+        "transport": "CNG / easybike from Nilphamari town"
+      },
+      "bestTime": "Winter mornings for migratory birds",
+      "tips": [
+        "Bring binoculars in the bird season",
+        "Quietest on weekday mornings; a fair fills the banks on holidays"
+      ]
+    },
+    {
+      "name": "Teesta Barrage",
+      "type": "landmark",
+      "description": "A kilometre-long barrage across the mighty Teesta — the headworks of the country's largest irrigation project — with sweeping river views and rows of fishing boats below.",
+      "history": "The Teesta Barrage at Doani feeds the Teesta Irrigation Project, the biggest of its kind in Bangladesh, watering over a million acres of the northern plains. The long dam has become a popular picnic and sunset spot.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.1800, 88.9700],
+      "practical": {
+        "hours": "Daylight hours; busy on holidays",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Doani, Dimla Upazila, north-east of Nilphamari town",
+        "distanceKm": 45,
+        "transport": "Bus / CNG toward Dimla–Doani"
+      },
+      "bestTime": "Late afternoon; the river is fullest in the monsoon and clearest in winter",
+      "tips": [
+        "Walk out along the barrage for the best views",
+        "Eat fresh river fish at the stalls near the headworks"
+      ]
+    },
+    {
+      "name": "Chini Mosjid (China Mosque)",
+      "type": "religious",
+      "description": "A dazzling mosque in Saidpur whose entire surface is inlaid with thousands of broken china plates and coloured glass — 'chini' (china) gives it its name.",
+      "history": "Begun in 1863 by Haji Baker Ali and Haji Muku and decorated over time, the mosque's mosaic of porcelain shards and mirror-glass is unique in the country — a folk-baroque skin over an otherwise modest mosque.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7800, 88.8900],
+      "practical": {
+        "hours": "Open during the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Saidpur town, ~25 km south of Nilphamari town",
+        "distanceKm": 25,
+        "transport": "Bus / train to Saidpur, then rickshaw"
+      },
+      "bestTime": "Daylight for the mosaic to catch the sun; outside Friday noon prayers",
+      "tips": [
+        "Remove shoes; cover head if female",
+        "Look closely — the patterns are made of countless plate fragments"
+      ]
+    },
+    {
+      "name": "Saidpur Railway Workshop",
+      "type": "heritage",
+      "description": "The largest railway workshop in Bangladesh, established in 1870 — a vast colonial-era engineering yard where century-old locomotives and carriages are still repaired.",
+      "history": "Founded in 1870 on a meter-gauge repair shed, the workshop grew to some 800 acres by the 1950s and made Saidpur a classic railway town, with an Anglo-Indian and Urdu-speaking community grown up around the railway. It remains a working heritage site.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7770, 88.8930],
+      "practical": {
+        "hours": "Working site — visits subject to railway permission",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Saidpur town",
+        "distanceKm": 25,
+        "transport": "Train / bus to Saidpur"
+      },
+      "bestTime": "Daytime, weekdays",
+      "tips": [
+        "It is an operational railway facility — ask before entering or photographing",
+        "Saidpur station and the old town around it are worth a wander"
+      ]
+    },
+    {
+      "name": "Dharmapal Garh",
+      "type": "heritage",
+      "description": "The earthwork ruins of an ancient fortified citadel associated with King Dharmapal — ramparts, a moat line and scattered relics in the Kishoreganj upazila countryside.",
+      "history": "Local tradition ties the garh (fort) to the ruler Dharmapal. What survives are the great earthen ramparts and traces of the palace site, with terracotta and other relics recovered nearby — a window into the district's deep past.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.9200, 89.0000],
+      "practical": {
+        "hours": "Open during daylight",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Kishoreganj Upazila, east of Nilphamari town",
+        "distanceKm": 30,
+        "transport": "Bus / CNG toward Kishoreganj, then local transport"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Bring a local guide — the site is spread out and lightly marked",
+        "Wear shoes for the earthworks"
+      ]
+    },
+    {
+      "name": "Saidpur Church",
+      "type": "heritage",
+      "description": "A colonial-era church in the heart of the old railway town — a reminder of the Anglo-Indian and Christian community that the railway brought to Saidpur.",
+      "history": "Built during the British railway era, the church served Saidpur's railway-town Christian community. Its quiet grounds and old architecture are part of the layered heritage that sets Saidpur apart from the surrounding country.",
+      "image": "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7780, 88.8920],
+      "practical": {
+        "hours": "Service times and daylight; ask at the gate",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Saidpur town",
+        "distanceKm": 25,
+        "transport": "Train / bus to Saidpur, then rickshaw"
+      },
+      "bestTime": "Daytime; respect service hours",
+      "tips": [
+        "It is an active place of worship — be quiet and ask before entering",
+        "Combine with the Chini Mosjid and railway workshop on a Saidpur day"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Bihari Cuisine of Saidpur",
+      "description": "Saidpur's Urdu-speaking community keeps a distinctive food tradition — spiced kebabs, breads and slow-cooked meat dishes you won't find elsewhere in the north.",
+      "venue": "Saidpur old town eateries"
+    },
+    {
+      "type": "food",
+      "name": "Sidol Bhorta",
+      "description": "A pungent mash of fermented small-fish paste with chili and onion — a beloved staple of the greater Rangpur region's table.",
+      "venue": "Home-style rice-meal canteens across the district"
+    },
+    {
+      "type": "festival",
+      "name": "Bhawaiya",
+      "description": "The haunting folk song of the northern plains, born of the bullock-cart and the river — Nilphamari sits at the heart of Bhawaiya country.",
+      "timing": "Folk gatherings and cultural programmes year-round"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Chini Mosjid (1863)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7800, 88.8900]
+    },
+    {
+      "name": "Saidpur Railway Workshop (1870)",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7770, 88.8930]
+    },
+    {
+      "name": "Dharmapal Garh",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.9200, 89.0000]
+    },
+    {
+      "name": "Saidpur Church",
+      "image": "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7780, 88.8920]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-nilphamari?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Nilphamari&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Nilphamari&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Nilphamari&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "nilphamari-nilsagar-birds", "title": "Spot winter migratory birds at Nilsagar", "category": "experience", "detail": "The 54-acre lake, a sanctuary since 1998, fills with migratory waterfowl in the cool months — dawn is best.", "whereOrHow": "Godgram, Nilphamari Sadar", "bestTime": "Winter mornings" },
+    { "id": "nilphamari-teesta-barrage", "title": "Walk the kilometre-long Teesta Barrage", "category": "moment", "detail": "Stand over the mighty Teesta at the headworks of the country's largest irrigation project, fishing boats strung out below.", "whereOrHow": "Doani, Dimla", "bestTime": "Late afternoon" },
+    { "id": "nilphamari-chini-mosjid", "title": "See the china-plate mosaics of Chini Mosjid", "category": "place", "detail": "A whole mosque skinned in broken porcelain and coloured glass — 'chini' means china. Begun in 1863 in Saidpur.", "whereOrHow": "Saidpur town" },
+    { "id": "nilphamari-railway-workshop", "title": "See century-old locomotives at Saidpur Railway Workshop", "category": "place", "detail": "The country's largest railway workshop, running since 1870, where old engines and carriages are still repaired.", "whereOrHow": "Saidpur (with railway permission)" },
+    { "id": "nilphamari-dharmapal-garh", "title": "Explore the ramparts of Dharmapal Garh", "category": "place", "detail": "Earthen ramparts of an ancient fortified citadel tied to King Dharmapal, out in the Kishoreganj countryside.", "whereOrHow": "Kishoreganj Upazila" },
+    { "id": "nilphamari-saidpur-church", "title": "Visit the old colonial Saidpur Church", "category": "place", "detail": "A reminder of the Anglo-Indian railway community that grew up with the workshop in Saidpur.", "whereOrHow": "Saidpur town" },
+    { "id": "nilphamari-bihari-kebab", "title": "Eat Bihari kebab in Saidpur's old quarter", "category": "food", "detail": "Saidpur's Urdu-speaking community keeps a distinctive cuisine — spiced kebabs and slow-cooked meat.", "whereOrHow": "Saidpur old town" },
+    { "id": "nilphamari-sidol", "title": "Try sidol bhorta, the northern fermented-fish mash", "category": "food", "detail": "Pungent, fiery and beloved across greater Rangpur — eaten with hot rice.", "whereOrHow": "Home-style canteens" },
+    { "id": "nilphamari-bhawaiya", "title": "Hear a Bhawaiya song", "category": "experience", "detail": "The folk music of the northern plains and rivers — Nilphamari is at the heart of Bhawaiya country.", "whereOrHow": "Local cultural programmes" },
+    { "id": "nilphamari-railway-town", "title": "Ride the rails into Saidpur", "category": "experience", "detail": "Arrive the way the town was built to — by train, into one of the subcontinent's classic railway towns.", "whereOrHow": "Saidpur railway station" },
+    { "id": "nilphamari-teesta-char", "title": "Stand on a Teesta char at sunset", "category": "moment", "detail": "The braided Teesta throws up wide sandbars (chars); sunset over the river and its boats is the north at its quietest.", "whereOrHow": "Teesta-side, Dimla / Jaldhaka" },
+    { "id": "nilphamari-indigo-history", "title": "Trace the indigo history that named the district", "category": "experience", "detail": "Two centuries ago this fertile soil was covered in British indigo (nil) farms and kuthis — the source of the name Nilphamari.", "whereOrHow": "Across the district" }
+  ],
+  "foods": [
+    { "name": "Bihari Kebab & Cuisine", "description": "Spiced kebabs, breads and slow-cooked meat from Saidpur's Urdu-speaking community — a flavour distinct from the surrounding north.", "whereToFind": "Saidpur old town eateries" },
+    { "name": "Sidol Bhorta", "description": "Fermented small-fish paste mashed with chili and onion — a pungent greater-Rangpur staple.", "whereToFind": "Home-style canteens across the district" },
+    { "name": "Teesta River Fish", "description": "Boal, baim and small fish from the Teesta, cooked fresh in light curries.", "whereToFind": "Stalls near the Teesta Barrage; local canteens" },
+    { "name": "Chaler Ruti", "description": "Northern rice-flour flatbread, eaten with bhorta, gur or curry — an everyday staple of the region.", "whereToFind": "Morning stalls and homes" },
+    { "name": "Akher Gur", "description": "Sugarcane jaggery from the northern cane belt — used in pithas and as a sweetener.", "whereToFind": "Rural haats" },
+    { "name": "Duck Curry & Khichuri", "description": "A northern winter favourite — rich duck curry with thick khichuri on a cold, foggy day.", "whereToFind": "Home kitchens and seasonal eateries, winter" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Baby Naznin",
+      "knownFor": "Acclaimed Bangladeshi singer dubbed the 'Black Diamond', winner of the National Film Award for Best Female Playback Singer. Born in Saidpur, Nilphamari.",
+      "era": "b. 1965"
+    },
+    {
+      "name": "Anisul Hoque",
+      "knownFor": "Popular novelist, journalist and editor — author of the celebrated novel 'Ma' — long associated with Nilphamari.",
+      "era": "b. 1965"
+    },
+    {
+      "name": "Rishad Hossain",
+      "knownFor": "Bangladesh international cricketer, a leg-spin all-rounder, from Nilphamari.",
+      "era": "b. 2002"
+    }
+  ],
+  "didYouKnow": [
+    "The district's name comes from indigo: two centuries ago the British set up extensive indigo (nil) farms and kuthis here in the fertile soil — 'nil' plus 'phamari'.",
+    "Nilsagar, an ancient 54-acre lake at Godgram, has been a protected bird sanctuary since 1998 and fills with migratory birds each winter.",
+    "Saidpur Railway Workshop, established in 1870, is the largest railway workshop in Bangladesh.",
+    "The Chini Mosjid in Saidpur (begun 1863) is sheathed in thousands of broken china plates and coloured glass — which is how it earned its name.",
+    "The Teesta Barrage at Doani feeds the country's largest irrigation project, watering more than a million acres of the northern plains."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Nilphamari Sadar Police Station", "phone": "—" },
+      { "name": "Saidpur Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Nilphamari Sadar Hospital", "phone": "—" },
+      { "name": "Saidpur Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
