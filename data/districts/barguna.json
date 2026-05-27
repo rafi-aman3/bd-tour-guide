@@ -1,0 +1,296 @@
+{
+  "name": "Barguna",
+  "division": "Barisal",
+  "tagline": "Bangladesh's quiet coast — three rivers, the eastern Sundarbans, and beaches the crowds haven't found.",
+  "stats": {
+    "area": "1,831.31 sq km",
+    "population": "1,010,531",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry, calm sea). Avoid the monsoon and cyclone season, roughly June–October.",
+    "gettingThere": "By road from Dhaka (~280 km) — much faster since the Padma Bridge opened in 2022, buses ~6–7 hr; also via Barisal (~80 km). Overnight launches run from Dhaka's Sadarghat up the Bishkhali. Nearest airport is Barisal.",
+    "difficulty": "Moderate — the town and Bibichini are easy, but the best of the coast (Haringhata, Shuvo Sandhya, Sonakata) lies out in Patharghata and Taltali, reached by a mix of bus, motorbike and boat."
+  },
+  "mustVisit": [
+    {
+      "name": "Haringhata Eco Park & Forest",
+      "type": "nature",
+      "description": "A mangrove forest on the fringe of the Sundarbans in Patharghata, where the Baleshwar, Bishkhali and Payra rivers all empty into the Bay of Bengal — deer, monkeys, birds and a wooden trail through the trees.",
+      "history": "Part of the coastal mangrove belt continuous with the eastern Sundarbans. A boardwalk and watchtower let visitors walk out over the tidal forest, with the three river mouths meeting the open sea beyond.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9500, 89.9500],
+      "practical": {
+        "hours": "Daylight only; go on a falling tide",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 60 km southwest of Barguna town, beyond Patharghata",
+        "distanceKm": 60,
+        "transport": "Bus / motorbike to Patharghata, then local transport and a short boat hop"
+      },
+      "bestTime": "Cool months, early morning for wildlife",
+      "tips": [
+        "Wear closed shoes — the mud is sticky",
+        "Carry water and a power bank; facilities are minimal",
+        "Check tide timings before you set out"
+      ]
+    },
+    {
+      "name": "Shuvo Sandhya Sea Beach",
+      "type": "nature",
+      "description": "A quiet ~4 km beach at Nalbunia in Taltali, at the meeting point of the Payra, Bishkhali and Baleshwar — far less crowded than Kuakata, with a strip of coastal forest behind the sand.",
+      "history": "An emerging beach destination on Barguna's coast, valued precisely for its emptiness. The shoreline shifts with the rivers and the sea, and casuarina and mangrove line the back of the beach.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9500, 90.2000],
+      "practical": {
+        "hours": "Open access; daylight recommended",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 45 km south of Barguna town, in Taltali Upazila",
+        "distanceKm": 45,
+        "transport": "Bus / motorbike to Taltali, then local transport to Nalbunia"
+      },
+      "bestTime": "Cool months; sunrise and sunset are both visible along the bend",
+      "tips": [
+        "No lifeguards — swim with great care and mind the currents",
+        "Bring your own food; stalls are few"
+      ]
+    },
+    {
+      "name": "Bibichini Shahi Mosque",
+      "type": "religious",
+      "description": "A single-domed Mughal-era mosque from 1659, standing on a 30-foot mound in Betagi — one of the oldest Islamic monuments in the southern coast.",
+      "history": "Built by Hazrat Shah Neyamat Ullah, who came from Persia to spread Islam, the mosque (33 ft square, with 6-ft-thick walls) is named after his daughter, Bibi Chini. Three graves beside it are said by tradition to hold the saint and his two daughters.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.4300, 90.1300],
+      "practical": {
+        "hours": "Open during the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Bibichini Union, Betagi Upazila, north of Barguna town",
+        "distanceKm": 35,
+        "transport": "Bus / CNG to Betagi, then easybike to the mound"
+      },
+      "bestTime": "Morning light; outside Friday noon prayers",
+      "tips": [
+        "Cover head if female; remove shoes before entering",
+        "Climb the mound for the view over the surrounding fields"
+      ]
+    },
+    {
+      "name": "Sonakata–Asharchar Eco Park (Tengragiri)",
+      "type": "nature",
+      "description": "A sea beach backed by the Tengragiri reserve mangrove forest in Taltali — a wilder, twin attraction to Shuvo Sandhya, with deer in the trees and Rakhine villages nearby.",
+      "history": "The Sonakata / Asharchar shoreline sits against the Tengragiri (Fatrar-related) reserve forest, a protected mangrove tract on the Barguna coast. The eco park combines beach, forest trails and an aviary-style enclosure.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9200, 90.1000],
+      "practical": {
+        "hours": "Daylight only",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 50 km south of Barguna town, in Taltali Upazila",
+        "distanceKm": 50,
+        "transport": "Bus / motorbike to Taltali, then local transport and boat"
+      },
+      "bestTime": "Cool months; low tide to walk the beach and forest edge",
+      "tips": [
+        "Pair it with a Rakhine para visit, which is close by",
+        "Go with a local guide — the forest tracks are easy to lose"
+      ]
+    },
+    {
+      "name": "Patharghata Fishing Harbour",
+      "type": "landmark",
+      "description": "One of the country's major marine fish landing centres, where the deep-sea fishing fleet comes in off the Bay — a raw, vivid window into Barguna's fishing economy.",
+      "history": "Patharghata, at the river mouth on the Bishkhali–Baleshwar, is a hub of Barguna's marine fishing. Trawlers land hilsa and sea fish here, which are sorted, iced and trucked across the country.",
+      "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.0300, 89.9600],
+      "practical": {
+        "hours": "Busiest at dawn when the boats unload",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 55 km southwest of Barguna town, at Patharghata",
+        "distanceKm": 55,
+        "transport": "Bus / motorbike to Patharghata"
+      },
+      "bestTime": "Early morning during the fishing season (avoid the annual hilsa-ban months)",
+      "tips": [
+        "Go at first light to see the catch come in",
+        "Ask before photographing the fishers and traders"
+      ]
+    },
+    {
+      "name": "Rakhine Para, Taltali",
+      "type": "culture",
+      "description": "The Rakhine community villages of Taltali — Buddhist temples (kyang), traditional handloom weaving, and a culture distinct from the surrounding coast, shared with neighbouring Kuakata.",
+      "history": "Rakhine families have lived along this coast for generations, keeping their own language, Theravada Buddhist faith and weaving traditions. Their new-year Sangrai festival, with its water-throwing Jalkeli, is the year's high point.",
+      "image": "https://images.unsplash.com/photo-1545126178-862cf5a1c1c0?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9800, 90.1500],
+      "practical": {
+        "hours": "Daytime; respect temple and village schedules",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In the Taltali coastal belt, ~45 km south of Barguna town",
+        "distanceKm": 45,
+        "transport": "Bus / motorbike to Taltali, then local transport"
+      },
+      "bestTime": "Sangrai (Buddhist new year, April) for the water festival",
+      "tips": [
+        "Ask before photographing people and homes",
+        "Buy weaving directly from the artisans to support them",
+        "Remove shoes at the temple"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Coconut & Coastal Produce",
+      "description": "Barguna is one of the country's leading producers of coconut and betel nut — coconut shows up everywhere, from naru and shuruya to everyday cooking.",
+      "venue": "Town markets and village haats across the district"
+    },
+    {
+      "type": "craft",
+      "name": "Rakhine Handloom Weaving",
+      "description": "The Rakhine women of Taltali weave distinctive cotton textiles on traditional looms — bright, sturdy cloth sold from the paras and at Kuakata.",
+      "venue": "Rakhine paras, Taltali"
+    },
+    {
+      "type": "festival",
+      "name": "Rakhine Jalkeli (Sangrai Water Festival)",
+      "description": "The Rakhine Buddhist new-year festival, where the community welcomes the year by throwing water — dance, music and feasting in the Taltali villages.",
+      "timing": "April (Buddhist new year)",
+      "coordinates": [21.9800, 90.1500]
+    },
+    {
+      "type": "festival",
+      "name": "Lathi Khela",
+      "description": "The Bengali stick-fighting folk martial art, demonstrated by lathials with long bamboo staffs at Pohela Boishakh and harvest gatherings — a living rural tradition in the district.",
+      "timing": "Pohela Boishakh and harvest festivals"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Bibichini Shahi Mosque (1659)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.4300, 90.1300]
+    },
+    {
+      "name": "Taltali Buddhist Temple (Rakhine Kyang)",
+      "image": "https://images.unsplash.com/photo-1545126178-862cf5a1c1c0?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9800, 90.1500]
+    },
+    {
+      "name": "Sector 9 Foundation Pillar, Bamna",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.3500, 90.0500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-barguna?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Barguna&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Barguna&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Barguna&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "barguna-haringhata-trail", "title": "Walk the mangrove boardwalk at Haringhata", "category": "experience", "detail": "A wooden trail leads out over the tidal forest on the Sundarbans fringe — deer, monkeys and birdcall, with the open Bay beyond.", "whereOrHow": "Haringhata Eco Park, Patharghata", "bestTime": "Cool months, low tide" },
+    { "id": "barguna-three-rivers", "title": "Watch three rivers meet the Bay", "category": "moment", "detail": "At Haringhata the Baleshwar, Bishkhali and Payra all pour into the Bay of Bengal — a wide, shifting meeting of fresh and salt water.", "whereOrHow": "Haringhata, Patharghata" },
+    { "id": "barguna-shuvo-sandhya", "title": "Have an empty beach to yourself at Shuvo Sandhya", "category": "place", "detail": "A quiet 4 km beach where the rivers and sea meet — sunrise and sunset both visible, and almost no crowd.", "whereOrHow": "Nalbunia, Taltali", "bestTime": "Cool months" },
+    { "id": "barguna-bibichini", "title": "Climb to the 1659 Bibichini Shahi Mosque", "category": "place", "detail": "A single-domed Mughal mosque on a 30-foot mound, built by a Persian saint and named after his daughter Bibi Chini.", "whereOrHow": "Bibichini, Betagi" },
+    { "id": "barguna-sonakata", "title": "Explore the Sonakata beach and Tengragiri forest", "category": "experience", "detail": "A wilder beach-and-mangrove combination with deer in the reserve forest and Rakhine villages close by.", "whereOrHow": "Sonakata / Asharchar, Taltali" },
+    { "id": "barguna-rakhine-para", "title": "Visit a Rakhine para and watch the weaving", "category": "experience", "detail": "The Rakhine community keeps its own language, Buddhist temples and handloom weaving along this coast.", "whereOrHow": "Rakhine paras, Taltali" },
+    { "id": "barguna-jalkeli", "title": "Join the Rakhine Jalkeli water festival", "category": "experience", "detail": "The Rakhine new-year Sangrai festival welcomes the year by throwing water — dance, music and feasting.", "whereOrHow": "Taltali Rakhine villages", "bestTime": "April" },
+    { "id": "barguna-patharghata-harbour", "title": "Watch the fishing fleet land at Patharghata", "category": "moment", "detail": "At dawn the deep-sea trawlers unload hilsa and sea fish at one of the country's biggest marine landing centres.", "whereOrHow": "Patharghata fishing harbour", "bestTime": "Dawn, fishing season" },
+    { "id": "barguna-hilsa", "title": "Eat fresh Bay-of-Bengal hilsa", "category": "food", "detail": "Hilsa straight off the boats — fried crisp or steamed in mustard, it tastes best this close to where it's caught.", "whereOrHow": "Patharghata and Barguna town eateries" },
+    { "id": "barguna-rakhine-cloth", "title": "Buy Rakhine handwoven cloth", "category": "food", "detail": "Bright, sturdy cotton woven on traditional looms — buy it directly from the weavers in the paras.", "whereOrHow": "Rakhine paras, Taltali" },
+    { "id": "barguna-coconut-naru", "title": "Try coconut naru and palm jam", "category": "food", "detail": "In a district full of coconut and palm, the local sweets and jams are the obvious thing to taste.", "whereOrHow": "Town markets and village haats" },
+    { "id": "barguna-lathi-khela", "title": "Catch a Lathi Khela display at Pohela Boishakh", "category": "experience", "detail": "Lathials spin and clash long bamboo staffs in the old Bengali stick-fighting art — a highlight of new-year and harvest gatherings.", "whereOrHow": "Village fairs across the district", "bestTime": "Pohela Boishakh / harvest" }
+  ],
+  "foods": [
+    { "name": "Bay-of-Bengal Hilsa (Ilish)", "description": "Fresh hilsa from the Bishkhali, Payra and the sea off Patharghata — fried or in a mustard curry with rice.", "whereToFind": "Patharghata and Barguna town eateries" },
+    { "name": "Marine Fish & Shrimp", "description": "Sea fish, prawn and shrimp landed by the Patharghata fleet — about as fresh as coastal fish gets.", "whereToFind": "Patharghata harbour market and local canteens" },
+    { "name": "Coconut Naru & Shuruya", "description": "Coconut sweets — naru (coconut-jaggery balls) and shuruya — from a district awash in coconut.", "whereToFind": "Town sweet shops and village homes" },
+    { "name": "Chui Pitha & Muitta Pitha", "description": "Regional coastal rice-flour cakes, simple and home-made, especially in winter.", "whereToFind": "Winter pitha stalls and homes" },
+    { "name": "Palm Jam (Taal)", "description": "Jam and sweets made from sugar-palm fruit in the late-summer taal season.", "whereToFind": "Village haats, late summer" },
+    { "name": "Coastal Shutki (Dried Fish)", "description": "Sun-dried marine fish in the bold southern coastal style — pungent, fiery and cooked into bhuna.", "whereToFind": "Patharghata and local markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Mir Sabbir",
+      "knownFor": "Popular Bangladeshi television and film actor and director; won the National Film Award for Best Actor for the 2021 film Raat Jaga Phool. Born and raised in Barguna.",
+      "era": "b. 1982"
+    },
+    {
+      "name": "Mohammed Akhtaruzzaman",
+      "knownFor": "Historian and academic, a professor and former Vice-Chancellor of the University of Dhaka, from Barguna District.",
+      "era": "academic"
+    }
+  ],
+  "didYouKnow": [
+    "Barguna fronts the Bay of Bengal and the eastern Sundarbans — at Haringhata the Baleshwar, Bishkhali and Payra rivers all empty into the sea together.",
+    "Bibichini Shahi Mosque was built in 1659 on a 30-foot mound by Hazrat Shah Neyamat Ullah, who came from Persia; the place takes its name from his daughter, Bibi Chini.",
+    "Barguna is one of Bangladesh's leading producers of coconut and betel nut.",
+    "The Rakhine community of Taltali keeps its own language, Buddhist temples and handloom weaving, and celebrates the new year with the water-throwing Jalkeli festival.",
+    "Patharghata is one of the country's major marine fish landing centres, where the deep-sea fishing fleet brings in hilsa and sea fish off the Bay."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Barguna Sadar Police Station", "phone": "—" },
+      { "name": "Patharghata Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Barguna District Hospital (Sadar)", "phone": "—" },
+      { "name": "Patharghata Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
