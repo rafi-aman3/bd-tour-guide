@@ -1,0 +1,251 @@
+{
+  "name": "Natore",
+  "division": "Rajshahi",
+  "tagline": "Royal Bengal in miniature — palace gardens, the country's biggest beel, and a sweet found nowhere else.",
+  "stats": {
+    "area": "1896.05 sq km",
+    "population": "1,577,369",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March for cool, dry weather; July to September to see Chalan Beel brimming",
+    "gettingThere": "By road from Dhaka (~220 km, ~5–6 hr) via Bonpara, or by rail — Natore sits on the main northern line with trains from Dhaka and Rajshahi.",
+    "difficulty": "Easy — the palaces and town are simple day trips; Chalan Beel is best explored by boat in the monsoon."
+  },
+  "mustVisit": [
+    {
+      "name": "Uttara Gana Bhaban (Dighapatia Rajbari)",
+      "type": "heritage",
+      "description": "A grand 18th-century palace of the Dighapatia raj family, set behind a vast gatehouse among formal gardens, ponds and marble statuary — today the official northern residence of the head of state, open to visitors as a heritage site.",
+      "history": "Built by Raja Dayaram Roy, founder of the Dighapatia zamindar line, and expanded over generations in a blend of European and Bengali styles. After 1947 it passed to the state and was named Uttara Gana Bhaban, serving as the government's residence and office in the north.",
+      "image": "https://images.unsplash.com/photo-1564399580075-5dfe19c205f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4500, 89.0000],
+      "practical": {
+        "hours": "Open to visitors on scheduled days; closed when in official use",
+        "entryFee": "Nominal entry fee",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 3 km from Natore town at Dighapatia, on the Natore–Rajshahi road",
+        "distanceKm": 3,
+        "transport": "Rickshaw / CNG from Natore town"
+      },
+      "bestTime": "Cool months; check the open days before going",
+      "tips": [
+        "Photography of the grounds is usually allowed; ask before the interior",
+        "Confirm the visiting day in advance — access closes during official use"
+      ]
+    },
+    {
+      "name": "Natore Rajbari (Rani Bhabani's Palace)",
+      "type": "heritage",
+      "description": "The sprawling palace complex of the Natore raj — courts, temples and tanks once at the heart of Rani Bhabani's vast 18th-century estate. Atmospheric, partly ruined, and quite separate from the Dighapatia palace.",
+      "history": "Seat of the Natore zamindari and of Rani Bhabani, the 18th-century queen remembered as 'Ardhabangeswari' for the breadth of her domain and her temple- and tank-building. The complex includes residential blocks, a Shyam temple and several ponds.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4150, 88.9900],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Natore town",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG within town"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Some blocks are fragile — admire from the courtyards rather than climbing",
+        "Easy to combine with Uttara Gana Bhaban in one day"
+      ]
+    },
+    {
+      "name": "Chalan Beel",
+      "type": "nature",
+      "description": "The largest beel (wetland) in Bangladesh — a vast sheet of open water in the monsoon that draws fishermen and migratory birds, and shrinks to a patchwork of paddy and channels in the dry season.",
+      "history": "A relic of an old river course spread across Natore, Sirajganj, Pabna and Natore's Singra and Gurudaspur upazilas. For centuries it has been one of the country's richest inland fisheries.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3000, 89.2000],
+      "practical": {
+        "hours": "Daylight; sunrise and sunset are the best hours on the water",
+        "entryFee": "Free; hire a boat locally",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Toward Singra / Gurudaspur, roughly 30–40 km from Natore town",
+        "distanceKm": 35,
+        "transport": "Bus or CNG to Singra, then a hired country boat"
+      },
+      "bestTime": "July to September for the full beel; winter for birds",
+      "tips": [
+        "The monsoon is when the beel is at its most spectacular and navigable",
+        "Negotiate the boat hire before setting off"
+      ]
+    },
+    {
+      "name": "Shahid Sagar (Gopalpur)",
+      "type": "landmark",
+      "description": "A memorial lake at the North Bengal Sugar Mills in Gopalpur, marking one of the 1971 Liberation War massacres — a sombre, quiet site of remembrance set around still water.",
+      "history": "In 1971 a large number of sugar-mill workers and locals were killed here by the Pakistani army; the lake and memorial were created in their memory and the place renamed Shahid Sagar — 'sea of martyrs.'",
+      "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2500, 88.9700],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Gopalpur near the North Bengal Sugar Mills in Lalpur, roughly 30 km from Natore town",
+        "distanceKm": 30,
+        "transport": "Bus or CNG toward Gopalpur / Abhaynagar"
+      },
+      "bestTime": "Cool months; around Victory Day (16 December) for commemorations",
+      "tips": [
+        "A place of mourning — keep it quiet and respectful"
+      ]
+    },
+    {
+      "name": "Green Valley Park (Lalpur)",
+      "type": "landmark",
+      "description": "A large family park and picnic spot in Lalpur with gardens, rides and a small zoo — the district's main modern leisure destination, busy with families on holidays.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2000, 88.9500],
+      "practical": {
+        "hours": "—",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Lalpur Upazila, roughly 35 km from Natore town",
+        "distanceKm": 35,
+        "transport": "Bus or CNG to Lalpur"
+      },
+      "bestTime": "Cool months; weekdays are quietest",
+      "tips": [
+        "Busy on Fridays and holidays — go early on a weekday for space"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Natore Kachagolla",
+      "description": "The district's signature sweet — a soft, shapeless chhana (curd) sweet soaked in light syrup, found nowhere else in quite the same form. It became Bangladesh's 17th Geographical Indication (GI) product in 2023.",
+      "venue": "Heritage sweet shops, Natore town"
+    },
+    {
+      "type": "food",
+      "name": "Chalan Beel Fish",
+      "description": "Freshwater fish from the country's largest beel — a mainstay of the local table and dried (shutki) in the dry season.",
+      "venue": "Singra / Gurudaspur fish markets"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Uttara Gana Bhaban (Dighapatia Rajbari)",
+      "image": "https://images.unsplash.com/photo-1564399580075-5dfe19c205f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4500, 89.0000]
+    },
+    {
+      "name": "Natore Rajbari (Rani Bhabani's Palace)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4150, 88.9900]
+    },
+    {
+      "name": "Shahid Sagar Memorial, Gopalpur",
+      "image": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2500, 88.9700]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-natore?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Natore&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "National Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (e-Ticket)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Natore&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Natore&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Natore&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "natore-kachagolla", "title": "Eat kachagolla where it was invented", "category": "food", "detail": "Soft, shapeless and barely sweet — Natore's GI-certified kachagolla tastes like nothing else. Buy it fresh from a heritage sweet shop in town, the way it has been made for two centuries.", "whereOrHow": "Natore town sweet shops" },
+    { "id": "natore-uttara-gana-bhaban", "title": "Walk the gardens of Uttara Gana Bhaban", "category": "place", "detail": "Through the great gatehouse into the formal gardens, ponds and marble statues of the Dighapatia palace — the grandest royal estate in the north.", "whereOrHow": "Dighapatia, ~3 km from town", "bestTime": "Cool months, on an open day" },
+    { "id": "natore-rajbari", "title": "Explore Rani Bhabani's Natore Rajbari", "category": "place", "detail": "The atmospheric, half-ruined palace of the 18th-century queen remembered as 'Ardhabangeswari' — courts, a Shyam temple and old tanks, quite separate from the Dighapatia palace.", "whereOrHow": "Natore town" },
+    { "id": "natore-chalan-beel", "title": "Boat across Chalan Beel in the monsoon", "category": "experience", "detail": "The country's largest beel becomes a small sea in the rains. Hire a boat from Singra and drift across open water dotted with fishing craft.", "whereOrHow": "Singra / Gurudaspur", "bestTime": "July–September" },
+    { "id": "natore-chalan-birds", "title": "Watch winter birds on the drying beel", "category": "experience", "detail": "As Chalan Beel shrinks in winter, migratory ducks and waders gather on the shallows and mudflats — a quieter, very different beel from the monsoon one.", "whereOrHow": "Chalan Beel, Singra", "bestTime": "December–February" },
+    { "id": "natore-shahid-sagar", "title": "Pay respects at Shahid Sagar", "category": "moment", "detail": "A memorial lake at the Gopalpur sugar mill marking a 1971 massacre — a still, sombre place of remembrance.", "whereOrHow": "Gopalpur, Lalpur" },
+    { "id": "natore-chalan-fish", "title": "Eat a Chalan Beel fish lunch", "category": "food", "detail": "Freshwater fish straight from the beel, cooked simple and local — best near the Singra and Gurudaspur markets.", "whereOrHow": "Singra / Gurudaspur" },
+    { "id": "natore-green-valley", "title": "Spend an afternoon at Green Valley Park", "category": "place", "detail": "The district's main family park in Lalpur — gardens, rides and a small zoo. Busy with families on holidays.", "whereOrHow": "Lalpur" },
+    { "id": "natore-banalata-sen", "title": "Recall Jibanananda's 'Banalata Sen' in Natore", "category": "moment", "detail": "The town's name lives in one of the most famous lines of modern Bengali poetry — 'Natorer Banalata Sen' — even though Banalata herself is the poet's creation.", "whereOrHow": "Natore town" },
+    { "id": "natore-rajbari-temple", "title": "Find the old temples of the Natore raj", "category": "place", "detail": "Scattered through and around the rajbari complexes are temples and tanks endowed by Rani Bhabani — small, weathered, and easy to miss.", "whereOrHow": "Natore Rajbari grounds" }
+  ],
+  "foods": [
+    { "name": "Natore Kachagolla", "description": "The district's GI-certified signature sweet — soft, shapeless curd (chhana) in light syrup, found nowhere else in quite the same form.", "whereToFind": "Heritage sweet shops, Natore town" },
+    { "name": "Chalan Beel Fish", "description": "Freshwater fish from the country's largest beel — eaten fresh, and dried as shutki in the dry season.", "whereToFind": "Singra / Gurudaspur markets" },
+    { "name": "Khejur Gur", "description": "Concentrated date-palm jaggery from the winter sap harvest — a north-Bengal winter staple and the base of the season's pithas.", "whereToFind": "Rural haats, December–February" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Rani Bhabani",
+      "knownFor": "The 18th-century zamindar queen of Natore, remembered as 'Ardhabangeswari' — 'queen of half Bengal' — for the breadth of her estate and her renowned philanthropy, temple-building and excavation of tanks across the region.",
+      "era": "1716 – 1795"
+    }
+  ],
+  "didYouKnow": [
+    "Natore's kachagolla — a soft, shapeless chhana sweet — became Bangladesh's 17th Geographical Indication (GI) product in 2023, and remains the district's only GI item.",
+    "Uttara Gana Bhaban, the old Dighapatia Rajbari, serves as the official northern residence of the head of state.",
+    "Chalan Beel, the largest beel (wetland) in Bangladesh, spreads across Natore and neighbouring districts — a small sea in the monsoon, farmland in the dry season.",
+    "Rani Bhabani, the 18th-century queen of Natore, was remembered as 'Ardhabangeswari' — queen of half Bengal — for her vast domain and her philanthropy.",
+    "The poet Jibanananda Das made the town immortal in 'Banalata Sen' — '...Natorer Banalata Sen' — though Banalata herself is a creation of the poem.",
+    "Shahid Sagar at Gopalpur is a memorial lake at the North Bengal Sugar Mills marking a 1971 Liberation War massacre."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Natore Sadar Model Thana", "phone": "—" },
+      { "name": "Singra Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Natore Sadar Hospital", "phone": "—" },
+      { "name": "Singra Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
