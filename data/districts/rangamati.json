@@ -1,0 +1,296 @@
+{
+  "name": "Rangamati",
+  "division": "Chattogram",
+  "tagline": "The blue lake among the hills — Kaptai's waters, the hanging bridge, and the living cultures of the Chittagong Hill Tracts.",
+  "stats": {
+    "area": "6,116 sq km",
+    "population": "666,627",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry, clear lake views). The hill new-year Boisabi falls in mid-April; Kathin Chibar Dan at Rajban Vihara is in late autumn.",
+    "gettingThere": "By road from Chattogram (~75 km, ~2.5 hr) or Dhaka (~310 km, ~8–9 hr by overnight coach). Within the district the boat is king — Kaptai Lake is the highway, and most sights are reached by engine-boat. The Chittagong Hill Tracts is a sensitive border region: check current travel advisories, and note that some upazilas (and travel for foreign nationals) may require prior permission.",
+    "difficulty": "Moderate — the town and lake are easy, but hill destinations like Sajek and Shuvolong mean long boat or jeep journeys. Respect local communities, and check the security and permission situation before heading into remote upazilas."
+  },
+  "mustVisit": [
+    {
+      "name": "Kaptai Lake",
+      "type": "nature",
+      "description": "The largest man-made lake in Bangladesh — a vast sheet of blue water threading between forested hills, dotted with islands and the everyday boats of the people who live along it.",
+      "history": "The lake was formed in the early 1960s when the Kaptai Dam was built across the Karnaphuli river for hydroelectric power. The reservoir flooded a huge area — including the old Chakma royal capital and much prime farmland — and reshaped life across the hill tracts.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6000, 92.2000],
+      "practical": {
+        "hours": "Best by day; boats from Rangamati town ghats",
+        "entryFee": "Boat hire by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "The lake wraps around Rangamati town itself",
+        "distanceKm": 1,
+        "transport": "Engine-boat or country boat from the town ghats"
+      },
+      "bestTime": "Cool, dry months for the clearest blue water",
+      "tips": [
+        "Hire a boat for a half-day to reach Shuvolong and the island restaurants",
+        "Agree the boat fare and route before setting off",
+        "Carry water and sun protection — there is little shade on the water"
+      ]
+    },
+    {
+      "name": "Rangamati Hanging Bridge",
+      "type": "landmark",
+      "description": "The 335-foot suspension footbridge over an arm of Kaptai Lake — the picture-postcard symbol of Rangamati, swaying gently above the blue water.",
+      "history": "Built by the tourism authority as the district's signature attraction, the colourful 'jhulonto bridge' links two hills across an inlet of the lake. It occasionally closes when high water submerges the deck.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6300, 92.1700],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At the Parjatan complex, Rangamati Sadar",
+        "distanceKm": 3,
+        "transport": "CNG / boat from town"
+      },
+      "bestTime": "Morning or late afternoon for the light on the lake",
+      "tips": [
+        "Check before visiting in the monsoon — it can be underwater",
+        "It gets crowded on holidays; go early"
+      ]
+    },
+    {
+      "name": "Sajek Valley",
+      "type": "nature",
+      "description": "The 'queen of hills' — a high ridge of rolling green and cloud in Baghaichhari, where the sunrise breaks over a sea of mist and the nights are cold and starry.",
+      "history": "Sajek lies in the far north of Rangamati district, home to Lushai, Pankho and Tripura communities. It has become one of the country's most popular hill getaways, with cottages strung along the ridge.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.3833, 92.2950],
+      "practical": {
+        "hours": "Overnight stays; vehicles travel in scheduled convoys",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Baghaichhari, far north Rangamati — usually reached via Khagrachhari (Dighinala), not from Rangamati town",
+        "distanceKm": 95,
+        "transport": "Jeep ('chander gari') from Khagrachhari, often in an army-escorted convoy"
+      },
+      "bestTime": "Cool months for clear sunrises; the cloud is thickest after rain",
+      "tips": [
+        "Book a cottage ahead — Sajek fills up on weekends and holidays",
+        "Travel times follow the convoy schedule; plan around it",
+        "Carry cash and check the current security situation before going"
+      ]
+    },
+    {
+      "name": "Shuvolong Waterfall",
+      "type": "nature",
+      "description": "A waterfall tumbling down a hillside straight toward Kaptai Lake in Barkal — reached only by boat, the cascade fullest after the rains.",
+      "history": "Shuvolong (Subhalong) is one of several falls in the area, and the most visited because a boat can pull right up to its foot. Around it rise steep hills and quiet hill-community villages.",
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6700, 92.2700],
+      "practical": {
+        "hours": "Daylight; go by boat from Rangamati",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Barkal, reached by engine-boat across Kaptai Lake (~1–1.5 hr)",
+        "distanceKm": 25,
+        "transport": "Engine-boat from Rangamati town ghats"
+      },
+      "bestTime": "Just after the monsoon, when the fall is at full flow",
+      "tips": [
+        "The fall shrinks in the dry season — temper expectations in winter",
+        "Combine with a longer Kaptai Lake boat tour"
+      ]
+    },
+    {
+      "name": "Rajban Vihara",
+      "type": "religious",
+      "description": "The largest Buddhist monastery in Bangladesh — a serene 33-acre complex on the edge of Kaptai Lake, founded under the revered meditation master Bana Bhante.",
+      "history": "Established in the 1970s at the initiative of the Chakma royal family, Rajban Vihara became the seat of Sadhanananda Mahasthabir (Bana Bhante). Its annual Kathin Chibar Dan — in which robes are woven and offered to monks within 24 hours — draws pilgrims from across the hill tracts and beyond.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6450, 92.1820],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the lakeshore in Rangamati Sadar",
+        "distanceKm": 3,
+        "transport": "CNG / boat from town"
+      },
+      "bestTime": "Kathin Chibar Dan (late autumn) for the festival; mornings for quiet",
+      "tips": [
+        "Dress modestly and remove shoes in the shrine",
+        "Maintain silence — it is an active meditation monastery"
+      ]
+    },
+    {
+      "name": "Chakma Rajbari",
+      "type": "culture",
+      "description": "The palace of the Chakma Circle Chief — the seat of one of the three traditional 'circle' kingdoms of the Chittagong Hill Tracts, and a window into Chakma royal heritage.",
+      "history": "The present Chakma Rajbari was built in 1960 at the new Rangamati town, after the old royal capital was lost beneath Kaptai Lake. The Chakma Raja remains the customary head of the Chakma Circle. The nearby Tribal Cultural Institute Museum displays the dress, tools and crafts of the hill peoples.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6500, 92.1750],
+      "practical": {
+        "hours": "Exterior viewable by day; the museum keeps its own hours",
+        "entryFee": "Museum: nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Rangamati town",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG within town"
+      },
+      "bestTime": "Daytime; pair with the Tribal Cultural Institute Museum",
+      "tips": [
+        "It is a private residence — view respectfully from outside",
+        "The museum nearby is the better place to learn the hill cultures"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Bamboo Chicken (Sumoh Huro)",
+      "description": "The Chakma signature — chicken stuffed with herbs into a green bamboo tube and cooked over fire, taking its aroma from the bamboo itself. Any dish cooked this way is a 'sumoh gorang'.",
+      "venue": "Rangamati hill-cuisine restaurants and island eateries"
+    },
+    {
+      "type": "craft",
+      "name": "Backstrap-Loom Weaving (Pinon-Hadi)",
+      "description": "Chakma and Marma women weave bright, intricately patterned cloth on backstrap looms — the pinon-hadi (the women's traditional wrap and shawl) is the best-known piece.",
+      "venue": "Rangamati weaving markets and the Tribal Cultural Institute"
+    },
+    {
+      "type": "festival",
+      "name": "Boisabi",
+      "description": "The shared hill new-year festival — Chakma Biju, Marma Sangrai and Tripura Boisuk together — with flower offerings, the pajon feast, water-throwing and dance in mid-April.",
+      "timing": "Mid-April (around the Bengali new year)"
+    },
+    {
+      "type": "festival",
+      "name": "Kathin Chibar Dan",
+      "description": "A Buddhist robe-offering festival at Rajban Vihara in which a robe is spun, woven and offered to the monks within 24 hours — drawing huge crowds of devotees in late autumn.",
+      "timing": "Late autumn (after the Buddhist Lent)",
+      "coordinates": [22.6450, 92.1820]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Rajban Vihara",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6450, 92.1820]
+    },
+    {
+      "name": "Chakma Rajbari (1960)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6500, 92.1750]
+    },
+    {
+      "name": "Kaptai Dam (1961)",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.4950, 92.2200]
+    },
+    {
+      "name": "Tribal Cultural Institute Museum",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6480, 92.1740]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-rangamati?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Rangamati&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Rangamati&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Rangamati&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "rangamati-hanging-bridge", "title": "Cross the Rangamati Hanging Bridge", "category": "moment", "detail": "Walk the swaying 335-foot suspension bridge over an arm of Kaptai Lake — the district's signature view.", "whereOrHow": "Parjatan complex, Rangamati Sadar" },
+    { "id": "rangamati-kaptai-boat", "title": "Take an engine-boat across Kaptai Lake", "category": "experience", "detail": "On the largest man-made lake in the country, the boat is the road — glide between forested islands and hill villages.", "whereOrHow": "Rangamati town ghats", "bestTime": "Cool months" },
+    { "id": "rangamati-sajek-sunrise", "title": "Watch sunrise over the clouds at Sajek", "category": "moment", "detail": "The 'queen of hills' floats above a sea of mist at dawn — cold nights, starry skies and rolling green by day.", "whereOrHow": "Sajek Valley, Baghaichhari (via Khagrachhari)", "bestTime": "Cool months" },
+    { "id": "rangamati-shuvolong", "title": "Boat to Shuvolong Waterfall", "category": "place", "detail": "A waterfall that pours toward the lake in Barkal, reached only by boat and fullest after the rains.", "whereOrHow": "Barkal, by boat from Rangamati" },
+    { "id": "rangamati-rajban-vihara", "title": "Find quiet at Rajban Vihara", "category": "place", "detail": "The largest Buddhist monastery in Bangladesh, founded under the revered Bana Bhante, on the edge of the lake.", "whereOrHow": "Rangamati Sadar lakeshore" },
+    { "id": "rangamati-kathin-chibar", "title": "Witness Kathin Chibar Dan", "category": "experience", "detail": "A robe spun, woven and offered to the monks within 24 hours — a Buddhist festival that fills Rajban Vihara each late autumn.", "whereOrHow": "Rajban Vihara", "bestTime": "Late autumn" },
+    { "id": "rangamati-bamboo-chicken", "title": "Eat bamboo chicken", "category": "food", "detail": "Chicken cooked inside a green bamboo tube with hill herbs — the Chakma 'sumoh huro', smoky and fragrant.", "whereOrHow": "Hill-cuisine restaurants and island eateries" },
+    { "id": "rangamati-hebang-pajon", "title": "Try hebang and pajon", "category": "food", "detail": "Bamboo-tube dishes (hebang) and the mixed-vegetable pajon — herb-forward, low on spice, full of the hills.", "whereOrHow": "Chakma restaurants, Rangamati" },
+    { "id": "rangamati-cultural-museum", "title": "Visit the Tribal Cultural Institute Museum", "category": "place", "detail": "The dress, tools, instruments and crafts of the Chakma, Marma, Tanchangya, Tripura and other hill peoples under one roof.", "whereOrHow": "Rangamati town" },
+    { "id": "rangamati-pinon-hadi", "title": "Buy a handwoven pinon-hadi", "category": "food", "detail": "Bright backstrap-loom cloth woven by Chakma and Marma women — buy it from the weavers themselves.", "whereOrHow": "Rangamati weaving markets" },
+    { "id": "rangamati-boisabi", "title": "Join the Boisabi hill new year", "category": "experience", "detail": "Flowers floated on the water, the pajon feast, water-throwing and dance as Chakma, Marma and Tripura see in the new year together.", "whereOrHow": "Across the district", "bestTime": "Mid-April" },
+    { "id": "rangamati-floating-restaurant", "title": "Eat at a floating lake restaurant", "category": "food", "detail": "Island eateries like Peda Ting Ting serve Chakma food with the lake lapping at the deck.", "whereOrHow": "Kaptai Lake islands, by boat" }
+  ],
+  "foods": [
+    { "name": "Bamboo Chicken (Sumoh Huro)", "description": "Chicken and herbs cooked inside a green bamboo tube over fire — the Chakma signature dish.", "whereToFind": "Hill-cuisine restaurants and island eateries" },
+    { "name": "Hebang", "description": "Fish or vegetables wrapped and steamed in banana leaf inside bamboo — a fragrant, near spice-free hill preparation.", "whereToFind": "Chakma restaurants, Rangamati" },
+    { "name": "Pajon (Pachon)", "description": "A medley of many seasonal vegetables and hillside herbs cooked together — the festive dish of Biju/Boisabi.", "whereToFind": "Hill-cuisine kitchens, especially at Boisabi" },
+    { "name": "Nappi-flavoured Dishes", "description": "Hill cooking often built on nappi (fermented fish/shrimp paste) for a deep, pungent base.", "whereToFind": "Chakma and Marma eateries" },
+    { "name": "Binni Rice", "description": "Sticky 'binni' rice, sometimes cooked in bamboo, eaten plain or with hill sweets.", "whereToFind": "Local markets and restaurants" },
+    { "name": "Kaptai Lake Fish", "description": "Freshwater fish from the lake — kechki, chapila and more — fried fresh or in light curries.", "whereToFind": "Lakeside and island restaurants" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Sadhanananda Mahasthabir (Bana Bhante)",
+      "knownFor": "Revered Theravada Buddhist meditation master and founding spiritual head of Rajban Vihara; born Rathindra Chakma at Moghban in Rangamati Sadar. One of the most venerated monks of the hill tracts.",
+      "era": "1920 – 2012"
+    }
+  ],
+  "didYouKnow": [
+    "Rangamati is the largest district in Bangladesh by area (6,116 sq km), and the majority of its people are indigenous — Chakma, Marma, Tanchangya, Tripura and others.",
+    "Kaptai Lake, the largest man-made lake in the country, was formed in the early 1960s by the Kaptai Dam on the Karnaphuli — the rising water submerged the old Chakma royal capital and much farmland.",
+    "The Rangamati Hanging Bridge, a 335-foot suspension footbridge over an arm of the lake, is the district's best-known symbol.",
+    "Rajban Vihara, founded in the 1970s under the revered monk Bana Bhante, is the largest Buddhist monastery in Bangladesh; its Kathin Chibar Dan festival sees a robe woven and offered within 24 hours.",
+    "Sajek Valley, the 'queen of hills', lies within Rangamati's Baghaichhari upazila though it is usually reached through neighbouring Khagrachhari."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Rangamati Kotwali Police Station", "phone": "—" },
+      { "name": "Kaptai Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Rangamati General Hospital", "phone": "—" },
+      { "name": "Kaptai Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
