@@ -1,0 +1,311 @@
+{
+  "name": "Sunamganj",
+  "division": "Sylhet",
+  "tagline": "Bangladesh's haor country and the cradle of Baul song — the Ramsar wetland of Tanguar, the crimson Shimul Bagan, sapphire Niladri under the Meghalaya hills, and the home of Hason Raja and Shah Abdul Karim.",
+  "stats": {
+    "area": "3,747.18 sq km",
+    "population": "2,695,496",
+    "established": "1984",
+    "attractions": "7+"
+  },
+  "guide": {
+    "bestTime": "The haor has two faces: the monsoon (roughly June–September) fills it into a vast inland sea, best for houseboat trips on Tanguar; the cool dry months (November–March) bring migratory birds, the Shimul Bagan bloom in Feb–March, and easy roads to the Tahirpur sights.",
+    "gettingThere": "By road from Dhaka (~direct overnight coaches, ~7 hr) or Sylhet (~50 km, ~1.5–2 hr). There is no railway and no airport — the nearest is Osmani International in Sylhet. Within the haor, boats are not optional: many sights and villages are reached only by water, especially in the rains.",
+    "difficulty": "Moderate — the town and roadside sights are easy, but the marquee haor experiences mean boat travel, and the monsoon turns much of the district into open water."
+  },
+  "mustVisit": [
+    {
+      "name": "Tanguar Haor",
+      "type": "nature",
+      "description": "The great wetland at the heart of the district — Bangladesh's second Ramsar site — a shifting world of open water, reed islands and fishing villages, alive with migratory birds in winter and best seen from a houseboat.",
+      "history": "Tanguar Haor was declared an Ecologically Critical Area in 1999 and designated a Ramsar Wetland of International Importance in 2000, after only the Sundarbans. Its roughly 9,500 hectares hold scores of fish species and a great winter congregation of waterbirds.",
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1300, 91.1000],
+      "practical": {
+        "hours": "Daytime boat trips; overnight houseboat tours are popular",
+        "entryFee": "Boat hire by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Tahirpur upazila, ~40 km north of Sunamganj town",
+        "distanceKm": 40,
+        "transport": "Road to Tahirpur, then engine boat or houseboat"
+      },
+      "bestTime": "Monsoon for the full sheet of water; winter for migratory birds",
+      "tips": [
+        "A houseboat overnight is the classic way to experience it",
+        "Agree the boat fare and route in advance",
+        "It is a protected wetland — don't disturb the birds or fishing"
+      ]
+    },
+    {
+      "name": "Shimul Bagan",
+      "type": "nature",
+      "description": "A garden of some three thousand red silk-cotton trees on the bank of the Jadukata — in late winter the whole grove turns crimson, one of the most photographed sights in the country.",
+      "history": "The Joynal Abedin Shimul Garden was planted on the Jadukata's bank in 2002 by a single man, Joynal Abedin, across more than thirty acres. It blooms scarlet through Falgun and Chaitra (February–March).",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1800, 91.1000],
+      "practical": {
+        "hours": "Daytime; the bloom is Feb–March",
+        "entryFee": "Nominal entry",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Manigaon, Tahirpur, ~40 km north of town",
+        "distanceKm": 40,
+        "transport": "Road to Tahirpur/Laurergarh, then local transport"
+      },
+      "bestTime": "February–March, for the red bloom",
+      "tips": [
+        "Time your visit for the Falgun bloom — out of season it is just green",
+        "Combine with the Jadukata river right alongside"
+      ]
+    },
+    {
+      "name": "Niladri Lake (Shaheed Siraj Lake)",
+      "type": "nature",
+      "description": "A sapphire-blue lake in an abandoned limestone quarry near Tekerghat, ringed by low cliffs with the Meghalaya hills rising behind — nicknamed the 'Kashmir of Bangladesh'.",
+      "history": "The quarry once fed the region's cement works until the project closed in the 1990s; rainwater filled the pit, turning it an unreal blue-green. It is officially named Shaheed Siraj Lake, after a martyr of the 1971 war.",
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1850, 91.1050],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Tekerghat, Tahirpur, ~45 km north on the Meghalaya border",
+        "distanceKm": 45,
+        "transport": "Road/boat to Tekerghat from Tahirpur"
+      },
+      "bestTime": "Cool, dry months for the clearest blue water",
+      "tips": [
+        "The water is deep and cold — take care at the edges",
+        "Pair it with the Jadukata and Shimul Bagan in one Tahirpur loop"
+      ]
+    },
+    {
+      "name": "Jadukata River & Barikka Tila",
+      "type": "nature",
+      "description": "A clear, blue-green river rushing down from the Meghalaya hills over a bed of sand and pebbles, with the forested hillock of Barikka Tila rising above it for the best view across to India.",
+      "history": "The Jadukata flows about 37 km from the Khasi hills into Sunamganj, famed for its clear water and its sand and stone. Each year it hosts the great Maha Baruni Snan bathing festival, and Barikka Tila on its bank is a favourite viewpoint.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1700, 91.1100],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Tahirpur, ~40 km north of town",
+        "distanceKm": 40,
+        "transport": "Road to Laurergarh/Tahirpur, then local transport or boat"
+      },
+      "bestTime": "Cool, dry months for clear water; the Baruni Snan falls in spring",
+      "tips": [
+        "Climb Barikka Tila for the view over the river to the Meghalaya hills",
+        "The river is a border zone — carry ID and follow local guidance"
+      ]
+    },
+    {
+      "name": "Shah Arefin Tila & Mazar",
+      "type": "religious",
+      "description": "A hilltop shrine of the Sufi saint Hazrat Shah Arefin at Laurergarh, near the Jadukata — its century-old annual urs drawing pilgrims, and famously held alongside the Hindu Baruni Snan in a show of shared festival.",
+      "history": "The mokam (shrine) of Shah Arefin sits on a hillock by the border. Its urs fair, more than a hundred years old, takes place at the same time as the Maha Baruni Snan on the Jadukata — Muslim and Hindu gatherings side by side.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1850, 91.1200],
+      "practical": {
+        "hours": "Daylight hours; busiest at the urs",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Laurergarh, Tahirpur, ~40 km north of town",
+        "distanceKm": 40,
+        "transport": "Road to Laurergarh, then a climb to the shrine"
+      },
+      "bestTime": "The spring urs; mornings for quiet otherwise",
+      "tips": [
+        "Be respectful — it is an active shrine and place of pilgrimage",
+        "The urs and Baruni Snan together are an extraordinary sight"
+      ]
+    },
+    {
+      "name": "Hason Raja Museum",
+      "type": "culture",
+      "description": "A museum in Sunamganj town at the home of the mystic poet and zamindar Hason Raja — keeping the memorabilia, manuscripts and instruments of one of Bengal's great folk-philosophers.",
+      "history": "Hason Raja (1854–1922), born here in Sunamganj, gave up the life of a landlord for mystic song, leaving behind verses still sung across the country. The museum, run by the Hason Raja Trust, preserves his legacy at Lokkonshri.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0700, 91.4000],
+      "practical": {
+        "hours": "Daytime; closed on its weekly off-day",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Sunamganj town (Lokkonshri)",
+        "distanceKm": 1,
+        "transport": "Rickshaw or walk within town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "A fitting first stop before heading into the haor country he sang of",
+        "Look for his manuscripts and the instruments of his music"
+      ]
+    },
+    {
+      "name": "The Haors of Sunamganj (Matian, Shanir, Dekhar)",
+      "type": "nature",
+      "description": "Beyond Tanguar lie a constellation of other great wetlands — Matian and Shanir near Tahirpur, Dekhar toward the south — each a boro-rice bowl in winter and an inland sea in the rains.",
+      "history": "These haors are the lifeblood of the district: drained and farmed for dry-season paddy, then flooded each monsoon into vast sheets of water that feed the region's fisheries and shape its way of life.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1200, 91.0800],
+      "practical": {
+        "hours": "Daytime boat trips",
+        "entryFee": "Boat hire by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Matian & Shanir near Tahirpur (~40 km); Dekhar toward Shantiganj/Sadar",
+        "distanceKm": 20,
+        "transport": "Road then engine boat"
+      },
+      "bestTime": "Monsoon for the open water; winter for the boro fields and birds",
+      "tips": [
+        "Boats are the only way across in the monsoon",
+        "Sunrise and sunset over the open haor are unforgettable"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "festival",
+      "name": "Maha Baruni Snan & Shah Arefin Urs",
+      "description": "Each spring the Jadukata draws huge crowds for the Hindu Maha Baruni Snan ritual bathing, held at the same time as the century-old urs of the Sufi saint Shah Arefin on the hill above — two great festivals, side by side.",
+      "timing": "Spring (Chaitra), by the Hindu lunar calendar",
+      "coordinates": [25.1850, 91.1200]
+    },
+    {
+      "type": "food",
+      "name": "Haor Fish",
+      "description": "Freshwater fish straight from the wetlands — the district's defining food, cooked fresh in light curries or dried into shutki for the rest of the year.",
+      "venue": "Local markets and haor-side kitchens"
+    },
+    {
+      "type": "food",
+      "name": "Satkora & Shutki",
+      "description": "The Sylhet region's flavours run strong here — beef and meat dishes scented with satkora citrus, and pungent shutki (dried fish) curries.",
+      "venue": "Local restaurants across the district"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Hason Raja's home & museum",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0700, 91.4000]
+    },
+    {
+      "name": "Shah Arefin Mazar, Laurergarh",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1850, 91.1200]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-sunamganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Sunamganj&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Sunamganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Sunamganj&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3001" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "sunamganj-tanguar-houseboat", "title": "Spend a night on a Tanguar Haor houseboat", "category": "experience", "detail": "Drift across Bangladesh's second Ramsar wetland, sleeping on the water under the stars.", "whereOrHow": "Tanguar Haor, Tahirpur", "bestTime": "Monsoon for the open water" },
+    { "id": "sunamganj-shimul-bagan", "title": "See the Shimul Bagan in red bloom", "category": "moment", "detail": "Three thousand silk-cotton trees turn crimson on the Jadukata's bank each Falgun.", "whereOrHow": "Manigaon, Tahirpur", "bestTime": "Feb–March" },
+    { "id": "sunamganj-niladri", "title": "Swim the blue of Niladri Lake", "category": "place", "detail": "A sapphire former limestone quarry under the Meghalaya hills — the 'Kashmir of Bangladesh'.", "whereOrHow": "Tekerghat, Tahirpur" },
+    { "id": "sunamganj-jadukata", "title": "Wade the clear Jadukata River", "category": "place", "detail": "Blue-green water over sand and pebbles, rushing down from the Khasi hills of Meghalaya.", "whereOrHow": "Tahirpur" },
+    { "id": "sunamganj-barikka-tila", "title": "Climb Barikka Tila for the border view", "category": "moment", "detail": "A forested hillock over the Jadukata, looking across to the hills of India.", "whereOrHow": "Tahirpur" },
+    { "id": "sunamganj-shah-arefin", "title": "Witness the Baruni Snan and Shah Arefin urs", "category": "experience", "detail": "Hindu ritual bathing on the Jadukata and the Sufi saint's urs on the hill above — two festivals side by side.", "whereOrHow": "Laurergarh, Tahirpur", "bestTime": "Spring (Chaitra)" },
+    { "id": "sunamganj-hason-raja", "title": "Visit the Hason Raja Museum", "category": "place", "detail": "The home and memorabilia of the mystic poet-zamindar whose songs are still sung across Bengal.", "whereOrHow": "Sunamganj town" },
+    { "id": "sunamganj-baul-song", "title": "Hear Baul song in its heartland", "category": "experience", "detail": "Sunamganj gave the country Hason Raja and Shah Abdul Karim — seek out the living folk-music tradition.", "whereOrHow": "Across the district, esp. Dirai" },
+    { "id": "sunamganj-haor-fish", "title": "Eat fresh haor fish", "category": "food", "detail": "Freshwater fish straight from the wetlands, cooked simply and fresh.", "whereOrHow": "Local markets and kitchens" },
+    { "id": "sunamganj-satkora-beef", "title": "Try satkora beef", "category": "food", "detail": "The Sylhet region's signature — beef scented with the satkora citrus.", "whereOrHow": "Local restaurants" },
+    { "id": "sunamganj-boro-fields", "title": "Walk the boro-rice fields in winter", "category": "moment", "detail": "Before the monsoon refills the haor, the drained beds become a vast green-gold rice bowl.", "whereOrHow": "Across the haor upazilas", "bestTime": "Winter / early spring" },
+    { "id": "sunamganj-bird-watching", "title": "Watch winter migratory birds", "category": "experience", "detail": "Tanguar and the other haors host great congregations of waterbirds in the cool months.", "whereOrHow": "Tanguar Haor", "bestTime": "Winter" }
+  ],
+  "foods": [
+    { "name": "Haor Fish", "description": "Freshwater fish from the wetlands — the district's defining food, cooked fresh in light curries.", "whereToFind": "Local markets and haor-side kitchens" },
+    { "name": "Shutki (Dried Fish)", "description": "Haor fish sun-dried and cooked into the pungent shutki curries the Sylhet region loves.", "whereToFind": "Local markets and restaurants" },
+    { "name": "Satkora Beef", "description": "Beef simmered with satkora, the Sylheti citrus that gives the region's meat dishes their distinctive tang.", "whereToFind": "Local restaurants" },
+    { "name": "Duck Curry", "description": "A haor-country winter favourite — duck cooked in a rich, spiced gravy, often eaten with chitoi or rice.", "whereToFind": "Home kitchens and local eateries in winter" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Hason Raja",
+      "knownFor": "Mystic poet, songwriter and zamindar born in Sunamganj, who turned from the life of a landlord to spiritual song — his verses on the soul and the divine are still sung across Bengal.",
+      "era": "1854 – 1922"
+    },
+    {
+      "name": "Shah Abdul Karim",
+      "knownFor": "The 'Baul Samrat' (Emperor of Baul), born at Ujandhal in Dirai upazila — a legendary folk singer and composer of some fifteen hundred songs of love, justice and the land.",
+      "era": "1916 – 2009"
+    },
+    {
+      "name": "Radharaman Dutta",
+      "knownFor": "Baul poet and the father of the Dhamail song-and-dance tradition, born at Keshabpur in Jagannathpur — a foundational figure of the region's folk music.",
+      "era": "1833 – 1915"
+    }
+  ],
+  "didYouKnow": [
+    "Tanguar Haor is Bangladesh's second Ramsar wetland of international importance, designated in 2000 — after only the Sundarbans.",
+    "Sunamganj is the heartland of Bangladeshi Baul and folk music, the home of both Hason Raja (born 1854) and the 'Baul Samrat' Shah Abdul Karim (born 1916).",
+    "Shimul Bagan, a garden of around three thousand red silk-cotton trees on the Jadukata's bank, was planted by one man, Joynal Abedin, in 2002 — and turns crimson every February–March.",
+    "Sunamganj's haors form one of the country's great boro-rice bowls, harvested in the dry season before the monsoon floods refill the wetlands.",
+    "Niladri Lake and the Jadukata River sit right on the Meghalaya (India) border, where the Khasi-Jaintia hills rise behind a sapphire-blue former limestone quarry."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Sunamganj Sadar Model Thana", "phone": "—" },
+      { "name": "Tahirpur Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Sunamganj 250-Bed District Sadar Hospital", "phone": "—" },
+      { "name": "Tahirpur Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
