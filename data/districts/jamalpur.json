@@ -1,0 +1,286 @@
+{
+  "name": "Jamalpur",
+  "division": "Mymensingh",
+  "tagline": "The land of nakshi kantha — embroidered quilts by the hundred, the Sufi shrine that gave the town its name, and the Garo hills rising at Lauchapra on the Meghalaya border.",
+  "stats": {
+    "area": "2,115.16 sq km",
+    "population": "2,499,738",
+    "established": "1978",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March for dry, cool weather — the best season for Lauchapra, the riverfront and the out-of-town shrines and museums.",
+    "gettingThere": "By road from Dhaka (~190 km, ~4–5 hr), or by rail through Jamalpur Town Junction — a junction since 1894 — with intercity trains such as the Jamuna and Tista Express. The town sits on the Old Brahmaputra; the Garo-hills spot of Lauchapra in the north is most easily reached via Sherpur.",
+    "difficulty": "Easy — the town sights are close together, and Melandaha, Dewanganj, Islampur and Bakshiganj are day trips by bus, train or CNG."
+  },
+  "mustVisit": [
+    {
+      "name": "Shrine of Hazrat Shah Jamal (RA)",
+      "type": "religious",
+      "description": "The shrine of the Sufi saint who gave the town and district their name — a quiet place of devotion near the Old Brahmaputra in Jamalpur Sadar.",
+      "history": "Tradition holds that Hazrat Shah Jamal came to this region centuries ago to spread Islam; the settlement, once called Singhjani, took the name Jamalpur from him. His mazar remains a focus of local veneration.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9200, 89.9400],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Jamalpur town, near the Old Brahmaputra",
+        "distanceKm": 1,
+        "transport": "Rickshaw or walk within town"
+      },
+      "bestTime": "Mornings for quiet",
+      "tips": [
+        "Dress modestly and be respectful — it is an active place of devotion",
+        "Pair it with the Doyamoyee Mandir and the riverfront in town"
+      ]
+    },
+    {
+      "name": "Doyamoyee Mandir",
+      "type": "religious",
+      "description": "An old Hindu temple complex near the heart of Jamalpur town, with shrines to Shiva and Kali and a pillared nat-mandir — one of the district's most enduring pieces of heritage.",
+      "history": "Commonly said to be around three centuries old (with a founding sometimes dated to the late 17th century), the Doyamoyee temple has long been a centre of worship and festival in the town.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9180, 89.9380],
+      "practical": {
+        "hours": "Daylight hours; busiest at Hindu festivals",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Central Jamalpur town, near 'zero point'",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Daytime; festival days for the atmosphere",
+      "tips": [
+        "Be respectful and quiet — it is an active temple",
+        "Look for the nat-mandir and the older brick shrines"
+      ]
+    },
+    {
+      "name": "Lauchapra Picnic Spot",
+      "type": "nature",
+      "description": "Jamalpur's only hill country — a green eco-spot on the Garo Hills border with India's Meghalaya, with watch-towers, a lake and forest, where the plains rise suddenly into hills.",
+      "history": "Developed by the Zila Parishad as a picnic and eco-tourism spot in the far north of Bakshiganj upazila, Lauchapra looks straight across to the Garo Hills and the homeland of the Garo communities of the borderlands.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2700, 90.0500],
+      "practical": {
+        "hours": "Daytime; a day-trip picnic spot",
+        "entryFee": "Nominal entry",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Far north in Bakshiganj upazila, ~10 km beyond Bakshiganj sadar",
+        "distanceKm": 50,
+        "transport": "Bus/CNG via Bakshiganj (road access is often easiest via Sherpur)"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "It is a border zone — carry ID and follow any local guidance",
+        "Go early to make the most of the day and the light on the hills"
+      ]
+    },
+    {
+      "name": "Gandhi Ashram & Freedom Struggle Museum",
+      "type": "culture",
+      "description": "A Gandhian ashram on the bank of the Jhinai River in Melandaha, carrying on self-reliance and handicraft work, with a museum of the freedom struggle.",
+      "history": "Founded in 1934 by Nasir Uddin Sarkar to spread Gandhi's message of non-violence and self-reliance, the ashram became a hub of khadi and rural craft; a Freedom Struggle Museum was added in 2007.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9600, 89.8300],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Melandaha upazila, on the Jhinai River, ~15 km from town",
+        "distanceKm": 15,
+        "transport": "Bus or CNG to Melandaha"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Allow time for the museum and the riverside grounds",
+        "A good window into the district's craft and freedom-struggle history"
+      ]
+    },
+    {
+      "name": "Zeal Bangla Sugar Mills",
+      "type": "landmark",
+      "description": "One of the oldest sugar mills in the country, at Dewanganj — its tall chimneys and crushing season a piece of living industrial heritage on the northern plains.",
+      "history": "Established in 1957 (originally as Zeal Pak Sugar Mills, renamed after independence), the mill has milled cane through the decades and remains a landmark of the district's industrial past and present.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0700, 89.6500],
+      "practical": {
+        "hours": "An operating industrial site — view from the public approach",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Dewanganj upazila, north-west of Jamalpur town",
+        "distanceKm": 40,
+        "transport": "Bus or train to Dewanganj"
+      },
+      "bestTime": "Crushing season (winter) for the mill at work",
+      "tips": [
+        "It is a working factory — do not enter restricted areas",
+        "Best appreciated for the heritage architecture from outside"
+      ]
+    },
+    {
+      "name": "Old Brahmaputra Riverfront",
+      "type": "nature",
+      "description": "The wide, slow Old Brahmaputra runs along Jamalpur town — an easy riverside walk at the ghats, with boats, fishers and big open skies.",
+      "history": "Jamalpur sits on the Old Brahmaputra, once the river's main course; after the great earthquake of 1762 the Brahmaputra's flow shifted west to form the Jamuna, leaving this gentler channel along the town.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9220, 89.9450],
+      "practical": {
+        "hours": "Daylight; best at golden hour",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Along the edge of Jamalpur town",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw to the ghats"
+      },
+      "bestTime": "Late afternoon for the light on the water",
+      "tips": [
+        "Sunset over the river is the moment to wait for",
+        "Country-boat rides can sometimes be arranged at the ghats"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "craft",
+      "name": "Jamalpur Nakshi Kantha",
+      "description": "Jamalpur is the country's premier centre for nakshi kantha — quilts hand-embroidered with folk motifs by thousands of women across the district. 'Jamalpur Nakshikantha' was granted a Geographical Indication (GI) tag in 2024, and the town's craft market runs to hundreds of shops.",
+      "venue": "Nakshi kantha shops and craft villages, Jamalpur town"
+    },
+    {
+      "type": "food",
+      "name": "Local Festive Sweets",
+      "description": "Jamalpur kitchens are known for festive and wedding sweets such as chhana polao and para sandesh, made by the town's confectioners.",
+      "venue": "Sweet shops in Jamalpur town"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Shrine of Hazrat Shah Jamal (RA)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9200, 89.9400]
+    },
+    {
+      "name": "Doyamoyee Mandir",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9180, 89.9380]
+    },
+    {
+      "name": "Gandhi Ashram (1934), Melandaha",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9600, 89.8300]
+    },
+    {
+      "name": "Zeal Bangla Sugar Mills (1957)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0700, 89.6500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-jamalpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Jamalpur&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Jamalpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Jamalpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "jamalpur-nakshi-kantha", "title": "Buy a Jamalpur nakshi kantha", "category": "food", "detail": "An embroidered quilt from the country's nakshi-kantha capital — a craft so identified with the district it earned a GI tag in 2024.", "whereOrHow": "Nakshi kantha shops, Jamalpur town" },
+    { "id": "jamalpur-lauchapra", "title": "Reach the Garo hills at Lauchapra", "category": "place", "detail": "The district's only hill country, on the Meghalaya border — watch-towers, lake and forest with the Garo Hills rising across the line.", "whereOrHow": "Bakshiganj (via Sherpur)", "bestTime": "Cool months" },
+    { "id": "jamalpur-shah-jamal", "title": "Visit the shrine of Shah Jamal", "category": "place", "detail": "The Sufi saint's mazar that gave the town its name, near the Old Brahmaputra.", "whereOrHow": "Jamalpur town" },
+    { "id": "jamalpur-doyamoyee", "title": "See the Doyamoyee Mandir", "category": "place", "detail": "An old town temple complex with Shiva and Kali shrines and a pillared nat-mandir, reckoned around three centuries old.", "whereOrHow": "Central Jamalpur town" },
+    { "id": "jamalpur-gandhi-ashram", "title": "Walk the Gandhi Ashram at Melandaha", "category": "place", "detail": "A 1934 Gandhian ashram on the Jhinai River, with a Freedom Struggle Museum and a long tradition of khadi and craft.", "whereOrHow": "Melandaha" },
+    { "id": "jamalpur-brahmaputra-sunset", "title": "Watch sunset on the Old Brahmaputra", "category": "moment", "detail": "The wide, slow river along the town glows at golden hour — once the Brahmaputra's main course before 1762.", "whereOrHow": "Jamalpur town ghats", "bestTime": "Late afternoon" },
+    { "id": "jamalpur-zeal-bangla", "title": "See Zeal Bangla Sugar Mills", "category": "place", "detail": "One of the oldest sugar mills in the country (1957) at Dewanganj — industrial heritage and a winter crushing season.", "whereOrHow": "Dewanganj" },
+    { "id": "jamalpur-junction-train", "title": "Arrive by train at Jamalpur Junction", "category": "experience", "detail": "A railway junction since 1894 — the classic way to reach the district from Dhaka.", "whereOrHow": "Jamalpur Town Junction" },
+    { "id": "jamalpur-shah-kamal", "title": "Visit the shrine of Shah Kamal", "category": "place", "detail": "The mazar of Hazrat Shah Kamal at Durmut in Islampur, a place of local pilgrimage north-west of town.", "whereOrHow": "Durmut, Islampur" },
+    { "id": "jamalpur-festive-sweets", "title": "Taste chhana polao and para sandesh", "category": "food", "detail": "The town's festive and wedding sweets, made by Jamalpur's confectioners.", "whereOrHow": "Sweet shops, Jamalpur town" },
+    { "id": "jamalpur-kantha-village", "title": "Watch nakshi kantha being stitched", "category": "experience", "detail": "Across the district's craft villages, women embroider folk motifs into quilts by hand — the work behind the GI tag.", "whereOrHow": "Craft villages around Jamalpur" },
+    { "id": "jamalpur-river-fish", "title": "Eat fresh river fish", "category": "food", "detail": "Fish from the Old Brahmaputra and the Jamuna, fried fresh or in light curries at riverside eateries.", "whereOrHow": "Riverside spots near town" }
+  ],
+  "foods": [
+    { "name": "Chhana Polao", "description": "A festive sweet of fresh chhana (curd cheese), a Jamalpur wedding and celebration favourite.", "whereToFind": "Sweet shops in Jamalpur town" },
+    { "name": "Para Sandesh", "description": "A local sandesh prepared by the town's confectioners, eaten at festivals and as gifts.", "whereToFind": "Sweet shops, Jamalpur town" },
+    { "name": "Old Brahmaputra River Fish", "description": "Freshwater fish from the Old Brahmaputra and the Jamuna — fried fresh or in light curries.", "whereToFind": "Riverside eateries near town" },
+    { "name": "Khejur Gur", "description": "Date-palm jaggery from the winter harvest, used in the season's pithas and sweets.", "whereToFind": "Winter village markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Amjad Hossain",
+      "knownFor": "Acclaimed film director, writer, lyricist and actor born in Jamalpur; director of classics such as Golapi Ekhon Train-e and Bhat De, and recipient of the Ekushey Padak.",
+      "era": "1942 – 2018"
+    },
+    {
+      "name": "Abdullah Al Mamun",
+      "knownFor": "Pioneering playwright, theatre director and actor born at Amla Para in Jamalpur Sadar — a major figure of modern Bangladeshi theatre, honoured with the Bangla Academy Award and Ekushey Padak.",
+      "era": "1942 – 2008"
+    }
+  ],
+  "didYouKnow": [
+    "The town and district are named after the Sufi saint Hazrat Shah Jamal, whose shrine stands in Jamalpur Sadar; the area was earlier known as Singhjani.",
+    "Jamalpur is the government-designated 'Land of Nakshi Kantha', and 'Jamalpur Nakshikantha' was granted a Geographical Indication tag in 2024.",
+    "Jamalpur town sits on the Old Brahmaputra — the Brahmaputra's main flow shifted west to form the Jamuna after the great earthquake of 1762.",
+    "Lauchapra in Bakshiganj sits right on the Garo Hills border with India's Meghalaya — the district's only stretch of hill country.",
+    "Zeal Bangla Sugar Mills at Dewanganj, founded in 1957, is one of the oldest sugar mills in the country, and Jamalpur Town Junction has been a railway junction since 1894."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Jamalpur Sadar Thana", "phone": "—" },
+      { "name": "Bakshiganj Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Jamalpur 250-Bed General Hospital", "phone": "—" },
+      { "name": "Jamalpur Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
