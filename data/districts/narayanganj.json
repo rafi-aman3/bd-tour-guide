@@ -1,0 +1,306 @@
+{
+  "name": "Narayanganj",
+  "division": "Dhaka",
+  "tagline": "The old river port of Bengal — Sonargaon's lost city, Mughal forts on the Shitalakshya, and the looms that weave Jamdani.",
+  "stats": {
+    "area": "684.37 sq km",
+    "population": "3,909,138",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry). The Sonargaon sites are best on a weekday morning before the crowds; Langalbandh's bathing festival falls in spring.",
+    "gettingThere": "By road from Dhaka (~16 km, ~1 hr in traffic) — Narayanganj is effectively a south-eastern extension of the capital. Commuter trains run from Dhaka's Kamalapur, and launches ply the Shitalakshya. The Sonargaon heritage cluster is ~25 km east, off the Dhaka–Chittagong highway.",
+    "difficulty": "Easy — a comfortable day trip from Dhaka; the Sonargaon sites cluster together, and Jamdani Palli and the river forts are short hops."
+  },
+  "mustVisit": [
+    {
+      "name": "Panam Nagar (Panam City)",
+      "type": "heritage",
+      "description": "An abandoned 'ghost city' of ornate merchant mansions on a single cobbled street in Sonargaon — Bengal's most atmospheric ruin, where carved balconies and arched façades stand empty among the creepers.",
+      "history": "Panam was one of the trading quarters of old Sonargaon. The grand houses that survive were built largely by wealthy Hindu cloth merchants in the late 19th and early 20th centuries, on the trade in muslin and other textiles, and were left behind after Partition.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6470, 90.6030],
+      "practical": {
+        "hours": "Roughly 9 am–5 pm; quietest on weekday mornings",
+        "entryFee": "Nominal ticket (Bangladeshi / foreign rates differ)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km east in Sonargaon, off the Dhaka–Chittagong highway at Mograpara",
+        "distanceKm": 25,
+        "transport": "Bus to Mograpara crossing, then CNG / rickshaw to Panam"
+      },
+      "bestTime": "Weekday morning light for photography",
+      "tips": [
+        "Combine with the Folk Art Museum and Goaldi Mosque — all within Sonargaon",
+        "The buildings are fragile and roped in places — don't climb",
+        "Weekends and holidays get very busy"
+      ]
+    },
+    {
+      "name": "Sonargaon Folk Art & Craft Museum (Boro Sardar Bari)",
+      "type": "heritage",
+      "description": "The national folk-art museum set in landscaped grounds with lakes, founded by the artist Zainul Abedin — and home to the spectacularly restored Boro Sardar Bari mansion.",
+      "history": "The Bangladesh Folk Art & Crafts Foundation was established here to preserve village crafts — wood carving, terracotta, brass and copper work, nakshi kantha, masks and instruments. The grand Boro Sardar Bari (built 1901) within the grounds has been restored to its full ornamental glory.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6450, 90.5990],
+      "practical": {
+        "hours": "Open most days ~9 am–5 pm (closed one weekday)",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Sonargaon, beside the Panam road",
+        "distanceKm": 25,
+        "transport": "CNG / rickshaw from Mograpara crossing"
+      },
+      "bestTime": "Cool months; allow a couple of hours",
+      "tips": [
+        "The Boro Sardar Bari restoration is the highlight — leave time for it",
+        "A craft fair fills the grounds in winter (usually around the folk festival)"
+      ]
+    },
+    {
+      "name": "Goaldi Mosque",
+      "type": "religious",
+      "description": "A jewel-box single-domed Sultanate mosque from 1519, tucked behind Panam village — one of the finest surviving examples of pre-Mughal Bengal mosque architecture.",
+      "history": "Built in 1519 by Mulla Hizabar Akbar Khan during the reign of Sultan Alauddin Husain Shah, the mosque is celebrated for its terracotta ornament and carved stone mihrabs. It is the most intact of the Sonargaon-era mosques that once dotted the old capital.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6520, 90.6010],
+      "practical": {
+        "hours": "Open during daylight; active for prayers",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About half a km north-east of Panam village, Sonargaon",
+        "distanceKm": 26,
+        "transport": "Walk or rickshaw from Panam Nagar"
+      },
+      "bestTime": "Morning light for the terracotta detail",
+      "tips": [
+        "Remove shoes; cover head if female",
+        "It's small and easy to miss — ask a local for the path behind Panam"
+      ]
+    },
+    {
+      "name": "Sonakanda Fort",
+      "type": "heritage",
+      "description": "A Mughal river fort on the west bank of the Shitalakshya in Bandar — one of a chain of forts built to guard the water approach to Dhaka against Magh and Portuguese pirates.",
+      "history": "Raised in the 17th century under Mughal subahdar Mir Jumla (and the wider Dhaka defence works), Sonakanda guarded the Shitalakshya alongside Hajiganj and Idrakpur forts. Its high rampart and central artillery platform still face the river.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6150, 90.5050],
+      "practical": {
+        "hours": "Open during daylight",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Bandar, across the Shitalakshya from Narayanganj town",
+        "distanceKm": 4,
+        "transport": "Ferry / boat across the Shitalakshya, then a short walk"
+      },
+      "bestTime": "Late afternoon over the river",
+      "tips": [
+        "Pair the boat crossing with a look at the busy river port",
+        "Climb the rampart for the view of the Shitalakshya"
+      ]
+    },
+    {
+      "name": "Murapara Rajbari",
+      "type": "heritage",
+      "description": "A handsome early-20th-century zamindar palace in Rupganj, set in large grounds with a pond — its long colonnaded façade now used as a college.",
+      "history": "Built by the Murapara zamindar family (the Bablu Babus) in the early 1900s, the two-storey mansion is one of the best-preserved landlord houses near Dhaka, with rows of columns and a formal garden front.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7200, 90.5400],
+      "practical": {
+        "hours": "Daylight hours (exterior; interior subject to college use)",
+        "entryFee": "Free / nominal",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Murapara, Rupganj Upazila, north-east of Narayanganj town",
+        "distanceKm": 20,
+        "transport": "Bus / CNG toward Rupganj–Murapara"
+      },
+      "bestTime": "Morning light for the façade",
+      "tips": [
+        "It is a working college — be discreet during class hours",
+        "Combine with Jinda Park, also in Rupganj"
+      ]
+    },
+    {
+      "name": "Jamdani Palli",
+      "type": "culture",
+      "description": "The weavers' village at Noapara in Rupganj where Jamdani — the gossamer figured muslin that is UNESCO heritage and a GI product — is still woven entirely by hand on pit looms.",
+      "history": "The BSCIC Jamdani Industrial Estate ('Jamdani Palli') was built here in 1991 to house the weavers who carry on the muslin tradition of old Sonargaon. A fine Jamdani sari can take from a week to a year to weave, with no machinery at all.",
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6900, 90.5400],
+      "practical": {
+        "hours": "Daytime; weaving and the sari haat are liveliest in the morning",
+        "entryFee": "Free to visit",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Noapara, Tarabo, Rupganj — ~3 km north of Kanchpur Bridge",
+        "distanceKm": 15,
+        "transport": "Bus / CNG to Tarabo–Noapara"
+      },
+      "bestTime": "Early morning, especially the Friday-dawn sari haat",
+      "tips": [
+        "Buy directly from weavers to pay them fairly",
+        "Ask to watch a loom in progress — most artisans are happy to show",
+        "Genuine Jamdani is hand-woven and priced accordingly; be wary of cheap 'Jamdani'"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "craft",
+      "name": "Jamdani Muslin",
+      "description": "The handwoven figured muslin of the Sonargaon region — a UNESCO Intangible Cultural Heritage (2013) and a Geographical Indication product (2016), woven thread-by-thread on pit looms.",
+      "venue": "Jamdani Palli, Noapara, Rupganj"
+    },
+    {
+      "type": "food",
+      "name": "Pran Bhallabh Sweets",
+      "description": "The famous curd (doi) and rasgolla of the Pran Bhallabh confectionery, a Narayanganj sweet tradition running for over seven decades from Siddhirganj.",
+      "venue": "Pran Bhallabh, Siddhirganj"
+    },
+    {
+      "type": "food",
+      "name": "Narayanganj Haleem",
+      "description": "The town's much-loved haleem — a slow-cooked lentil, wheat and meat porridge that draws queues, especially in Ramadan.",
+      "venue": "Old eateries, Narayanganj town"
+    },
+    {
+      "type": "festival",
+      "name": "Langalbandh Ashtami Snan",
+      "description": "A vast Hindu holy-bathing festival on the bank of the old Brahmaputra at Langalbandh, drawing hundreds of thousands of pilgrims each spring.",
+      "timing": "Spring (Chaitra, around Ashtami)",
+      "coordinates": [23.5900, 90.5200]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Panam Nagar (Panam City)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6470, 90.6030]
+    },
+    {
+      "name": "Goaldi Mosque (1519)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6520, 90.6010]
+    },
+    {
+      "name": "Sonakanda Fort",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6150, 90.5050]
+    },
+    {
+      "name": "Bibi Mariam Mosque & Tomb",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6200, 90.5100]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-narayanganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Narayanganj&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Narayanganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Narayanganj&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "narayanganj-panam-nagar", "title": "Wander the ghost mansions of Panam Nagar", "category": "place", "detail": "A single cobbled street lined with abandoned merchant palaces — carved balconies, arched windows and a century of silence. Bengal's most photogenic ruin.", "whereOrHow": "Panam, Sonargaon", "bestTime": "Weekday morning" },
+    { "id": "narayanganj-folk-museum", "title": "See folk treasures and the Boro Sardar Bari", "category": "place", "detail": "Zainul Abedin's folk-art museum, plus the lavishly restored 1901 Sardar Bari mansion in landscaped grounds.", "whereOrHow": "Sonargaon Folk Art & Craft Museum" },
+    { "id": "narayanganj-goaldi", "title": "Find the 1519 Goaldi Mosque behind the village", "category": "place", "detail": "A tiny single-domed Sultanate mosque with exquisite terracotta — easy to miss, worth the short walk past Panam.", "whereOrHow": "Goaldi, Sonargaon" },
+    { "id": "narayanganj-jamdani-loom", "title": "Watch a Jamdani sari come off the loom", "category": "experience", "detail": "At Jamdani Palli, weavers build the figured muslin thread by thread by hand — a single sari can take a year. Buy one straight from the maker.", "whereOrHow": "Jamdani Palli, Noapara, Rupganj", "bestTime": "Friday-dawn sari haat" },
+    { "id": "narayanganj-sonakanda", "title": "Cross the Shitalakshya to Sonakanda Fort", "category": "experience", "detail": "Take a boat over the busy river to a 17th-century Mughal fort built to stop pirates reaching Dhaka.", "whereOrHow": "Bandar, across the Shitalakshya" },
+    { "id": "narayanganj-murapara", "title": "Explore Murapara Rajbari", "category": "place", "detail": "A long-colonnaded zamindar palace from the early 1900s, set in big grounds with a pond, in Rupganj.", "whereOrHow": "Murapara, Rupganj" },
+    { "id": "narayanganj-bibi-mariam", "title": "See the tomb and mosque of Bibi Mariam", "category": "place", "detail": "A historic mosque and tomb complex tied to the Mughal river-port era of Narayanganj.", "whereOrHow": "Killarpur, Narayanganj Sadar" },
+    { "id": "narayanganj-pran-bhallabh", "title": "Eat Pran Bhallabh's famous doi", "category": "food", "detail": "The curd and rasgolla that made Narayanganj's name in sweets, from a confectionery going strong for 70-plus years.", "whereOrHow": "Pran Bhallabh, Siddhirganj" },
+    { "id": "narayanganj-haleem", "title": "Try Narayanganj haleem and Aslam's biryani", "category": "food", "detail": "The town's signature haleem and a much-loved local biryani — street food the city is proud of.", "whereOrHow": "Old eateries, Narayanganj town" },
+    { "id": "narayanganj-bose-cabin", "title": "Have tea at the historic Bose Cabin", "category": "experience", "detail": "A century-old eatery where leaders from Subhas Chandra Bose to Suhrawardy once took tea — order a cutlet with it.", "whereOrHow": "Bose Cabin, Narayanganj town" },
+    { "id": "narayanganj-jyoti-basu", "title": "Visit Jyoti Basu's paternal home at Bardi", "category": "place", "detail": "The ancestral house of Jyoti Basu, the long-serving Chief Minister of West Bengal, in a Sonargaon village.", "whereOrHow": "Bardi, Sonargaon" },
+    { "id": "narayanganj-langalbandh", "title": "Witness the Langalbandh holy bath", "category": "experience", "detail": "Each spring hundreds of thousands of Hindu pilgrims bathe in the old Brahmaputra at Langalbandh — one of the country's largest religious gatherings.", "whereOrHow": "Langalbandh, Bandar", "bestTime": "Spring (around Ashtami)" }
+  ],
+  "foods": [
+    { "name": "Pran Bhallabh Curd & Rasgolla", "description": "The famous doi and rasgolla of the Pran Bhallabh confectionery — a Narayanganj sweet name for over seventy years.", "whereToFind": "Pran Bhallabh, Siddhirganj" },
+    { "name": "Narayanganj Haleem", "description": "Slow-cooked lentil, wheat and meat porridge the town is known for, at its best during Ramadan.", "whereToFind": "Old eateries, Narayanganj town" },
+    { "name": "Aslam's Biryani", "description": "A locally celebrated biryani that draws steady queues — Narayanganj's take on the Dhaka kacchi.", "whereToFind": "Narayanganj town" },
+    { "name": "Adi Adorsho Doi & Sweets", "description": "The sweet-and-sour curd of the town's oldest sweet shop, famous well beyond the district.", "whereToFind": "Adi Adorsho Mistanna Bhandar, Narayanganj town" },
+    { "name": "Bose Cabin Tea & Cutlet", "description": "Tea, cutlets and snacks at a century-old eatery once frequented by Subhas Chandra Bose and other leaders.", "whereToFind": "Bose Cabin, Narayanganj town" },
+    { "name": "Shitalakshya Hilsa", "description": "Hilsa and river fish from the Shitalakshya and Meghna, cooked simple and fresh.", "whereToFind": "Riverside restaurants and home kitchens" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Isa Khan",
+      "knownFor": "Leader of the Baro-Bhuiyan chieftains and ruler of the Bhati region who made Sonargaon his capital and resisted Mughal expansion into Bengal in the 16th century.",
+      "era": "c. 1529 – 1599"
+    },
+    {
+      "name": "K. M. Shafiullah",
+      "knownFor": "Bir Uttam freedom fighter, Sector 3 commander and leader of the 'S Force' in 1971, and the first Chief of Army Staff of independent Bangladesh. Born in Rupganj, Narayanganj.",
+      "era": "1934 – 2025"
+    },
+    {
+      "name": "Jyoti Basu",
+      "knownFor": "Indian statesman and the longest-serving Chief Minister of West Bengal; his paternal home is at Bardi village in Sonargaon, Narayanganj.",
+      "era": "1914 – 2010"
+    }
+  ],
+  "didYouKnow": [
+    "Narayanganj is the smallest district in Bangladesh by area (about 684 sq km), yet one of the most densely populated.",
+    "Sonargaon was a capital of Bengal under the Sultans and the chieftain Isa Khan; Panam Nagar's abandoned mansions are the faded echo of that old trading city.",
+    "Goaldi Mosque dates to 1519, built in the reign of Sultan Alauddin Husain Shah — one of the finest single-domed Sultanate mosques to survive.",
+    "Narayanganj was the centre of the colonial jute trade — nicknamed the 'Dundee of the East' — and home to the Adamjee Jute Mills, once the largest jute mill in the world.",
+    "Jamdani, woven by hand in Rupganj's villages, is a UNESCO Intangible Cultural Heritage (2013) and a Geographical Indication product of Bangladesh (2016)."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Narayanganj Sadar Police Station", "phone": "—" },
+      { "name": "Sonargaon Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Narayanganj General (Victoria) Hospital", "phone": "—" },
+      { "name": "Sonargaon Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
