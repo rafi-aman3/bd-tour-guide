@@ -1,0 +1,309 @@
+{
+  "name": "Dinajpur",
+  "division": "Rangpur",
+  "tagline": "The terracotta masterpiece of the north — Kantajew Temple's storied brick walls, the great Ramsagar tank, the Maharaja's Rajbari, and the GI-stamped Kataribhog rice and Bedana litchi.",
+  "stats": {
+    "area": "3,437.98 sq km",
+    "population": "3,315,236",
+    "established": "1786",
+    "attractions": "7+"
+  },
+  "guide": {
+    "bestTime": "October to March for dry, cool weather and the open monument sites; come in late May–June for the famous Dinajpur litchi season.",
+    "gettingThere": "By road from Dhaka (~overnight coaches) or across the north. By rail Dinajpur is well served — the town station carries intercity trains like the Ekota and Drutojan Express, and Parbatipur in the district is a major junction. There is no airport; the nearest is Saidpur in neighbouring Nilphamari.",
+    "difficulty": "Easy — the town sights are close, and Kantajew, Ramsagar, Swapnapuri and the Nawabganj sites are comfortable day trips by car or CNG."
+  },
+  "mustVisit": [
+    {
+      "name": "Kantajew Temple",
+      "type": "religious",
+      "description": "The finest terracotta temple in Bangladesh — every inch of its brick walls covered in thousands of moulded plaques telling stories of gods, battles and everyday life — built by the Maharajas of Dinajpur.",
+      "history": "Begun in 1722 under Maharaja Pran Nath and completed in 1752 by his son Ramnath, the Kantanagar temple is a navaratna (nine-spired) shrine to Krishna. Its nine spires were toppled by the great earthquake of 1897 and never rebuilt, but the terracotta work survives in astonishing detail.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6960, 88.7000],
+      "practical": {
+        "hours": "Daytime; busiest at the Raas festival in late autumn",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kantanagar, Kaharole upazila, ~20 km north of Dinajpur town",
+        "distanceKm": 20,
+        "transport": "Car or CNG from town"
+      },
+      "bestTime": "Cool, dry months; morning light for the terracotta",
+      "tips": [
+        "Walk slowly around the walls — the terracotta panels reward close looking",
+        "Pair it with the Nayabad Mosque close by"
+      ]
+    },
+    {
+      "name": "Ramsagar National Park",
+      "type": "nature",
+      "description": "A vast historic tank — nearly a kilometre long — set in a national park of green banks and shade trees, a favourite spot for boating and a quiet afternoon.",
+      "history": "Ramsagar was hand-dug around 1750–55 by Raja Ram Nath of Dinajpur, reputedly to bring water in a time of drought. One of the largest old man-made tanks in the country, it was made a national park in 2001.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5660, 88.6580],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Nominal entry",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Tajpur, ~8 km south of Dinajpur town",
+        "distanceKm": 8,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Late afternoon by the water",
+      "tips": [
+        "Boats can usually be hired on the tank",
+        "Good for a relaxed picnic among the trees"
+      ]
+    },
+    {
+      "name": "Dinajpur Rajbari",
+      "type": "culture",
+      "description": "The faded palace of the Maharajas of Dinajpur — a sprawling complex of mahals, courtyards and a temple, now largely ruined but still grand, in the heart of the old town.",
+      "history": "Built and extended through the 18th century by Maharajas Pran Nath, Ramnath and their successors, the Rajbari was the seat of the Dinajpur royal family until the last Maharaja left for India after the abolition of the zamindari system in 1951.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6300, 88.6400],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Dinajpur town",
+        "distanceKm": 2,
+        "transport": "Rickshaw within town"
+      },
+      "bestTime": "Daytime for the architecture",
+      "tips": [
+        "Parts are dilapidated — tread carefully",
+        "Look for the family temple within the complex"
+      ]
+    },
+    {
+      "name": "Nayabad Mosque",
+      "type": "religious",
+      "description": "A small, handsome late-Mughal mosque near Kantajew — by local tradition built by the very artisans who raised the great terracotta temple alongside.",
+      "history": "A wall inscription dates the Nayabad Mosque to 1793, in the reign of the Mughal emperor Shah Alam II. Tradition holds it was built by the Muslim craftsmen who came to work on the nearby Kantanagar temple.",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6900, 88.7000],
+      "practical": {
+        "hours": "Daylight; an active mosque — avoid prayer times for sightseeing",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Near Kantajew, Kaharole upazila, ~22 km north of town",
+        "distanceKm": 22,
+        "transport": "Car or CNG from town"
+      },
+      "bestTime": "Mid-morning, outside prayer times",
+      "tips": [
+        "Easy to combine with Kantajew Temple",
+        "Dress modestly and remove shoes to enter"
+      ]
+    },
+    {
+      "name": "Swapnapuri",
+      "type": "nature",
+      "description": "A large private amusement and eco park of lakes, gardens, sculptures and picnic grounds in Nawabganj — Dinajpur's family day-out destination.",
+      "history": "Swapnapuri ('dreamland') is a sprawling privately built park spread over hundreds of acres, with manicured gardens, statues, a small zoo and lakeside picnic spots, popular with families and groups across the north.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.3500, 88.8300],
+      "practical": {
+        "hours": "Daytime; closed late",
+        "entryFee": "Entry ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Aftabganj, Nawabganj upazila, ~45–50 km south-west of town",
+        "distanceKm": 48,
+        "transport": "Car or bus toward Nawabganj"
+      },
+      "bestTime": "Cool, dry months; mornings to beat the crowds",
+      "tips": [
+        "Good for families and groups; allow a few hours",
+        "Combine with Sitakot Vihara nearby in Nawabganj"
+      ]
+    },
+    {
+      "name": "Sitakot Vihara",
+      "type": "religious",
+      "description": "The excavated remains of an ancient Buddhist monastery in Nawabganj — a square of monastic cells around a courtyard, evidence of early Buddhism on the northern plains.",
+      "history": "Dating to roughly the 7th–8th century, Sitakot Vihara is a near-square monastery of 41 cells; excavations uncovered fine bronze Bodhisattva images of Padmapani and Manjushri.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.3800, 88.8500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Nawabganj upazila, south-west of town",
+        "distanceKm": 50,
+        "transport": "Car or bus toward Nawabganj"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Easy to pair with Swapnapuri in Nawabganj",
+        "Best for the history and the quiet — facilities are minimal"
+      ]
+    },
+    {
+      "name": "Singra National Park",
+      "type": "nature",
+      "description": "A patch of old sal forest in Birganj protected as a national park — shady woodland trails and birdsong, a green refuge in the farmed north.",
+      "history": "The Singra shal forest, one of the surviving fragments of the sal woodland that once covered the northern plains, was declared a national park in 2010.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.9200, 88.6500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Nominal entry",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Birganj upazila, ~40 km north of Dinajpur town",
+        "distanceKm": 40,
+        "transport": "Car or bus toward Birganj"
+      },
+      "bestTime": "Cool, dry months for walking and birds",
+      "tips": [
+        "Good for a quiet forest walk",
+        "Carry water and insect repellent"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Kataribhog Rice",
+      "description": "Dinajpur's celebrated fine aromatic rice — registered as a Geographical Indication, with a fragrance said to fade when the variety is grown anywhere but this district's soil.",
+      "venue": "Local markets across the district"
+    },
+    {
+      "type": "food",
+      "name": "Bedana Litchi",
+      "description": "The prized small-seeded Bedana litchi of Dinajpur, granted Geographical Indication recognition in 2025 — the jewel of the district's famous litchi orchards.",
+      "venue": "Orchards and markets, in season (late May–June)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Kantajew Temple (1752)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6960, 88.7000]
+    },
+    {
+      "name": "Dinajpur Rajbari",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6300, 88.6400]
+    },
+    {
+      "name": "Nayabad Mosque (1793)",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6900, 88.7000]
+    },
+    {
+      "name": "Sitakot Vihara",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.3800, 88.8500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-dinajpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Dinajpur&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Dinajpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Dinajpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3010" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "dinajpur-kantajew", "title": "Study the terracotta of Kantajew Temple", "category": "place", "detail": "The finest terracotta temple in the country, its walls covered in thousands of moulded story-panels.", "whereOrHow": "Kantanagar, Kaharole" },
+    { "id": "dinajpur-ramsagar", "title": "Boat on the great Ramsagar tank", "category": "experience", "detail": "A nearly kilometre-long historic dighi dug around 1750 by Raja Ram Nath, now a national park.", "whereOrHow": "Tajpur, ~8 km from town" },
+    { "id": "dinajpur-rajbari", "title": "Wander the Dinajpur Rajbari", "category": "place", "detail": "The faded 18th-century palace of the Maharajas of Dinajpur in the old town.", "whereOrHow": "Dinajpur town" },
+    { "id": "dinajpur-nayabad", "title": "See the Nayabad Mosque", "category": "place", "detail": "A 1793 Mughal mosque near Kantajew, built — by tradition — by the temple's own artisans.", "whereOrHow": "Kaharole, near Kantajew" },
+    { "id": "dinajpur-swapnapuri", "title": "Spend a day at Swapnapuri", "category": "experience", "detail": "A big private 'dreamland' park of lakes, gardens and sculptures in Nawabganj.", "whereOrHow": "Aftabganj, Nawabganj" },
+    { "id": "dinajpur-sitakot", "title": "Find the ancient Sitakot Vihara", "category": "place", "detail": "A 7th–8th-century Buddhist monastery of 41 cells, where fine bronze Bodhisattva images were unearthed.", "whereOrHow": "Nawabganj" },
+    { "id": "dinajpur-singra", "title": "Walk the sal forest at Singra", "category": "place", "detail": "A surviving fragment of the north's old sal woodland, protected as a national park.", "whereOrHow": "Birganj" },
+    { "id": "dinajpur-gor-e-shahid", "title": "See the Gor-e-Shahid Eidgah", "category": "moment", "detail": "A vast maidan whose grand Eidgah minaret hosts one of the largest Eid congregations in the country.", "whereOrHow": "Dinajpur town" },
+    { "id": "dinajpur-kataribhog", "title": "Taste Kataribhog aromatic rice", "category": "food", "detail": "Dinajpur's GI-registered fine rice, fragrant only when grown in this district's soil.", "whereOrHow": "Local markets" },
+    { "id": "dinajpur-litchi", "title": "Eat Bedana litchi in season", "category": "food", "detail": "The prized small-seeded litchi of Dinajpur, GI-recognised and at its best in late May–June.", "whereOrHow": "Orchards and markets", "bestTime": "Late May–June" },
+    { "id": "dinajpur-hili", "title": "See the Hili land port on the border", "category": "moment", "detail": "The busy India–Bangladesh land port and border crossing at Hakimpur.", "whereOrHow": "Hili, Hakimpur" },
+    { "id": "dinajpur-raas-festival", "title": "Catch the Raas festival at Kantajew", "category": "experience", "detail": "The temple comes alive with a great fair and pilgrims at the late-autumn Raas Mela.", "whereOrHow": "Kantanagar, Kaharole", "bestTime": "Late autumn" }
+  ],
+  "foods": [
+    { "name": "Kataribhog Rice", "description": "Dinajpur's celebrated GI-registered fine aromatic rice, fragrant and prized for festive meals and polao.", "whereToFind": "Local markets across the district" },
+    { "name": "Bedana Litchi", "description": "The small-seeded, sweet litchi of Dinajpur's orchards — a GI-recognised summer treat.", "whereToFind": "Orchards and markets, late May–June" },
+    { "name": "Chaler Ruti", "description": "Rice-flour flatbread of the northern countryside, eaten with curries, bhortas and gur.", "whereToFind": "Local eateries and village kitchens" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Narayan Gangopadhyay",
+      "knownFor": "Major modern Bengali novelist and short-story writer, born in Dinajpur — creator of the beloved 'Tenida' stories.",
+      "era": "1918 – 1970"
+    },
+    {
+      "name": "Liton Das",
+      "knownFor": "Bangladesh national cricketer, a wicketkeeper-batter born in Dinajpur, known for his elegant stroke-play.",
+      "era": "born 1994"
+    }
+  ],
+  "didYouKnow": [
+    "Kantajew Temple's nine terracotta spires were toppled by the great earthquake of 1897 and have never been rebuilt — the temple stands spire-less today, its storytelling brickwork intact.",
+    "Ramsagar, a tank nearly a kilometre long, was hand-dug around 1750–55 by Raja Ram Nath of Dinajpur — one of the largest historic man-made tanks in the country.",
+    "Dinajpur's Kataribhog rice is a registered Geographical Indication, its fragrance said to disappear when the variety is grown outside the district.",
+    "Dinajpur's Bedana litchi earned Geographical Indication recognition in 2025, formalising the region's fame as a premier litchi-growing district.",
+    "Sitakot Vihara in Nawabganj is a 7th–8th-century Buddhist monastery with 41 cells — proof of how early Buddhism flourished on the northern plains."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Dinajpur Kotwali Thana", "phone": "—" },
+      { "name": "Kaharole Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Dinajpur Medical College Hospital", "phone": "—" },
+      { "name": "Dinajpur Sadar Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
