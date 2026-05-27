@@ -1,0 +1,294 @@
+{
+  "name": "Madaripur",
+  "division": "Dhaka",
+  "tagline": "A Sufi saint's town of shrines, indigo ruins, and the rebel spirit of the Faraizi movement.",
+  "stats": {
+    "area": "1,049.59 sq km",
+    "population": "1,293,027",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to February (cool, dry; winter is date-palm-sap and pitha season). The Shah Madar Urs and Ganesh Pagol Kumbh Mela draw huge crowds — plan around them.",
+    "gettingThere": "By road from Dhaka (~110 km, ~3 hr) — far faster since the Padma Bridge opened in 2022. Buses run frequently via the Bhanga interchange. Nearest airport is Dhaka.",
+    "difficulty": "Easy — sites cluster around Madaripur town and Rajoir, all reachable by local CNG or easybike."
+  },
+  "mustVisit": [
+    {
+      "name": "Dargah of Hazrat Shah Madar",
+      "type": "religious",
+      "description": "The shrine of the medieval Sufi saint after whom the district is named — its single most-visited site, drawing thousands of devotees and busiest during the annual Urs festival.",
+      "history": "Hazrat Badruddin Shah Madar (Zinda Shah Madar) was a Sufi who is said to have come from afar to spread Islam in this region; the town and district take their name from him. The dargah near the Arial Khan river is a year-round place of devotion and erupts into a fair during the annual Urs.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1700, 90.2000],
+      "practical": {
+        "hours": "Open daily; busiest at the annual Urs",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Madaripur Sadar, near the Arial Khan river",
+        "distanceKm": 3,
+        "transport": "Rickshaw / easybike from town centre"
+      },
+      "bestTime": "During the Urs for the full spectacle; mornings for quiet visits otherwise",
+      "tips": [
+        "Dress modestly and remove shoes before the inner shrine",
+        "Expect dense crowds and roadside stalls during the Urs"
+      ]
+    },
+    {
+      "name": "Shakuni Lake (Shukuni Dighi)",
+      "type": "landmark",
+      "description": "The large lake at the very centre of Madaripur town — the city's green heart and its most popular spot for an evening stroll.",
+      "history": "Excavated in 1943, the lake covers roughly 20 acres and is ringed by the town's main offices, walkways and a small park. Generations of Madaripur residents have grown up walking its banks.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1641, 90.1897],
+      "practical": {
+        "hours": "Open access; pleasant late afternoon to evening",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In the centre of Madaripur town",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Late afternoon for sunset over the water",
+      "tips": [
+        "The walkway is busiest at dusk — good for people-watching and street snacks",
+        "Pair with a date-palm-jaggery sweet from a nearby shop in winter"
+      ]
+    },
+    {
+      "name": "Senapati Dighi",
+      "type": "heritage",
+      "description": "A vast Mughal-era tank more than 350 years old, surrounded by bamboo groves and famous for never drying up.",
+      "history": "Dug on 24 December 1665 by Islam Khan, a general (senapati) serving Umed Khan — the eldest son of Mughal subahdar Shaista Khan — which is how it earned its name. It has held water through three and a half centuries.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1900, 90.2100],
+      "practical": {
+        "hours": "Open access (daylight recommended)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Madaripur Sadar Upazila, a short ride from town",
+        "distanceKm": 6,
+        "transport": "CNG / easybike from Madaripur town"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Quiet and shaded — a good picnic spot away from the crowds",
+        "Bring water; few shops at the site"
+      ]
+    },
+    {
+      "name": "Auliapur Nilkuthi (Dunlop's Indigo Factory)",
+      "type": "heritage",
+      "description": "The ruins of a British indigo factory — a long twelve-room building with the concrete tanks once used to soak indigo leaves still visible — and a monument to the peasant suffering that fed the Faraizi revolt.",
+      "history": "Built before 1800 and run by the notorious English planter Dunlop, the factory drove forced indigo cultivation on local farmers. Haji Shariatullah and his son Dudu Miyan rallied the peasants against the planters; a fierce battle was fought nearby, at a spot in Auliapur still called Rankhola ('battlefield').",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2200, 90.1500],
+      "practical": {
+        "hours": "Open during daylight",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Auliapur village, Chilarchar union, Madaripur Sadar",
+        "distanceKm": 12,
+        "transport": "CNG / easybike from Madaripur town"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "The masonry is old — look but don't climb",
+        "Ask a local to point out Rankhola, the nearby battle site"
+      ]
+    },
+    {
+      "name": "Khalia Raja Ram Temple",
+      "type": "heritage",
+      "description": "A two-storied 17th-century brick Hindu temple in Khalia village — the centrepiece of the old Khalia zamindar estate, with classic do-chala and char-chala roof forms.",
+      "history": "Built in the 17th century by Rajaram Roy, a prominent Hindu zamindar of Khalia. The upper storey's central room carries a do-chala (two-sloped) roof, with char-chala (four-sloped) rooms on either side — a fine example of Bengal temple architecture in the district.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0500, 90.0700],
+      "practical": {
+        "hours": "Open during daylight (exterior)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Khalia village, Rajoir Upazila, near Tekerhat",
+        "distanceKm": 25,
+        "transport": "Bus / CNG to Tekerhat, then easybike to Khalia"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Combine with Ganesh Pagol Sebashram, also in Rajoir",
+        "Respect the surrounding school and community grounds"
+      ]
+    },
+    {
+      "name": "Ganesh Pagol Sebashram",
+      "type": "religious",
+      "description": "A sprawling Hindu ashram at Kadambari in Rajoir, host to one of the region's largest annual fairs — a Kumbh Mela that draws enormous crowds from home and abroad, across faiths.",
+      "history": "Founded in the memory of the saint Ganesh Pagol, the Sebashram covers a large tract of land at Kadambari, Dighirpar. Its annual Kumbh Mela is one of the biggest religious gatherings in southern Bangladesh, with pilgrims believing a visit wards off misfortune.",
+      "image": "https://images.unsplash.com/photo-1604608672516-f1b9b1d37076?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1000, 90.0600],
+      "practical": {
+        "hours": "Open daily; vastly busier during the annual Kumbh Mela",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Kadambari, Dighirpar, Rajoir Upazila",
+        "distanceKm": 22,
+        "transport": "Bus / CNG toward Rajoir, then easybike to Kadambari"
+      },
+      "bestTime": "During the Kumbh Mela for the spectacle; otherwise cool months",
+      "tips": [
+        "The mela is extremely crowded — keep valuables close and agree a meeting point",
+        "Dress modestly; it is an active place of worship"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Patali Gur (Date-Palm Jaggery)",
+      "description": "Madaripur's date-palm jaggery is reckoned among the best in the country — pressed from winter date-palm sap into dense, fragrant cakes used in pithas and sweets.",
+      "venue": "Rural haats and town sweet shops, December–February"
+    },
+    {
+      "type": "festival",
+      "name": "Shah Madar Urs",
+      "description": "The annual commemoration at the Dargah of Hazrat Shah Madar — devotional gatherings, music and a fair that fills the shrine precinct with pilgrims.",
+      "timing": "Annual (varies by lunar calendar)",
+      "coordinates": [23.1700, 90.2000]
+    },
+    {
+      "type": "mela",
+      "name": "Ganesh Pagol Kumbh Mela",
+      "description": "One of southern Bangladesh's largest religious fairs, at the Ganesh Pagol Sebashram in Rajoir, drawing huge crowds of pilgrims across faiths each year.",
+      "timing": "Annual (Rajoir, Madaripur)",
+      "coordinates": [23.1000, 90.0600]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Senapati Dighi (1665)",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1900, 90.2100]
+    },
+    {
+      "name": "Auliapur Nilkuthi (Dunlop's Indigo Factory)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2200, 90.1500]
+    },
+    {
+      "name": "Khalia Raja Ram Temple (17th century)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0500, 90.0700]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-madaripur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Madaripur&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Madaripur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Madaripur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "madaripur-shah-madar", "title": "Pay respects at the Dargah of Shah Madar", "category": "place", "detail": "The shrine of the Sufi saint the entire district is named after — its most-visited site and a place of year-round devotion near the Arial Khan.", "whereOrHow": "Madaripur Sadar, near the Arial Khan river" },
+    { "id": "madaripur-urs", "title": "Time a visit for the Shah Madar Urs", "category": "experience", "detail": "The annual Urs turns the shrine into a fair of devotional music, food and dense crowds — the town at its most alive.", "whereOrHow": "Dargah of Shah Madar", "bestTime": "Annual Urs (lunar calendar)" },
+    { "id": "madaripur-shakuni-lake", "title": "Walk Shakuni Lake at dusk", "category": "moment", "detail": "The 20-acre lake at the centre of town, dug in 1943, is where Madaripur takes its evening stroll. Sunset over the water, street snacks on the walkway.", "whereOrHow": "Central Madaripur town", "bestTime": "Late afternoon" },
+    { "id": "madaripur-senapati-dighi", "title": "See the 350-year-old Senapati Dighi", "category": "place", "detail": "A vast tank dug in 1665 by a Mughal general under Shaista Khan's son — bamboo-fringed and said to never dry up.", "whereOrHow": "Madaripur Sadar Upazila" },
+    { "id": "madaripur-auliapur-kuthi", "title": "Explore Dunlop's indigo factory at Auliapur", "category": "place", "detail": "A twelve-room indigo house from before 1800, with the concrete leaf-soaking tanks still in place — a relic of the oppression that sparked the Faraizi revolt.", "whereOrHow": "Auliapur village, Madaripur Sadar" },
+    { "id": "madaripur-rankhola", "title": "Stand at Rankhola, the Faraizi battlefield", "category": "moment", "detail": "Near the kuthi, the spot where Dudu Miyan's farmer-army fought the British indigo planters is still called Rankhola — 'the battleground'.", "whereOrHow": "Auliapur, near the Nilkuthi" },
+    { "id": "madaripur-raja-ram-temple", "title": "See the 17th-century Raja Ram brick temple at Khalia", "category": "place", "detail": "A two-storied brick temple built by zamindar Rajaram Roy, with do-chala and char-chala roofs — fine old Bengal temple architecture.", "whereOrHow": "Khalia village, Rajoir Upazila" },
+    { "id": "madaripur-ganesh-pagol-mela", "title": "Join the Ganesh Pagol Kumbh Mela", "category": "experience", "detail": "One of southern Bangladesh's largest fairs, at the Rajoir ashram — enormous crowds of pilgrims from across faiths each year.", "whereOrHow": "Kadambari, Rajoir Upazila", "bestTime": "During the annual mela" },
+    { "id": "madaripur-patali-gur", "title": "Taste Madaripur patali gur in winter", "category": "food", "detail": "Date-palm jaggery reckoned among the country's best — buy a fresh cake at a winter haat and eat it with warm pitha.", "whereOrHow": "Rural haats and town sweet shops", "bestTime": "December–February" },
+    { "id": "madaripur-khejur-ras", "title": "Drink fresh khejur ras at dawn", "category": "food", "detail": "Date-palm sap tapped overnight by a gachi and drunk fresh at sunrise — the sweet, slightly smoky taste of a southern winter morning.", "whereOrHow": "Village date-palm groves", "bestTime": "Winter dawns" },
+    { "id": "madaripur-padma-hilsa", "title": "Eat Padma hilsa near Shibchar", "category": "food", "detail": "Shibchar sits on the Padma — fresh-caught hilsa, simply fried or in a mustard curry, tastes best this close to the river.", "whereOrHow": "Shibchar Upazila, Padma riverside" },
+    { "id": "madaripur-padma-bridge", "title": "See the Padma Bridge approach at Shibchar", "category": "moment", "detail": "The bridge that rewrote travel times to the south meets the land near Shibchar. Watch the traffic stream across the great river.", "whereOrHow": "Shibchar Upazila, Padma riverside" }
+  ],
+  "foods": [
+    { "name": "Patali Gur (Date-Palm Jaggery)", "description": "Dense, fragrant date-palm jaggery from the winter sap harvest — Madaripur's is rated among the finest in Bangladesh.", "whereToFind": "Rural haats and town sweet shops, December–February" },
+    { "name": "Khejur Ras", "description": "Fresh date-palm sap, tapped overnight and drunk at dawn before it ferments — a southern winter ritual.", "whereToFind": "Village date-palm groves, winter mornings" },
+    { "name": "Bhapa & Chitoi Pitha", "description": "Winter rice-flour cakes — steamed bhapa stuffed with gur and coconut, or chitoi served with date-palm jaggery.", "whereToFind": "Winter pitha stalls, Madaripur town" },
+    { "name": "Padma Hilsa", "description": "Hilsa from the Padma off Shibchar — fried crisp or steamed in a mustard paste, served with rice.", "whereToFind": "Shibchar riverside and home-style restaurants" },
+    { "name": "Arial Khan River Fish", "description": "Freshwater catch from the Arial Khan and Kumar rivers, cooked in light home-style curries.", "whereToFind": "Local rice-meal canteens, Sadar" },
+    { "name": "Gur er Sandesh", "description": "Date-palm-jaggery sandesh — the winter version of the milk sweet, made when the new gur arrives.", "whereToFind": "Town sweet shops, winter" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Haji Shariatullah",
+      "knownFor": "Islamic reformer who founded the Faraizi Movement in 1818 — the first organised socio-religious peasant movement in Bengal, which resisted indigo planters and zamindars. Born in Shamail village, in present-day Madaripur.",
+      "era": "1781 – 1840"
+    },
+    {
+      "name": "Fazlur Rahman Khan",
+      "knownFor": "Structural engineer called the 'father of tubular design' for skyscrapers; engineered Chicago's Willis (Sears) Tower and the John Hancock Center. Brought up in the Khan Bari of Bhandarikandi, Shibchar.",
+      "era": "1929 – 1982"
+    },
+    {
+      "name": "Sunil Gangopadhyay",
+      "knownFor": "One of the towering figures of modern Bengali literature — poet, novelist and founder of the Krittibas poetry magazine. Born in Madaripur in 1934.",
+      "era": "1934 – 2012"
+    }
+  ],
+  "didYouKnow": [
+    "Madaripur is named after the medieval Sufi saint Hazrat Badruddin Shah Madar; his dargah draws thousands of devotees and erupts into a fair each year at the Urs.",
+    "The Faraizi Movement — the first organised peasant-religious reform movement in Bengal — was founded in 1818 by Madaripur-born Haji Shariatullah, and the resistance to indigo planters like Dunlop was fought out here.",
+    "Senapati Dighi was dug in 1665 by a Mughal general under Shaista Khan's son — more than 350 years old, and locals say it has never dried up.",
+    "Fazlur Rahman Khan, the engineer who pioneered the tubular skyscraper and designed Chicago's Willis (Sears) Tower, was raised in Bhandarikandi village in Shibchar.",
+    "Madaripur's date-palm jaggery (patali gur) is considered among the best in the country, and the Ganesh Pagol Kumbh Mela in Rajoir is one of southern Bangladesh's largest fairs."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Madaripur Sadar Police Station", "phone": "—" },
+      { "name": "Shibchar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Madaripur General Hospital (Sadar)", "phone": "—" },
+      { "name": "Shibchar Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
