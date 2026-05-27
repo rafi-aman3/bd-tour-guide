@@ -35,12 +35,13 @@ The `lib/map-data.ts` `DISTRICT_TO_DIVISION` map is a **third** independent sour
 
 ### Building a district field guide
 
-Districts are upgraded one at a time from the generic placeholder to a full field guide (Satkhira is N°01). The workflow:
+Districts are upgraded one at a time from the generic placeholder to a full field guide. 16 are built so far (N°01 Satkhira → N°16 Rangamati); the authoritative, folio-ordered list is `BUILT_DISTRICTS` in `lib/field-guide-folio.ts`. The workflow:
 
-1. **Research first, never fabricate** — verify places, stats, history, food and people via web search before writing. Use `"—"` for any phone/fee/hours/contact you can't verify (hidden at render; Emergency keeps the row with a "Call 999" pill). Don't invent hotels, bus operators, or businesses — leave `manualBookings`/`advertisements` empty instead. Keep it apolitical (avoid recently-charged political figures) and drop people/places that sources misattribute to the district.
-2. Write `data/districts/<slug>.json` mirroring an existing field guide's shape (e.g. `satkhira.json`), ~5–6 `mustVisit`, ~10 `bucketlist`, real `foods`/`famousPeople`/`didYouKnow`/`emergency`. Coordinates are approximate map pins.
-3. Add the slug to `BUILT_DISTRICTS` in `lib/field-guide-folio.ts` — this gates field-guide rendering and auto-assigns the folio number (N°02, N°03 …).
-4. Validate (`node -e "JSON.parse(...)"`) and `npx tsc --noEmit` before committing.
+1. **Research first, never fabricate** — verify places, stats, history, food and people via web search before writing (Banglapedia + Wikipedia for stats; local/news sources for sites, food, people). Use `"—"` for any phone/fee/hours/contact you can't verify (hidden at render; Emergency keeps the row with a "Call 999" pill). Don't invent hotels, bus operators, or businesses — leave `manualBookings`/`advertisements` empty instead.
+2. **People discipline** — keep `famousPeople` apolitical: exclude recently-charged/active politicians (e.g. skipped Asaduzzaman Noor for Nilphamari, Shamim Osman for Narayanganj) and verify birthplace before claiming someone — several "famous from X" web hits are misattributions (Shakib Khan was born in Gopalganj not Narayanganj; Asad Chowdhury is Mehendiganj/Barisal not Barguna; Munier Chowdhury/Ferdousi Majumdar were born elsewhere but their family bari is in Raipur, so frame as "family home"). One well-attributed name beats three shaky ones. For sensitive regions (CHT — Rangamati), prefer apolitical religious/cultural figures and add tactful travel/permission notes; don't editorialize.
+3. Write `data/districts/<slug>.json` mirroring an existing field guide's shape (e.g. `satkhira.json`), ~6 `mustVisit`, ~12 `bucketlist`, real `foods`/`famousPeople`/`didYouKnow`/`emergency`. Coordinates are approximate map pins. Set the `transport` availability flags honestly per district (bus everywhere; `train`/`launch`/`plane` only where real — e.g. Dhaka all four, Nilphamari air+rail via Saidpur, coastal/delta districts launch). Keep the override slug matching the base `data/districts.json` key (verify with `node -e "..."`).
+4. Add the slug to `BUILT_DISTRICTS` in `lib/field-guide-folio.ts` — this gates field-guide rendering and auto-assigns the folio number (N°02, N°03 …).
+5. Validate (`node -e "JSON.parse(...)"`) and `npx tsc --noEmit`, then commit straight to main (one commit per district: `content(<slug>): build out field guide N°NN with real data`).
 
 ### Routing
 
