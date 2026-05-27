@@ -1,0 +1,314 @@
+{
+  "name": "Comilla",
+  "division": "Chittagong",
+  "tagline": "A Buddhist civilisation among the hills and the rasmalai that made the town famous — the ancient viharas of Mainamati, the 'Comilla Model' born at BARD, and Matri Bhandar's legendary sweet.",
+  "stats": {
+    "area": "3,087.33 sq km",
+    "population": "6,212,216",
+    "established": "1790",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March for dry, comfortable weather — ideal for the open archaeological sites of Mainamati and the town's lakes and gardens.",
+    "gettingThere": "Comilla sits on the Dhaka–Chattogram corridor, ~100 km from Dhaka, so it is easy by road (frequent coaches) and by rail — Cumilla station is on the main line and nearby Laksam is one of the country's largest junctions.",
+    "difficulty": "Easy — the Mainamati sites cluster around Kotbari just west of town, and the town's lakes, sweet shops and college are all close together."
+  },
+  "mustVisit": [
+    {
+      "name": "Shalban Vihara & Mainamati Museum",
+      "type": "religious",
+      "description": "The centrepiece of the Mainamati ruins — a great 8th-century Buddhist monastery of 115 cells around a cruciform temple, with the Mainamati Museum beside it displaying the treasures of the lost civilisation.",
+      "history": "Shalban Vihara was founded by Bhava Deva, a ruler of the early Deva dynasty, in the 8th century, when the Mainamati–Lalmai hills were a thriving seat of Buddhist learning. The museum, opened in 1965, holds gold and silver coins, bronze and terracotta images, seals and copperplate inscriptions from the 7th–12th centuries.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4300, 91.1300],
+      "practical": {
+        "hours": "Daytime; closed on the weekly off-day",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kotbari area, ~8 km west of Comilla town",
+        "distanceKm": 8,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Cool, dry months; mornings for the light on the ruins",
+      "tips": [
+        "See the museum first to make sense of the excavated monastery",
+        "Carry water and sun protection — the site is open and shadeless"
+      ]
+    },
+    {
+      "name": "Kotila Mura",
+      "type": "religious",
+      "description": "A hilltop Buddhist site in the Mainamati range with three stupas standing together — taken to represent the 'Three Jewels' of Buddhism: the Buddha, the Dharma and the Sangha.",
+      "history": "Excavated in the Mainamati–Lalmai ridge near the cantonment, Kotila Mura is one of more than fifty ancient Buddhist sites scattered along these low hills. Nearby Rupban Mura and Charpatra Mura — the latter yielding important copperplate inscriptions — complete the picture of the area's 8th–12th-century Buddhist life.",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4550, 91.1250],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kotbari / cantonment area, ~10 km from town",
+        "distanceKm": 10,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Pair it with Rupban Mura and Charpatra Mura nearby",
+        "It lies near the cantonment — follow any local access guidance"
+      ]
+    },
+    {
+      "name": "Mainamati War Cemetery",
+      "type": "landmark",
+      "description": "A quiet, immaculately kept Commonwealth war cemetery in the Mainamati area, where hundreds of Second World War servicemen are buried beneath rows of stone markers and green lawns.",
+      "history": "Maintained by the Commonwealth War Graves Commission, the cemetery holds 736 burials of Commonwealth and other forces from the Burma campaign of the Second World War — a serene and moving place near the cantonment.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4500, 91.1300],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Mainamati / cantonment area, ~9 km from town",
+        "distanceKm": 9,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Daytime; the grounds are beautifully kept year-round",
+      "tips": [
+        "A place of remembrance — keep it quiet and respectful",
+        "Easy to combine with the Mainamati ruins and BARD nearby"
+      ]
+    },
+    {
+      "name": "BARD (Bangladesh Academy for Rural Development)",
+      "type": "culture",
+      "description": "The leafy Kotbari campus where the famous 'Comilla Model' of rural development was born — a place of study, training and gardens, set among the Lalmai hills.",
+      "history": "Founded in 1959 by Dr Akhtar Hameed Khan, BARD developed the Comilla Model of rural cooperatives and self-help in the 1960s — an approach studied and copied across the developing world. The campus, with its lakes and gardens, sits beside the Rupban Mura Buddhist site.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4400, 91.1350],
+      "practical": {
+        "hours": "Daytime; it is a working institute",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kotbari, ~10 km west of town",
+        "distanceKm": 10,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "The campus grounds and lakes are pleasant to walk",
+        "Easy to pair with the Mainamati ruins right alongside"
+      ]
+    },
+    {
+      "name": "Dharmasagar",
+      "type": "landmark",
+      "description": "A large, old rectangular tank in the heart of Comilla town — a green, breezy spot of water and walking paths much loved by locals in the evenings.",
+      "history": "Dharmasagar was dug by a Tripura king named Dharma Manikya (sources place it variously between the 15th and 18th centuries). The great tank has long been the town's favourite open space, ringed today by gardens and a children's park.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4600, 91.1800],
+      "practical": {
+        "hours": "Open daily; pleasant at dusk",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In central Comilla town",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Late afternoon and dusk",
+      "tips": [
+        "A good place to end a day in town",
+        "Combine with a visit to Matri Bhandar for rasmalai nearby"
+      ]
+    },
+    {
+      "name": "Nawab Faizunnesa's Nawab Bari",
+      "type": "culture",
+      "description": "The home estate at Pashchimgaon in Laksam of Nawab Faizunnesa Choudhurani — the first woman in South Asia to hold the title of Nawab — with her surviving mansion and Jame Masjid.",
+      "history": "Faizunnesa (1834–1903) was a zamindar, social reformer and pioneer of women's education, granted the title of Nawab by Queen Victoria in 1889. She founded a girls' school in 1873 and a women's hospital; her Nawab Bari at Pashchimgaon remains a place of pilgrimage to her legacy.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2400, 91.1300],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Pashchimgaon, Laksam upazila, south of Comilla town",
+        "distanceKm": 25,
+        "transport": "Bus/train to Laksam, then local transport"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Pair it with the trip to Laksam Junction",
+        "Be respectful at the mosque, which is in active use"
+      ]
+    },
+    {
+      "name": "Lalmai Hills",
+      "type": "nature",
+      "description": "The low, dimpled ridge of red-earth hills running west of town — the Mainamati–Lalmai range that cradles the district's ancient Buddhist sites among groves and villages.",
+      "history": "Rising only modestly from the plains, the Lalmai hills are geologically ancient and were the setting for the Buddhist civilisation of Mainamati; more than fifty monasteries and stupas lie scattered along the ridge.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4000, 91.1200],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "West of Comilla town, Sadar Dakshin / Lalmai",
+        "distanceKm": 12,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "The ridge ties together the Mainamati sites — good to explore alongside them",
+        "Pleasant for a drive among the red-earth hills and villages"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Comilla Rasmalai",
+      "description": "The district's legendary sweet — soft chhana dumplings in thick, cardamom-scented milk. The original Matri Bhandar shop in Monoharpur, founded in 1930 by the Sengupta brothers, made it famous, and 'Comilla's Rasmalai' earned a Geographical Indication tag in 2024.",
+      "venue": "Matri Bhandar, Monoharpur, Comilla town"
+    },
+    {
+      "type": "craft",
+      "name": "Comilla Khadi",
+      "description": "Handspun, hand-woven khadi cloth, centred around Chandina — a craft that rose with the Swadeshi movement and was sustained through the cottage-industry work of BARD; Comilla khadi also carries a Geographical Indication tag.",
+      "venue": "Khadi shops in Comilla town and Chandina"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Shalban Vihara (8th c.)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4300, 91.1300]
+    },
+    {
+      "name": "Mainamati Museum",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4310, 91.1305]
+    },
+    {
+      "name": "Kotila Mura",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4550, 91.1250]
+    },
+    {
+      "name": "Mainamati War Cemetery",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4500, 91.1300]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-comilla?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Comilla&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Comilla&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Comilla&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "comilla-shalban-vihara", "title": "Walk the 8th-century Shalban Vihara", "category": "place", "detail": "The great Buddhist monastery at the heart of the Mainamati ruins — 115 cells around a cruciform temple.", "whereOrHow": "Kotbari, ~8 km west of town" },
+    { "id": "comilla-mainamati-museum", "title": "See the treasures at Mainamati Museum", "category": "place", "detail": "Gold and silver coins, bronze and terracotta images and copperplate inscriptions from the lost civilisation.", "whereOrHow": "Beside Shalban Vihara, Kotbari" },
+    { "id": "comilla-kotila-mura", "title": "Find the three stupas of Kotila Mura", "category": "place", "detail": "A hilltop Buddhist site whose three stupas stand for the Buddha, the Dharma and the Sangha.", "whereOrHow": "Mainamati range, near the cantonment" },
+    { "id": "comilla-war-cemetery", "title": "Pay respects at Mainamati War Cemetery", "category": "moment", "detail": "736 Second World War burials in an immaculately kept Commonwealth cemetery.", "whereOrHow": "Mainamati / cantonment area" },
+    { "id": "comilla-bard", "title": "Visit BARD at Kotbari", "category": "place", "detail": "The leafy campus where the 'Comilla Model' of rural development was born in 1959.", "whereOrHow": "Kotbari, ~10 km from town" },
+    { "id": "comilla-rasmalai", "title": "Taste rasmalai at Matri Bhandar", "category": "food", "detail": "The original 1930 shop in Monoharpur where Comilla's GI-tagged rasmalai was made famous.", "whereOrHow": "Matri Bhandar, Monoharpur, Comilla town" },
+    { "id": "comilla-dharmasagar", "title": "Stroll Dharmasagar at dusk", "category": "moment", "detail": "The town's great old tank, ringed by gardens — the favourite evening walk in Comilla.", "whereOrHow": "Central Comilla town", "bestTime": "Late afternoon" },
+    { "id": "comilla-faizunnesa", "title": "Visit Nawab Faizunnesa's Nawab Bari", "category": "place", "detail": "The Laksam estate of the first woman in South Asia to be made a Nawab — reformer and pioneer of girls' education.", "whereOrHow": "Pashchimgaon, Laksam" },
+    { "id": "comilla-khadi", "title": "Buy Comilla khadi cloth", "category": "food", "detail": "Handspun, hand-woven khadi from the Chandina tradition — a GI-tagged Comilla craft.", "whereOrHow": "Khadi shops in town and Chandina" },
+    { "id": "comilla-lalmai", "title": "Drive through the Lalmai hills", "category": "experience", "detail": "The low red-earth ridge west of town that cradles the ancient Buddhist sites of Mainamati.", "whereOrHow": "Sadar Dakshin / Lalmai" },
+    { "id": "comilla-victoria-college", "title": "See Comilla Victoria College", "category": "place", "detail": "A historic college founded in 1899 and named for Queen Victoria — a landmark of the old town.", "whereOrHow": "Comilla town" },
+    { "id": "comilla-laksam-junction", "title": "Pass through Laksam Junction", "category": "experience", "detail": "One of the country's largest railway junctions, the rail gateway to the district.", "whereOrHow": "Laksam" }
+  ],
+  "foods": [
+    { "name": "Rasmalai", "description": "Soft chhana dumplings in thick, cardamom-scented milk — Comilla's signature sweet, made famous by Matri Bhandar and now GI-tagged.", "whereToFind": "Matri Bhandar, Monoharpur, and town sweet shops" },
+    { "name": "Khirsa & Milk Sweets", "description": "Comilla's confectioners are known for rich milk-based sweets beyond rasmalai, including khirsa and sandesh.", "whereToFind": "Sweet shops across Comilla town" },
+    { "name": "Khadi-region Snacks & Street Food", "description": "The bustling town and highway-corridor markets serve up the usual Bengali street fare — singara, jilapi and tea.", "whereToFind": "Comilla town bazaars" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Sachin Dev Burman (S.D. Burman)",
+      "knownFor": "One of the greatest composers in Indian film music and a master of Bengali song, born in 1906 at the Tipperah (Comilla) palace as a prince of the Tripura royal family.",
+      "era": "1906 – 1975"
+    },
+    {
+      "name": "Buddhadeb Bose",
+      "knownFor": "A major modernist Bengali poet, novelist, essayist and translator, born in Comilla — a central figure of 20th-century Bengali literature.",
+      "era": "1908 – 1974"
+    },
+    {
+      "name": "Nawab Faizunnesa Choudhurani",
+      "knownFor": "Zamindar, social reformer and pioneer of women's education, born at Pashchimgaon in Laksam — the first woman in South Asia to be granted the title of Nawab (by Queen Victoria, 1889).",
+      "era": "1834 – 1903"
+    }
+  ],
+  "didYouKnow": [
+    "The Mainamati–Lalmai hills hide more than fifty Buddhist monasteries and stupas from the 8th–12th centuries — once a thriving seat of Buddhist learning under the Deva and Chandra dynasties.",
+    "Comilla's rasmalai is so iconic that the original Matri Bhandar shop (founded 1930) earned the sweet a national Geographical Indication tag in 2024.",
+    "BARD at Kotbari, founded in 1959 by Dr Akhtar Hameed Khan, created the 'Comilla Model' of rural cooperatives — studied and copied across the developing world.",
+    "The legendary composer S.D. Burman was born in 1906 in Comilla's Tipperah palace, a prince of the Tripura royal family.",
+    "The district has worn three names — created as Tippera in 1790, renamed Comilla in 1960, and officially spelled Cumilla since 2018."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Kotwali Model Thana, Comilla", "phone": "—" },
+      { "name": "Laksam Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Comilla Medical College Hospital", "phone": "—" },
+      { "name": "Comilla General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
