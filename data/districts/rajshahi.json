@@ -1,0 +1,319 @@
+{
+  "name": "Rajshahi",
+  "division": "Rajshahi",
+  "tagline": "Silk City on the Padma — the oldest museum in the land, Puthia's great cluster of temples, the terracotta Bagha Mosque, and kalai'r ruti along the riverfront.",
+  "stats": {
+    "area": "2,425.37 sq km",
+    "population": "2,915,009",
+    "established": "1772",
+    "attractions": "7+"
+  },
+  "guide": {
+    "bestTime": "October to March for dry, pleasant weather; come in the summer (May–July) if you want the region's famous mangoes at their best.",
+    "gettingThere": "By road from Dhaka (~245 km), by rail on fast intercity trains (Silk City, Padma, Banalata and Dhumketu Express), or by air to Shah Makhdum Airport with daily domestic flights from Dhaka.",
+    "difficulty": "Easy — the city sights cluster near the Padma, and Puthia and Bagha are comfortable day trips east and south-east by bus or car."
+  },
+  "mustVisit": [
+    {
+      "name": "Puthia Temple Complex & Rajbari",
+      "type": "religious",
+      "description": "The largest cluster of historic Hindu temples in Bangladesh — a remarkable group of terracotta and stone shrines around the palace of the Puthia rajas, including the country's largest Shiva temple.",
+      "history": "Built by the Puthia zamindar family, the complex includes the great Bhubaneshwar Shiva Temple (1823, raised by Rani Bhubanmoyi), the terracotta Govinda Temple, the Dol Mancha, and the Indo-Saracenic Puthia Rajbari (1895, built by Maharani Hemanta Kumari).",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3670, 88.8340],
+      "practical": {
+        "hours": "Daytime; closed on the weekly off-day",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Puthia upazila, ~23 km east of Rajshahi city",
+        "distanceKm": 23,
+        "transport": "Bus or car on the Rajshahi–Natore road"
+      },
+      "bestTime": "Cool, dry months; morning light for the terracotta",
+      "tips": [
+        "Several temples sit close together — allow a couple of hours to walk the complex",
+        "Look closely at the terracotta panels of the Govinda Temple"
+      ]
+    },
+    {
+      "name": "Bagha Mosque",
+      "type": "religious",
+      "description": "A jewel of an early-16th-century mosque covered in delicate terracotta floral ornament, with a great dighi spread before it — once depicted on a Bangladesh banknote.",
+      "history": "Built in 1523–24 by Sultan Nusrat Shah of the Husain Shahi dynasty, the Bagha Shahi Mosque is famed for its terracotta decoration; its domes were rebuilt after the 1897 earthquake. It featured on a former 50-taka note.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2000, 88.8300],
+      "practical": {
+        "hours": "Daylight; an active mosque — avoid prayer times for sightseeing",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Bagha upazila, ~40 km south-east of Rajshahi city",
+        "distanceKm": 40,
+        "transport": "Bus or car toward Bagha"
+      },
+      "bestTime": "Mid-morning, outside prayer times",
+      "tips": [
+        "Walk around the walls to take in the terracotta detail",
+        "Dress modestly and remove shoes to enter"
+      ]
+    },
+    {
+      "name": "Varendra Research Museum",
+      "type": "culture",
+      "description": "The oldest museum in Bangladesh — a treasure house of stone sculpture, inscriptions and antiquities from the ancient Varendra region, in the heart of Rajshahi city.",
+      "history": "Founded in 1910 by Sarat Kumar Ray, Akshay Kumar Maitreya and Ramaprasad Chanda to collect and study the archaeology of northern Bengal, the museum is now run by Rajshahi University and remains the country's premier collection of early Bengal sculpture.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3660, 88.6040],
+      "practical": {
+        "hours": "Daytime; closed on its weekly off-day",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Rajshahi city, near the university area",
+        "distanceKm": 2,
+        "transport": "Rickshaw or auto within the city"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Allow time for the rich collection of Pala and Sena-era sculpture",
+        "A fine first stop for understanding the region's deep history"
+      ]
+    },
+    {
+      "name": "Shah Makhdum (RA) Mazar",
+      "type": "religious",
+      "description": "The shrine of the Sufi saint Shah Makhdum Rupos, credited with bringing Islam to the Varendra region — a revered dargah in Rajshahi city, near Rajshahi College.",
+      "history": "Shah Makhdum Rupos is said to have come from Baghdad and died in 1313; his tomb was built in 1635. His annual urs draws devotees, and Rajshahi's airport bears his name.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3700, 88.6000],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Dargapara, Rajshahi city",
+        "distanceKm": 2,
+        "transport": "Rickshaw within the city"
+      },
+      "bestTime": "Mornings for quiet; the urs (27 Rajab) for the festival",
+      "tips": [
+        "Be respectful — it is an active shrine",
+        "Easy to combine with a city walk to Rajshahi College nearby"
+      ]
+    },
+    {
+      "name": "Padma Riverfront",
+      "type": "nature",
+      "description": "Rajshahi's beloved riverside — landscaped embankments, the open-air Lalon Shah Mukto Mancha stage, parks and walkways along the broad Padma, busiest at sunset.",
+      "history": "The city corporation transformed the Padma bank into a long promenade of gardens and embankments (the T-bandh and I-bandh), now the favourite gathering place of Rajshahi's evenings.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3550, 88.6050],
+      "practical": {
+        "hours": "Best in the late afternoon and evening; parts close in flood season",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Along the southern edge of Rajshahi city",
+        "distanceKm": 1,
+        "transport": "Rickshaw or walk within the city"
+      },
+      "bestTime": "Sunset, in the cool dry months",
+      "tips": [
+        "Go for sunset over the Padma — the city's classic evening",
+        "Snack stalls line the embankment; try kalai ruti nearby"
+      ]
+    },
+    {
+      "name": "Silk City & Sopura Silk",
+      "type": "culture",
+      "description": "Rajshahi is 'Reshmi Nagari', the Silk City — its silk saris a GI-recognised craft, with the Sopura Silk showrooms the place to see weaving and buy direct.",
+      "history": "Sericulture has shaped Rajshahi for generations; Rajshahi silk earned a Geographical Indication tag in 2017. Though the industry has shrunk, the showrooms and weaving units keep the craft and its famous saris alive.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3800, 88.6100],
+      "practical": {
+        "hours": "Showroom hours, daytime",
+        "entryFee": "Free to browse",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Sopura / BSCIC area, Rajshahi city",
+        "distanceKm": 4,
+        "transport": "Rickshaw or auto within the city"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Buy a Rajshahi silk sari direct from the showrooms",
+        "Ask to see the weaving where it's on view"
+      ]
+    },
+    {
+      "name": "Rajshahi College",
+      "type": "culture",
+      "description": "One of the oldest and most storied colleges in the country — a handsome 19th-century campus in the heart of the city, with a long roll of distinguished alumni.",
+      "history": "Established in 1873, Rajshahi College is the third-oldest college in Bangladesh, after the Dhaka and Chittagong colleges, and was the first in the region to award a master's degree.",
+      "image": "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3690, 88.5990],
+      "practical": {
+        "hours": "View the historic buildings from the public areas, daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In central Rajshahi city",
+        "distanceKm": 2,
+        "transport": "Rickshaw within the city"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Admire the old colonial-era college buildings",
+        "Pair it with the Shah Makhdum shrine close by"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Kalai'r Ruti",
+      "description": "Rajshahi's signature street food — a thick flatbread of black-gram (mashkalai) and rice flour, eaten hot with begun bhorta (mashed eggplant), fiery chilli bhorta and spicy duck or beef, at stalls around Shaheb Bazar and Zero Point.",
+      "venue": "Street stalls in Rajshahi city"
+    },
+    {
+      "type": "craft",
+      "name": "Rajshahi Silk",
+      "description": "The famous silk saris of the Silk City, a Geographical Indication-recognised craft (2017) — woven and sold at Sopura and the city's silk showrooms.",
+      "venue": "Sopura Silk and city showrooms"
+    },
+    {
+      "type": "food",
+      "name": "Rajshahi-region Mango",
+      "description": "Rajshahi sits at the heart of the country's mango belt — Fazli, Langra, Himsagar and Gopalbhog fill the summer markets.",
+      "venue": "City and roadside mango markets, in season",
+      "timing": "Summer (May–July)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Puthia Temple Complex",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3670, 88.8340]
+    },
+    {
+      "name": "Bagha Mosque (1523)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2000, 88.8300]
+    },
+    {
+      "name": "Varendra Research Museum (1910)",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3660, 88.6040]
+    },
+    {
+      "name": "Shah Makhdum (RA) Mazar",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3700, 88.6000]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-rajshahi?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Rajshahi&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "GoZayaan Flights", "url": "https://gozayaan.com/flights" },
+        { "name": "ShareTrip Flights", "url": "https://sharetrip.net/flights" }
+      ],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Rajshahi&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Rajshahi&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3000" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "rajshahi-puthia", "title": "Walk the Puthia temple complex", "category": "place", "detail": "The largest cluster of historic Hindu temples in the country, around the Puthia rajbari — including the largest Shiva temple in Bangladesh.", "whereOrHow": "Puthia, ~23 km east" },
+    { "id": "rajshahi-bagha-mosque", "title": "See the terracotta Bagha Mosque", "category": "place", "detail": "A 1523 mosque covered in floral terracotta, with a great dighi before it — once on a 50-taka note.", "whereOrHow": "Bagha, ~40 km south-east" },
+    { "id": "rajshahi-varendra-museum", "title": "Visit the Varendra Research Museum", "category": "place", "detail": "The oldest museum in Bangladesh (1910), full of early Bengal stone sculpture and antiquities.", "whereOrHow": "Rajshahi city" },
+    { "id": "rajshahi-shah-makhdum", "title": "Visit the Shah Makhdum shrine", "category": "place", "detail": "The dargah of the Sufi saint credited with bringing Islam to the Varendra region.", "whereOrHow": "Dargapara, Rajshahi city" },
+    { "id": "rajshahi-padma-sunset", "title": "Watch sunset on the Padma riverfront", "category": "moment", "detail": "The landscaped embankments and Lalon Shah open-air stage — the city's favourite evening gathering.", "whereOrHow": "Rajshahi city riverfront", "bestTime": "Sunset" },
+    { "id": "rajshahi-kalai-ruti", "title": "Eat kalai'r ruti with begun bhorta", "category": "food", "detail": "Rajshahi's signature black-gram flatbread with mashed eggplant, chilli bhorta and spicy duck.", "whereOrHow": "Shaheb Bazar / Zero Point stalls" },
+    { "id": "rajshahi-silk", "title": "Buy a Rajshahi silk sari", "category": "food", "detail": "GI-recognised silk from the Silk City, woven and sold at the Sopura showrooms.", "whereOrHow": "Sopura Silk, Rajshahi city" },
+    { "id": "rajshahi-mango", "title": "Eat Rajshahi-belt mango in season", "category": "food", "detail": "Fazli, Langra and Himsagar from the heart of the country's mango country.", "whereOrHow": "City and roadside markets", "bestTime": "May–July" },
+    { "id": "rajshahi-college", "title": "See historic Rajshahi College", "category": "place", "detail": "Founded 1873, the third-oldest college in Bangladesh, with handsome colonial-era buildings.", "whereOrHow": "Rajshahi city" },
+    { "id": "rajshahi-river-boat", "title": "Take a boat on the Padma", "category": "experience", "detail": "Hire a country boat from the riverbank for a slow drift on the great river.", "whereOrHow": "Rajshahi riverfront" },
+    { "id": "rajshahi-mango-orchard", "title": "Wander a mango orchard in blossom", "category": "moment", "detail": "In spring the orchards around the city fill with mango blossom and its heady scent.", "whereOrHow": "Around Rajshahi and Puthia", "bestTime": "Spring" },
+    { "id": "rajshahi-andrew-kishore", "title": "Hear the songs of Andrew Kishore", "category": "experience", "detail": "Rajshahi was the home town of the beloved 'Playback King' of Bangladeshi film music.", "whereOrHow": "Rajshahi city" }
+  ],
+  "foods": [
+    { "name": "Kalai'r Ruti", "description": "Thick black-gram-and-rice flatbread eaten hot with begun bhorta and chilli — Rajshahi's signature street food.", "whereToFind": "Shaheb Bazar, Zero Point and city stalls" },
+    { "name": "Hasher Mangsho", "description": "Spicy duck curry, the classic partner to kalai'r ruti on cool evenings.", "whereToFind": "Kalai ruti stalls across the city" },
+    { "name": "Rajshahi Mango", "description": "Fazli, Langra, Himsagar and Gopalbhog from the surrounding mango belt.", "whereToFind": "City and roadside markets, May–July" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Selina Hossain",
+      "knownFor": "Acclaimed novelist born in Rajshahi, author of many works of modern Bengali fiction and recipient of the Independence Award, Ekushey Padak and Bangla Academy Award.",
+      "era": "born 1947"
+    },
+    {
+      "name": "Andrew Kishore",
+      "knownFor": "The 'Playback King' of Bangladeshi film music, born in Rajshahi — winner of eight National Film Awards for best male playback singer.",
+      "era": "1955 – 2020"
+    }
+  ],
+  "didYouKnow": [
+    "The Varendra Research Museum, founded in 1910, is the oldest museum in Bangladesh.",
+    "Puthia has the largest cluster of historic Hindu temples in the country — including the largest Shiva temple in Bangladesh.",
+    "The Bagha Mosque of 1523 is famed for its terracotta ornament and once appeared on a former 50-taka banknote.",
+    "Rajshahi is known as the 'Silk City' (Reshmi Nagari), and Rajshahi silk earned a Geographical Indication tag in 2017.",
+    "Rajshahi sits at the heart of the country's mango belt, and the saint Shah Makhdum Rupos — after whom the city's airport is named — is credited with spreading Islam in the Varendra region."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Boalia Model Thana (RMP)", "phone": "—" },
+      { "name": "Rajpara Thana (RMP)", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Rajshahi Medical College Hospital", "phone": "—" },
+      { "name": "Rajshahi Sadar Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
