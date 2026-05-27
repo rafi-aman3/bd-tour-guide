@@ -1,0 +1,294 @@
+{
+  "name": "Meherpur",
+  "division": "Khulna",
+  "tagline": "Where free Bangladesh first took its oath — in a mango grove on the Indian border.",
+  "stats": {
+    "area": "751.62 sq km",
+    "population": "705,356",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to February (cool, dry; comfortable for the memorial and the indigo-kuthi trail)",
+    "gettingThere": "By road from Kushtia (~50 km) or Chuadanga (~30 km). Direct coaches run from Dhaka (~7–8 hr) via Kushtia. Nearest railhead is Poradaha/Chuadanga; nearest airport is Jashore (~100 km).",
+    "difficulty": "Easy — most sites are short road trips from Meherpur town; Mujibnagar is ~38 km southwest near the border."
+  },
+  "mustVisit": [
+    {
+      "name": "Mujibnagar Memorial Complex",
+      "type": "history",
+      "description": "The most important Liberation War site in the country after Dhaka — the mango grove at Baidyanathtala where the Provisional Government of Bangladesh was sworn in on 17 April 1971. A vast memorial complex now marks the spot.",
+      "history": "Baidyanathtala (also called Bhabarpara) was renamed Mujibnagar by the Proclamation of Independence, in honour of the then-imprisoned Sheikh Mujibur Rahman. The first government — led by Acting President Syed Nazrul Islam and Prime Minister Tajuddin Ahmed — took oath here under the mango trees, near the Indian border. The memorial, designed by architect Tanveer Karim, was built between 1974 and 1987. Its 23 triangular walls represent the 23-year independence movement (1947–1971); the nine steps to the red altar stand for the nine months of war; six tiered flower gardens recall the Six-Point Movement.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6300, 88.5667],
+      "practical": {
+        "hours": "Open daily, daylight hours (busiest on 17 April, Mujibnagar Day)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 38 km southwest of Meherpur town, in Mujibnagar Upazila near the Indian border",
+        "distanceKm": 38,
+        "transport": "Bus, microbus or CNG from Meherpur town to Mujibnagar"
+      },
+      "bestTime": "17 April for the Mujibnagar Day commemoration; cool months for a quieter visit",
+      "tips": [
+        "Allow at least two hours — the sculpture concourse and the sector-map relief reward a slow walk",
+        "Carry your NID; the complex sits very close to the international border",
+        "Mornings are best before the picnic crowds arrive on holidays"
+      ]
+    },
+    {
+      "name": "Amjhupi Nilkuthi",
+      "type": "heritage",
+      "description": "A surviving colonial indigo-planter's bungalow on the bank of the Kajla river, about 6 km east of Meherpur town — a tangible relic of the indigo trade and the peasant suffering it caused.",
+      "history": "Built roughly between 1800 and 1815 at the height of the East India Company's indigo trade, the kuthi housed British planters who supervised forced indigo cultivation. It later passed to the Midnapore zamindars, and after the abolition of zamindari to the district administration. It was declared a tourist site in 1978.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7560, 88.6960],
+      "practical": {
+        "hours": "Open during daylight",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 6 km east of Meherpur town in Amjhupi village",
+        "distanceKm": 6,
+        "transport": "CNG / easybike from Meherpur town"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Pair it with a riverside walk along the Kajla",
+        "The interior is old — tread carefully and don't climb on the masonry"
+      ]
+    },
+    {
+      "name": "Bhatpara Nilkuthi & Eco Park",
+      "type": "heritage",
+      "description": "A ruined indigo factory in Gangni Upazila on the east bank of the Kazla river, set among a mango orchard with a derelict church nearby — now paired with an eco-park rest area.",
+      "history": "Built by the British in 1778, the main 60-by-60-foot building still stands. Like Amjhupi, it was a hub of indigo production and planter administration. A ruined church survives on the northwest side of the garden. The site has suffered from limited maintenance.",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7900, 88.7800],
+      "practical": {
+        "hours": "Open during daylight",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 17 km from Meherpur town; ~7 km north of Gangni Upazila town",
+        "distanceKm": 17,
+        "transport": "Bus or local vehicle to Gangni, then easybike north to Bhatpara"
+      },
+      "bestTime": "Mango season (May–June) for the orchard; cool months otherwise",
+      "tips": [
+        "The structure is fragile — view from outside rather than entering",
+        "Combine with the eco-park for shade and a place to sit"
+      ]
+    },
+    {
+      "name": "Siddheshwari Kali Mandir",
+      "type": "religious",
+      "description": "A historic Kali temple at Boro Bazar in the heart of Meherpur town, drawing worshippers year-round and especially during Kali Puja.",
+      "history": "One of the district's best-known Hindu temples, long woven into the religious life of Meherpur Sadar. It remains in active worship with regular rituals and festival gatherings.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7625, 88.6330],
+      "practical": {
+        "hours": "Open daily; busiest at dawn and dusk",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Boro Bazar, central Meherpur town",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Kali Puja (autumn) for the festival; mornings for quiet darshan",
+      "tips": [
+        "Remove shoes before the inner shrine",
+        "Modest dress is appreciated"
+      ]
+    },
+    {
+      "name": "Swami Nigamananda Ashram (Kutubpur)",
+      "type": "religious",
+      "description": "The ancestral village and ashram associated with Swami Nigamananda Paramahansa, the Hindu spiritual reformer, in Kutubpur of Meherpur Sadar — a pilgrimage stop for his followers.",
+      "history": "Nigamananda Paramahansa (born 1880) was a noted Hindu guru and yogi whose ancestral home is in Kutubpur village. The ashram keeps his memory and teachings alive and remains a place of quiet devotion.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7850, 88.6150],
+      "practical": {
+        "hours": "Open during daylight",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Kutubpur village, Meherpur Sadar Upazila",
+        "distanceKm": 5,
+        "transport": "CNG / easybike from Meherpur town"
+      },
+      "bestTime": "Cool months; ask locally about devotional gatherings",
+      "tips": [
+        "It is a place of worship — keep voices low and dress modestly",
+        "Photograph the grounds, not devotees mid-prayer, without asking"
+      ]
+    },
+    {
+      "name": "Bhairab River (Tengamari origin)",
+      "type": "nature",
+      "description": "The Bhairab — one of the region's storied rivers — rises at the Tengamari border in Meherpur and skirts the south of the town before winding on toward Jashore. A calm spot for a riverside evening.",
+      "history": "The Bhairab runs roughly 160 km from its Meherpur origin, historically a key waterway of the southwest. Stretches of it have silted and narrowed over the decades, but the upper reach near Meherpur still carries the river's name and history.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7700, 88.6250],
+      "practical": {
+        "hours": "Open access (daylight recommended)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Skirts the southern edge of Meherpur town",
+        "distanceKm": 2,
+        "transport": "Rickshaw or easybike from town"
+      },
+      "bestTime": "Late afternoon for sunset; cool months",
+      "tips": [
+        "The water is shallow in the dry season — go for the view, not a swim",
+        "Pair with a Boro Bazar sweet stop on the way back"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Sabitri",
+      "description": "Meherpur's signature sweet — a milk sweet resembling chomchom but longer and flatter, made in the town since the British era (the first batches date to 1861 in the Boro Bazar area).",
+      "venue": "Boro Bazar heritage sweet shops, Meherpur town"
+    },
+    {
+      "type": "food",
+      "name": "Ras Kadam (Ras Kadamba)",
+      "description": "A round, juicy syrup-soaked sweet that, alongside Sabitri, has carried Meherpur's confectionery reputation for roughly 150 years.",
+      "venue": "Boro Bazar heritage sweet shops, Meherpur town"
+    },
+    {
+      "type": "festival",
+      "name": "Mujibnagar Day (17 April)",
+      "description": "The annual commemoration of the 1971 oath-taking of the Provisional Government, marked with ceremonies, crowds and cultural programmes at the Mujibnagar Memorial Complex.",
+      "timing": "17 April",
+      "coordinates": [23.6300, 88.5667]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Mujibnagar Memorial Complex (1971)",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6300, 88.5667]
+    },
+    {
+      "name": "Amjhupi Nilkuthi (c. 1800–1815)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7560, 88.6960]
+    },
+    {
+      "name": "Bhatpara Nilkuthi (1778)",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7900, 88.7800]
+    },
+    {
+      "name": "Siddheshwari Kali Mandir, Boro Bazar",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7625, 88.6330]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-meherpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Meherpur&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Meherpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Meherpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "meherpur-mujibnagar-oath", "title": "Stand where Bangladesh first took its oath at Mujibnagar", "category": "moment", "detail": "The red altar at the top of nine steps marks the spot where the Provisional Government was sworn in on 17 April 1971. Few places carry this much of the nation's beginning.", "whereOrHow": "Mujibnagar Memorial Complex, ~38 km southwest of town", "bestTime": "Cool months; 17 April for the commemoration" },
+    { "id": "meherpur-sector-map", "title": "Read the Liberation War sector-map relief", "category": "experience", "detail": "Inside the complex, a large relief lays out the war's eleven sectors, surrounded by sculptures of the 7 March speech, the oath, and the surrender. A walk-through history lesson.", "whereOrHow": "Mujibnagar Memorial Complex" },
+    { "id": "meherpur-sabitri", "title": "Eat a Sabitri at a Boro Bazar sweet shop", "category": "food", "detail": "Meherpur's signature sweet — flatter and longer than chomchom — has been made in the Boro Bazar lanes since 1861. Ask for the day's batch.", "whereOrHow": "Boro Bazar heritage sweet shops, Meherpur town" },
+    { "id": "meherpur-ras-kadam", "title": "Try Ras Kadam, the town's other 150-year-old sweet", "category": "food", "detail": "A round, juicy sweet that shares the spotlight with Sabitri. Locals will tell you which shop does it best — opinions are strong.", "whereOrHow": "Boro Bazar, Meherpur town" },
+    { "id": "meherpur-amjhupi-kuthi", "title": "Walk the Amjhupi indigo kuthi on the Kajla river", "category": "place", "detail": "A colonial planter's bungalow from the early 1800s, a relic of the indigo trade and the peasant suffering behind it. Quiet, riverside, and free.", "whereOrHow": "Amjhupi village, ~6 km east of town" },
+    { "id": "meherpur-bhatpara-kuthi", "title": "See the 1778 Bhatpara indigo factory ruins", "category": "place", "detail": "An older, more ruined indigo kuthi in a mango orchard with a derelict church nearby — paired with an eco-park rest area.", "whereOrHow": "Gangni Upazila, ~17 km from town" },
+    { "id": "meherpur-mango-orchard", "title": "Visit a Meherpur mango orchard in season", "category": "experience", "detail": "This western belt is mango country. The orchards around Gangni and Amjhupi are heavy with fruit in late spring.", "whereOrHow": "Gangni / Amjhupi orchards", "bestTime": "May–June" },
+    { "id": "meherpur-siddheshwari", "title": "Visit Siddheshwari Kali Mandir in town", "category": "place", "detail": "A historic Kali temple in Boro Bazar, still in active worship and especially alive during Kali Puja.", "whereOrHow": "Boro Bazar, Meherpur town" },
+    { "id": "meherpur-nigamananda", "title": "Pay respects at Swami Nigamananda's Kutubpur ashram", "category": "place", "detail": "The ancestral village of the Hindu reformer Nigamananda Paramahansa (b. 1880), a place of quiet devotion for his followers.", "whereOrHow": "Kutubpur village, Meherpur Sadar" },
+    { "id": "meherpur-bhairab-sunset", "title": "Watch the sun set over the Bhairab's origin", "category": "moment", "detail": "The Bhairab river rises at the Tengamari border in Meherpur. The shallow upper reach near town is a calm spot for an evening walk.", "whereOrHow": "Southern edge of Meherpur town", "bestTime": "Late afternoon" },
+    { "id": "meherpur-sojne", "title": "Eat a sojne (moringa) dish with rice and dal", "category": "food", "detail": "Drumstick pods and leaves are a staple of the local table — try sojne in a light mustard chochchori or leaf bhorta at a home-style canteen.", "whereOrHow": "Home-style rice-meal canteens, Meherpur town" },
+    { "id": "meherpur-april-17", "title": "Join the crowds on Mujibnagar Day", "category": "experience", "detail": "Every 17 April the memorial complex fills with ceremonies, cultural programmes and thousands of visitors marking the birth of the first government.", "whereOrHow": "Mujibnagar Memorial Complex", "bestTime": "17 April" }
+  ],
+  "foods": [
+    { "name": "Sabitri", "description": "Meherpur's signature milk sweet — like chomchom but longer and flatter — made in the town since 1861.", "whereToFind": "Boro Bazar heritage sweet shops" },
+    { "name": "Ras Kadam (Ras Kadamba)", "description": "Round, juicy syrup-soaked sweet that has shared Meherpur's confectionery fame with Sabitri for ~150 years.", "whereToFind": "Boro Bazar heritage sweet shops" },
+    { "name": "Sojne (Moringa) Chochchori", "description": "Drumstick pods cooked in a light mustard gravy — a staple of the local table, eaten with rice and dal.", "whereToFind": "Home-style canteens, Meherpur town" },
+    { "name": "Sojne Patar Bhorta", "description": "Mashed moringa leaves with mustard oil, garlic and green chili — a simple, much-loved side in this western belt.", "whereToFind": "Rice-meal canteens, Sadar" },
+    { "name": "Khejur Gur", "description": "Date-palm jaggery from the winter sap harvest — a regional staple used in pithas and as a tea sweetener.", "whereToFind": "Rural haats, December–February" },
+    { "name": "Meherpur Mango", "description": "Sweet seasonal mangoes from the district's orchards around Gangni and Amjhupi.", "whereToFind": "Orchards and roadside stalls, May–June" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Imrul Kayes",
+      "knownFor": "Bangladesh international cricketer and longtime Test/ODI opener; with Tamim Iqbal set a then-record 312-run opening stand against Pakistan in 2015.",
+      "era": "b. 1987"
+    },
+    {
+      "name": "Swami Nigamananda Paramahansa",
+      "knownFor": "Hindu spiritual reformer, guru and yogi; his ancestral home is in Kutubpur village, Meherpur.",
+      "era": "1880 – 1935"
+    }
+  ],
+  "didYouKnow": [
+    "Baidyanathtala village was renamed Mujibnagar in 1971 — it is where the Provisional Government of Bangladesh took its oath on 17 April, in a mango grove beside the Indian border.",
+    "The Mujibnagar memorial's design is symbolic: 23 triangular walls for the 23-year independence movement, nine steps for the nine months of war, and six tiered gardens for the Six-Point Movement.",
+    "Meherpur's Sabitri and Ras Kadam sweets have been made in the town's Boro Bazar lanes for roughly 150 years — the first Sabitri dates to 1861.",
+    "The Bhairab river rises at the Tengamari border inside Meherpur before flowing on toward Jashore — roughly 160 km in all.",
+    "The district holds two surviving indigo-era kuthis — Amjhupi (early 1800s) and Bhatpara (1778) — reminders of the forced indigo cultivation that scarred Bengal's peasants."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Meherpur Sadar Police Station", "phone": "—" },
+      { "name": "Mujibnagar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Meherpur General Hospital (Sadar)", "phone": "—" },
+      { "name": "Gangni Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
