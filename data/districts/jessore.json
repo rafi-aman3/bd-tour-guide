@@ -1,0 +1,314 @@
+{
+  "name": "Jashore",
+  "division": "Khulna",
+  "tagline": "The first district of Bengal — Madhusudan's Kapotaksha, the country's date-palm gur, and a town of flowers.",
+  "stats": {
+    "area": "2606.94 sq km",
+    "population": "3,076,144",
+    "established": "1781",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry; the date-palm sap season and the flower fields at their best)",
+    "gettingThere": "By air from Dhaka to Jashore Airport (~45 min), by train to Jashore Junction, or by road via the Padma Bridge (~6–7 hr). Jashore is the gateway to the Benapole land crossing into India.",
+    "difficulty": "Easy — well connected by rail, air and road; sights spread across the upazilas need a half-day each."
+  },
+  "mustVisit": [
+    {
+      "name": "Michael Madhusudan Dutt's House & Museum (Sagardari)",
+      "type": "heritage",
+      "description": "The ancestral home of Michael Madhusudan Dutt — pioneer of the Bengali sonnet and of blank verse — on the bank of the Kapotaksha river at Sagardari, now a museum of his life and manuscripts.",
+      "history": "Dutt was born here on 25 January 1824. The 19th-century family home (the 'Kachari Bari') holds his belongings, period furniture, portraits and reproductions of his writing. The Kapotaksha that runs past the house is the river he immortalised from exile in his sonnet 'Kapotaksha Nad'. Each January the grounds host the Madhu Mela on his birth anniversary.",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9050, 89.1300],
+      "practical": {
+        "hours": "10 am – 6 pm (Apr–Sep); 9 am – 5 pm (Oct–Mar)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km south-west of Jashore town, in Sagardari, Keshabpur Upazila",
+        "distanceKm": 35,
+        "transport": "Bus or CNG to Keshabpur, then easybike to Sagardari"
+      },
+      "bestTime": "Late January for the Madhu Mela; cool months otherwise",
+      "tips": [
+        "The museum closes one weekday — check before a long trip out",
+        "Walk down to the Kapotaksha ghat behind the house for the view from the sonnet"
+      ]
+    },
+    {
+      "name": "Godkhali Flower Fields & Market (Jhikargachha)",
+      "type": "nature",
+      "description": "The flower capital of Bangladesh — fields of roses, gerbera, marigold, tuberose and gladioli around Godkhali in Jhikargachha that supply a huge share of the country's cut flowers.",
+      "history": "Commercial floriculture took root here in the late 1980s and grew into the nation's largest flower-growing belt. The dawn wholesale market at Godkhali bazar, where growers auction the night's cut stems, is the spectacle to catch.",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0900, 89.1000],
+      "practical": {
+        "hours": "Wholesale market busiest ~6–9 am; fields open daylight hours",
+        "entryFee": "Free (to view)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 20 km south-west of Jashore on the Benapole road, near Godkhali, Jhikargachha",
+        "distanceKm": 20,
+        "transport": "Bus or CNG along the Jashore–Benapole highway to Godkhali"
+      },
+      "bestTime": "November to February, at sunrise for the market",
+      "tips": [
+        "Come at dawn for the auction; by mid-morning the flowers have left for the cities",
+        "Ask a grower before walking into the rows — these are working fields"
+      ]
+    },
+    {
+      "name": "Chanchra Shiva Temple",
+      "type": "religious",
+      "description": "An old brick Shiva temple near Jashore town, among the most revered Shaivite sites in the region.",
+      "history": "Associated with the zamindars of Chanchra and held by local tradition to be centuries old, the temple remains an active place of worship with a tall, ornate spire typical of Bengal's pre-modern temple architecture.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1550, 89.1850],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 4 km from Jashore town centre at Chanchra",
+        "distanceKm": 4,
+        "transport": "Rickshaw or easybike from town"
+      },
+      "bestTime": "Shivaratri (Feb–Mar) for the festival; cool months for a quiet visit",
+      "tips": [
+        "Remove shoes before the inner shrine",
+        "Modest dress recommended"
+      ]
+    },
+    {
+      "name": "Jashore Collectorate Building & Park",
+      "type": "heritage",
+      "description": "The red-brick colonial collectorate of the first district created in present-day Bangladesh — still a working administrative office, with a tree-lined park beside the Bhairab river.",
+      "history": "Jessore was constituted as a district in 1781 and its collectorate office formalised by 1786; the landmark building dates to the early 19th century. Novelist Bankim Chandra Chattopadhyay served here as a deputy magistrate in the mid-1800s. Collectorate Park beside it offers lawns and a riverside walk.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1680, 89.2100],
+      "practical": {
+        "hours": "Exterior and park accessible daily; office hours on weekdays",
+        "entryFee": "Free (exterior / park)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In central Jashore town",
+        "distanceKm": 1,
+        "transport": "Rickshaw or on foot from the town centre"
+      },
+      "bestTime": "Late afternoon in the park",
+      "tips": [
+        "It is a functioning government office — be discreet with photography inside the compound",
+        "Pair with a stroll along the Bhairab in Collectorate Park"
+      ]
+    },
+    {
+      "name": "Bharat Bhayna Archaeological Mound (Keshabpur)",
+      "type": "heritage",
+      "description": "A conical 12-metre mound on the Buri-Bhadra river that covers the remains of a 5th-century Buddhist temple and stupa — possibly one of the thirty monasteries of ancient Samatata.",
+      "history": "Excavations by the Department of Archaeology between 1984 and 2001 revealed a brick structure of dozens of cells and a stupa. It may be one of the 30 sangharamas of Samatata recorded by the Chinese pilgrim Hiuen-tsang. Two of the largest terracotta plaques ever found in this part of South Asia came from the site, which the Archaeological Survey of India had protected as early as 1922.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9050, 89.2200],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Bharat Bhayna village, Keshabpur Upazila, ~30 km south-west of Jashore",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Keshabpur, then easybike to the mound"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Little has been left exposed — temper expectations; the interest is historical",
+        "Combine with Sagardari, which is in the same upazila"
+      ]
+    },
+    {
+      "name": "Benapole Land Port (Sharsha)",
+      "type": "landmark",
+      "description": "Bangladesh's largest land port and its busiest road crossing into India — the main overland gateway between Dhaka and Kolkata.",
+      "history": "Benapole faces Petrapole across the border in West Bengal and handles the lion's share of Bangladesh–India land trade and a heavy flow of passengers. The zero-point gate and the integrated check-post are the focus of the visit.",
+      "image": "https://images.unsplash.com/photo-1604934385267-3a0d4e8d59ff?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0450, 88.9100],
+      "practical": {
+        "hours": "Immigration ~6 am – 6 pm; the gate area is visible during daylight",
+        "entryFee": "Free to visit; crossing needs a valid passport and Indian visa",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 38 km west of Jashore on the Benapole highway, Sharsha Upazila",
+        "distanceKm": 38,
+        "transport": "Direct bus or CNG from Jashore along the Benapole road"
+      },
+      "bestTime": "Mid-morning, before queues build",
+      "tips": [
+        "Photography of the border fence and check-post infrastructure is restricted",
+        "Carry your NID or passport even if you are not crossing"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Jashore Khejur Gur (Date-Palm Jaggery)",
+      "description": "The most celebrated date-palm jaggery in Bangladesh. Gachhis tap the trees at dawn through winter and boil the sap into fragrant patali (solid) and jhola/nolen (liquid) gur — 'Khejurer rosh, Jshorer josh'.",
+      "venue": "Rural haats district-wide, December–February"
+    },
+    {
+      "type": "food",
+      "name": "Jamtola Sweets (Sadeker Golla)",
+      "description": "The legendary lighter, less-sweet roshogolla of Jamtala bazar in Sharsha, made since 1955 and known across the country as 'Sadeker Golla'.",
+      "venue": "Jamtala bazar, Sharsha"
+    },
+    {
+      "type": "craft",
+      "name": "Godkhali Floriculture",
+      "description": "The cut-flower trade of Jhikargachha — roses, gerbera, tuberose, marigold and gladioli grown for markets nationwide, with a famous dawn wholesale auction at Godkhali.",
+      "venue": "Godkhali, Jhikargachha"
+    },
+    {
+      "type": "festival",
+      "name": "Madhu Mela",
+      "description": "The annual fair at Sagardari marking Michael Madhusudan Dutt's birth anniversary — a week of poetry, jatra, folk song and village trade around the poet's riverside home.",
+      "timing": "Late January",
+      "coordinates": [22.9050, 89.1300]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Michael Madhusudan Dutt's House (Sagardari)",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9050, 89.1300]
+    },
+    {
+      "name": "Jashore Collectorate Building (early 19th c.)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1680, 89.2100]
+    },
+    {
+      "name": "Bharat Bhayna Buddhist Mound (5th c.)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9050, 89.2200]
+    },
+    {
+      "name": "Chanchra Shiva Temple",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1550, 89.1850]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-jessore?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Jessore&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Eagle Paribahan", "phone": "—" },
+        { "name": "Sohag Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Jessore&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Jashore Junction Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "US-Bangla Airlines", "url": "https://usbair.com/" },
+        { "name": "Biman Bangladesh", "url": "https://biman-airlines.com/?from={fromCityAir}&to=JSR&date={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Jashore Airport (JSR)", "phone": "—" }
+      ]
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Jessore&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Jessore&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "jessore-sagardari", "title": "Stand at Madhusudan's house on the Kapotaksha", "category": "place", "detail": "The riverside home where the poet who gave Bengali the sonnet and blank verse was born in 1824 — now a museum, with the very river he wrote of from exile running past.", "whereOrHow": "Sagardari, Keshabpur, ~35 km from town", "bestTime": "Late January (Madhu Mela)" },
+    { "id": "jessore-godkhali-dawn", "title": "Watch the dawn flower auction at Godkhali", "category": "experience", "detail": "Before sunrise, growers bring the night's cut roses, gerbera and tuberose to the bazar in the flower capital of Bangladesh. By mid-morning they're on trucks to the cities.", "whereOrHow": "Godkhali, Jhikargachha", "bestTime": "Nov–Feb, ~6 am" },
+    { "id": "jessore-khejur-gur", "title": "Taste fresh khejur gur straight from the boiling pan", "category": "food", "detail": "Jashore is the date-palm-jaggery capital of the country. In winter, visit a gachhi at dawn and eat nolen gur while it's still warm.", "whereOrHow": "Rural villages, district-wide", "bestTime": "December–February" },
+    { "id": "jessore-jamtola-golla", "title": "Eat the original Jamtola roshogolla", "category": "food", "detail": "Lighter and less sweet than the usual — 'Sadeker Golla', made at Jamtala bazar in Sharsha since 1955 and famous nationwide.", "whereOrHow": "Jamtala bazar, Sharsha" },
+    { "id": "jessore-collectorate", "title": "Walk the grounds of Bengal's first collectorate", "category": "place", "detail": "Jessore was the first district created in today's Bangladesh (1781). Bankim Chandra Chattopadhyay once worked in this red-brick office; the park beside it runs down to the Bhairab.", "whereOrHow": "Central Jashore town", "bestTime": "Late afternoon" },
+    { "id": "jessore-chanchra", "title": "Visit the old Chanchra Shiva Temple", "category": "place", "detail": "A revered, centuries-old brick Shiva temple of the Chanchra zamindars, just outside town.", "whereOrHow": "Chanchra, ~4 km from town" },
+    { "id": "jessore-bharat-bhayna", "title": "Climb the Bharat Bhayna mound", "category": "place", "detail": "A 12-metre hillock on the Buri-Bhadra that hides a 5th-century Buddhist temple, perhaps one of the thirty monasteries of ancient Samatata.", "whereOrHow": "Keshabpur Upazila", "bestTime": "Cool months, morning" },
+    { "id": "jessore-benapole", "title": "See the zero-point gate at Benapole", "category": "moment", "detail": "Bangladesh's largest land port and the main road gateway to Kolkata — watch the trucks and travellers cross at Petrapole on the other side.", "whereOrHow": "Benapole, Sharsha, ~38 km west", "bestTime": "Mid-morning" },
+    { "id": "jessore-kapotaksha-boat", "title": "Take a boat on the Kapotaksha at Sagardari", "category": "experience", "detail": "The river of Madhusudan's most famous sonnet — a short country-boat ride below the poet's house at golden hour.", "whereOrHow": "Sagardari ghat, Keshabpur", "bestTime": "Cool months, dusk" },
+    { "id": "jessore-gur-pitha", "title": "Eat winter pithas made with nolen gur", "category": "food", "detail": "Chitoi and bhapa pithas filled and drizzled with the season's fresh date-palm jaggery — a Jashore winter ritual.", "whereOrHow": "Winter morning pitha stalls", "bestTime": "December–February" },
+    { "id": "jessore-madhu-mela", "title": "Join the Madhu Mela at Sagardari", "category": "experience", "detail": "A week-long fair on the poet's birth anniversary — poetry, jatra, folk song and village trade around his riverside home.", "whereOrHow": "Sagardari, Keshabpur", "bestTime": "Late January" },
+    { "id": "jessore-flower-garden", "title": "Buy an armful of gerbera in the fields", "category": "moment", "detail": "Beyond the auction, the Jhikargachha fields themselves are worth a slow morning — rows of roses, marigold and gladioli stretching to the horizon.", "whereOrHow": "Godkhali area, Jhikargachha", "bestTime": "Nov–Feb morning" }
+  ],
+  "foods": [
+    { "name": "Khejur Gur (Date-Palm Jaggery)", "description": "Jashore's pride — fragrant patali and liquid nolen gur boiled from winter date-palm sap, the base of countless Bengali sweets and pithas.", "whereToFind": "Rural haats, December–February" },
+    { "name": "Jamtola Roshogolla (Sadeker Golla)", "description": "Lighter, less-sweet roshogolla made at Jamtala bazar in Sharsha since 1955 — a nationwide name.", "whereToFind": "Jamtala bazar, Sharsha" },
+    { "name": "Nolen Gurer Sandesh", "description": "Soft chhana sandesh perfumed with fresh liquid date-palm jaggery — a winter-only treat.", "whereToFind": "Heritage sweet shops, Jashore town" },
+    { "name": "Beef Chui Jhal", "description": "Beef slow-cooked with woody chui (Piper chaba) stems — the peppery signature curry of greater Khulna–Jessore.", "whereToFind": "Rice-meal restaurants, Jashore town" },
+    { "name": "Khejur Gurer Pitha", "description": "Winter rice-flour pithas — chitoi and bhapa — filled and drizzled with the season's nolen gur.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Doi (Sweet Yogurt)", "description": "Thick set sweet yogurt in the southwestern style, often sweetened with date-palm gur in winter.", "whereToFind": "Sweet shops, Jashore town" },
+    { "name": "Bhairab River Fish", "description": "Fresh catch from the Bhairab and Kopotakkho — carp and catfish in light mustard curries.", "whereToFind": "Home-style restaurants, Jashore town" },
+    { "name": "Khejur Ras", "description": "Raw date-palm sap drunk fresh at dawn in winter, straight from the collection pot before it's boiled into gur.", "whereToFind": "Village date-palm groves (Dec–Feb mornings)" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Michael Madhusudan Dutt",
+      "knownFor": "Poet and playwright born at Sagardari, Jashore — pioneer of the Bengali sonnet and of blank verse, and author of the epic 'Meghnad Badh Kavya'.",
+      "era": "1824 – 1873"
+    },
+    {
+      "name": "Tahrunessa Abdullah",
+      "knownFor": "Writer and rural-development pioneer born at Ghoragachha, Jashore. In 1978 she became the first Bangladeshi to win the Ramon Magsaysay Award, recognised for advancing the lives of rural women.",
+      "era": "born 1937"
+    }
+  ],
+  "didYouKnow": [
+    "Jessore was the first district constituted in present-day Bangladesh, in 1781 — older than the British Raj itself.",
+    "'Khejurer rosh, Jshorer josh' — Jashore is the country's date-palm-jaggery capital, its winters scented by the dawn sap harvest.",
+    "Godkhali in Jhikargachha is the flower capital of Bangladesh, supplying a large share of the nation's cut flowers from a dawn wholesale market.",
+    "Michael Madhusudan Dutt, born at Sagardari in 1824, immortalised the river by his home in the sonnet 'Kapotaksha Nad' — written in homesick exile.",
+    "The Bharat Bhayna mound in Keshabpur covers a 5th-century Buddhist temple, possibly one of the thirty monasteries of Samatata noted by the Chinese pilgrim Hiuen-tsang."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Kotwali (Jashore Sadar) Police Station", "phone": "—" },
+      { "name": "Benapole Port Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Jashore 250-Bed General Hospital", "phone": "—" },
+      { "name": "Jashore Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
