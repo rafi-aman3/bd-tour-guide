@@ -23,9 +23,24 @@ There is no test suite.
    - `public/data/divisions/<slug>.json` — districts within one division (each feature has `ADM1_EN` + `ADM2_EN`).
    - `public/data/districts/<DistrictName>.json` — upazila polygons inside one district. Filenames are PascalCase (e.g. `Bagerhat.json`), not slugified, so `app/district/[district]/page.tsx` does a normalized fuzzy match (strip non-alphanumerics, lowercase) to find the right file.
 
-2. **Editorial content** lives in `data/districts.json` and `data/divisions.json` and is read **server-side** via `fs.readFileSync(process.cwd() + "/data/...")`. This is keyed by the URL slug (`dhaka`, `coxs-bazar`, etc.) and contains `name`, `division`, `stats`, `mustVisit`, `heritageSites`, `transport`, `hotels`, `specialties`, `guide`, `advertisements`.
+2. **Editorial content** is read **server-side** through `getDistrictData(slug)` in `lib/district-data.ts`, which merges two layers:
+   - `data/districts.json` — the base map (slug → record) holding generic placeholder content for every district.
+   - `data/districts/<slug>.json` — a per-district **override file** whose top-level object *fully replaces* the base record for that slug (no deep merge). Filenames are the URL slug (e.g. `satkhira.json`). This is where a fully-built "field guide" lives.
+
+   A record contains `name`, `division`, `stats`, `mustVisit`, `heritageSites`, `transport`, `hotels`, `specialties`, `guide`, `advertisements`, plus the field-guide fields `bucketlist`, `foods`, `famousPeople`, `didYouKnow`, `emergency`.
+
+   **Cache caveat:** `loadAll()` in `lib/district-data.ts` holds a module-level `cache` populated once at startup. Editing a JSON file does **not** hot-reload it — the dev server must be restarted to pick up content changes (the `.ts` folio registry does hot-reload).
 
 The `lib/map-data.ts` `DISTRICT_TO_DIVISION` map is a **third** independent source of truth used as a fallback when the JSON doesn't supply `division`. If you add/rename a district, update all three: `data/districts.json`, `lib/map-data.ts`, and `scripts/generate_districts.js`.
+
+### Building a district field guide
+
+Districts are upgraded one at a time from the generic placeholder to a full field guide (Satkhira is N°01). The workflow:
+
+1. **Research first, never fabricate** — verify places, stats, history, food and people via web search before writing. Use `"—"` for any phone/fee/hours/contact you can't verify (hidden at render; Emergency keeps the row with a "Call 999" pill). Don't invent hotels, bus operators, or businesses — leave `manualBookings`/`advertisements` empty instead. Keep it apolitical (avoid recently-charged political figures) and drop people/places that sources misattribute to the district.
+2. Write `data/districts/<slug>.json` mirroring an existing field guide's shape (e.g. `satkhira.json`), ~5–6 `mustVisit`, ~10 `bucketlist`, real `foods`/`famousPeople`/`didYouKnow`/`emergency`. Coordinates are approximate map pins.
+3. Add the slug to `BUILT_DISTRICTS` in `lib/field-guide-folio.ts` — this gates field-guide rendering and auto-assigns the folio number (N°02, N°03 …).
+4. Validate (`node -e "JSON.parse(...)"`) and `npx tsc --noEmit` before committing.
 
 ### Routing
 
