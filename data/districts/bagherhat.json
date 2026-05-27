@@ -1,0 +1,304 @@
+{
+  "name": "Bagerhat",
+  "division": "Khulna",
+  "tagline": "A medieval mosque-city carved out of the mangroves — the seventy-seven domes of Khan Jahan Ali's great masjid, a UNESCO World Heritage ensemble, and the Sundarbans along the district's southern edge.",
+  "stats": {
+    "area": "3,959.11 sq km",
+    "population": "1,613,076",
+    "established": "1984",
+    "attractions": "7+"
+  },
+  "guide": {
+    "bestTime": "October to March — dry, cool and comfortable for the open monument sites, and the right season for Sundarbans boat trips from Mongla.",
+    "gettingThere": "By road from Khulna (~35 km, ~1 hr) or from Dhaka (~roughly 4–5 hr via the Padma Bridge). Bagerhat town has no passenger railway — the nearest is Khulna — and the Sundarbans is reached by boat from Mongla in the south of the district.",
+    "difficulty": "Easy for the mosque city, whose monuments sit in two clusters a few kilometres apart on flat ground; moderate for the Sundarbans, which means a boat trip and a full day or more."
+  },
+  "mustVisit": [
+    {
+      "name": "Sixty Dome Mosque (Shat Gombuj Masjid)",
+      "type": "religious",
+      "description": "The crown of the World Heritage city and the largest medieval mosque in Bangladesh — a vast brick prayer hall roofed with dome upon dome, raised on a forest of stone pillars.",
+      "history": "Built by Khan Jahan Ali around 1440–1459, the mosque actually carries 77 domes (including seven curved chau-chala vaults over the central aisle) supported by 60 stone pillars — and it is from those sixty pillars, not the domes, that its 'sixty' name is thought to come.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6740, 89.7410],
+      "practical": {
+        "hours": "Daytime; closed on the weekly off-day",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the Khulna–Bagerhat road, ~6 km west of Bagerhat town",
+        "distanceKm": 6,
+        "transport": "Bus, CNG or auto from town or Khulna"
+      },
+      "bestTime": "Cool, dry months; mornings for the light and fewer crowds",
+      "tips": [
+        "Dress modestly — it is an active mosque as well as a monument",
+        "The little site museum nearby helps make sense of the mosque city"
+      ]
+    },
+    {
+      "name": "Tomb of Khan Jahan Ali & Thakur Dighi",
+      "type": "religious",
+      "description": "The mausoleum of the saint-general who founded the city, on the bank of the great Thakur Dighi tank — a place of pilgrimage whose waters are famously home to crocodiles.",
+      "history": "Khan Jahan Ali, who carved the medieval city of Khalifatabad out of the mangroves, died in 1459 and was buried here. Folklore links the crocodiles of Thakur Dighi to the two he is said to have ridden; the shrine still draws pilgrims from across the country.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6650, 89.7950],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Eastern (mausoleum) zone, ~6 km from the Sixty Dome Mosque",
+        "distanceKm": 3,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Mornings for quiet",
+      "tips": [
+        "Be respectful — it is an active shrine",
+        "Keep a safe distance from the tank's edge where the crocodiles are"
+      ]
+    },
+    {
+      "name": "Nine Dome Mosque (Noy Gombuj Masjid)",
+      "type": "religious",
+      "description": "A graceful nine-domed mosque just west of Thakur Dighi — one central dome ringed by eight others — close to Khan Jahan Ali's tomb.",
+      "history": "Part of the 15th-century Khan-e-Jahan-style ensemble, the Nine Dome Mosque is among the best preserved of the smaller monuments in the eastern zone of the mosque city.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6630, 89.7930],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "West bank of Thakur Dighi, near the tomb",
+        "distanceKm": 3,
+        "transport": "Walk from the tomb, or CNG from town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Easy to pair with the tomb right beside it",
+        "Dress modestly at the mosque"
+      ]
+    },
+    {
+      "name": "Ronvijoypur Mosque",
+      "type": "religious",
+      "description": "A single-domed 15th-century mosque crowned by the largest dome of any mosque in Bangladesh — a thick-walled, sturdy hall near the Khulna–Bagerhat road.",
+      "history": "Another of Khan Jahan Ali's works, Ronvijoypur is famed for its enormous single dome (about 11 metres across), set on massively thick brick walls in the Khan-e-Jahan style.",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6680, 89.7800],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Near the Khulna–Bagerhat road, between the two monument zones",
+        "distanceKm": 4,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Step inside to feel the scale of the single great dome",
+        "Combine with the other monuments along the road"
+      ]
+    },
+    {
+      "name": "The Lesser Mosques of the Mosque City",
+      "type": "religious",
+      "description": "Scattered among the rice fields and villages around the city are the smaller jewels of the ensemble — Singair, Bibi Begni and Chunakhola mosques — each a single-domed 15th-century gem.",
+      "history": "The medieval city once held hundreds of mosques and structures. Singair stands beside the Sixty Dome Mosque, Bibi Begni and Chunakhola sit out among the fields to the west — all part of the UNESCO-listed Khan-e-Jahan-style ensemble.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6735, 89.7430],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Around the western (mosque) zone, near the Sixty Dome Mosque",
+        "distanceKm": 6,
+        "transport": "CNG or auto; some need a short walk through the fields"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Chunakhola and Bibi Begni reward a short walk through the rice fields",
+        "A local guide can string the scattered mosques into one circuit"
+      ]
+    },
+    {
+      "name": "Kodla Math (Ayodhya Math)",
+      "type": "culture",
+      "description": "A tall, slender terracotta Hindu temple tower rising above Ayodhya village — a striking contrast to the domed mosques, and a reminder of the district's older religious layers.",
+      "history": "Kodla Math is a tower-style temple ('math') decorated with terracotta, standing in Ayodhya village a short way from Bagerhat town. It is a Hindu monument quite distinct from the Islamic World Heritage ensemble.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6900, 89.8500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Ayodhya village, ~10 km from Bagerhat town",
+        "distanceKm": 10,
+        "transport": "CNG or auto from town"
+      },
+      "bestTime": "Daytime for the terracotta detail",
+      "tips": [
+        "Look closely at the terracotta ornament on the tower",
+        "A good counterpoint to a day among the mosques"
+      ]
+    },
+    {
+      "name": "The Sundarbans via Mongla & Karamjal",
+      "type": "nature",
+      "description": "The world's largest mangrove forest reaches into the south of the district — entered by boat from the port town of Mongla, with the Karamjal centre a popular first taste of the tidal jungle.",
+      "history": "Mongla, on the Pasur river, is Bangladesh's second-largest seaport and the main gateway to the Sundarbans. Boats from here reach forest stations such as Karamjal and Harbaria, where spotted deer, crocodiles, monkeys — and, rarely, the Royal Bengal tiger — inhabit the mangroves.",
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.4050, 89.5850],
+      "practical": {
+        "hours": "Daytime boat trips; longer tours run overnight on boats",
+        "entryFee": "Forest entry fees and boat hire; permits required for deeper areas",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Mongla is in the south of the district; boats to Karamjal from Mongla",
+        "distanceKm": 70,
+        "transport": "Bus/car to Mongla, then engine-boat into the forest"
+      },
+      "bestTime": "Cool, dry months for comfortable boating and wildlife",
+      "tips": [
+        "Arrange a registered boat and guide; permits are required for the reserve",
+        "Karamjal is an easy half-day; Harbaria and beyond need a longer trip",
+        "Carry water, sun protection and insect repellent"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Golda Chingri (Giant Freshwater Prawn)",
+      "description": "Shrimp and prawn farming is the lifeblood of the district — the ghers of Rampal, Mongla and Fakirhat help make greater Khulna the heart of Bangladesh's shrimp country, and golda chingri is the prize of the local table.",
+      "venue": "Local markets and restaurants across the district"
+    },
+    {
+      "type": "food",
+      "name": "Khejur Gur (Date-Palm Jaggery)",
+      "description": "The greater Khulna region is renowned for its date-palm jaggery — sap tapped on cold winter nights and boiled to fragrant nolen gur, the base of the season's pithas and sweets.",
+      "venue": "Winter village markets across the region"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Sixty Dome Mosque (UNESCO, 1985)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6740, 89.7410]
+    },
+    {
+      "name": "Tomb of Khan Jahan Ali",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6650, 89.7950]
+    },
+    {
+      "name": "Nine Dome Mosque",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6630, 89.7930]
+    },
+    {
+      "name": "Kodla Math (Ayodhya Math)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6900, 89.8500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-bagerhat?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Bagerhat&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Bagerhat&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Bagerhat&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "bagerhat-sixty-dome", "title": "Stand inside the Sixty Dome Mosque", "category": "place", "detail": "The largest medieval mosque in Bangladesh — 77 domes on 60 stone pillars, the crown of the UNESCO mosque city.", "whereOrHow": "~6 km west of Bagerhat town" },
+    { "id": "bagerhat-khan-jahan-tomb", "title": "Visit the tomb of Khan Jahan Ali", "category": "place", "detail": "The mausoleum of the saint-general who founded the city, on the bank of crocodile-haunted Thakur Dighi.", "whereOrHow": "Eastern monument zone" },
+    { "id": "bagerhat-thakur-dighi-crocs", "title": "Spot the crocodiles of Thakur Dighi", "category": "moment", "detail": "The great tank by the shrine is home to crocodiles, folklore-linked to the two Khan Jahan is said to have ridden.", "whereOrHow": "Thakur Dighi, by the tomb" },
+    { "id": "bagerhat-nine-dome", "title": "See the Nine Dome Mosque", "category": "place", "detail": "A graceful nine-domed gem just west of Thakur Dighi, near the tomb.", "whereOrHow": "West bank of Thakur Dighi" },
+    { "id": "bagerhat-ronvijoypur", "title": "See the biggest dome in the country", "category": "place", "detail": "Ronvijoypur Mosque's single dome (~11 m) is the largest of any mosque in Bangladesh.", "whereOrHow": "Near the Khulna–Bagerhat road" },
+    { "id": "bagerhat-lesser-mosques", "title": "Find the lesser mosques in the fields", "category": "experience", "detail": "Singair, Bibi Begni and Chunakhola — single-domed 15th-century gems scattered among the rice fields.", "whereOrHow": "Western monument zone" },
+    { "id": "bagerhat-kodla-math", "title": "Climb to Kodla Math", "category": "place", "detail": "A tall terracotta Hindu temple tower at Ayodhya village — a striking counterpoint to the mosques.", "whereOrHow": "Ayodhya, ~10 km from town" },
+    { "id": "bagerhat-sundarbans", "title": "Boat into the Sundarbans from Mongla", "category": "experience", "detail": "Enter the world's largest mangrove forest by boat — deer, crocodiles, monkeys and, if you're very lucky, a tiger.", "whereOrHow": "Karamjal/Harbaria, by boat from Mongla", "bestTime": "Cool, dry months" },
+    { "id": "bagerhat-karamjal", "title": "Visit the Karamjal ecotourism centre", "category": "place", "detail": "An easy first taste of the Sundarbans — walkways, a crocodile breeding centre and deer, a short boat ride from Mongla.", "whereOrHow": "Karamjal, near Mongla" },
+    { "id": "bagerhat-golda-chingri", "title": "Eat golda chingri", "category": "food", "detail": "Giant freshwater prawns from the district's ghers — the prize of greater Khulna's shrimp country.", "whereOrHow": "Local restaurants and markets" },
+    { "id": "bagerhat-khejur-gur", "title": "Taste fresh khejur gur in winter", "category": "food", "detail": "Fragrant date-palm jaggery from the region's winter sap harvest.", "whereOrHow": "Winter village markets", "bestTime": "Winter" },
+    { "id": "bagerhat-mongla-port", "title": "See the ships at Mongla", "category": "moment", "detail": "Bangladesh's second-largest seaport on the Pasur river, ringed by the mangroves — the gateway to the Sundarbans.", "whereOrHow": "Mongla" }
+  ],
+  "foods": [
+    { "name": "Golda Chingri", "description": "Giant freshwater prawns from the district's shrimp ghers — grilled, fried or in rich coconut curries.", "whereToFind": "Local restaurants and markets" },
+    { "name": "River & Sea Fish", "description": "Fresh fish from the Pasur and the coastal waters, including parshe, bhetki and more, in light curries.", "whereToFind": "Mongla and riverside eateries" },
+    { "name": "Khejur Gur", "description": "Date-palm jaggery from the winter harvest — eaten fresh and used in the season's pithas and sweets.", "whereToFind": "Winter village markets" },
+    { "name": "Coconut-based Dishes", "description": "Coconut grows abundantly in this delta zone and finds its way into curries, sweets and snacks.", "whereToFind": "Home kitchens and local markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Khan Jahan Ali",
+      "knownFor": "The 15th-century saint-administrator who founded the medieval city of Khalifatabad (Bagerhat), building the Sixty Dome Mosque and reputedly hundreds of mosques, tanks and roads carved out of the mangroves. Of Central Asian origin, he came to Bengal and governed here until his death in 1459; his tomb remains a place of pilgrimage.",
+      "era": "died 1459"
+    }
+  ],
+  "didYouKnow": [
+    "The Historic Mosque City of Bagerhat became a UNESCO World Heritage Site in 1985 — among Bangladesh's first inscriptions, alongside the Sundarbans and Paharpur.",
+    "Despite being called the 'Sixty Dome Mosque', it actually has 77 domes — the name is thought to come from its 60 stone pillars.",
+    "The medieval city of Khalifatabad was carved out of the Sundarbans mangroves in the 15th century by Khan Jahan Ali, who is said to have built around 360 mosques and structures.",
+    "Ronvijoypur Mosque holds the largest single dome of any mosque in Bangladesh, about 11 metres across.",
+    "Khan Jahan Ali's great tank, Thakur Dighi, is home to crocodiles — folklore links them to the two he is said to have ridden — and Mongla in the south of the district is the country's second-largest seaport and the main gateway to the Sundarbans."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Bagerhat Sadar Model Thana", "phone": "—" },
+      { "name": "Mongla Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Bagerhat 250-Bed District Hospital", "phone": "—" },
+      { "name": "Mongla Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
