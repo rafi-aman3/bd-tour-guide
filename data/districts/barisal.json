@@ -1,0 +1,297 @@
+{
+  "name": "Barisal",
+  "division": "Barisal",
+  "tagline": "The Venice of Bengal — canal towns, floating guava markets, and the poets and lions it gave the country.",
+  "stats": {
+    "area": "2784.52 sq km",
+    "population": "2,334,203",
+    "established": "1797",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "July to September for the floating guava markets; October to February for cool, dry weather",
+    "gettingThere": "The classic route is the overnight launch from Dhaka's Sadarghat down the rivers (~8–10 hr). By road it is now ~3–4 hr from Dhaka via the Padma Bridge, and domestic flights serve Barisal Airport. There is no railway to Barisal.",
+    "difficulty": "Easy — the town and most sights are close; the guava-market and orchard trips are by hired country boat."
+  },
+  "mustVisit": [
+    {
+      "name": "Floating Guava Market (Banaripara)",
+      "type": "landmark",
+      "description": "In the monsoon, the canals of the Banaripara–Atghar-Kuriana guava belt fill with hundreds of boats heaped with green guava — a moving, floating marketplace among orchards that flood to the waterline.",
+      "history": "The low, canal-laced country of Banaripara, Swarupkathi and neighbouring Jhalokati grows much of the country's guava (peyara). For generations the harvest has been bought and sold boat-to-boat on the water, peaking through the monsoon months.",
+      "image": "https://images.unsplash.com/photo-1528150177508-7cc0c36cda5c?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7800, 90.1700],
+      "practical": {
+        "hours": "Early morning is when the market is busiest",
+        "entryFee": "Free to watch; hire a boat to go among the orchards",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km from Barisal city toward Banaripara; the markets and orchards are reached by country boat from local ghats",
+        "distanceKm": 35,
+        "transport": "Bus or CNG to Banaripara, then a hired country boat into the canals"
+      },
+      "bestTime": "July to September, soon after dawn",
+      "tips": [
+        "Go in the early morning — the boats thin out by midday",
+        "Negotiate the boat hire before setting off",
+        "The wider belt includes the Bhimruli market across the border in Jhalokati"
+      ]
+    },
+    {
+      "name": "Durgasagar Dighi",
+      "type": "nature",
+      "description": "The largest freshwater tank in southern Bangladesh — a roughly 50-acre lake with a small wooded island at its centre, ringed by a walking path and old trees, busy with waterbirds in winter.",
+      "history": "An 18th-century excavated tank at Madhabpasha named after the goddess Durga; long associated with the Chandradwip rajas. Durga Puja is celebrated on its banks each year.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7800, 90.3000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Nominal entry fee",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 11 km northwest of Barisal city at Madhabpasha, on the Barisal–Banaripara road",
+        "distanceKm": 11,
+        "transport": "CNG / easybike from Barisal city"
+      },
+      "bestTime": "Cool months; mornings for birds",
+      "tips": [
+        "Walk the full path around the tank — it is bigger than it first looks",
+        "Winter brings migratory waterfowl to the island"
+      ]
+    },
+    {
+      "name": "Baitul Aman Jame Masjid (Guthia Mosque)",
+      "type": "religious",
+      "description": "A sprawling, white-domed mosque complex set on landscaped grounds with reflecting lakes — one of the largest and most elaborate mosque complexes in the region, and a major draw for visitors.",
+      "history": "Built at Changuria village in Guthia union, Wazirpur, on roughly 14 acres and completed in the early 2000s. The complex includes the main prayer hall, an Eidgah, lakes, a madrasa and an orphanage.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7800, 90.2500],
+      "practical": {
+        "hours": "Open daily around prayer times; grounds open through the day",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 14 km from Barisal city at Guthia, on the Barisal–Banaripara road",
+        "distanceKm": 14,
+        "transport": "Bus or CNG toward Banaripara; ask for Guthia mosque"
+      },
+      "bestTime": "Late afternoon for light on the domes",
+      "tips": [
+        "Modest dress required; the prayer hall has separate sections",
+        "Avoid Friday noon prayers unless you intend to pray"
+      ]
+    },
+    {
+      "name": "Oxford Mission Church (Epiphany Church)",
+      "type": "religious",
+      "description": "A striking early-20th-century red-brick Anglican church in Barisal city — tall, spare and Gothic, set in a quiet mission compound. One of the most distinctive colonial-era buildings in the south.",
+      "history": "Built by the Oxford Mission of the Epiphany in the early 1900s, the church and its compound have served as a centre of Christian mission, education and welfare work in Barisal for over a century.",
+      "image": "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6950, 90.3700],
+      "practical": {
+        "hours": "Compound open daytime; church interior around service times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Barisal city, a short ride from the launch terminal",
+        "distanceKm": 3,
+        "transport": "Rickshaw / CNG within the city"
+      },
+      "bestTime": "Morning, cool months",
+      "tips": [
+        "Ask permission before photographing inside",
+        "Dress and behave respectfully — it is an active church and mission"
+      ]
+    },
+    {
+      "name": "Sher-e-Bangla A. K. Fazlul Huq's Home (Chakhar)",
+      "type": "heritage",
+      "description": "The ancestral home and memorial complex of Sher-e-Bangla A. K. Fazlul Huq — the 'Lion of Bengal' — at Chakhar in Banaripara, with a museum, mosque and college he founded.",
+      "history": "Chakhar was the home village of A. K. Fazlul Huq (born 1873), Prime Minister of undivided Bengal and one of the most consequential Bengali politicians of the 20th century. The site preserves his memory with a museum and the institutions he established.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8000, 90.1800],
+      "practical": {
+        "hours": "Museum daytime; closed on weekly government holidays",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 38 km from Barisal city at Chakhar in Banaripara Upazila",
+        "distanceKm": 38,
+        "transport": "Bus to Banaripara, then CNG to Chakhar"
+      },
+      "bestTime": "Cool months; combine with the Banaripara guava trip",
+      "tips": [
+        "Pair with the floating guava market — both are in Banaripara"
+      ]
+    },
+    {
+      "name": "Lakutia Zamindar Bari",
+      "type": "heritage",
+      "description": "The remains of a 17th–18th-century zamindar estate just outside Barisal city — temples, a Durga dalan and a large tank set among old trees, atmospheric and lightly visited.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1609173225619-5acd7d6c4d3f?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7400, 90.3300],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 6 km north of Barisal city at Lakutia",
+        "distanceKm": 6,
+        "transport": "CNG / easybike from the city"
+      },
+      "bestTime": "Morning light, cool months",
+      "tips": [
+        "Parts of the structures are fragile — do not climb",
+        "Carry water; few shops at the site"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Banaripara Guava (Peyara)",
+      "description": "Crisp green guava from the canal-side orchards of Banaripara and Swarupkathi — sold boat-to-boat at the famous floating markets through the monsoon.",
+      "venue": "Banaripara orchards & floating markets (Jul–Sep)"
+    },
+    {
+      "type": "festival",
+      "name": "Durga Puja at Durgasagar",
+      "description": "The autumn Durga Puja is celebrated on the banks of Durgasagar Dighi, the great tank named for the goddess — one of the district's largest seasonal gatherings.",
+      "timing": "Late September to early October",
+      "coordinates": [22.7800, 90.3000]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Oxford Mission Church (Epiphany Church)",
+      "image": "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6950, 90.3700]
+    },
+    {
+      "name": "Sher-e-Bangla's Home, Chakhar",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8000, 90.1800]
+    },
+    {
+      "name": "Lakutia Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1609173225619-5acd7d6c4d3f?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7400, 90.3300]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-barisal?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Barisal&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Sakura Paribahan", "phone": "—" },
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Green Line Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-barisal?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Sundarban Navigation", "phone": "—" },
+        { "name": "Surovi Shipping", "phone": "—" },
+        { "name": "Parabat Launch Service", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": [
+        { "name": "Barisal Airport — domestic flights (schedules vary)", "phone": "—" }
+      ]
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Barisal&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Barisal&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": [
+      { "name": "Hotel Grand Park (Barisal)", "phone": "—", "coordinates": [22.7000, 90.3650] }
+    ]
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "barisal-launch", "title": "Take the overnight launch from Dhaka to Barisal", "category": "experience", "detail": "The signature southern journey — board a triple-decker launch at Sadarghat in the evening and wake up gliding into Barisal through the river mist. Half the trip is the deck itself.", "whereOrHow": "Dhaka Sadarghat → Barisal", "bestTime": "Cool, dry months" },
+    { "id": "barisal-guava-market", "title": "Drift through the floating guava market at dawn", "category": "experience", "detail": "In the monsoon, hundreds of boats heaped with green guava trade on the Banaripara canals among orchards flooded to the waterline. Go early, when the market is at its loudest.", "whereOrHow": "Banaripara canals", "bestTime": "July–September, early morning" },
+    { "id": "barisal-durgasagar", "title": "Walk the banks of Durgasagar Dighi", "category": "place", "detail": "The largest tank in the south — a 50-acre lake with a wooded island at its heart and a quiet path all the way round.", "whereOrHow": "Madhabpasha, ~11 km from the city", "bestTime": "Cool months" },
+    { "id": "barisal-guthia", "title": "See the white domes of Guthia Mosque", "category": "place", "detail": "A vast, landscaped mosque complex with reflecting lakes — one of the most elaborate in the country, completed in the early 2000s on 14 acres.", "whereOrHow": "Guthia, Wazirpur", "bestTime": "Late afternoon" },
+    { "id": "barisal-oxford-mission", "title": "Visit the red-brick Oxford Mission Church", "category": "place", "detail": "A tall, spare Gothic church from the early 1900s in a quiet mission compound — one of the south's most distinctive colonial buildings.", "whereOrHow": "Barisal city", "bestTime": "Morning" },
+    { "id": "barisal-chakhar", "title": "Pay a visit to Sher-e-Bangla's home at Chakhar", "category": "place", "detail": "The ancestral home and museum of A. K. Fazlul Huq, the 'Lion of Bengal' and Prime Minister of undivided Bengal — a short hop from the guava country.", "whereOrHow": "Chakhar, Banaripara" },
+    { "id": "barisal-ilish", "title": "Eat fresh river hilsa in hilsa country", "category": "food", "detail": "Barisal's rivers are famed for ilish. Have it fried, in mustard (shorshe ilish), or with khichuri — fresher and cheaper here than almost anywhere.", "whereOrHow": "Riverside markets & town restaurants", "bestTime": "Monsoon for the hilsa run" },
+    { "id": "barisal-guava-orchard", "title": "Walk a flooded guava orchard by boat", "category": "experience", "detail": "Beyond the market, hire a small boat to slip between the rows of guava trees standing in monsoon water — quiet, green and unlike anywhere else.", "whereOrHow": "Atghar-Kuriana / Banaripara", "bestTime": "Monsoon" },
+    { "id": "barisal-jibanananda", "title": "Trace Jibanananda Das's Barisal", "category": "moment", "detail": "The poet of 'Banalata Sen' was born here and wove Barisal's rivers and place-names into modern Bengali verse. The town still carries his memory.", "whereOrHow": "Barisal city" },
+    { "id": "barisal-lakutia", "title": "Explore the ruins of Lakutia Zamindar Bari", "category": "place", "detail": "An old zamindar estate just outside the city — temples, a Durga dalan and a big tank among the trees, quiet and atmospheric.", "whereOrHow": "Lakutia, ~6 km from the city" }
+  ],
+  "foods": [
+    { "name": "Banaripara Guava (Peyara)", "description": "Crisp green guava from the canal-side orchards of Banaripara and Swarupkathi, sold from boats at the famous floating markets.", "whereToFind": "Banaripara orchards & floating markets (Jul–Sep)" },
+    { "name": "River Hilsa (Ilish)", "description": "Hilsa from Barisal's rivers — prized across the country — eaten fried, in mustard, or with khichuri.", "whereToFind": "Riverside markets & town restaurants" },
+    { "name": "Khejur Gur", "description": "Concentrated date-palm jaggery from the winter sap harvest, the base of the south's winter pithas and a strong tea sweetener.", "whereToFind": "Rural haats, December–February" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Jibanananda Das",
+      "knownFor": "One of the foremost poets of modern Bengali literature, author of 'Banalata Sen' — born in Barisal, whose rivers and place-names run through his verse.",
+      "era": "1899 – 1954"
+    },
+    {
+      "name": "Sher-e-Bangla A. K. Fazlul Huq",
+      "knownFor": "The 'Lion of Bengal' — Prime Minister of undivided Bengal and one of the towering Bengali political figures of the 20th century. Born at Chakhar, Barisal.",
+      "era": "1873 – 1962"
+    },
+    {
+      "name": "Begum Sufia Kamal",
+      "knownFor": "Pioneering poet and women's-rights and cultural activist of Bangladesh, born in Barisal.",
+      "era": "1911 – 1999"
+    }
+  ],
+  "didYouKnow": [
+    "Barisal is nicknamed the 'Venice of Bengal' for the rivers and canals that thread the district.",
+    "The district was established in 1797 as Bakerganj and later renamed Barisal; Barisal became a division in 1993.",
+    "In the monsoon the Banaripara–Atghar-Kuriana canals host a famous floating guava market, where the harvest is traded boat-to-boat.",
+    "Durgasagar Dighi at Madhabpasha — about 50 acres — is the largest freshwater tank in southern Bangladesh.",
+    "Barisal is the birthplace of three giants — poet Jibanananda Das, Sher-e-Bangla A. K. Fazlul Huq, and poet-activist Begum Sufia Kamal.",
+    "The classic way to reach Barisal is still the overnight river launch from Dhaka — there is no railway to the city."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Barisal Kotwali Model Thana", "phone": "—" },
+      { "name": "Banaripara Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Sher-e-Bangla Medical College Hospital, Barisal", "phone": "—" },
+      { "name": "Barisal General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
