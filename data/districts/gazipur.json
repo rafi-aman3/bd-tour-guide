@@ -1,0 +1,301 @@
+{
+  "name": "Gazipur",
+  "division": "Dhaka",
+  "tagline": "Sal forest and safari on Dhaka's doorstep — the 365-room Bhawal palace, a poet's retreat, and the city's green edge.",
+  "stats": {
+    "area": "1806.36 sq km",
+    "population": "5,263,450",
+    "established": "1984",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry; the sal forest and parks at their best)",
+    "gettingThere": "Immediately north of Dhaka — about 1–2 hr by road from the capital, or by train to Joydebpur Junction, one of the country's busiest railway junctions. No airport; the nearest is Dhaka's Hazrat Shahjalal International.",
+    "difficulty": "Easy — close to Dhaka and well linked by road and rail, though traffic on the industrial corridors can be heavy."
+  },
+  "mustVisit": [
+    {
+      "name": "Bhawal National Park",
+      "type": "nature",
+      "description": "A surviving stretch of the once-vast Bhawal sal forest — red-soil woodland laced with trails, picnic clearings and small lakes, the closest true forest escape from Dhaka.",
+      "history": "Part of the historic Bhawal Gar of the Bhawal zamindari, the forest was declared a national park in 1982. It shelters spotted deer, monkeys and a wealth of birdlife among the gerua-red sal trees.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0500, 90.4000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 20 km north of Joydebpur, near Rajendrapur on the Dhaka–Mymensingh highway",
+        "distanceKm": 20,
+        "transport": "Bus or car along the Dhaka–Mymensingh highway to Rajendrapur"
+      },
+      "bestTime": "Cool months, weekday mornings to avoid picnic crowds",
+      "tips": [
+        "Weekends and holidays draw large picnic parties — go midweek for quiet",
+        "Stay on the marked trails; the forest is larger and denser than it looks"
+      ]
+    },
+    {
+      "name": "Bhawal Rajbari (Joydebpur)",
+      "type": "heritage",
+      "description": "The grand 365-room palace of the Bhawal zamindars at Joydebpur — said to be among the largest old palaces in Bangladesh, and the stage for the country's most famous court mystery.",
+      "history": "Seat of the Bhawal estate, whose zamindar Kalinarayan received the title of Raja from the British in 1878. The palace is bound up with the Bhawal Sannyasi case: prince Ramendra Narayan Roy was declared dead and cremated at Darjeeling in 1909, only for an ascetic to appear in Dhaka in 1920 claiming to be him. After a 16-year legal battle he won recognition in 1946 — and died two days later. The rajbari now houses the Deputy Commissioner's office and other government departments.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9990, 90.4200],
+      "practical": {
+        "hours": "Exterior viewable in daylight; office hours on weekdays",
+        "entryFee": "Free (exterior)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In the Shibbari area of Joydebpur, central Gazipur",
+        "distanceKm": 1,
+        "transport": "Rickshaw or CNG within Joydebpur"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "It is a working government office — be discreet with photography inside the compound",
+        "Read up on the Bhawal Sannyasi case before you go; the building tells the story better with context"
+      ]
+    },
+    {
+      "name": "Gazipur Safari Park (Sreepur)",
+      "type": "nature",
+      "description": "A large drive-through safari park at Mauna in Sreepur, where lions, tigers, giraffes, zebras and deer roam open enclosures viewed from caged minibuses, alongside aviaries and a core zoo.",
+      "history": "Developed on the edge of the Bhawal sal forest as one of the country's two big safari parks, it pairs the African-savanna-style core safari with a Bengal safari, a bird park and botanical sections.",
+      "image": "https://images.unsplash.com/photo-1534567153574-2b12153a87f0?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1800, 90.4500],
+      "practical": {
+        "hours": "Open daily except a weekly closing day; ~9 am – 5 pm",
+        "entryFee": "Ticketed (separate fees for the core safari ride)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Mauna, Sreepur Upazila, ~40 km north of Joydebpur on the Dhaka–Mymensingh highway",
+        "distanceKm": 40,
+        "transport": "Bus or car to Mauna/Bagher Bazar, then short local hop to the gate"
+      },
+      "bestTime": "Cool months; arrive early for the core safari",
+      "tips": [
+        "Buy the core-safari ride ticket early — the minibuses fill up on busy days",
+        "Allow at least half a day to cover the safari, bird park and zoo sections"
+      ]
+    },
+    {
+      "name": "Nuhash Polli (Pirozali)",
+      "type": "landmark",
+      "description": "The lush country retreat that novelist and filmmaker Humayun Ahmed built at Pirozali — gardens of rare plants, sculptures, ponds and the cottages where he wrote and shot films.",
+      "history": "Humayun Ahmed established Nuhash Polli in 1987 on about 22 acres, naming it for his son Nuhash. It holds the pond 'Dighi Lilabali', the cottages 'Bristi Bilash' and 'Bhut Bilash', and sculptures by Asaduzzaman Khan. The writer was buried here after his death in 2012.",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0700, 90.4800],
+      "practical": {
+        "hours": "~8 am – 5 pm; ticketed (free entry on 13 Nov and 19 Jul, the writer's birth and death days)",
+        "entryFee": "BDT 200 (visitors over 12)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Pirozali village, ~25 km from Gazipur Sadar near Hotapara",
+        "distanceKm": 25,
+        "transport": "Car or CNG from Hotapara on the Dhaka–Mymensingh highway"
+      },
+      "bestTime": "April to November; cool months for the gardens",
+      "tips": [
+        "Take the boat or wooden bridge over Dighi Lilabali",
+        "Fans of Humayun Ahmed should time a visit to 13 November for the open day"
+      ]
+    },
+    {
+      "name": "Ekdala Fort (Kapasia)",
+      "type": "heritage",
+      "description": "The earthen remains of a medieval fort near the Shitalakshya in Kapasia — one of several old mud forts (Ekdala, Dardaria, Tok, Karnapur) scattered through the upazila.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1200, 90.5700],
+      "practical": {
+        "hours": "Open grounds, daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Kapasia Upazila, ~30 km north-east of Joydebpur",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Kapasia, then easybike to the fort site"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Little is signposted — a local easybike driver helps find the mound",
+        "Pair with a stop on the Shitalakshya riverbank nearby"
+      ]
+    },
+    {
+      "name": "Shitalakshya Riverbank (Kapasia)",
+      "type": "nature",
+      "description": "The quiet Shitalakshya winds through Kapasia, with the Dhadarchar confluence where it meets the old Brahmaputra channel — a calm rural counterpoint to the district's factory belt.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1300, 90.5900],
+      "practical": {
+        "hours": "Best at dawn and dusk",
+        "entryFee": "Free (boat hire negotiable)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Riverbank ghats around Kapasia, ~30 km north-east of Joydebpur",
+        "distanceKm": 30,
+        "transport": "CNG to Kapasia, then easybike to the nearest ghat"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Agree the boat fare before setting off",
+        "Combine with the Kapasia forts on the same trip"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Bhawal Kanthal (Jackfruit)",
+      "description": "The Bhawal region is one of the country's great jackfruit belts. In summer the haats fill with the national fruit — eaten ripe and sweet, or cooked green (enchor) as a vegetable.",
+      "venue": "Summer haats across Bhawal, Sreepur & Kaliakair"
+    },
+    {
+      "type": "craft",
+      "name": "Sal Forest Honey",
+      "description": "Seasonal honey gathered from the Bhawal sal woodland and roadside apiaries — sold along the Dhaka–Mymensingh highway stalls.",
+      "venue": "Highway stalls near Rajendrapur & Bhawal"
+    },
+    {
+      "type": "festival",
+      "name": "Nuhash Polli Open Days",
+      "description": "On Humayun Ahmed's birth and death anniversaries, Nuhash Polli opens free to all and fills with readers, students and admirers of the writer.",
+      "timing": "13 November & 19 July",
+      "coordinates": [24.0700, 90.4800]
+    },
+    {
+      "type": "mela",
+      "name": "Joydebpur Rath Yatra",
+      "description": "The chariot festival at Joydebpur — historically tied to the Bhawal estate's temples — draws a seasonal fair to the old rajbari town.",
+      "timing": "Ashar (June–July)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Bhawal Rajbari (Joydebpur)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9990, 90.4200]
+    },
+    {
+      "name": "Nuhash Polli (Humayun Ahmed's retreat)",
+      "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0700, 90.4800]
+    },
+    {
+      "name": "Ekdala Fort (Kapasia)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1200, 90.5700]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-gazipur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Gazipur&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "BRTC / local service from Dhaka", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Joydebpur&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Joydebpur Junction Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Gazipur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Gazipur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "gazipur-bhawal-forest", "title": "Walk a trail through the Bhawal sal forest", "category": "experience", "detail": "Red-soil woodland of tall sal trees, the closest real forest to Dhaka — deer, monkeys and birdsong a short drive from the capital.", "whereOrHow": "Bhawal National Park, near Rajendrapur", "bestTime": "Cool months, weekday morning" },
+    { "id": "gazipur-bhawal-rajbari", "title": "Stand in the 365-room Bhawal Rajbari", "category": "place", "detail": "One of the largest old palaces in the country, now the DC office — and the setting of the Bhawal Sannyasi case, where a 'dead' prince returned as an ascetic and won back his estate.", "whereOrHow": "Shibbari, Joydebpur" },
+    { "id": "gazipur-safari-core", "title": "Ride the core safari at Gazipur Safari Park", "category": "experience", "detail": "Lions, tigers, giraffes and zebras in open enclosures, watched from a caged minibus — Bangladesh's drive-through safari.", "whereOrHow": "Mauna, Sreepur", "bestTime": "Arrive early" },
+    { "id": "gazipur-nuhash-polli", "title": "Wander Humayun Ahmed's Nuhash Polli", "category": "place", "detail": "The novelist's 22-acre garden retreat — rare trees, sculptures, the Dighi Lilabali pond, and the cottages where he wrote. He is buried here.", "whereOrHow": "Pirozali, near Hotapara", "bestTime": "Apr–Nov" },
+    { "id": "gazipur-nuhash-openday", "title": "Visit Nuhash Polli on a free open day", "category": "moment", "detail": "On 13 November and 19 July — the writer's birth and death days — the gates open free and fill with his readers.", "whereOrHow": "Pirozali", "bestTime": "13 Nov / 19 Jul" },
+    { "id": "gazipur-kanthal", "title": "Eat ripe Bhawal jackfruit in summer", "category": "food", "detail": "The Bhawal region is a jackfruit heartland — buy a whole ripe kanthal at a summer haat, or try it cooked green as enchor.", "whereOrHow": "Summer haats, Sreepur & Kaliakair", "bestTime": "Jun–Aug" },
+    { "id": "gazipur-ekdala-fort", "title": "Find the old mud forts of Kapasia", "category": "place", "detail": "Earthen remains of medieval forts — Ekdala, Dardaria, Tok and Karnapur — scattered through the Kapasia countryside.", "whereOrHow": "Kapasia Upazila" },
+    { "id": "gazipur-shitalakshya", "title": "Take a boat on the Shitalakshya at Kapasia", "category": "experience", "detail": "A calm rural river and the Dhadarchar confluence — a green antidote to the district's factory corridors.", "whereOrHow": "Kapasia riverbank ghats", "bestTime": "Oct–Mar, dusk" },
+    { "id": "gazipur-rath-yatra", "title": "Catch the Joydebpur Rath Yatra fair", "category": "moment", "detail": "The chariot festival tied to the old Bhawal temples brings a seasonal mela to the rajbari town.", "whereOrHow": "Joydebpur", "bestTime": "Ashar (Jun–Jul)" },
+    { "id": "gazipur-forest-honey", "title": "Buy sal-forest honey from a highway stall", "category": "food", "detail": "Seasonal honey from the Bhawal woodland and roadside apiaries, sold along the Dhaka–Mymensingh highway.", "whereOrHow": "Highway stalls near Rajendrapur" },
+    { "id": "gazipur-rajendrapur-picnic", "title": "Picnic among the sal trees", "category": "experience", "detail": "The classic Dhaka day-out: a winter picnic in the Bhawal forest clearings, the same red woodland generations have come to.", "whereOrHow": "Bhawal / Rajendrapur", "bestTime": "Dec–Feb" },
+    { "id": "gazipur-saha-village", "title": "Note Meghnad Saha's home ground at Sheoratali", "category": "moment", "detail": "The astrophysicist behind the Saha ionization equation was born at Sheoratali, now in Kaliakair upazila — a quiet footnote of world science in the Gazipur countryside.", "whereOrHow": "Sheoratali, Kaliakair" }
+  ],
+  "foods": [
+    { "name": "Bhawal Kanthal (Jackfruit)", "description": "The national fruit at its regional best — ripe and honey-sweet in summer, from one of the country's great jackfruit belts.", "whereToFind": "Summer haats, Sreepur & Kaliakair" },
+    { "name": "Enchor (Green Jackfruit Curry)", "description": "Unripe jackfruit cooked as a meaty vegetable curry — a staple wherever the jackfruit trees grow.", "whereToFind": "Home-style restaurants, district-wide" },
+    { "name": "Sal Forest Honey", "description": "Seasonal honey from the Bhawal woodland and roadside apiaries, sold fresh along the highway.", "whereToFind": "Highway stalls near Rajendrapur" },
+    { "name": "Khichuri & Deshi Murgi", "description": "The picnic and rainy-day plate of the sal forest — khichuri with country-chicken curry, served at forest-edge eateries.", "whereToFind": "Forest-edge eateries, Bhawal" },
+    { "name": "Roadside Resort Buffets", "description": "Gazipur's resort belt north of the city serves lavish Bengali buffets — a weekend draw for Dhaka families.", "whereToFind": "Resort corridor, Bhawal & Sreepur" },
+    { "name": "Pitha (Winter)", "description": "Chitoi and bhapa rice-cakes with date-palm gur at winter morning stalls in the upazila bazaars.", "whereToFind": "Winter pitha stalls, Kapasia & Kaliganj" },
+    { "name": "Shitalakshya River Fish", "description": "Fresh carp and catfish from the Shitalakshya, cooked in light mustard curries in Kapasia kitchens.", "whereToFind": "Home-style restaurants, Kapasia" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Meghnad Saha",
+      "knownFor": "World-renowned astrophysicist who formulated the Saha ionization equation, fundamental to understanding the chemistry of stars. Born at Sheoratali, now in Kaliakair Upazila, Gazipur. Fellow of the Royal Society and a pioneer of science in the subcontinent.",
+      "era": "1893 – 1956"
+    },
+    {
+      "name": "Humayun Ahmed",
+      "knownFor": "One of the most beloved Bengali novelists and filmmakers of the modern era. Born in Netrokona, he built his famous retreat Nuhash Polli at Pirozali in Gazipur, where he wrote, made films, and was laid to rest in 2012.",
+      "era": "1948 – 2012"
+    }
+  ],
+  "didYouKnow": [
+    "With over 5.2 million people (2022 census), Gazipur is one of Bangladesh's most populous districts — a vast industrial belt of garment factories wrapped around the capital's northern edge.",
+    "Bhawal Rajbari has 365 rooms and now houses the Deputy Commissioner's office; it is bound to the Bhawal Sannyasi case, in which a prince declared dead in 1909 reappeared as an ascetic in 1920 and won a 16-year battle to reclaim his estate in 1946 — dying two days later.",
+    "Astrophysicist Meghnad Saha, of the Saha ionization equation, was born at Sheoratali in today's Kaliakair upazila.",
+    "Novelist Humayun Ahmed built his garden retreat Nuhash Polli at Pirozali and is buried there; it opens free to the public on his birth and death anniversaries.",
+    "Bhawal National Park is a surviving remnant of the once-vast Bhawal sal forest, and Joydebpur is one of the country's busiest railway junctions."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Joydebpur Police Station", "phone": "—" },
+      { "name": "Sreepur Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Shaheed Tajuddin Ahmad Medical College Hospital, Gazipur", "phone": "—" },
+      { "name": "Gazipur District Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
