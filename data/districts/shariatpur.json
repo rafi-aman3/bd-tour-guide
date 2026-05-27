@@ -1,0 +1,277 @@
+{
+  "name": "Shariatpur",
+  "division": "Dhaka",
+  "tagline": "The southern bank of the Padma — where the country's longest bridge meets old river shrines and zamindar ruins.",
+  "stats": {
+    "area": "1102.45 sq km",
+    "population": "1,294,562",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry, pleasant river weather)",
+    "gettingThere": "By road from Dhaka across the Padma Bridge (~80 km, ~2–2.5 hr) — the 2022 bridge opening cut what was once a half-day ferry journey to a short drive. Nearest railhead and airport are both in Dhaka.",
+    "difficulty": "Easy — well connected by road since the Padma Bridge opened in 2022."
+  },
+  "mustVisit": [
+    {
+      "name": "Padma Bridge (Jajira Point)",
+      "type": "landmark",
+      "description": "The Shariatpur landing of the Padma Multipurpose Bridge — the longest bridge in Bangladesh and the country's most-photographed piece of modern infrastructure. The Jajira approach gives you a clean, sweeping view of the 6.15-km road-rail span across the Padma.",
+      "history": "A two-level road-rail bridge connecting Louhajang (Munshiganj) on the north bank with Zazira (Jajira) in Shariatpur. Inaugurated on 25 June 2022. It holds the deepest bridge piles in the world at roughly 127 m and reconnected the long-isolated southwest of the country to Dhaka.",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4400, 90.2620],
+      "practical": {
+        "hours": "Bridge open 24 hours; viewpoints best by day",
+        "entryFee": "Vehicle toll applies to cross; free to view from the Jajira approach",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km northwest of Shariatpur town, at the Jajira end of the bridge",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Jajira / Naodoba, then a short ride to the approach road"
+      },
+      "bestTime": "Late afternoon for golden-hour photographs of the span",
+      "tips": [
+        "Stopping or walking on the bridge deck itself is not permitted — view from the approach and riverbank",
+        "The Naodoba service area on the Jajira side has food stalls and parking"
+      ]
+    },
+    {
+      "name": "Sureshwar Darbar Sharif",
+      "type": "religious",
+      "description": "A major Sufi shrine on the bank of the Padma in Naria Upazila — one of the most visited pilgrimage sites in the greater Faridpur region, drawing devotees from across the country.",
+      "history": "The shrine (darbar) grew around the mausoleum of the Sufi saint Hazrat Shah Sufi Syed Jan Sharif Shah. Its annual Urs Sharif is held each year from 19–21 Magh (early February) and gathers very large crowds of followers.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.3000, 90.3400],
+      "practical": {
+        "hours": "Open daily; busiest during the Magh Urs",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 20 km from Shariatpur town, near the Padma in Naria Upazila",
+        "distanceKm": 20,
+        "transport": "Bus or CNG to Naria, then easybike to Sureshwar"
+      },
+      "bestTime": "During the Urs Sharif (19–21 Magh / early February) for the full pilgrimage atmosphere",
+      "tips": [
+        "Dress modestly — this is an active shrine",
+        "The Urs draws enormous crowds; arrive early and keep belongings close"
+      ]
+    },
+    {
+      "name": "Mahisarer Digambari Dighi",
+      "type": "religious",
+      "description": "A vast, centuries-old pond in the Mahisar area with an adjacent Digambari sannyasi's house — one of the most revered Hindu pilgrimage and recreation spots in the district, ringed by old trees.",
+      "history": "Local tradition holds the great tank was excavated by Raja Chand Ray, a Bikrampur-region zamindar of the Mughal era, at the request of a Digambari sannyasi. The site is reckoned to be around 600 years old.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1800, 90.4600],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In the Mahisar area of Bhedarganj Upazila, southeast of Shariatpur town",
+        "distanceKm": 22,
+        "transport": "Bus to Bhedarganj, then CNG / easybike to Mahisar"
+      },
+      "bestTime": "Cool months; busiest on Hindu festival days",
+      "tips": [
+        "Respect ongoing rituals at the sannyasi's house",
+        "The banks are unfenced — watch children near the water"
+      ]
+    },
+    {
+      "name": "Rudrakar Math",
+      "type": "heritage",
+      "description": "A roughly 150-year-old Hindu monastery (math) with a tall, ornamented spire in the Rudrakar union of Shariatpur Sadar — the district's best-known piece of pre-modern temple architecture.",
+      "history": "Built in the 19th century, the math served as a monastic and ritual centre for the local Hindu community. Its terracotta-and-plaster tower is the surviving landmark of the complex.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2200, 90.3400],
+      "practical": {
+        "hours": "Exterior accessible during daylight",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 5 km from Shariatpur town in Rudrakar union",
+        "distanceKm": 5,
+        "transport": "CNG / easybike from Shariatpur town"
+      },
+      "bestTime": "Morning light for the spire",
+      "tips": [
+        "Parts of the structure are fragile — admire from the courtyard rather than climbing"
+      ]
+    },
+    {
+      "name": "Haturia Zamindar Bari",
+      "type": "heritage",
+      "description": "The ruined 19th-century manor of the Haturia zamindars in Gosairhat Upazila — atmospheric brickwork slowly being lost to time, with a remarkable footnote in Bengal's history of electricity.",
+      "history": "Built in the 19th century, the estate of zamindar Sekander Ali Chowdhury. In 1927 Haturia House was, along with Dhaka's Ahsan Manzil, one of the first two houses in the greater Dhaka region to be lit by electric lamp. Much of the original structure has since decayed for lack of conservation.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0900, 90.5000],
+      "practical": {
+        "hours": "Always open (exterior only)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km south of Shariatpur town in Gosairhat Upazila",
+        "distanceKm": 35,
+        "transport": "Bus to Gosairhat, then easybike to Haturia"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "The masonry is unstable — do not climb the walls or roof",
+        "Carry water; there are few shops at the site"
+      ]
+    },
+    {
+      "name": "Buri'r Hat Mosque",
+      "type": "heritage",
+      "description": "An old mosque-and-house complex at Buri'r Hat, counted among the district's notable historic sites alongside the zamindar baris and the Rudrakar math.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2500, 90.4000],
+      "practical": {
+        "hours": "Open around prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Near Buri'r Hat; ask locally for directions from the nearest bazar",
+        "distanceKm": 15,
+        "transport": "CNG / easybike from Shariatpur town"
+      },
+      "bestTime": "Outside Friday noon prayers",
+      "tips": [
+        "Cover head if female; remove shoes before entering"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Bibikhana Pitha",
+      "description": "Shariatpur's signature sweet — a dense, cake-like rice pitha baked with rice flour, milk, ghee, date-palm or sugar syrup and cardamom. Made especially for festivals and the winter pitha season.",
+      "venue": "Naria & Sadar sweet shops; winter pitha stalls"
+    },
+    {
+      "type": "festival",
+      "name": "Sureshwar Urs Sharif",
+      "description": "The annual gathering at Sureshwar Darbar Sharif honouring the shrine's saint. Devotees pour in from across the country for three days of zikr, qawwali and communal meals.",
+      "timing": "19–21 Magh (early February)",
+      "coordinates": [23.3000, 90.3400]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Rudrakar Math (19th c.)",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2200, 90.3400]
+    },
+    {
+      "name": "Haturia Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0900, 90.5000]
+    },
+    {
+      "name": "Mahisarer Digambari Dighi",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1800, 90.4600]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-shariatpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Shariatpur&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "BRTC Bus Service", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Shariatpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Shariatpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "shariatpur-padma-bridge", "title": "Watch the Padma Bridge at golden hour from Jajira", "category": "moment", "detail": "The 6.15-km span glows orange at sunset. From the Jajira approach you get the cleanest view of the bridge that reconnected the country's southwest to Dhaka in 2022.", "whereOrHow": "Jajira / Naodoba approach", "bestTime": "Late afternoon" },
+    { "id": "shariatpur-sureshwar-urs", "title": "Join the Urs Sharif crowds at Sureshwar Darbar", "category": "experience", "detail": "For three days every Magh, the riverside shrine fills with devotees for zikr, qawwali and communal meals — one of the largest Sufi gatherings in the region.", "whereOrHow": "Sureshwar, Naria Upazila", "bestTime": "19–21 Magh (early February)" },
+    { "id": "shariatpur-bibikhana", "title": "Eat Bibikhana pitha where it's a local institution", "category": "food", "detail": "Dense, cake-like and fragrant with cardamom and date-palm syrup — Shariatpur's signature pitha is best straight from a Naria or Sadar sweet shop in winter.", "whereOrHow": "Naria & Sadar sweet shops" },
+    { "id": "shariatpur-mahisar-dighi", "title": "Sit by the 600-year-old Mahisar Dighi", "category": "place", "detail": "A huge ancient tank beside a Digambari sannyasi's house, said to have been dug by a Mughal-era zamindar. Quiet most days, alive with pilgrims on festival dates.", "whereOrHow": "Mahisar, Bhedarganj Upazila", "bestTime": "Cool months" },
+    { "id": "shariatpur-rudrakar-math", "title": "See the spire of Rudrakar Math", "category": "place", "detail": "The district's finest pre-modern temple architecture — a ~150-year-old monastery tower in plaster and terracotta, a short ride from Shariatpur town.", "whereOrHow": "Rudrakar union, Shariatpur Sadar", "bestTime": "Morning light" },
+    { "id": "shariatpur-haturia", "title": "Walk the ruins of Haturia Zamindar Bari", "category": "place", "detail": "A decaying 19th-century manor with a striking footnote — in 1927 it was one of the first two houses in the greater Dhaka region lit by electric lamp, alongside Ahsan Manzil.", "whereOrHow": "Gosairhat Upazila" },
+    { "id": "shariatpur-padma-ilish", "title": "Eat Padma hilsa at a riverside bazar", "category": "food", "detail": "Hilsa pulled from the Padma is prized as the country's best — have it fried, in mustard (shorshe ilish), or with khichuri during the monsoon run.", "whereOrHow": "Riverside bazaars near Jajira & Naria", "bestTime": "Monsoon (Jul–Oct) for the hilsa run" },
+    { "id": "shariatpur-buri-hat", "title": "Find the old mosque at Buri'r Hat", "category": "place", "detail": "An old mosque-and-house complex counted among the district's heritage sites — a quiet detour for anyone tracing Shariatpur's pre-modern footprint.", "whereOrHow": "Buri'r Hat", "bestTime": "Outside Friday noon prayers" },
+    { "id": "shariatpur-khejur-gur", "title": "Buy fresh date-palm gur at a winter haat", "category": "food", "detail": "The winter sap harvest sweetens the season's pithas. Buy it fresh and dark at a rural market between December and February.", "whereOrHow": "Rural haats, Dec–Feb", "bestTime": "December–February" },
+    { "id": "shariatpur-padma-boat", "title": "Take a country-boat ride on the Padma", "category": "experience", "detail": "Away from the bridge, the river is still worked by fishing boats and ferries. A short hired-boat ride gives you the old, slow view of the Padma.", "whereOrHow": "Ghats near Naria / Jajira", "bestTime": "Cool, calm mornings" }
+  ],
+  "foods": [
+    { "name": "Bibikhana Pitha", "description": "Shariatpur's signature sweet — a dense, cake-like rice pitha of rice flour, milk, ghee, date-palm or sugar syrup and cardamom, baked for festivals and the winter season.", "whereToFind": "Naria & Sadar sweet shops; winter pitha stalls" },
+    { "name": "Padma Ilish (Hilsa)", "description": "Hilsa from the Padma, prized as the finest in the country — eaten fried, in a mustard paste (shorshe ilish), or with khichuri during the rains.", "whereToFind": "Riverside bazaars near Jajira & Naria" },
+    { "name": "Khejur Gur", "description": "Concentrated date-palm jaggery from the winter sap harvest — the base of the season's pithas and a strong sweetener for tea.", "whereToFind": "Rural haats, December–February" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Abdur Razzaq",
+      "knownFor": "Awami League politician from Naria; served as Minister for Water Resources of Bangladesh from 1996 to 2001.",
+      "era": "1942 – 2011"
+    },
+    {
+      "name": "Abdul Haque Faridi",
+      "knownFor": "Educationist and writer, born at Naria in Shariatpur.",
+      "era": "1903 – 1996"
+    }
+  ],
+  "didYouKnow": [
+    "Shariatpur is named after Haji Shariatullah (1781–1840), the Islamic reformer who founded the Faraizi movement in 19th-century Bengal.",
+    "The Padma Bridge touches down on the Shariatpur side at Jajira — it is the longest bridge in Bangladesh and has the deepest piles (about 127 m) of any bridge in the world.",
+    "Haturia Zamindar Bari was, in 1927, one of the first two houses in the greater Dhaka region to be lit by electric lamp — the other was Ahsan Manzil.",
+    "Mahisar's Digambari Dighi is reckoned to be around 600 years old, said to have been excavated by a Mughal-era zamindar of Bikrampur at a sannyasi's request.",
+    "Shariatpur only became a district in 1984 — before that it was a subdivision of Faridpur."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Shariatpur Sadar Model Thana", "phone": "—" },
+      { "name": "Naria Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Shariatpur Sadar Hospital", "phone": "—" },
+      { "name": "Naria Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
