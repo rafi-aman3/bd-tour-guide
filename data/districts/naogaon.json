@@ -1,0 +1,305 @@
+{
+  "name": "Naogaon",
+  "division": "Rajshahi",
+  "tagline": "The Pala emperors' great monastery and a stone mosque on the five-taka note — Somapura Mahavihara rising from the rice plains, Tagore's Patisar estate, and the country's mango capital.",
+  "stats": {
+    "area": "3,435.65 sq km",
+    "population": "2,784,599",
+    "established": "1984",
+    "attractions": "7+"
+  },
+  "guide": {
+    "bestTime": "October to March for dry, cool weather, ideal for the open archaeological sites; come in summer (May–July) if you want the famous Naogaon mangoes.",
+    "gettingThere": "By road from Dhaka (~5.5 hr via Bogura) or Rajshahi. Naogaon town has no major railway station — intercity trains run to nearby Santahar Junction, with onward road transfer, and small stops at Ahsanganj and Atrai serve the district. There is no airport; the nearest are Rajshahi and Saidpur.",
+    "difficulty": "Easy — the monuments sit on flat plains, though the marquee sites (Paharpur, Kusumba, Patisar, Altadighi) are spread across different upazilas, so plan a car or CNG for the day trips."
+  },
+  "mustVisit": [
+    {
+      "name": "Somapura Mahavihara (Paharpur) & Museum",
+      "type": "religious",
+      "description": "The vast ruins of a Pala-era Buddhist monastery — a UNESCO World Heritage Site and one of the largest monasteries south of the Himalayas — its great central shrine rising in terraces above the surrounding rice fields, with a fine site museum alongside.",
+      "history": "Built by the Pala emperor Dharmapala around the turn of the 9th century, Somapura was a renowned seat of Buddhist learning; the master Atisha Dipankara is said to have lived and taught here. It was inscribed as a UNESCO World Heritage Site in 1985, and the adjacent museum (1960) holds its terracotta plaques and statuary.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0317, 88.9772],
+      "practical": {
+        "hours": "Daytime; closed on the weekly off-day",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Paharpur, Badalgachhi upazila, ~35 km north-west of Naogaon town",
+        "distanceKm": 35,
+        "transport": "Car or CNG from Naogaon town"
+      },
+      "bestTime": "Cool, dry months; mornings for the light on the terraces",
+      "tips": [
+        "See the museum first to make sense of the great quadrangle",
+        "Carry water and sun protection — the site is open and shadeless"
+      ]
+    },
+    {
+      "name": "Kusumba Mosque",
+      "type": "religious",
+      "description": "A jewel of a black-stone mosque on the bank of the Atrai — its carved sandstone mihrabs among the finest pre-Mughal stonework in the country, and famous enough to feature on the Bangladesh five-taka note.",
+      "history": "Built in 1558–59, in the late Afghan (Sur) period, by an official named Sulaiman, the Kusumba Mosque is faced in stone and richly carved. It was damaged in the great earthquake of 1897 but remains beautifully preserved.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7117, 88.6878],
+      "practical": {
+        "hours": "Daylight; an active mosque — avoid prayer times for sightseeing",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kusumba, Manda upazila, ~35 km west of Naogaon town",
+        "distanceKm": 35,
+        "transport": "Car or CNG from town, on the Naogaon–Rajshahi road"
+      },
+      "bestTime": "Mid-morning, outside prayer times",
+      "tips": [
+        "Look closely at the carved stone mihrabs inside",
+        "Dress modestly and remove shoes to enter"
+      ]
+    },
+    {
+      "name": "Patisar Rabindra Kachharibari",
+      "type": "culture",
+      "description": "Rabindranath Tagore's estate office on the bank of the Nagar river — the Kaligram zamindari he managed for years, now a memorial museum to his time among the villagers of Naogaon.",
+      "history": "The estate was bought by the Tagore family in 1830; Rabindranath first came to Patisar in 1891 and ran it for decades, founding schools and a rural bank and writing here. The kachharibari is now the Patisar Rabindra Memorial Museum. (Tagore worked here — he was not born here.)",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.5500, 89.0500],
+      "practical": {
+        "hours": "Daytime; closed on its weekly off-day",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Patisar, Atrai upazila, ~26 km south-east of Naogaon town",
+        "distanceKm": 26,
+        "transport": "Car or CNG; the nearest rail stop is Atrai"
+      },
+      "bestTime": "Cool, dry months; the Tagore anniversary brings programmes",
+      "tips": [
+        "The riverside setting is part of the charm — allow time to walk",
+        "A quiet counterpoint to the grand archaeology elsewhere in the district"
+      ]
+    },
+    {
+      "name": "Altadighi National Park",
+      "type": "nature",
+      "description": "A national park built around the largest old dighi (lake) in Naogaon, fringed by sal forest right on the India border — a peaceful place of water, woodland and birdsong.",
+      "history": "Declared a national park in 2011, Altadighi protects a centuries-old lake more than a kilometre long, surrounded by sal forest, home to jungle fowl, jackals and jungle cats on the edge of the international boundary.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1500, 88.8500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Nominal entry",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Dhamoirhat upazila, ~50 km north-west of Naogaon town, on the border",
+        "distanceKm": 50,
+        "transport": "Car or CNG from town"
+      },
+      "bestTime": "Cool, dry months for walking and birds",
+      "tips": [
+        "It is a border zone — carry ID and follow local guidance",
+        "Good for a quiet walk around the great lake and forest"
+      ]
+    },
+    {
+      "name": "Jagaddala Mahavihara",
+      "type": "religious",
+      "description": "The excavated remains of a Pala-era Buddhist monastery near the India border — counted in Tibetan tradition among the five great mahaviharas of ancient Bengal, alongside Nalanda and Somapura.",
+      "history": "Founded probably by the Pala king Ramapala around the late 11th century, Jagaddala at Dhamoirhat was a major centre of Buddhist learning and translation. It sits on Bangladesh's tentative list of World Heritage sites.",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1700, 88.8000],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Jagdal, Dhamoirhat upazila, ~45 km north-west of town",
+        "distanceKm": 45,
+        "transport": "Car or CNG from town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Easy to combine with Altadighi nearby in Dhamoirhat",
+        "A quieter, lesser-known cousin of Somapura"
+      ]
+    },
+    {
+      "name": "Halud Vihara",
+      "type": "religious",
+      "description": "A large brick mound of another early-medieval Buddhist monastery, rising from the fields south of Paharpur — part excavated, its terracotta and brickwork still emerging.",
+      "history": "Contemporary with Somapura, Halud Vihara at Badalgachhi was excavated in 1984 and 1993 and stands on Bangladesh's tentative list of World Heritage sites — a reminder of how thickly Buddhist monasteries once dotted this plain.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9000, 88.9700],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Bilasbari, Badalgachhi upazila, south of Paharpur",
+        "distanceKm": 25,
+        "transport": "Car or CNG from town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Combine with Somapura on a Badalgachhi archaeology day",
+        "Best for the atmosphere and the mound — facilities are minimal"
+      ]
+    },
+    {
+      "name": "Dubalhati Rajbari",
+      "type": "culture",
+      "description": "The weathered ruins of a great zamindar palace near Naogaon town — once a sprawling mansion of hundreds of rooms, now a romantic, crumbling relic of the district's landed past.",
+      "history": "Founded by the zamindar Krishnanath in the late 18th century and extended by Haranath Roy Chowdhury in 1853, the Dubalhati palace is said to have once held some three hundred rooms. It is now a protected but ruined monument.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7600, 88.9000],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "~6 km south-west of Naogaon town",
+        "distanceKm": 6,
+        "transport": "Rickshaw or CNG from town"
+      },
+      "bestTime": "Daytime for the architecture",
+      "tips": [
+        "Parts are dilapidated — tread carefully around the old structures",
+        "Best for the faded grandeur, not facilities"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Naogaon Mango",
+      "description": "Naogaon has become Bangladesh's leading mango-growing district, its 'mango capital' — orchards of Amrapali and other varieties filling the summer markets, especially around Sapahar and Porsha.",
+      "venue": "Sapahar, Porsha and seasonal mango markets"
+    },
+    {
+      "type": "food",
+      "name": "Para Sandesh (Pera)",
+      "description": "A dense, milky pera sandesh that, by local tradition, was made famous in Naogaon more than a century ago — a favourite gift and festival sweet.",
+      "venue": "Sweet shops in Naogaon town"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Somapura Mahavihara (UNESCO, 1985)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0317, 88.9772]
+    },
+    {
+      "name": "Kusumba Mosque (1558)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7117, 88.6878]
+    },
+    {
+      "name": "Jagaddala Mahavihara",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1700, 88.8000]
+    },
+    {
+      "name": "Patisar Rabindra Kachharibari",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.5500, 89.0500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-naogaon?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Naogaon&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Naogaon&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Naogaon&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3000" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "naogaon-somapura", "title": "Walk the great Somapura Mahavihara", "category": "place", "detail": "The terraced Pala-era Buddhist monastery and UNESCO World Heritage Site rising from the rice plains at Paharpur.", "whereOrHow": "Paharpur, Badalgachhi" },
+    { "id": "naogaon-paharpur-museum", "title": "See the finds at Paharpur Museum", "category": "place", "detail": "Terracotta plaques, ornamental bricks and statuary from the lost monastery, beside the ruins.", "whereOrHow": "Paharpur, Badalgachhi" },
+    { "id": "naogaon-kusumba", "title": "See the Kusumba Mosque on the 5-taka note", "category": "place", "detail": "A 1558 black-stone mosque with exquisitely carved mihrabs on the bank of the Atrai.", "whereOrHow": "Kusumba, Manda" },
+    { "id": "naogaon-patisar", "title": "Visit Tagore's Patisar estate", "category": "place", "detail": "The Kaligram kachharibari on the Nagar river where Rabindranath Tagore worked from 1891.", "whereOrHow": "Patisar, Atrai" },
+    { "id": "naogaon-altadighi", "title": "Walk the lake at Altadighi National Park", "category": "experience", "detail": "A centuries-old dighi over a kilometre long, ringed by sal forest on the India border.", "whereOrHow": "Dhamoirhat" },
+    { "id": "naogaon-jagaddala", "title": "Find Jagaddala Mahavihara", "category": "place", "detail": "One of the five great mahaviharas of ancient Bengal, excavated near the border at Dhamoirhat.", "whereOrHow": "Jagdal, Dhamoirhat" },
+    { "id": "naogaon-halud-vihara", "title": "See the mound of Halud Vihara", "category": "place", "detail": "Another early-medieval Buddhist monastery rising from the fields south of Paharpur.", "whereOrHow": "Badalgachhi" },
+    { "id": "naogaon-dubalhati", "title": "Explore Dubalhati Rajbari", "category": "place", "detail": "The crumbling ruins of a zamindar palace once said to hold three hundred rooms, near town.", "whereOrHow": "~6 km from Naogaon town" },
+    { "id": "naogaon-mango", "title": "Eat Naogaon mango in season", "category": "food", "detail": "Amrapali and more from the orchards of the country's new mango capital.", "whereOrHow": "Sapahar, Porsha and town markets", "bestTime": "May–July" },
+    { "id": "naogaon-pera-sandesh", "title": "Taste Naogaon's pera sandesh", "category": "food", "detail": "The dense, milky sweet that local tradition says was made famous here over a century ago.", "whereOrHow": "Sweet shops in town" },
+    { "id": "naogaon-chaler-ruti", "title": "Try chaler ruti", "category": "food", "detail": "The rice-flour flatbread of the north-Bengal countryside, eaten with curries and bhortas.", "whereOrHow": "Local eateries and villages" },
+    { "id": "naogaon-atrai-river", "title": "Sit by the Atrai river", "category": "moment", "detail": "The district's great river, winding past the Kusumba Mosque and the rice plains.", "whereOrHow": "Manda / along the Atrai" }
+  ],
+  "foods": [
+    { "name": "Naogaon Mango", "description": "Amrapali and other summer mangoes from the orchards of the country's leading mango-growing district.", "whereToFind": "Sapahar, Porsha and seasonal markets" },
+    { "name": "Para Sandesh (Pera)", "description": "A dense, milky pera sandesh that, by local tradition, was made famous in Naogaon over a century ago.", "whereToFind": "Sweet shops in Naogaon town" },
+    { "name": "Chaler Ruti", "description": "Rice-flour flatbread of the north-Bengal countryside, eaten with curries, bhortas and gur.", "whereToFind": "Local eateries and village kitchens" },
+    { "name": "Fine Rice", "description": "From one of the country's great rice granaries — aromatic and fine local varieties fill the markets after harvest.", "whereToFind": "Town and village markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Akshay Kumar Maitreya",
+      "knownFor": "Pioneering historian and archaeologist of Bengal, author of major works on Sirajuddaula and Mir Qasim, whose family had its roots in Naogaon (he was born in Kushtia).",
+      "era": "1861 – 1930"
+    }
+  ],
+  "didYouKnow": [
+    "Somapura Mahavihara at Paharpur — built by the Pala emperor Dharmapala around the 9th century — is a UNESCO World Heritage Site (1985) and one of the largest Buddhist monasteries south of the Himalayas.",
+    "The great Buddhist master Atisha Dipankara is said to have lived and taught at Somapura before carrying his learning to Tibet.",
+    "The stone Kusumba Mosque, built in 1558–59, is so admired that it appears on the Bangladesh five-taka note.",
+    "Patisar in Atrai was the Tagore family's Kaligram estate, where Rabindranath Tagore worked from 1891, founding schools and a rural bank among the villagers.",
+    "Naogaon is one of the country's great rice granaries and has become Bangladesh's leading mango-producing district — its new 'mango capital'."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Naogaon Sadar Thana", "phone": "—" },
+      { "name": "Badalgachhi Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Naogaon 250-Bed General Hospital", "phone": "—" },
+      { "name": "Naogaon Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
