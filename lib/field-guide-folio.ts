@@ -1,6 +1,6 @@
 // The list of districts that have been fully built as field guides.
 // Order matters — the folio number is 1-indexed based on this array.
-export const BUILT_DISTRICTS: string[] = ["satkhira", "shariatpur"];
+export const BUILT_DISTRICTS: string[] = ["satkhira", "shariatpur", "noakhali"];
 
 export function folioNumber(slug: string): string | null {
   const idx = BUILT_DISTRICTS.indexOf(slug);

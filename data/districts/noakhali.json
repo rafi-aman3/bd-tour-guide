@@ -1,0 +1,264 @@
+{
+  "name": "Noakhali",
+  "division": "Chittagong",
+  "tagline": "Where the land grows into the Bay — silent islands, deer-filled forests, and the ashram Gandhi left behind.",
+  "stats": {
+    "area": "3685.87 sq km",
+    "population": "3,625,252",
+    "established": "1821",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry; best for Nijhum Dwip and winter birds)",
+    "gettingThere": "By bus from Dhaka to Maijdee / Sonapur (~150 km, ~4–5 hr) or by the Noakhali-bound rail service to Maijdee Court. For Nijhum Dwip, continue south to Hatiya by launch or a chain of local boats.",
+    "difficulty": "Easy to moderate — the mainland is well connected; Nijhum Dwip is a full day's multi-leg boat journey."
+  },
+  "mustVisit": [
+    {
+      "name": "Nijhum Dwip",
+      "type": "nature",
+      "description": "A quiet, low-lying island off Hatiya — grassland, keora mangrove and tidal channels that shelter a large herd of spotted deer and, each winter, tens of thousands of migratory birds. The mangrove was declared a national park and the surrounding sea a Marine Protected Area.",
+      "history": "The island emerged from Meghna-estuary silt in the mid-20th century and was settled and afforested with keora mangrove from the 1970s. Spotted deer were introduced and multiplied into a herd now numbered in the thousands. The adjacent waters were declared the Nijhum Dwip Marine Protected Area in 2019.",
+      "image": "https://images.unsplash.com/photo-1518457607834-6e8d80c183c5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.0500, 91.0167],
+      "practical": {
+        "hours": "Open island; deer and birds best seen at dawn and dusk",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "South to Hatiya, then a chain of boats — Chairman Ghat → Nalchira → Jahajmara → the Nijhum Dwip channel",
+        "distanceKm": 110,
+        "transport": "Overnight launch from Dhaka to Hatiya, or bus to Sonapur then local boats and CNG"
+      },
+      "bestTime": "November to February for dry weather and peak migratory birds",
+      "tips": [
+        "Plan two days minimum — the boat legs eat most of a day each way",
+        "Carry cash; there are no ATMs on the island",
+        "Hire a local guide for the deer forest and the dawn birdwatching spots"
+      ]
+    },
+    {
+      "name": "Bajra Shahi Mosque",
+      "type": "religious",
+      "description": "An 18th-century Mughal-era mosque in Bazra, Sonaimuri — three domes above a façade later inlaid with mosaics of coloured ceramic shards. One of the most striking historic mosques in the southeast.",
+      "history": "Built in 1741–42 by Aman Ullah during the reign of Mughal emperor Muhammad Shah. The Bazra zamindars Khan Bahadur Ali Ahmad and Khan Bahadur Mujir Uddin Ahmad substantially renovated it and added the distinctive coloured-ceramic mosaics between 1911 and 1928.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9400, 91.1700],
+      "practical": {
+        "hours": "Open around the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km northwest of Maijdee, in Bazra union of Sonaimuri Upazila",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Sonaimuri / Bazra, then a short walk"
+      },
+      "bestTime": "Late afternoon for light on the mosaic façade",
+      "tips": [
+        "Avoid Friday noon prayers unless you intend to pray",
+        "Cover head if female; remove shoes before entering"
+      ]
+    },
+    {
+      "name": "Gandhi Ashram (Joyag)",
+      "type": "heritage",
+      "description": "The ashram that grew out of Mahatma Gandhi's peace mission to Noakhali — today a trust running rural development, weaving and education work, set in the old zamindar house at Joyag.",
+      "history": "Gandhi came to Noakhali in 1946–47 to calm communal violence, walking village to village on a mission of peace and harmony. The ashram was established in 1947 at the home of zamindar Barrister Hemanta Kumar Ghosh and continues his Gandhian rural-development programme. It lies about 25 km north of Maijdee.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9500, 91.1500],
+      "practical": {
+        "hours": "Open daytime; closed on some public holidays",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km north of Maijdee, beside Joyag (Jayag) Bazar in Sonaimuri Upazila",
+        "distanceKm": 25,
+        "transport": "Bus or CNG to Joyag Bazar"
+      },
+      "bestTime": "Morning, cool months",
+      "tips": [
+        "Ask at the office about the museum room and the khadi / weaving units",
+        "A quiet, working site — keep noise down"
+      ]
+    },
+    {
+      "name": "Bir Sreshtho Ruhul Amin Memorial Museum & Library",
+      "type": "heritage",
+      "description": "A memorial museum and library at the birthplace of naval war hero Muhammad Ruhul Amin, one of only seven recipients of Bangladesh's highest gallantry award, Bir Sreshtho.",
+      "history": "Built by the government in 2008 on the ancestral land of the martyr in Bagpachara (now Ruhul Amin Nagar), Sonaimuri. Ruhul Amin, an engine-room artificer in the nascent Bangladesh Navy, was killed in December 1971 and posthumously awarded the Bir Sreshtho.",
+      "image": "https://images.unsplash.com/photo-1564399580075-5dfe19c205f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9600, 91.1200],
+      "practical": {
+        "hours": "—",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km north of Noakhali town, in Deoti union of Sonaimuri Upazila",
+        "distanceKm": 25,
+        "transport": "Bus or CNG toward Sonaimuri / Bagpachara"
+      },
+      "bestTime": "Cool months; around Victory Day (16 December) for commemorations",
+      "tips": [
+        "Combine with the nearby Gandhi Ashram and Bajra Shahi Mosque for one Sonaimuri loop"
+      ]
+    },
+    {
+      "name": "Musapur Closure",
+      "type": "nature",
+      "description": "A sluice-and-closure at the mouth of the Feni River where it meets the Bay of Bengal in Companiganj — a windswept stretch of water, mudflat and casuarina locals call the 'Mini Cox's Bazar.'",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7000, 91.3500],
+      "practical": {
+        "hours": "Daylight visits recommended",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "South to Musapur union in Companiganj Upazila, at the district's coastal edge",
+        "distanceKm": 45,
+        "transport": "Bus to Companiganj / Basurhat, then CNG to Musapur"
+      },
+      "bestTime": "Cool, dry months; late afternoon for sunset over the water",
+      "tips": [
+        "Few facilities — carry water and food",
+        "The currents at the river mouth are strong; do not swim"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Mohisher Doi (Buffalo-milk Curd)",
+      "description": "Thick set curd made from the milk of buffalo raised on the coastal chars — a Noakhali signature, denser and richer than cow-milk doi.",
+      "venue": "Char and coastal bazaars; Maijdee sweet shops"
+    },
+    {
+      "type": "food",
+      "name": "Kholajali Pitha",
+      "description": "A lacy, net-like rice pitha cooked on an earthen lid (khola) and eaten with date-palm syrup or thick milk — strongly associated with Noakhali home kitchens.",
+      "venue": "Winter pitha stalls and home kitchens"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Bajra Shahi Mosque (1741)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9400, 91.1700]
+    },
+    {
+      "name": "Gandhi Ashram, Joyag (1947)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9500, 91.1500]
+    },
+    {
+      "name": "Bir Sreshtho Ruhul Amin Memorial Museum",
+      "image": "https://images.unsplash.com/photo-1564399580075-5dfe19c205f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9600, 91.1200]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-noakhali?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Noakhali&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Himachal Express", "phone": "—" },
+        { "name": "Ekushey Express", "phone": "—" },
+        { "name": "Moonline Enterprise", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (e-Ticket)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Noakhali&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-hatiya?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Dhaka–Hatiya Launch Service (for Nijhum Dwip)", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Noakhali&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Noakhali&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "noakhali-nijhum-deer", "title": "Watch the spotted-deer herd at dawn on Nijhum Dwip", "category": "experience", "detail": "Thousands of chital roam the keora forest and grassland. The first hour of daylight is when they graze in the open and the island lives up to its name — 'silent island.'", "whereOrHow": "Nijhum Dwip, Hatiya", "bestTime": "Nov–Feb, first light" },
+    { "id": "noakhali-nijhum-birds", "title": "See winter migratory birds on Nijhum Dwip", "category": "experience", "detail": "Each winter the mudflats fill with skimmers, godwits, avocets and plovers. Early morning and late afternoon are the best birdwatching windows.", "whereOrHow": "Nijhum Dwip tidal flats", "bestTime": "November–February" },
+    { "id": "noakhali-hatiya-launch", "title": "Take the overnight launch from Dhaka to Hatiya", "category": "experience", "detail": "The classic approach to Nijhum Dwip — board at Sadarghat in the evening and wake up on the Meghna estuary the next morning. A river journey that's half the adventure.", "whereOrHow": "Dhaka Sadarghat → Hatiya", "bestTime": "Cool, calm months" },
+    { "id": "noakhali-musapur", "title": "Stand at Musapur Closure where the Feni meets the sea", "category": "moment", "detail": "A windswept river-mouth of mudflat and casuarina that locals call the Mini Cox's Bazar. Best at sunset, with the Bay opening out ahead of you.", "whereOrHow": "Musapur, Companiganj", "bestTime": "Late afternoon, cool months" },
+    { "id": "noakhali-bajra-mosque", "title": "See the ceramic-mosaic façade of Bajra Shahi Mosque", "category": "place", "detail": "A 1741 Mughal-era mosque later inlaid with mosaics of coloured ceramic shards by the Bazra zamindars — one of the southeast's finest historic mosques.", "whereOrHow": "Bazra, Sonaimuri", "bestTime": "Late afternoon light" },
+    { "id": "noakhali-gandhi-ashram", "title": "Walk the Gandhi Ashram at Joyag", "category": "place", "detail": "Born of Gandhi's 1946–47 peace mission to Noakhali, the ashram still runs weaving and rural-development work in an old zamindar house.", "whereOrHow": "Joyag, Sonaimuri" },
+    { "id": "noakhali-ruhul-amin", "title": "Pay respects at the Bir Sreshtho Ruhul Amin Memorial", "category": "place", "detail": "A museum and library at the birthplace of the naval war hero — one of only seven men awarded Bangladesh's highest gallantry honour.", "whereOrHow": "Bagpachara, Sonaimuri", "bestTime": "Around Victory Day (16 Dec)" },
+    { "id": "noakhali-mohisher-doi", "title": "Eat mohisher doi — buffalo-milk curd", "category": "food", "detail": "Thick, rich set curd from buffalo raised on the coastal chars. Denser than the cow-milk doi you'll find elsewhere.", "whereOrHow": "Coastal bazaars & Maijdee sweet shops" },
+    { "id": "noakhali-kholajali", "title": "Try kholajali pitha", "category": "food", "detail": "A delicate, net-like rice pitha cooked on an earthen lid and dipped in date-palm syrup or thick milk — a Noakhali winter staple.", "whereOrHow": "Winter pitha stalls; home kitchens", "bestTime": "December–February" },
+    { "id": "noakhali-haas-bhuna", "title": "Eat Noakhali haas bhuna — duck curry", "category": "food", "detail": "Slow-cooked duck in a dark, spice-heavy gravy — a cold-weather favourite across the district's home-style restaurants.", "whereOrHow": "Local restaurants, esp. in winter" }
+  ],
+  "foods": [
+    { "name": "Mohisher Doi (Buffalo-milk Curd)", "description": "Thick set curd from buffalo raised on the coastal chars — a Noakhali signature, richer and denser than cow-milk doi.", "whereToFind": "Coastal bazaars & Maijdee sweet shops" },
+    { "name": "Kholajali Pitha", "description": "A lacy, net-like rice pitha cooked on an earthen lid (khola), eaten with date-palm syrup or thick milk.", "whereToFind": "Winter pitha stalls and home kitchens" },
+    { "name": "Haas Bhuna (Duck Curry)", "description": "Duck slow-cooked in a dark, heavily spiced gravy — a cold-weather favourite across the district.", "whereToFind": "Home-style restaurants, especially in winter" },
+    { "name": "Coastal Shutki (Dried Fish)", "description": "Sun-dried estuary fish cooked into bold, fiery bhunas — a staple of the char and island kitchens.", "whereToFind": "Hatiya & coastal bazaar canteens" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Bir Sreshtho Muhammad Ruhul Amin",
+      "knownFor": "Naval war hero of the 1971 Liberation War and one of only seven recipients of Bir Sreshtho, Bangladesh's highest gallantry award. Born in Bagpachara, Sonaimuri.",
+      "era": "1935 – 1971"
+    },
+    {
+      "name": "Abdul Malek Ukil",
+      "knownFor": "Politician and lawyer from Noakhali who served as Speaker of the Jatiya Sangsad in the 1970s.",
+      "era": "1925 – 1987"
+    }
+  ],
+  "didYouKnow": [
+    "Noakhali's older name was Bhulua; it became 'Noakhali' — literally 'new canal' (noa + khal) — after a long canal was dug, and was formally named in 1868.",
+    "Nijhum Dwip, off Hatiya, shelters a herd of several thousand spotted deer and fills with migratory birds each winter; its surrounding waters became a Marine Protected Area in 2019.",
+    "Mahatma Gandhi spent months in Noakhali in 1946–47 on a peace mission after communal riots — the Gandhi Ashram at Joyag grew from that visit and still runs rural-development work.",
+    "Bajra Shahi Mosque (1741–42) was later decorated with mosaics of colourful ceramic shards by the Bazra zamindars between 1911 and 1928.",
+    "Bir Sreshtho Muhammad Ruhul Amin, one of only seven holders of Bangladesh's highest gallantry award, was born in Noakhali; a memorial museum and library stand at his birthplace.",
+    "Musapur Closure in Companiganj, where the Feni River meets the Bay of Bengal, is nicknamed the 'Mini Cox's Bazar.'"
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Noakhali Sadar (Sudharam) Model Thana", "phone": "—" },
+      { "name": "Hatiya Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Noakhali 250-Bed General Hospital (Maijdee)", "phone": "—" },
+      { "name": "Hatiya Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
