@@ -23,13 +23,15 @@ interface PageProps {
   params: Promise<{ district: string }>;
 }
 
-function Row({ icon: Icon, label, value }: { icon: typeof Clock; label: string; value?: string }) {
+function Field({ icon: Icon, label, value, full }: { icon: typeof Clock; label: string; value?: string; full?: boolean }) {
   if (!value || value === "—") return null;
   return (
-    <div className="grid grid-cols-[1rem_auto_1fr] items-baseline gap-2 py-1.5">
-      <Icon className="h-3.5 w-3.5 text-slate-400" />
-      <span className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body">{label}</span>
-      <span className="text-sm text-slate-800 font-body">{value}</span>
+    <div className={`flex flex-col gap-1.5 py-3 border-t border-[var(--hairline)] ${full ? "md:col-span-2" : ""}`}>
+      <span className="inline-flex items-center gap-1.5 text-[0.6rem] uppercase tracking-[0.2em] font-semibold text-slate-500 font-body">
+        <Icon className="h-3 w-3 text-slate-400" />
+        {label}
+      </span>
+      <span className="text-sm text-slate-800 font-body leading-snug">{value}</span>
     </div>
   );
 }
@@ -70,7 +72,7 @@ function MustVisitCard({ spot, primaryColor, mutedColor }: { spot: DistrictMustV
               Read more
             </summary>
 
-            <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-1">
+            <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-x-8">
               {spot.history && spot.history !== "—" && (
                 <div className="md:col-span-2 mb-4">
                   <p className="text-sm text-slate-700 font-body leading-relaxed border-l-2 pl-3" style={{ borderColor: mutedColor }}>
@@ -79,22 +81,21 @@ function MustVisitCard({ spot, primaryColor, mutedColor }: { spot: DistrictMustV
                 </div>
               )}
 
-              <Row icon={Clock} label="Hours" value={spot.practical?.hours} />
-              <Row icon={Ticket} label="Entry" value={spot.practical?.entryFee} />
-              <Row icon={Phone} label="Contact" value={spot.practical?.contact} />
-              <Row icon={CalendarDays} label="Best time" value={spot.bestTime} />
+              <Field icon={Clock} label="Hours" value={spot.practical?.hours} />
+              <Field icon={Ticket} label="Entry" value={spot.practical?.entryFee} />
+              <Field icon={Phone} label="Contact" value={spot.practical?.contact} />
+              <Field icon={CalendarDays} label="Best time" value={spot.bestTime} />
               {spot.howToReach && (
-                <div className="md:col-span-2 mt-3">
-                  <Row
-                    icon={Route}
-                    label="How to reach"
-                    value={`${spot.howToReach.fromDistrictTown} · ${spot.howToReach.transport}`}
-                  />
-                </div>
+                <Field
+                  icon={Route}
+                  label="How to reach"
+                  value={`${spot.howToReach.fromDistrictTown} · ${spot.howToReach.transport}`}
+                  full
+                />
               )}
 
               {spot.tips && spot.tips.length > 0 && (
-                <div className="md:col-span-2 mt-3">
+                <div className="md:col-span-2 mt-4 pt-3 border-t border-[var(--hairline)]">
                   <div className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-2 inline-flex items-center gap-1.5">
                     <Lightbulb className="h-3.5 w-3.5" /> Traveler tips
                   </div>

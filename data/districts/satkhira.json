@@ -22,7 +22,7 @@
       "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
       "coordinates": [22.1700, 89.1800],
       "practical": {
-        "hours": "Daylight only — boats leave Munshiganj launch ghat from ~6 am",
+        "hours": "Daylight only — boats leave Nildumur (Neeldumur) Ghat, Burigoalini, from ~6 am",
         "entryFee": "BDT 150 (Bangladeshi adult) · USD ~30 equivalent for foreign nationals (Forest Dept permit)",
         "contact": "—",
         "website": "—"
@@ -250,7 +250,7 @@
     { "type": "business", "name": "Satkhira Microbus Rentals", "description": "AC microbus and car hires for Munshiganj day trips and Shyamnagar pilgrimage runs.", "phone": "—" }
   ],
   "bucketlist": [
-    { "id": "satkhira-sundarbans-sunrise", "title": "Take a sunrise boat into the Sundarbans", "category": "experience", "detail": "The mangrove is at its quietest in the first hour of daylight. Birds wake first; the tide is usually low enough to see crab and mudskipper tracks on the banks.", "whereOrHow": "Munshiganj launch ghat", "bestTime": "Nov–Feb, ~5:30 am" },
+    { "id": "satkhira-sundarbans-sunrise", "title": "Take a sunrise boat into the Sundarbans", "category": "experience", "detail": "The mangrove is at its quietest in the first hour of daylight. Birds wake first; the tide is usually low enough to see crab and mudskipper tracks on the banks.", "whereOrHow": "Nildumur (Neeldumur) Ghat, Burigoalini, Shyamnagar", "bestTime": "Nov–Feb, ~5:30 am" },
     { "id": "satkhira-tiger-tracks", "title": "Look for Royal Bengal Tiger pugmarks at a patrol post", "category": "experience", "detail": "Sightings are extraordinarily rare, but fresh pugmarks on a riverbank are common in the southern blocks. Patrol officers will often point them out.", "whereOrHow": "Kalinchi or Burigoalini forest stations" },
     { "id": "satkhira-tetulia-mosque", "title": "Pray at Tetulia Jame Mosque", "category": "place", "detail": "One of the country's most ornate pre-modern mosques — three carved façades and a hand-cut mihrab still in active use after 165+ years.", "whereOrHow": "Tala Upazila", "bestTime": "Outside Friday noon prayers" },
     { "id": "satkhira-bhomra-port", "title": "Stand at Bhomra land port and look across the Ichamati into India", "category": "moment", "detail": "On a clear morning you can see Indian customs lorries queueing on the other side. It is the closest land-port crossing to Kolkata.", "whereOrHow": "Bhomra, ~12 km from Sadar", "bestTime": "Mid-morning" },
