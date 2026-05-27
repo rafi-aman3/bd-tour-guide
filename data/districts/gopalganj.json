@@ -1,0 +1,297 @@
+{
+  "name": "Gopalganj",
+  "division": "Dhaka",
+  "tagline": "A district of water and faith — the Matua holy seat at Orakandi, red water-lilies across the bils, and the Madhumati winding past Tungipara.",
+  "stats": {
+    "area": "1,490 sq km",
+    "population": "1,295,057",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March for dry, cool weather; the bils blaze with red shapla around September–October, and the Matua Baruni Snan mela at Orakandi falls in March.",
+    "gettingThere": "By road from Dhaka (~150 km via the Padma Bridge, ~3–4 hr), or from Khulna and Faridpur. The Padma Bridge rail link reached the district in late 2024 with a junction at Kashiani — so the area now has train service for the first time, though the station is at Kashiani rather than Gopalganj town.",
+    "difficulty": "Easy — town and Sadar sights are simple, and Tungipara, Kashiani, Kotalipara and Muksudpur are comfortable day trips by bus or CNG, with some bil spots reached by country boat."
+  },
+  "mustVisit": [
+    {
+      "name": "Orakandi Thakurbari",
+      "type": "religious",
+      "description": "The spiritual home of the Matua community — the seat of Harichand Thakur and his son Guruchand Thakur at Orakandi, with sacred ponds, temples and a great annual pilgrimage.",
+      "history": "Harichand Thakur (born here in 1812) founded the Matua faith, a humanist, anti-caste reform movement; his son Guruchand carried it forward and opened some of Bengal's first schools for low-caste children. The Baruni Snan mela each March draws hundreds of thousands of devotees to bathe at the Kamona Sagar and Dudh Sagar ponds.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1300, 89.6500],
+      "practical": {
+        "hours": "Open daily; vastly busier during the March mela",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Orakandi village, Kashiani upazila",
+        "distanceKm": 28,
+        "transport": "Bus/CNG to Kashiani, then local transport to Orakandi"
+      },
+      "bestTime": "March for the Baruni Snan mela; quieter on ordinary days",
+      "tips": [
+        "Dress modestly and be respectful — it is a living place of pilgrimage",
+        "The mela is enormous; plan transport and any stay well ahead"
+      ]
+    },
+    {
+      "name": "Mausoleum of Sheikh Mujibur Rahman (Tungipara)",
+      "type": "landmark",
+      "description": "The national-historical mausoleum complex at Tungipara, where the country's independence leader and first president is buried alongside the old Sheikh family mosque, a memorial museum and library, and the ancestral homestead.",
+      "history": "The complex was inaugurated in 2001 around the family graveyard and the Sheikh family mosque (1854). It holds the tomb, a memorial museum and library, and exhibition spaces on the Liberation War. Access and condition have been affected by events since 2024 — check locally before visiting.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9200, 89.9000],
+      "practical": {
+        "hours": "—",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Tungipara upazila, on the Madhumati",
+        "distanceKm": 20,
+        "transport": "Bus or CNG to Tungipara"
+      },
+      "bestTime": "Daytime; confirm current access before going",
+      "tips": [
+        "Check the current visiting situation locally before travelling",
+        "Be respectful — it is a graveyard and place of national memory"
+      ]
+    },
+    {
+      "name": "Ulpur Zamindar Bari",
+      "type": "culture",
+      "description": "The faded estate of the Ulpur zamindars near Gopalganj town — a cluster of early-20th-century mansions, ponds and temples, now weathered but still atmospheric.",
+      "history": "The Basu / Roy Chowdhury family raised the estate's grand houses in the early 1900s. The family left for Calcutta after the 1947 Partition, and river erosion and neglect have since taken their toll, leaving a romantic ruin.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0500, 89.8300],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Ulpur village, Gopalganj Sadar",
+        "distanceKm": 8,
+        "transport": "CNG or auto from Gopalganj town"
+      },
+      "bestTime": "Daytime for the architecture and ponds",
+      "tips": [
+        "Parts are dilapidated — tread carefully around the old structures",
+        "Best for the atmosphere and faded grandeur, not facilities"
+      ]
+    },
+    {
+      "name": "Most Holy Redeemer Church, Baniarchar",
+      "type": "religious",
+      "description": "An old rural Catholic church at Baniarchar in Muksudpur, the heart of a long-settled Catholic farming community where Christian, Hindu and Muslim neighbours have lived side by side for generations.",
+      "history": "The parish dates to 1938 and falls under the Catholic Diocese of Khulna, serving one of the region's established rural Catholic communities among the bils and rice fields.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2000, 89.8700],
+      "practical": {
+        "hours": "Daytime; respect Mass and service times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Baniarchar, Muksudpur upazila",
+        "distanceKm": 35,
+        "transport": "Bus/CNG to Muksudpur, then local transport"
+      },
+      "bestTime": "Daytime; Christmas and Easter for the community at worship",
+      "tips": [
+        "Be quiet and respectful — it is an active church",
+        "A window into rural Bengal's long-standing Catholic life"
+      ]
+    },
+    {
+      "name": "Baghia Beel & the Lal Shapla Wetlands",
+      "type": "nature",
+      "description": "The low-lying bils of Gopalganj — broad freshwater wetlands that fill in the rains and, in late summer, sheet over with red shapla (water-lilies), threaded by fishers' country boats.",
+      "history": "Baghia Beel and the surrounding wetlands of Kotalipara are part of the great low country south of the Madhumati — a landscape of seasonal water, rice and fishing that shapes life across the district.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9700, 89.9700],
+      "practical": {
+        "hours": "Best at dawn for the lilies and the light",
+        "entryFee": "Boat hire by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Bils around Kotalipara and the southern low country",
+        "distanceKm": 25,
+        "transport": "CNG to the nearest point, then country boat"
+      },
+      "bestTime": "September–October for the red shapla bloom; dawn for the boats",
+      "tips": [
+        "Go at first light for the water-lilies and the morning fishers",
+        "Agree the boat fare and route before setting off"
+      ]
+    },
+    {
+      "name": "The Madhumati River",
+      "type": "nature",
+      "description": "The Madhumati — the district's great river — winds along Gopalganj's western edge, with an oxbow baor near Kashiani and quiet ghats for a riverside hour.",
+      "history": "A distributary of the Ganges system, the Madhumati has long been the district's main waterway for trade, fishing and travel, looping into oxbow lakes (baors) as it shifts across the plain.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1000, 89.7000],
+      "practical": {
+        "hours": "Daylight; best at golden hour",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Along the western side of the district; baor near Kashiani",
+        "distanceKm": 15,
+        "transport": "CNG/auto to the riverside near Kashiani"
+      },
+      "bestTime": "Cool, dry months at golden hour",
+      "tips": [
+        "Pair it with Orakandi, which lies in the same Kashiani direction",
+        "Country-boat rides can sometimes be arranged at the ghats"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "festival",
+      "name": "Baruni Snan Mela",
+      "description": "The great Matua pilgrimage at Orakandi around Harichand Thakur's birth anniversary in March — hundreds of thousands of devotees gather to bathe in the sacred ponds, with kirtan, drums and the danka-kanshi of the Matua faith.",
+      "timing": "March (Madhukrishna Trayodashi)",
+      "coordinates": [23.1300, 89.6500]
+    },
+    {
+      "type": "food",
+      "name": "Khejur Gur (Date-Palm Jaggery)",
+      "description": "A regional winter specialty of the low country — sap tapped from date palms on cold nights and boiled down to fragrant nolen gur, the base of the season's pithas and sweets.",
+      "venue": "Winter village markets across the district"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Orakandi Thakurbari",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1300, 89.6500]
+    },
+    {
+      "name": "Mausoleum of Sheikh Mujibur Rahman, Tungipara",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9200, 89.9000]
+    },
+    {
+      "name": "Ulpur Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0500, 89.8300]
+    },
+    {
+      "name": "Most Holy Redeemer Church, Baniarchar (1938)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2000, 89.8700]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-gopalganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Gopalganj&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Gopalganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Gopalganj&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "gopalganj-orakandi", "title": "Visit the Matua holy seat at Orakandi", "category": "place", "detail": "The temples and sacred ponds of the Matua faith, seat of Harichand and Guruchand Thakur.", "whereOrHow": "Orakandi, Kashiani" },
+    { "id": "gopalganj-baruni-snan", "title": "Witness the Baruni Snan mela", "category": "experience", "detail": "Hundreds of thousands of Matua devotees gather at Orakandi each March to bathe in the sacred ponds, with kirtan and drums.", "whereOrHow": "Orakandi, Kashiani", "bestTime": "March" },
+    { "id": "gopalganj-shapla-bil", "title": "See the red shapla bils at dawn", "category": "moment", "detail": "Broad wetlands sheeted in red water-lilies, with fishers poling country boats through the blooms at first light.", "whereOrHow": "Baghia Beel and Kotalipara wetlands", "bestTime": "Sept–Oct, at dawn" },
+    { "id": "gopalganj-madhumati", "title": "Sit by the Madhumati River", "category": "moment", "detail": "The district's great river loops past Kashiani into quiet oxbow baors — a calm riverside hour.", "whereOrHow": "Madhumati near Kashiani", "bestTime": "Late afternoon" },
+    { "id": "gopalganj-ulpur", "title": "Explore Ulpur Zamindar Bari", "category": "place", "detail": "The faded early-1900s mansions, ponds and temples of the Ulpur zamindars near town.", "whereOrHow": "Ulpur, Gopalganj Sadar" },
+    { "id": "gopalganj-tungipara", "title": "See the mausoleum at Tungipara", "category": "place", "detail": "The national-historical mausoleum complex of the country's first president, beside the 1854 family mosque. Check current access before visiting.", "whereOrHow": "Tungipara" },
+    { "id": "gopalganj-baniarchar", "title": "Visit the Baniarchar Catholic church", "category": "place", "detail": "An old rural church (1938) at the heart of a long-settled Catholic farming community in Muksudpur.", "whereOrHow": "Baniarchar, Muksudpur" },
+    { "id": "gopalganj-sukanta", "title": "Find Sukanta Bhattacharya's ancestral home", "category": "place", "detail": "The family home in Kotalipara of the young 'Gana Jagaran' poet — who was himself born in Calcutta.", "whereOrHow": "Unshiya, Kotalipara" },
+    { "id": "gopalganj-khejur-gur", "title": "Taste fresh khejur gur in winter", "category": "food", "detail": "Date-palm jaggery boiled down from sap tapped on cold nights — the season's fragrant nolen gur.", "whereOrHow": "Winter village markets", "bestTime": "Winter" },
+    { "id": "gopalganj-bil-fish", "title": "Eat fresh bil fish", "category": "food", "detail": "Freshwater fish straight from the district's wetlands, fried fresh or in light curries.", "whereOrHow": "Local eateries and markets" },
+    { "id": "gopalganj-boat-ride", "title": "Take a country-boat through the wetlands", "category": "experience", "detail": "Glide through the bils among lilies, reeds and fishing villages — the truest way to see Gopalganj's water country.", "whereOrHow": "Kotalipara and southern bils" },
+    { "id": "gopalganj-kashiani-train", "title": "Arrive by the new Padma Bridge rail link", "category": "experience", "detail": "Rail reached the district for the first time in late 2024, with a junction at Kashiani on the Dhaka–Jashore line.", "whereOrHow": "Kashiani junction" }
+  ],
+  "foods": [
+    { "name": "Khejur Gur (Nolen Gur)", "description": "Fragrant date-palm jaggery from the winter harvest — eaten fresh and used in the season's pithas and sweets.", "whereToFind": "Winter village markets across the district" },
+    { "name": "Bil Fish", "description": "Freshwater fish from the district's wetlands and the Madhumati — fried fresh or in light curries.", "whereToFind": "Local eateries and markets" },
+    { "name": "Nolen Gur Payesh", "description": "Winter rice pudding sweetened with fresh date-palm jaggery — a seasonal Bengali favourite.", "whereToFind": "Homes and sweet shops in winter" },
+    { "name": "Pitha", "description": "Steamed and fried rice-flour cakes, often filled with gur and coconut, made through the cool months.", "whereToFind": "Winter markets and home kitchens" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Harichand Thakur",
+      "knownFor": "Founder of the Matua faith, born at Orakandi in Kashiani — a humanist, anti-caste reformer whose movement reshaped religious and social life across the region.",
+      "era": "1812 – 1877"
+    },
+    {
+      "name": "Guruchand Thakur",
+      "knownFor": "Son of Harichand and born at Orakandi, who expanded the Matua movement and pioneered education for low-caste (Namasudra) children, founding some of Bengal's first such schools in the 1880s.",
+      "era": "1847 – 1937"
+    },
+    {
+      "name": "Shakib Khan",
+      "knownFor": "The leading star of Bangladeshi cinema, the 'King Khan' of Dhallywood — born as Masud Rana Sheikh in Ragdi village, Muksudpur, Gopalganj.",
+      "era": "born 1979"
+    },
+    {
+      "name": "Sheikh Mujibur Rahman",
+      "knownFor": "Independence leader and the first president of Bangladesh, born at Tungipara in 1920; a central figure of the 1971 Liberation War, he was assassinated in 1975 and is buried at Tungipara.",
+      "era": "1920 – 1975"
+    }
+  ],
+  "didYouKnow": [
+    "Gopalganj only became a full district on 1 February 1984 — before that it was a subdivision of Faridpur.",
+    "Orakandi in Kashiani is the global spiritual home of the Matua community; its Baruni Snan festival each March draws hundreds of thousands of pilgrims.",
+    "Both founders of the Matua faith — Harichand Thakur and his son Guruchand Thakur — were born in the same village, Orakandi, and Guruchand opened some of Bengal's first schools for low-caste children.",
+    "The film superstar Shakib Khan was born as Masud Rana Sheikh in Muksudpur, Gopalganj.",
+    "The Most Holy Redeemer Church at Baniarchar in Muksudpur has served a rural Catholic community since 1938, where Catholic, Hindu and Muslim neighbours have long lived side by side."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Gopalganj Sadar Thana", "phone": "—" },
+      { "name": "Tungipara Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Gopalganj 250-Bed General Hospital", "phone": "—" },
+      { "name": "Gopalganj Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
