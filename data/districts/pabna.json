@@ -1,0 +1,293 @@
+{
+  "name": "Pabna",
+  "division": "Rajshahi",
+  "tagline": "Where the Padma is spanned by century-old steel — the twin bridges of Paksey, the double-roofed Jor Bangla, gawa ghee, handloom saris, and the home town of a screen legend.",
+  "stats": {
+    "area": "2,371.5 sq km",
+    "population": "2,909,624",
+    "established": "1832",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March — dry, cool weather, the best light on the Padma and comfortable days for the riverside and the out-of-town mosques and temples.",
+    "gettingThere": "By road from Dhaka (~160 km, ~4–5 hr) via the Bangabandhu Bridge, or from Rajshahi (~75 km). By rail the district is served through Ishwardi Junction — one of the largest junctions in the country — with a connecting service to Pabna town. There is also a Padma ferry/launch crossing at Kazirhat on the Aricha route.",
+    "difficulty": "Easy — the town sights are walkable or a short rickshaw ride, and Paksey, Chatmohar and Ishwardi are comfortable day trips by bus or CNG."
+  },
+  "mustVisit": [
+    {
+      "name": "Hardinge Bridge & Lalon Shah Bridge (Paksey)",
+      "type": "landmark",
+      "description": "Two great bridges side by side over the Padma at Paksey — the steel railway truss of Hardinge Bridge and, running parallel, the road deck of the Lalon Shah Bridge — the district's defining view of the river.",
+      "history": "Hardinge Bridge, about 1.8 km long, was engineered in England by Sir Alexander Meadows Rendel and built between 1910 and 1912; trains began running in 1915 and it was formally opened by the Viceroy, Lord Hardinge, on 4 March 1915. The road bridge alongside it, named after the mystic poet Lalon Shah, was inaugurated in 2004.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0670, 89.0280],
+      "practical": {
+        "hours": "Riverside viewing any time; best by daylight",
+        "entryFee": "Free to view from the banks",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Paksey in Ishwardi upazila, on the Padma toward Bheramara/Kushtia",
+        "distanceKm": 28,
+        "transport": "Bus or CNG to Ishwardi/Paksey from Pabna town"
+      },
+      "bestTime": "Late afternoon for the light on the river and the steelwork",
+      "tips": [
+        "The railway bridge is an active line — view it from the bank, not the track",
+        "Combine with the Paksey riverside and a look at the Padma from the road bridge"
+      ]
+    },
+    {
+      "name": "Jor Bangla Temple",
+      "type": "religious",
+      "description": "A brick temple just outside Pabna town, named for its distinctive 'jor bangla' double-pitched roof that echoes the thatched huts of rural Bengal — once richly clad in terracotta.",
+      "history": "Local tradition holds it was built in the mid-18th century by Brajmohan Krori, a tahsildar of the Nawab of Murshidabad, though no inscription survives to confirm the date. Its terracotta ornament was damaged in the great earthquake of 1897.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0150, 89.2480],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 2 km north-east of Pabna town centre",
+        "distanceKm": 2,
+        "transport": "Rickshaw or CNG from town"
+      },
+      "bestTime": "Morning, for soft light on the brickwork",
+      "tips": [
+        "Look closely at the surviving terracotta detailing on the walls",
+        "Dress modestly and be respectful at the shrine"
+      ]
+    },
+    {
+      "name": "Tarash Bhaban",
+      "type": "culture",
+      "description": "A 19th-century zamindar mansion on Hamid Road in the heart of Pabna town — a handsome relic of the district's landed-gentry past, set among the everyday bustle of the modern town.",
+      "history": "The building was raised in the 1800s by Banamali Roy Bahadur, one of the leading zamindars of Pabna. (Despite the name, the mansion stands in Pabna town — not in the Tarash upazila of neighbouring Sirajganj.)",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0050, 89.2350],
+      "practical": {
+        "hours": "Exterior viewable by day",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On Hamid Road, central Pabna town",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Parts are in government/institutional use — view the façade respectfully",
+        "Pair it with a short heritage walk around the old town"
+      ]
+    },
+    {
+      "name": "Suchitra Sen's Memorial Home",
+      "type": "culture",
+      "description": "The ancestral family home of the legendary actress Suchitra Sen, on Hem Sagar Lane in Pabna town — where she spent her childhood — now kept as a modest memorial to one of Bengali cinema's greatest stars.",
+      "history": "The house at Gopalpur, Hem Sagar Lane, was recovered by the district administration after a long legal battle in 2014 and turned into a memorial holding a statue and a collection relating to her films. (Sources differ on her exact birthplace, but the family home and her upbringing were here in Pabna.)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0040, 89.2360],
+      "practical": {
+        "hours": "—",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Hem Sagar Lane, central Pabna town",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "It is a small, low-key memorial — come for the connection, not a grand museum",
+        "Ask locally for current opening arrangements before visiting"
+      ]
+    },
+    {
+      "name": "Chatmohar Shahi Mosque",
+      "type": "religious",
+      "description": "A three-domed Mughal mosque at Chatmohar — one of the oldest surviving Mughal monuments in this part of Bengal, built of thin 'jafari' bricks.",
+      "history": "An inscription dates the mosque to 1582 (989 AH), placing it among the earliest Mughal-era buildings in the region. It measures roughly 45 by 22.5 feet beneath its three domes.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1480, 89.3000],
+      "practical": {
+        "hours": "Daylight hours; an active mosque — avoid prayer times for sightseeing",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Chatmohar upazila, north-east of Pabna town",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Chatmohar from Pabna town"
+      },
+      "bestTime": "Mid-morning, outside prayer times",
+      "tips": [
+        "Dress modestly and remove shoes to enter",
+        "Be quiet and unobtrusive — it remains in daily use for worship"
+      ]
+    },
+    {
+      "name": "The Padma at Paksey & Kazirhat",
+      "type": "nature",
+      "description": "The wide, slow Padma defines Pabna's western and southern edge — best felt from the Paksey riverside beneath the bridges, or from the Kazirhat ferry ghat where launches and ferries cross the great river.",
+      "history": "Kazirhat became Pabna's main Padma crossing on the Aricha route after the old Nagarbari terminal was shifted following the opening of the Bangabandhu Bridge; the river has always been the district's lifeline for trade and travel.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0700, 89.0350],
+      "practical": {
+        "hours": "Daylight for the river views; ferries run on their own schedule",
+        "entryFee": "Ferry/launch fares as charged",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Paksey ~28 km west (Ishwardi); Kazirhat ghat to the south of the district",
+        "distanceKm": 28,
+        "transport": "Bus/CNG to Paksey or Kazirhat from Pabna town"
+      },
+      "bestTime": "Cool, dry months at golden hour",
+      "tips": [
+        "Sunset over the Padma from Paksey is the photograph to wait for",
+        "Mind the currents — the Padma is powerful; stay on the banks and jetties"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Pabnar Gawa Ghee",
+      "description": "Pabna's most famous product — clarified butter slow-simmered the old way over wood fires until it turns deep gold and intensely fragrant. Pabna town's ghee shops have made it a name known across the country.",
+      "venue": "Ghee shops in Pabna town"
+    },
+    {
+      "type": "craft",
+      "name": "Pabna Handloom Sari",
+      "description": "Cotton saris woven on handlooms in a tradition that reaches back to the Mughal period — a livelihood for a vast number of weaving families across the district and part of Bangladesh's recognised handloom heritage.",
+      "venue": "Handloom weaving villages and Pabna town markets"
+    },
+    {
+      "type": "food",
+      "name": "Ishwardi Mango",
+      "description": "Ishwardi, in the mango belt of greater Rajshahi, ripens sweet summer mangoes that fill the markets through the season.",
+      "venue": "Ishwardi orchards and seasonal markets",
+      "timing": "Summer (roughly May–July)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Hardinge Bridge (1915)",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0670, 89.0280]
+    },
+    {
+      "name": "Jor Bangla Temple",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0150, 89.2480]
+    },
+    {
+      "name": "Tarash Bhaban (19th c.)",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0050, 89.2350]
+    },
+    {
+      "name": "Chatmohar Shahi Mosque (1582)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1480, 89.3000]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-pabna?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Pabna&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Pabna&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Pabna&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "pabna-hardinge-bridge", "title": "See the Hardinge Bridge over the Padma", "category": "place", "detail": "A 1.8 km steel railway bridge opened in 1915, engineered in England — the district's signature landmark at Paksey.", "whereOrHow": "Paksey, Ishwardi", "bestTime": "Late afternoon" },
+    { "id": "pabna-padma-sunset", "title": "Watch the sun set over the Padma at Paksey", "category": "moment", "detail": "The wide river glows gold beneath the twin bridges — the photograph worth waiting for.", "whereOrHow": "Paksey riverside", "bestTime": "Cool, dry months" },
+    { "id": "pabna-jor-bangla", "title": "Find the double-roofed Jor Bangla Temple", "category": "place", "detail": "A mid-18th-century brick temple just outside town, named for its 'jor bangla' twin-pitched roof and once clad in terracotta.", "whereOrHow": "~2 km NE of Pabna town" },
+    { "id": "pabna-tarash-bhaban", "title": "Walk past Tarash Bhaban", "category": "place", "detail": "A 19th-century zamindar mansion on Hamid Road, a relic of Pabna's landed past in the heart of the town.", "whereOrHow": "Hamid Road, Pabna town" },
+    { "id": "pabna-suchitra-sen", "title": "Visit Suchitra Sen's memorial home", "category": "experience", "detail": "The childhood family home of the legendary actress, kept as a modest memorial on Hem Sagar Lane.", "whereOrHow": "Hem Sagar Lane, Pabna town" },
+    { "id": "pabna-chatmohar-mosque", "title": "See the 1582 Chatmohar Shahi Mosque", "category": "place", "detail": "A three-domed Mughal mosque of thin jafari bricks — among the oldest surviving Mughal monuments in the region.", "whereOrHow": "Chatmohar upazila" },
+    { "id": "pabna-gawa-ghee", "title": "Taste real Pabnar gawa ghee", "category": "food", "detail": "Deep-gold clarified butter slow-cooked over wood fires — Pabna's most famous flavour, bought straight from the town's ghee shops.", "whereOrHow": "Ghee shops, Pabna town" },
+    { "id": "pabna-handloom-sari", "title": "Buy a Pabna handloom sari", "category": "food", "detail": "Cotton woven on handlooms in a tradition reaching back to Mughal times — bought near the weaving villages.", "whereOrHow": "Handloom villages and town markets" },
+    { "id": "pabna-ishwardi-mango", "title": "Eat Ishwardi mango in season", "category": "food", "detail": "Sweet summer mangoes from the orchards of Ishwardi, in the greater Rajshahi mango belt.", "whereOrHow": "Ishwardi markets", "bestTime": "Summer (May–July)" },
+    { "id": "pabna-kazirhat-ferry", "title": "Cross the Padma from Kazirhat", "category": "experience", "detail": "Take the ferry or launch across the great river from Pabna's main Padma ghat at Kazirhat.", "whereOrHow": "Kazirhat ferry ghat" },
+    { "id": "pabna-ishwardi-junction", "title": "Pass through Ishwardi Junction", "category": "experience", "detail": "One of the largest railway junctions in the country and Pabna's gateway to the national rail network.", "whereOrHow": "Ishwardi" },
+    { "id": "pabna-old-town-walk", "title": "Wander old Pabna town", "category": "moment", "detail": "Stitch together Tarash Bhaban, the Suchitra Sen home and the riverside lanes on an unhurried heritage walk.", "whereOrHow": "Central Pabna town" }
+  ],
+  "foods": [
+    { "name": "Gawa Ghee", "description": "Pabna's celebrated clarified butter, slow-simmered over wood fires to a deep gold — fragrant enough to be eaten simply over hot rice.", "whereToFind": "Ghee shops in Pabna town" },
+    { "name": "Ishwardi Mango", "description": "Sweet seasonal mangoes from the orchards of Ishwardi in the greater Rajshahi mango belt.", "whereToFind": "Ishwardi orchards and summer markets" },
+    { "name": "Padma River Fish", "description": "Freshwater fish from the Padma — including hilsa in season — fried fresh or in light curries at riverside eateries.", "whereToFind": "Paksey and Kazirhat riverside" },
+    { "name": "Khejur Gur", "description": "Date-palm jaggery from the winter harvest, used in the season's sweets and eaten with pithas across the region.", "whereToFind": "Winter village markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Bande Ali Mia",
+      "knownFor": "Beloved poet, lyricist, novelist and children's writer, born at Radhanagar in Pabna; author of some eighty books and recipient of the Bangla Academy Award (1962) and Ekushey Padak (1988).",
+      "era": "1906 – 1979"
+    },
+    {
+      "name": "Suchitra Sen",
+      "knownFor": "One of the greatest stars of Bengali (and Hindi) cinema — Devdas, Saat Pake Bandha, Aandhi — and the first Indian actress to win an international acting prize, at the 1963 Moscow Film Festival. Her ancestral family home, where she grew up, is in Pabna town.",
+      "era": "1931 – 2014"
+    }
+  ],
+  "didYouKnow": [
+    "The Pabna Mental Hospital at Hemayetpur, founded in 1957, is the only government-run mental hospital in all of Bangladesh.",
+    "Hardinge Bridge, the ~1.8 km steel railway bridge over the Padma at Paksey, was engineered in England, completed in 1912 and formally opened by Viceroy Lord Hardinge in 1915.",
+    "Bangladesh's first nuclear power plant is being built at Rooppur in Pabna's Ishwardi upazila — the site was first chosen back in 1963.",
+    "The legendary actress Suchitra Sen grew up in Pabna town, and her ancestral home there is now kept as a memorial.",
+    "Pabna's handloom saris trace back to the Mughal era, and the Chatmohar Shahi Mosque of 1582 is among the oldest surviving Mughal monuments in the region."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Pabna Sadar (Kotwali) Police Station", "phone": "—" },
+      { "name": "Ishwardi Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Pabna General Hospital", "phone": "—" },
+      { "name": "Pabna Mental Hospital, Hemayetpur", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
