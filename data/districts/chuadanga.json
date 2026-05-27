@@ -1,0 +1,249 @@
+{
+  "name": "Chuadanga",
+  "division": "Khulna",
+  "tagline": "The far-southwest border country — Asia's old sugar town, indigo ruins, and the Liberation War's first capital.",
+  "stats": {
+    "area": "1174.10 sq km",
+    "population": "1,234,054",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry; date-palm gur season)",
+    "gettingThere": "By rail on the Khulna–Poradaha line (Chuadanga and Darshana stations) or by road from Dhaka (~250 km). Darshana, on the India border, is where the country's first railway line was begun and where the Maitree Express crosses.",
+    "difficulty": "Easy — the town, sugar mill and border sites are simple day trips; Carew & Co. needs prior permission for the distillery."
+  },
+  "mustVisit": [
+    {
+      "name": "Carew & Co. (Keru & Co.) Sugar Mill & Distillery",
+      "type": "landmark",
+      "description": "A sprawling colonial-era industrial estate at Darshana — the country's largest sugar mill and its only distillery, set among hundreds of acres of cane fields, with an old two-storey guest house that draws picnic-goers.",
+      "history": "Established in 1938 as one of the largest sugar mills in Asia, on roughly 300 bighas at Darshana in Damurhuda. Beyond sugar it produces vinegar, spirit and organic fertiliser, and remains the only spirit-producing plant in Bangladesh.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5300, 88.7800],
+      "practical": {
+        "hours": "Grounds open by day; the distillery section requires prior permission",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 21 km from Chuadanga town at Darshana, Damurhuda Upazila",
+        "distanceKm": 21,
+        "transport": "Train or bus to Darshana, then a short ride to the mill"
+      },
+      "bestTime": "Cool months; the cane-crushing season runs through winter",
+      "tips": [
+        "Arrange permission in advance to enter the distillery section",
+        "The guest-house grounds are a popular picnic spot — go on a weekday for quiet"
+      ]
+    },
+    {
+      "name": "Darshana (Border Town & Railway Junction)",
+      "type": "landmark",
+      "description": "A historic border town on the India frontier — site of one of the country's oldest railway stations, the Darshana land port, and the Darshana–Gede crossing where the Maitree Express passes between Dhaka and Kolkata.",
+      "history": "Work on the country's first railway line was begun at Darshana in 1862. Today it is a designated land port for trade with India through the Darshana–Gede border, and an international rail crossing.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5200, 88.7700],
+      "practical": {
+        "hours": "Station and town accessible by day; the border itself requires valid documents",
+        "entryFee": "Free to visit the town; crossing needs a passport and Indian visa",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 21 km southwest of Chuadanga town in Damurhuda Upazila",
+        "distanceKm": 21,
+        "transport": "Train or bus from Chuadanga to Darshana"
+      },
+      "bestTime": "Cool months",
+      "tips": [
+        "Photography of border-fence infrastructure is restricted",
+        "Combine with Carew & Co. — both are at Darshana"
+      ]
+    },
+    {
+      "name": "Thakurpur Jame Masjid",
+      "type": "religious",
+      "description": "An old, much-revered mosque-and-khanka at Thakurpur just outside Chuadanga town, grown around the shrine of a Sufi who settled here to spread Islam. A living pilgrimage site for over three centuries.",
+      "history": "Local tradition traces the site to 1698, when a Sufi named Afu Shah came from West Bengal and established a khanka at Thakurpur; the mosque grew around it and has been rebuilt and extended over the generations.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6500, 88.8600],
+      "practical": {
+        "hours": "Open around the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 2 km from Chuadanga town on the Chuadanga–Jhenaidah road",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG from town"
+      },
+      "bestTime": "Late afternoon; busiest on Fridays",
+      "tips": [
+        "Cover head if female; remove shoes before entering",
+        "Avoid Friday noon prayers unless you intend to pray"
+      ]
+    },
+    {
+      "name": "Karpasdanga Neelkuthi",
+      "type": "heritage",
+      "description": "The brick ruins of a colonial indigo-planter's bungalow (neelkuthi) at Karpasdanga on the Mathabhanga river — a quiet relic of the indigo (nil) era that scarred this region in the 19th century.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1609173225619-5acd7d6c4d3f?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5500, 88.7000],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km from Chuadanga town at Karpasdanga in Damurhuda Upazila",
+        "distanceKm": 25,
+        "transport": "Bus or CNG toward Karpasdanga"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "The brickwork is fragile — do not climb",
+        "Combine with a walk along the Mathabhanga river"
+      ]
+    },
+    {
+      "name": "Mehrun Children's Park & Mini Zoo",
+      "type": "landmark",
+      "description": "A large family park and mini-zoo at Ibrahimpur in Damurhuda, set across some 60 bighas — the district's main modern leisure spot, busy with families on holidays.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5500, 88.8000],
+      "practical": {
+        "hours": "—",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 15 km from Chuadanga town at Ibrahimpur, Damurhuda Upazila",
+        "distanceKm": 15,
+        "transport": "Bus or CNG from Chuadanga town"
+      },
+      "bestTime": "Cool months; weekdays are quietest",
+      "tips": [
+        "Busy on Fridays and holidays — go early on a weekday"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Khejur Patali Gur",
+      "description": "Date-palm jaggery from the winter sap harvest — Chuadanga and its neighbours are date-palm country, and the dark, fragrant patali gur is the season's prized product.",
+      "venue": "Winter rural haats, December–February"
+    },
+    {
+      "type": "craft",
+      "name": "Carew & Co. Products",
+      "description": "Sugar, vinegar and spirit from the historic Darshana mill — the output of the country's only distillery, sold under the Keru/Carew name.",
+      "venue": "Carew & Co., Darshana"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Carew & Co. (1938), Darshana",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5300, 88.7800]
+    },
+    {
+      "name": "Thakurpur Jame Masjid",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6500, 88.8600]
+    },
+    {
+      "name": "Karpasdanga Neelkuthi",
+      "image": "https://images.unsplash.com/photo-1609173225619-5acd7d6c4d3f?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5500, 88.7000]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-chuadanga?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Chuadanga&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (e-Ticket)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Chuadanga&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Chuadanga&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Chuadanga&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "chuadanga-carew", "title": "Tour the Carew & Co. sugar estate", "category": "experience", "detail": "The country's largest sugar mill and only distillery, set among hundreds of acres of cane at Darshana. The old guest-house grounds are a favourite picnic spot.", "whereOrHow": "Darshana, Damurhuda", "bestTime": "Winter crushing season" },
+    { "id": "chuadanga-darshana-border", "title": "Stand at Darshana, where the rails cross into India", "category": "moment", "detail": "Work on the country's first railway line began here in 1862; today the Maitree Express crosses the Darshana–Gede border on its way between Dhaka and Kolkata.", "whereOrHow": "Darshana railway junction", "bestTime": "Cool months" },
+    { "id": "chuadanga-thakurpur", "title": "Visit the Thakurpur Jame Masjid", "category": "place", "detail": "A revered old mosque-and-khanka just outside town, grown around the shrine of a Sufi who settled here over three centuries ago.", "whereOrHow": "Thakurpur, ~2 km from town", "bestTime": "Late afternoon" },
+    { "id": "chuadanga-neelkuthi", "title": "Walk the indigo ruins at Karpasdanga", "category": "place", "detail": "The brick shell of a colonial indigo-planter's bungalow on the Mathabhanga — a quiet relic of the brutal 19th-century nil trade.", "whereOrHow": "Karpasdanga, Damurhuda" },
+    { "id": "chuadanga-patali-gur", "title": "Taste fresh khejur patali gur in winter", "category": "food", "detail": "Chuadanga is date-palm country. In the cold months the sap is boiled down to dark, fragrant patali gur — buy it fresh at a rural haat.", "whereOrHow": "Winter rural haats", "bestTime": "December–February" },
+    { "id": "chuadanga-1971-capital", "title": "Recall Chuadanga's days as the war's first capital", "category": "moment", "detail": "In the opening weeks of 1971, Chuadanga Sadar was designated the provisional capital of independent Bangladesh before the seat shifted across to Mujibnagar.", "whereOrHow": "Chuadanga town" },
+    { "id": "chuadanga-mehrun-park", "title": "Spend an afternoon at Mehrun Children's Park", "category": "place", "detail": "The district's main family park and mini-zoo at Ibrahimpur — gardens and rides across some 60 bighas.", "whereOrHow": "Ibrahimpur, Damurhuda" },
+    { "id": "chuadanga-keru-products", "title": "Pick up Keru sugar and vinegar at the source", "category": "food", "detail": "Products of the country's only distillery — sugar, vinegar and more under the Keru/Carew name, made right at Darshana.", "whereOrHow": "Carew & Co., Darshana" },
+    { "id": "chuadanga-natudaha", "title": "Pay respects at a 1971 mass-grave memorial", "category": "moment", "detail": "Sites near Natudaha, Dhopakhali and the GK Canal hold mass graves from the Liberation War — sombre places of remembrance off the usual trail.", "whereOrHow": "Natudaha / Dhopakhali" },
+    { "id": "chuadanga-gur-pitha", "title": "Eat winter pithas made with date-palm gur", "category": "food", "detail": "The season's gur sweetens a spread of rice-flour pithas — at their best fresh from a winter-morning stall.", "whereOrHow": "Winter pitha stalls", "bestTime": "December–February" }
+  ],
+  "foods": [
+    { "name": "Khejur Patali Gur", "description": "Dark, fragrant date-palm jaggery from the winter sap harvest — Chuadanga is prime date-palm country.", "whereToFind": "Winter rural haats, December–February" },
+    { "name": "Gur-er Pitha", "description": "Winter rice-flour pithas sweetened with the season's fresh date-palm gur.", "whereToFind": "Winter pitha stalls & home kitchens" },
+    { "name": "Carew & Co. Sugar & Vinegar", "description": "Sugar and vinegar from the historic Darshana mill — products of the country's only distillery.", "whereToFind": "Carew & Co., Darshana" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Tina Khan",
+      "knownFor": "Film actress and producer of the 1980s Bangladeshi cinema, born in Chuadanga.",
+      "era": "born 1966"
+    }
+  ],
+  "didYouKnow": [
+    "In the opening weeks of the 1971 Liberation War, Chuadanga Sadar was designated the provisional capital of independent Bangladesh before the seat shifted to Mujibnagar.",
+    "Carew & Co. at Darshana, established in 1938, was one of the largest sugar mills in Asia and is still the only distillery in Bangladesh.",
+    "Work on the country's first railway line was begun at Darshana in 1862; the town remains an international rail and land-port crossing with India.",
+    "Chuadanga is date-palm country — its winter khejur patali gur is among the most prized date-palm jaggery in the region.",
+    "Chuadanga frequently records some of the highest summer temperatures in Bangladesh.",
+    "The brick ruins of indigo-planters' bungalows, like the Karpasdanga Neelkuthi, survive from the 19th-century indigo (nil) trade that gripped this region."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Chuadanga Sadar Thana", "phone": "—" },
+      { "name": "Damurhuda Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Chuadanga Sadar Hospital", "phone": "—" },
+      { "name": "Damurhuda Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
