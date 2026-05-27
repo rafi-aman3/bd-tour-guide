@@ -1,0 +1,289 @@
+{
+  "name": "Sherpur",
+  "division": "Mymensingh",
+  "tagline": "Where the plains rise into the Garo Hills — sal forests, border ridges, and two foods the country gave a GI name.",
+  "stats": {
+    "area": "1,364.67 sq km",
+    "population": "1,501,853",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to February (cool, dry, clear hill views). The monsoon greens the hills but turns the forest trails slippery.",
+    "gettingThere": "By road from Dhaka (~210 km) via Mymensingh; coaches take ~5–6 hr. The hill sites are 25–45 km north of Sherpur town near the Indian border. Nearest railhead and airport are at Mymensingh / Dhaka.",
+    "difficulty": "Easy to moderate — town sites are simple; the hill spots (Gajni, Madhutila, Panihata) sit on the border belt and are best reached by hired CNG or microbus."
+  },
+  "mustVisit": [
+    {
+      "name": "Gajni Obokash Kendro",
+      "type": "nature",
+      "description": "Sherpur's best-loved getaway — a hilly recreation spot at the very foot of the Garo Hills in Jhenaigati, with rows of sal and gajari forest, a lake you can boat on, and a small waterfall.",
+      "history": "Developed as a recreation centre (obokash kendro) on the undulating land where the plains meet the Garo Hills along the Indian border. The gajari (sal) and teak forest, lake and birdlife make it the district's signature day trip.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1800, 90.2000],
+      "practical": {
+        "hours": "Daylight hours; best in the cool, dry months",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km north of Sherpur town, in Jhenaigati Upazila near the border",
+        "distanceKm": 35,
+        "transport": "Hired CNG / microbus from Sherpur town via Jhenaigati"
+      },
+      "bestTime": "Cool months; mornings for boating and birds",
+      "tips": [
+        "Carry your NID — the spot sits close to the international border",
+        "Weekends and holidays get crowded; go on a weekday for quiet",
+        "Stalls are limited — bring water and snacks"
+      ]
+    },
+    {
+      "name": "Madhutila Eco Park",
+      "type": "nature",
+      "description": "A 380-acre forest park at the foot of the Garo hills in Nalitabari — shaded paths, ponds, a lake, an observation tower, and a celebrated collection of orchid varieties.",
+      "history": "Set up in 1999 within the Madhutila forest range along the Indo-Bangladesh border. The park combines manicured grounds and lakes with surviving hill forest, and its hilltop observation tower looks out over the border country.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2000, 90.3000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 40 km north-east of Sherpur town, in Nalitabari Upazila",
+        "distanceKm": 40,
+        "transport": "Hired CNG / microbus via Nalitabari"
+      },
+      "bestTime": "Cool months; climb the tower on a clear day",
+      "tips": [
+        "Wear shoes you can walk the forest paths in",
+        "The observation tower gives the best border-and-hills view"
+      ]
+    },
+    {
+      "name": "Panihata-Tarani Hill",
+      "type": "nature",
+      "description": "Rows of hills around Panihata and Tarani villages in the Ramchandrakura area, with a clear hill stream and a long-standing Christian mission — a quieter, wilder alternative to Gajni.",
+      "history": "About 25 km from Sherpur town in the border belt, Panihata grew around the Panihata Padri (Christian) Mission, which still runs a chapel, a small medical centre, a school and a student hostel beside the river that flows down from the hills.",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2200, 90.3500],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km from Sherpur town, in the Ramchandrakura area, Nalitabari",
+        "distanceKm": 25,
+        "transport": "Hired CNG / microbus from town"
+      },
+      "bestTime": "Cool months; midday water levels are lowest for wading the stream",
+      "tips": [
+        "Respect the mission grounds and the worshippers there",
+        "Carry your NID for the border belt"
+      ]
+    },
+    {
+      "name": "Pone Tin Ani Zamindar Bari",
+      "type": "heritage",
+      "description": "A striking Greek-influenced zamindar mansion in Sherpur town — the home of the Chowdhury landlords, set apart by its ornamented pillars, lime-thread detailing and a fine family temple.",
+      "history": "Built as the residence of zamindars Satendra Mohan Chowdhury and Gyanendra Mohan Chowdhury. Its European architectural flourishes — columns, mouldings and decorative lime work — make it one of the most distinctive landlord houses in the region.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0200, 90.0150],
+      "practical": {
+        "hours": "Open during daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Sherpur town",
+        "distanceKm": 2,
+        "transport": "Rickshaw / easybike within town"
+      },
+      "bestTime": "Morning light for the façade",
+      "tips": [
+        "Parts are old and fragile — admire from the courtyard rather than climbing",
+        "Combine with a Ghosh Patti sweet stop nearby"
+      ]
+    },
+    {
+      "name": "Ghagra Khan Jame Mosque",
+      "type": "religious",
+      "description": "An old mosque in the Ghagra area of Jhenaigati, raised in the time of the local ruler Khan and still in active use — a modest but historic stop on the way to the hills.",
+      "history": "Associated with the era of Ghagra Khan, after whom the village is named. It survives as a working neighbourhood mosque and a marker of the area's older Muslim settlement.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1500, 90.1500],
+      "practical": {
+        "hours": "Open during the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Ghagra, Jhenaigati Upazila, on the road toward Gajni",
+        "distanceKm": 28,
+        "transport": "CNG / microbus via Jhenaigati"
+      },
+      "bestTime": "Outside Friday noon prayers",
+      "tips": [
+        "Cover head if female; remove shoes before entering",
+        "Pair with a Gajni day trip — it is on the way"
+      ]
+    },
+    {
+      "name": "Garo Hills Indigenous Belt",
+      "type": "culture",
+      "description": "The hill villages of northern Sherpur are home to Garo, Koch and Hajong communities — small churches, weekly haats and a culture distinct from the plains, set against the Meghalaya border.",
+      "history": "The border uplands of Jhenaigati and Nalitabari have long been home to indigenous peoples, and the area was a centre of the Tonko, Tebhaga and Hajong peasant movements of the mid-20th century. Garo communities here keep their harvest traditions alive.",
+      "image": "https://images.unsplash.com/photo-1504457047772-27faf1c00561?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2000, 90.2500],
+      "practical": {
+        "hours": "Daytime; respect village and church schedules",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Across the northern hill belt of Jhenaigati and Nalitabari, ~30–45 km from town",
+        "distanceKm": 35,
+        "transport": "Hired CNG / microbus; a local guide helps"
+      },
+      "bestTime": "Harvest season for festivals; cool months otherwise",
+      "tips": [
+        "Ask before photographing people and homes",
+        "Go with a local contact to visit respectfully",
+        "Buy from village haats to support the community"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Tulshimala Rice",
+      "description": "A fine, dark-grained aromatic rice grown only in Sherpur for over a century — locally called 'Jamai Aduri' and now a Geographical Indication product. Prized for polao, payesh and pitha.",
+      "venue": "Sherpur town rice markets and local growers"
+    },
+    {
+      "type": "food",
+      "name": "Chhanar Payesh",
+      "description": "Sherpur's century-old GI sweet — small chhana (curd) balls cooked in thickened milk, first crafted by the sweet-makers of Ghosh Patti in the British era and famous as far as Kolkata.",
+      "venue": "Ghosh Patti sweet shops, Sherpur town"
+    },
+    {
+      "type": "festival",
+      "name": "Wangala (Garo Harvest Festival)",
+      "description": "The post-harvest thanksgiving festival of the Garo community, celebrated with drums, dance and feasting in the indigenous villages of the northern hill belt.",
+      "timing": "Post-harvest, late autumn (varies by village)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Pone Tin Ani Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0200, 90.0150]
+    },
+    {
+      "name": "Ghagra Khan Jame Mosque",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1500, 90.1500]
+    },
+    {
+      "name": "Panihata Padri Mission",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2200, 90.3500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-sherpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Sherpur&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Sherpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Sherpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "sherpur-gajni-hills", "title": "Stand at the foot of the Garo Hills at Gajni", "category": "moment", "detail": "The plains end and the hills begin at Gajni — sal forest, a lake to boat on, and Meghalaya rising green just across the border.", "whereOrHow": "Gajni Obokash Kendro, Jhenaigati", "bestTime": "Cool months, morning" },
+    { "id": "sherpur-gajni-boat", "title": "Boat on the Gajni lake and find the waterfall", "category": "experience", "detail": "Hire a paddle boat on the lake, then walk to the small seasonal waterfall in the surrounding forest.", "whereOrHow": "Gajni Obokash Kendro, Jhenaigati" },
+    { "id": "sherpur-madhutila-orchids", "title": "Wander the orchid paths of Madhutila Eco Park", "category": "place", "detail": "Shaded forest walks, ponds and a celebrated orchid collection across 380 acres at the foot of the hills.", "whereOrHow": "Madhutila Eco Park, Nalitabari" },
+    { "id": "sherpur-madhutila-tower", "title": "Climb the Madhutila observation tower", "category": "moment", "detail": "On a clear day the tower looks out over the forest and the border hills beyond.", "whereOrHow": "Madhutila Eco Park, Nalitabari", "bestTime": "Clear cool-season day" },
+    { "id": "sherpur-panihata", "title": "Trek the Panihata-Tarani hills along the stream", "category": "experience", "detail": "A quieter, wilder hill spot 25 km out, with a clear stream coming down from the border ridges.", "whereOrHow": "Ramchandrakura area, Nalitabari" },
+    { "id": "sherpur-panihata-mission", "title": "Visit the Panihata Padri Mission", "category": "place", "detail": "The old Christian mission by the river runs a chapel, a school and a small medical centre — the heart of the hill community here.", "whereOrHow": "Panihata, Nalitabari" },
+    { "id": "sherpur-tulshimala", "title": "Eat polao made with Tulshimala rice", "category": "food", "detail": "Sherpur's GI-tagged aromatic rice — fine, fragrant and grown nowhere else. Best in a simple polao or a payesh.", "whereOrHow": "Sherpur town restaurants and home kitchens" },
+    { "id": "sherpur-chhanar-payesh", "title": "Try Chhanar Payesh in Ghosh Patti where it was born", "category": "food", "detail": "Curd balls in thickened milk — a century-old GI sweet first made by the confectioners of Ghosh Patti and once famous in Kolkata.", "whereOrHow": "Ghosh Patti sweet shops, Sherpur town" },
+    { "id": "sherpur-zamindar-bari", "title": "See the Greek-style Pone Tin Ani Zamindar Bari", "category": "place", "detail": "A landlord's mansion with European columns, mouldings and a fine family temple — unusual among Bengal zamindar houses.", "whereOrHow": "Sherpur town" },
+    { "id": "sherpur-garo-village", "title": "Visit a Garo or Koch village in the hill belt", "category": "experience", "detail": "The northern hills are home to indigenous communities with their own language, churches and weekly haats — a different Bangladesh.", "whereOrHow": "Jhenaigati / Nalitabari hill villages" },
+    { "id": "sherpur-wangala", "title": "Catch a Wangala harvest festival if you time it right", "category": "experience", "detail": "The Garo post-harvest festival fills the hill villages with drums, dance and feasting in late autumn.", "whereOrHow": "Garo villages, northern Sherpur", "bestTime": "Post-harvest, late autumn" },
+    { "id": "sherpur-rice-haul", "title": "Carry home a sack of Tulshimala rice", "category": "food", "detail": "Buy the aromatic GI rice straight from a Sherpur market — it travels well and turns any meal at home into a memory of the hills.", "whereOrHow": "Sherpur town rice markets" }
+  ],
+  "foods": [
+    { "name": "Tulshimala Rice", "description": "Fine, dark-grained aromatic rice unique to Sherpur and over a century old — a GI product, ideal for polao, payesh and pitha.", "whereToFind": "Sherpur town rice markets and growers" },
+    { "name": "Chhanar Payesh", "description": "GI-tagged sweet of curd balls cooked in thickened milk, originated by the Ghosh Patti confectioners in the British era.", "whereToFind": "Ghosh Patti sweet shops, Sherpur town" },
+    { "name": "Tulshimala Polao", "description": "Festive polao cooked from the fragrant local rice — the way Sherpur households show off the harvest.", "whereToFind": "Town restaurants and home kitchens" },
+    { "name": "Tulshimala Payesh", "description": "Rice pudding made with the aromatic Tulshimala grain — denser-scented than ordinary kheer.", "whereToFind": "Sweet shops and homes, festival season" },
+    { "name": "Hill-Stream River Fish", "description": "Small freshwater fish from the Bhogai, Someshwari and Chilakhali, cooked in light home-style curries.", "whereToFind": "Local rice-meal canteens, Sadar and the hill upazilas" },
+    { "name": "Garo Bamboo-Shoot Dishes", "description": "Indigenous Garo cooking of the hill belt makes much of fresh bamboo shoot and forest greens.", "whereToFind": "Garo villages and homestays, Jhenaigati / Nalitabari" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Abdullah Al Mamun",
+      "knownFor": "Leading Bangladeshi playwright, actor and filmmaker of the modern theatre movement; winner of the Bangla Academy Award and Ekushey Padak. His ancestral home is in Sreebardi, Sherpur.",
+      "era": "1942 – 2008"
+    },
+    {
+      "name": "Rabi Niyogi",
+      "knownFor": "Communist leader and freedom fighter, a key organiser of the Tonko, Tebhaga, Nankar and Hajong peasant movements who spent some 34 years in prison. Born in Sherpur, where he also died.",
+      "era": "1910 – 2002"
+    }
+  ],
+  "didYouKnow": [
+    "Sherpur sits against the Garo Hills on the Meghalaya (India) border — it is widely known as the district of the Garo hills.",
+    "Two of Sherpur's products carry Geographical Indication tags: Tulshimala aromatic rice and Chhanar Payesh, which became the country's 44th GI product (recognised December 2023).",
+    "Chhanar Payesh was first crafted by the sweet-makers of Ghosh Patti in Sherpur town during the British era and grew famous as far away as Kolkata.",
+    "Madhutila Eco Park spreads over about 380 acres of border-belt forest at the foot of the Garo hills and was opened in 1999.",
+    "Sherpur was a sub-division of Jamalpur until it became a district in 1984, and was a hotbed of the mid-20th-century Tonko, Tebhaga and Hajong peasant movements."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Sherpur Sadar Police Station", "phone": "—" },
+      { "name": "Nalitabari Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Sherpur District Hospital (Sadar)", "phone": "—" },
+      { "name": "Jhenaigati Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
