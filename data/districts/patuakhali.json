@@ -1,0 +1,312 @@
+{
+  "name": "Patuakhali",
+  "division": "Barisal",
+  "tagline": "Sagar Kanya, the Daughter of the Sea — Kuakata's long beach where the sun both rises and sets over the Bay, the Rakhine settlers' wells and golden Buddhas, and the 'second Sundarban' at Fatrar Char.",
+  "stats": {
+    "area": "3,221.31 sq km",
+    "population": "1,727,254",
+    "established": "1969",
+    "attractions": "7+"
+  },
+  "guide": {
+    "bestTime": "October to March — dry, cool weather with calm seas, the best season for Kuakata's beaches and the boat trips to Fatrar Char and Crab Island.",
+    "gettingThere": "Since the Padma Bridge opened in 2022, direct buses run Dhaka–Kuakata (via Bhanga and Patuakhali, ~6–7 hr). Overnight launches still sail Dhaka–Patuakhali on the rivers, though far fewer than before the bridge. There is no railway, and no operational airport (one near Kuakata is only proposed).",
+    "difficulty": "Easy along the Kuakata beach front and the temples; moderate for the boat trips west to Fatrar Char and east to Lebur Char and Crab Island, which depend on tide and season."
+  },
+  "mustVisit": [
+    {
+      "name": "Kuakata Sea Beach",
+      "type": "nature",
+      "description": "The 'Daughter of the Sea' — an 18 km sweep of sand on the Bay of Bengal, and one of the rare beaches anywhere where you can watch both the sunrise and the sunset over the water from the same shore.",
+      "history": "Kuakata, in Kalapara upazila, has long been a place of pilgrimage and fishing, and is now Bangladesh's second great sea-beach destination after Cox's Bazar. Its nickname, 'Sagar Kanya', means Daughter of the Sea.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8200, 90.1200],
+      "practical": {
+        "hours": "Open all day; sunrise and sunset are the highlights",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "~70 km south of Patuakhali town, Kalapara upazila",
+        "distanceKm": 70,
+        "transport": "Direct bus from Dhaka/Patuakhali, or local transport from Kalapara"
+      },
+      "bestTime": "Cool, dry months; be on the sand for both sunrise and sunset",
+      "tips": [
+        "Catch sunrise from the eastern (Gangamati) end and sunset from the west",
+        "Swim with care and mind the tides",
+        "Motorbikes and tour jeeps run along the sand to the nearby spots"
+      ]
+    },
+    {
+      "name": "Seema Buddhist Vihara & the Rakhine Para",
+      "type": "religious",
+      "description": "The Buddhist temple by the beach — home to a meditating Buddha cast in eight-metal alloy and an old bell — at the heart of the Rakhine settlement whose people first gave Kuakata its name.",
+      "history": "Rakhine (Arakan-origin) Buddhists settled this coast in the late 18th century, digging the wells that named Kuakata. Their Seema Vihara keeps a large Ashtadhatu (eight-metal) Buddha image, and the Rakhine para around it still weaves cloth and keeps the community's traditions.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8230, 90.1180],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Kuakata, near the beach",
+        "distanceKm": 70,
+        "transport": "Walk or rickshaw within Kuakata"
+      },
+      "bestTime": "Daytime; Buddhist festivals for the community at worship",
+      "tips": [
+        "Dress modestly and remove shoes in the shrine",
+        "The Rakhine market nearby sells handwoven cloth and local food"
+      ]
+    },
+    {
+      "name": "Misripara Seema Buddha Bihar",
+      "type": "religious",
+      "description": "A Rakhine Buddhist temple a few kilometres east of the beach, known for its great seated Buddha statue — said to be one of the largest Buddha images in the country.",
+      "history": "Misripara, in Latachapli union of Kalapara, is another centre of the coast's Rakhine Buddhist community; its temple draws visitors for the scale and serenity of its Buddha image.",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8400, 90.1500],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Misripara, ~4 km east of Kuakata beach",
+        "distanceKm": 74,
+        "transport": "Motorbike, auto or jeep from Kuakata"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Be respectful and quiet — it is an active temple",
+        "Easy to combine with a beach-side ride to the eastern spots"
+      ]
+    },
+    {
+      "name": "Gangamati Reserved Forest",
+      "type": "nature",
+      "description": "The forested eastern end of Kuakata beach — a reserved forest of jhau (casuarina) and a coconut grove where the sand meets the trees, and the best spot for sunrise.",
+      "history": "The Gangamati reserve shelters the eastern shore, its jhau plantation and coconut grove giving Kuakata a green edge and a quieter, wilder feel away from the main beach front.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8300, 90.1600],
+      "practical": {
+        "hours": "Daylight; go early for sunrise",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Eastern end of Kuakata beach, ~19 km along the sand",
+        "distanceKm": 75,
+        "transport": "Motorbike or jeep along the beach from Kuakata"
+      },
+      "bestTime": "Dawn, for sunrise over the sea and forest",
+      "tips": [
+        "Time it for sunrise — this is the eastern viewpoint",
+        "Combine with the beach ride to Lebur Char nearby"
+      ]
+    },
+    {
+      "name": "Fatrar Char (The 'Second Sundarban')",
+      "type": "nature",
+      "description": "A protected mangrove forest across the water west of Kuakata — a small, wild echo of the Sundarbans, reached by an hour's boat ride through the channels.",
+      "history": "Fatrar Char is a mangrove reserve on the western side of Kuakata, rich in the trees and creeks of the tidal forest; locals call it the 'second Sundarban' for its likeness to the great forest to the west.",
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8200, 90.0500],
+      "practical": {
+        "hours": "Daytime boat trips",
+        "entryFee": "Boat hire by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "West of Kuakata, ~1 hr by engine boat",
+        "distanceKm": 80,
+        "transport": "Engine boat from Kuakata"
+      },
+      "bestTime": "Cool, dry months for comfortable boating",
+      "tips": [
+        "Agree the boat fare and route before setting off",
+        "Carry water, sun protection and insect repellent"
+      ]
+    },
+    {
+      "name": "Lebur Char & Crab Island",
+      "type": "nature",
+      "description": "The wild eastern reaches beyond Kuakata — Lebur Char's mangrove edge and, further out, Crab Island (Chor Bijoy), where red crabs scuttle across the sand in their thousands.",
+      "history": "These chars and islands east of Kuakata are reached along the beach and by speedboat. Crab Island earns its name from the swarms of red crabs that cover the sand, best seen in the cooler, drier months.",
+      "image": "https://images.unsplash.com/photo-1471922694854-ff1b63b20054?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8350, 90.1700],
+      "practical": {
+        "hours": "Daytime; Crab Island is seasonal (roughly Oct–Mar)",
+        "entryFee": "Boat/speedboat hire by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "East of Kuakata; Lebur Char ~5 km, Crab Island further by speedboat",
+        "distanceKm": 75,
+        "transport": "Motorbike/jeep along the beach, then speedboat"
+      },
+      "bestTime": "Cool, dry months for the crabs and calm water",
+      "tips": [
+        "Go at low tide and in season for the red crabs",
+        "Combine with sunrise at Gangamati nearby"
+      ]
+    },
+    {
+      "name": "Payra Port",
+      "type": "landmark",
+      "description": "Bangladesh's third seaport, on the Ramnabad channel in Kalapara — a modern deep-water harbour that has reshaped the economy of this once-remote coast.",
+      "history": "Inaugurated in 2013 and operational from 2016, Payra became the country's third seaport after Chattogram and Mongla, handling cargo through a dredged channel to the Bay of Bengal.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9800, 90.2800],
+      "practical": {
+        "hours": "A working port — view from public approaches",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kalapara upazila, on the Ramnabad channel",
+        "distanceKm": 60,
+        "transport": "Bus or car toward Kalapara"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "It is a working port — do not enter restricted areas",
+        "Of interest for the scale of the new coastal infrastructure"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Kuakata Shutki (Dried Fish)",
+      "description": "Through the cool months, Kuakata's 'Shutki Polli' (dried-fish village) sun-dries the day's catch on long racks — loitta (Bombay duck), chapila, churi, shrimp and pomfret — to be cooked into the coast's pungent shutki dishes.",
+      "venue": "Kuakata Shutki Polli and local kitchens"
+    },
+    {
+      "type": "food",
+      "name": "Rakhine Cuisine",
+      "description": "The Rakhine community's cooking — fish curries heavy with traditional spices, sticky rice and nappi (fermented fish/shrimp paste) — served around the Kuakata Rakhine market.",
+      "venue": "Rakhine para and market, Kuakata"
+    },
+    {
+      "type": "craft",
+      "name": "Rakhine Handloom",
+      "description": "The Rakhine women of the Kuakata settlement weave bright cloth on handlooms — sold at the Rakhine market beside the beach.",
+      "venue": "Rakhine market, Kuakata"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Seema Buddhist Vihara, Kuakata",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8230, 90.1180]
+    },
+    {
+      "name": "Misripara Seema Buddha Bihar",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8400, 90.1500]
+    },
+    {
+      "name": "Kuakata's ancient well ('kua')",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8210, 90.1190]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-patuakhali?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Patuakhali&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-patuakhali?journeyDate={date}" }
+      ],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Kuakata&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Kuakata&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "patuakhali-kuakata-sunrise-sunset", "title": "See sunrise AND sunset over the sea at Kuakata", "category": "moment", "detail": "One of the rare beaches where the sun both rises and sets over the Bay — catch dawn at the eastern end and dusk in the west.", "whereOrHow": "Kuakata beach", "bestTime": "Cool, dry months" },
+    { "id": "patuakhali-kua-well", "title": "Find the ancient well that named Kuakata", "category": "place", "detail": "The 'kua' (well) dug by Rakhine settlers in the late 1700s gave the beach its name — kua + kata, 'the dug well'.", "whereOrHow": "Kuakata" },
+    { "id": "patuakhali-seema-vihara", "title": "See the eight-metal Buddha at the Seema Vihara", "category": "place", "detail": "A meditating Buddha cast in Ashtadhatu alloy and an old bell, in the Rakhine temple by the beach.", "whereOrHow": "Kuakata Rakhine para" },
+    { "id": "patuakhali-misripara", "title": "Visit the great Buddha at Misripara", "category": "place", "detail": "A Rakhine temple east of the beach with one of the largest Buddha images in the country.", "whereOrHow": "Misripara, ~4 km east of Kuakata" },
+    { "id": "patuakhali-fatrar-char", "title": "Boat to Fatrar Char, the 'second Sundarban'", "category": "experience", "detail": "An hour's boat ride west to a wild mangrove forest of trees and tidal creeks.", "whereOrHow": "West of Kuakata, by engine boat" },
+    { "id": "patuakhali-gangamati-sunrise", "title": "Watch sunrise at Gangamati forest", "category": "moment", "detail": "The forested eastern end of the beach — jhau, coconut grove and the morning sun over the sea.", "whereOrHow": "Gangamati, east Kuakata", "bestTime": "Dawn" },
+    { "id": "patuakhali-crab-island", "title": "See the red crabs of Crab Island", "category": "place", "detail": "Chor Bijoy, east of Kuakata, where red crabs cover the sand in their thousands.", "whereOrHow": "East of Kuakata, by speedboat", "bestTime": "Oct–Mar" },
+    { "id": "patuakhali-rakhine-market", "title": "Browse the Kuakata Rakhine market", "category": "experience", "detail": "Handwoven cloth, Rakhine food and the everyday life of the community that named the beach.", "whereOrHow": "Rakhine para, Kuakata" },
+    { "id": "patuakhali-shutki", "title": "Visit the Kuakata dried-fish village", "category": "food", "detail": "The seasonal Shutki Polli, where the day's catch is sun-dried on long racks along the shore.", "whereOrHow": "Kuakata Shutki Polli", "bestTime": "Nov–Mar" },
+    { "id": "patuakhali-seafood", "title": "Eat fresh grilled seafood on the beach", "category": "food", "detail": "Fish, crab and prawns straight off the boats, grilled at the Kuakata beach stalls.", "whereOrHow": "Kuakata beach-front stalls" },
+    { "id": "patuakhali-sonar-char", "title": "Reach Sonar Char in Galachipa", "category": "place", "detail": "A remote char island and sunrise/sunset viewing point out in the district's southern waters.", "whereOrHow": "Galachipa upazila" },
+    { "id": "patuakhali-payra-port", "title": "See the new Payra seaport", "category": "moment", "detail": "Bangladesh's third seaport on the Ramnabad channel — the modern face of this once-remote coast.", "whereOrHow": "Kalapara" }
+  ],
+  "foods": [
+    { "name": "Fresh Bay Seafood", "description": "Fish, crab, prawns and pomfret straight off the boats — grilled or fried at the Kuakata beach stalls.", "whereToFind": "Kuakata beach-front eateries" },
+    { "name": "Shutki (Dried Fish)", "description": "Sun-dried sea fish from Kuakata's Shutki Polli — loitta, chapila, churi and shrimp — cooked into pungent coastal dishes.", "whereToFind": "Kuakata Shutki Polli and local kitchens" },
+    { "name": "Rakhine Cuisine", "description": "The Rakhine community's cooking — spiced fish curries, sticky rice and nappi (fermented fish/shrimp paste).", "whereToFind": "Rakhine para and market, Kuakata" },
+    { "name": "Coconut", "description": "From the groves along the coast — fresh coconut water and coconut in local sweets and dishes.", "whereToFind": "Beach-side stalls and markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Sohag Gazi",
+      "knownFor": "Bangladesh national cricketer and off-spinning all-rounder — famously the first player to score a century and take a hat-trick in the same Test match. He rose from Patuakhali, his family's home district.",
+      "era": "born 1991"
+    },
+    {
+      "name": "Ratan Lal Chakraborty",
+      "knownFor": "Historian and academic associated with Patuakhali, known for his work on the social and economic history of Bengal.",
+      "era": "contemporary"
+    }
+  ],
+  "didYouKnow": [
+    "Kuakata is one of very few beaches on Earth where you can watch both the sunrise and the sunset over the sea from the same shore.",
+    "The name Kuakata means 'the dug well' — Rakhine settlers dug wells along the shore for fresh water in the late 1700s ('kua' = well).",
+    "Kuakata's nickname is 'Sagar Kanya', the Daughter of the Sea.",
+    "Payra, in Kalapara upazila, is Bangladesh's third seaport — inaugurated in 2013 and operational from 2016, after Chattogram and Mongla.",
+    "West of Kuakata lies Fatrar Char, a protected mangrove forest that locals call the 'second Sundarban'."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Patuakhali Sadar Thana", "phone": "—" },
+      { "name": "Kalapara Thana (for Kuakata)", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Patuakhali 250-Bed General Hospital", "phone": "—" },
+      { "name": "Patuakhali Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
