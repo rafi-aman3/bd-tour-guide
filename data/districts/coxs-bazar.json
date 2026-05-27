@@ -1,0 +1,341 @@
+{
+  "name": "Cox's Bazar",
+  "division": "Chittagong",
+  "tagline": "The longest beach in the land — golden sand running unbroken for miles, the coral of Saint Martin's, the Buddhist temples of Ramu, and the Marine Drive threading between the hills and the Bay of Bengal.",
+  "stats": {
+    "area": "2,491.85 sq km",
+    "population": "2,823,268",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "November to March — dry, cool and clear, with calm seas. Saint Martin's is only reachable in this window, and even then under tight government limits; Adinath's big fair at Maheshkhali falls in Phalgun (Feb–Mar).",
+    "gettingThere": "Cox's Bazar is one of the few districts reachable every way: by road from Dhaka (~400 km) and Chattogram, by the new railway to the oyster-shaped Iconic Station (the Dohazari–Cox's Bazar line opened in 2023), and by domestic flights to Cox's Bazar Airport. Ships to Saint Martin's run seasonally from Teknaf.",
+    "difficulty": "Easy in and around town and along Marine Drive; moderate for Saint Martin's and the islands, which depend on seasonal, weather-dependent and currently restricted boat travel."
+  },
+  "mustVisit": [
+    {
+      "name": "Cox's Bazar Sea Beach",
+      "type": "nature",
+      "description": "The headline of the whole district — a band of golden sand often called the world's longest natural unbroken sea beach, running roughly 120 km down the coast, with the surf of the Bay of Bengal rolling in.",
+      "history": "The beach made Cox's Bazar the country's premier seaside resort. Its named stretches — Laboni nearest the town, then Sugandha and Kolatoli — gather the crowds, the deck chairs and the sunset-watchers, while the sand runs on far quieter to the south.",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.4300, 91.9700],
+      "practical": {
+        "hours": "Open all day; lifeguard flags mark safe bathing zones",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Laboni Point is the town beach; Sugandha and Kolatoli are a short ride south",
+        "distanceKm": 1,
+        "transport": "Walk, rickshaw or auto within town"
+      },
+      "bestTime": "Sunset; cool, dry months for calm seas",
+      "tips": [
+        "Swim only between the lifeguard flags — currents can be strong",
+        "Laboni is busiest; head south for quieter sand",
+        "Sunset is the moment everyone gathers for"
+      ]
+    },
+    {
+      "name": "Himchari National Park & Waterfall",
+      "type": "nature",
+      "description": "Where the hills meet the sea just south of town — a forested national park with a seasonal waterfall and viewpoints looking out over the Bay of Bengal.",
+      "history": "Himchari protects a stretch of coastal hill forest along Marine Drive. Its waterfall is fullest in and just after the rains, and the ridge-top viewpoints give some of the best sea panoramas near Cox's Bazar.",
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.3500, 92.0200],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Park entry ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "~12 km south of town on Marine Drive",
+        "distanceKm": 12,
+        "transport": "Auto, CNG or car along Marine Drive"
+      },
+      "bestTime": "Just after the monsoon for the waterfall; clear days for the views",
+      "tips": [
+        "The waterfall shrinks in the dry season — temper expectations in winter",
+        "Combine it with a Marine Drive run toward Inani"
+      ]
+    },
+    {
+      "name": "Inani Beach",
+      "type": "nature",
+      "description": "A long, golden beach down the coast famed for its smooth sand and the boulder and coral-rock formations exposed at low tide — quieter and wilder than the town beaches.",
+      "history": "Inani, with the rocky stretch at Patuartek just to its north, lies along Marine Drive in Ukhia and has become the favourite escape from the busier town sand, especially at low tide when the rocks emerge.",
+      "image": "https://images.unsplash.com/photo-1505228395891-9a51e7e86bf6?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.2300, 92.0500],
+      "practical": {
+        "hours": "Daytime; check tide times for the rocks",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "~35 km south of town on Marine Drive (Ukhia)",
+        "distanceKm": 35,
+        "transport": "Car, CNG or auto along Marine Drive"
+      },
+      "bestTime": "Low tide for the boulders; cool months",
+      "tips": [
+        "Time your visit for low tide to see the rock and coral formations",
+        "The drive itself, between hills and sea, is half the pleasure"
+      ]
+    },
+    {
+      "name": "Marine Drive",
+      "type": "landmark",
+      "description": "The ~80 km coastal road from Cox's Bazar to Teknaf — the Bay of Bengal on one side, green hills on the other — one of the most scenic drives in the country.",
+      "history": "Built along the shoreline, Marine Drive strings together the district's beaches and viewpoints — Himchari, Inani, Patuartek, Shamlapur — all the way to the southern tip at Teknaf on the Naf River.",
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.3000, 92.0400],
+      "practical": {
+        "hours": "Daylight for the views; drive carefully after dark",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Starts at the south edge of Cox's Bazar town",
+        "distanceKm": 1,
+        "transport": "Hire a car, CNG or open jeep"
+      },
+      "bestTime": "Morning or late afternoon for the light on the sea",
+      "tips": [
+        "An open jeep makes the most of the views",
+        "Stop at Himchari, Inani and the small fishing beaches along the way"
+      ]
+    },
+    {
+      "name": "Saint Martin's Island (Narikel Jinjira)",
+      "type": "nature",
+      "description": "Bangladesh's only coral island — a small, palm-fringed isle of turquoise water, reefs and beaches off the southern tip, reached by ship from Teknaf.",
+      "history": "Saint Martin's (Narikel Jinjira, 'coconut island') sits where the Naf River meets the Bay. Its corals have suffered heavy degradation, so the government now tightly restricts tourism — limiting numbers, day-trips and overnight stays by season, and closing the island entirely during part of the year.",
+      "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [20.6270, 92.3230],
+      "practical": {
+        "hours": "Seasonal access only (roughly Nov–Mar) under government caps; verify before travel",
+        "entryFee": "Ship fare; tourist permits/caps apply",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Off the southern tip; ship from Teknaf (~2.5 hr), itself ~80 km from town",
+        "distanceKm": 100,
+        "transport": "Bus/car to Teknaf, then a seasonal tourist ship"
+      },
+      "bestTime": "The narrow winter window the island is open — confirm the current rules first",
+      "tips": [
+        "Critical: check the current access rules before you plan — overnight stays and tourist numbers are capped, and the island closes for part of the year",
+        "Don't touch or take coral or shells — the reef is protected and fragile",
+        "Book ship tickets and any permitted stay well ahead"
+      ]
+    },
+    {
+      "name": "Maheshkhali Island",
+      "type": "culture",
+      "description": "The country's only notably hilly island, across the channel from town — home to the hilltop Adinath Shiva temple, Rakhine Buddhist pagodas, salt pans and the famously sweet betel leaf.",
+      "history": "On Mainak hill stands the Adinath Temple, whose Phalgun-month fair draws great crowds of Hindu pilgrims; nearby Buddhist monasteries reflect the island's Rakhine community. Maheshkhali is renowned across the country for its mishti paan (sweet betel leaf).",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.5000, 91.9600],
+      "practical": {
+        "hours": "Daytime; the Adinath fair is in Phalgun (Feb–Mar)",
+        "entryFee": "Boat fare to the island",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Across the channel; speedboat or engine-boat from the Cox's Bazar jetty",
+        "distanceKm": 10,
+        "transport": "Speedboat / engine-boat from town"
+      },
+      "bestTime": "Phalgun for the Adinath fair; cool months otherwise",
+      "tips": [
+        "Buy the famous Maheshkhali paan to take home",
+        "Combine the temple, the pagodas and the salt fields in one trip"
+      ]
+    },
+    {
+      "name": "Ramu Buddhist Village",
+      "type": "religious",
+      "description": "A centre of living Buddhist heritage near town — dozens of temples and monasteries, a great golden reclining Buddha and an old bronze image, set among the homes of the Barua Buddhist community.",
+      "history": "Ramu has long been a heart of Buddhist culture in the region, with monasteries such as Ramkot (Rangkut) Banashram among the oldest in the country. Temples damaged in communal attacks in 2012 were subsequently rebuilt, and the village remains a place of worship, craft and festival.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.4200, 92.1000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "~25 km east of Cox's Bazar town, Ramu upazila",
+        "distanceKm": 25,
+        "transport": "Bus, CNG or car from town"
+      },
+      "bestTime": "Buddhist full-moon festivals; mornings for quiet",
+      "tips": [
+        "Dress modestly and remove shoes in the temples",
+        "Be respectful — these are active places of worship"
+      ]
+    },
+    {
+      "name": "Dulahazara Safari Park",
+      "type": "nature",
+      "description": "Bangladesh's first safari park, at Dulahazara in Chakaria — where animals roam in large open enclosures and visitors drive or walk through the forest setting.",
+      "history": "Opened as a safari park in the early 2000s on the site of an earlier deer-breeding centre, Dulahazara holds tigers, lions, elephants, deer and many birds across its forested grounds in the north of the district.",
+      "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.6800, 92.1000],
+      "practical": {
+        "hours": "Daytime; closed on its weekly off-day",
+        "entryFee": "Entry ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Dulahazara, Chakaria upazila, ~50 km north of town",
+        "distanceKm": 50,
+        "transport": "Bus or car toward Chakaria"
+      },
+      "bestTime": "Cool, dry months; mornings for active animals",
+      "tips": [
+        "Go early when the animals are most active",
+        "Good for families; allow a few hours for the grounds"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Shutki (Dried Fish)",
+      "description": "Cox's Bazar's most authentic flavour — sea fish sun-dried on the vast racks of Nazirartek, the largest dried-fish yard in the region, and cooked into pungent, fiery shutki bhuna and bhorta.",
+      "venue": "Nazirartek dried-fish market and local kitchens"
+    },
+    {
+      "type": "food",
+      "name": "Maheshkhali Mishti Paan",
+      "description": "The sweet betel leaf of Maheshkhali island, renowned across the country and sold all along the beach front.",
+      "venue": "Maheshkhali island and Cox's Bazar town"
+    },
+    {
+      "type": "festival",
+      "name": "Adinath Mela",
+      "description": "The great fair at the hilltop Adinath Shiva temple on Maheshkhali, drawing crowds of pilgrims and traders in the month of Phalgun.",
+      "timing": "Phalgun (February–March)",
+      "coordinates": [21.5000, 91.9600]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Aggmeda Khyang (Rakhine Buddhist Monastery)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.4400, 91.9800]
+    },
+    {
+      "name": "Adinath Temple, Maheshkhali",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.5000, 91.9600]
+    },
+    {
+      "name": "Ramu Buddhist Temples",
+      "image": "https://images.unsplash.com/photo-1545126178-862cdb469409?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.4200, 92.1000]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-coxs-bazar?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Cox's Bazar&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "GoZayaan Flights", "url": "https://gozayaan.com/flights" },
+        { "name": "ShareTrip Flights", "url": "https://sharetrip.net/flights" }
+      ],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Cox's Bazar&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Cox's Bazar&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "coxsbazar-beach-sunset", "title": "Watch sunset on the world's longest beach", "category": "moment", "detail": "The sun drops into the Bay of Bengal over miles of unbroken golden sand — the classic Cox's Bazar moment.", "whereOrHow": "Laboni / Sugandha / Kolatoli points", "bestTime": "Sunset" },
+    { "id": "coxsbazar-marine-drive", "title": "Drive the full Marine Drive to Teknaf", "category": "experience", "detail": "~80 km of coast road with the sea on one side and hills on the other — best in an open jeep.", "whereOrHow": "Cox's Bazar to Teknaf", "bestTime": "Morning or late afternoon" },
+    { "id": "coxsbazar-saint-martins", "title": "Reach the coral island of Saint Martin's", "category": "place", "detail": "Bangladesh's only coral island — turquoise water and reefs off the southern tip. Access is seasonal and government-capped, so check the current rules first.", "whereOrHow": "By ship from Teknaf", "bestTime": "Winter window, when open" },
+    { "id": "coxsbazar-inani-lowtide", "title": "See the rocks at Inani at low tide", "category": "place", "detail": "Golden sand and exposed boulder-and-coral formations down the coast at Inani and Patuartek.", "whereOrHow": "Inani, Ukhia (Marine Drive)", "bestTime": "Low tide" },
+    { "id": "coxsbazar-himchari", "title": "Climb to a viewpoint at Himchari", "category": "place", "detail": "Coastal hill forest, a seasonal waterfall and big sea views just south of town.", "whereOrHow": "Himchari National Park" },
+    { "id": "coxsbazar-maheshkhali", "title": "Boat to Maheshkhali island", "category": "experience", "detail": "The hilltop Adinath Shiva temple, Rakhine Buddhist pagodas, salt pans and the famous sweet paan.", "whereOrHow": "Maheshkhali, by boat from town" },
+    { "id": "coxsbazar-ramu", "title": "See the Buddhist temples of Ramu", "category": "place", "detail": "Dozens of monasteries, a giant golden reclining Buddha and an old bronze image among the Barua Buddhist community.", "whereOrHow": "Ramu, ~25 km east" },
+    { "id": "coxsbazar-shutki", "title": "Try fiery shutki bhuna", "category": "food", "detail": "Cox's Bazar's signature — sun-dried sea fish cooked into pungent, spicy curries and bhortas.", "whereOrHow": "Local restaurants; Nazirartek for the drying yards" },
+    { "id": "coxsbazar-seafood", "title": "Eat fresh grilled seafood by the beach", "category": "food", "detail": "Grilled squid, prawns and rupchanda straight off the boats at the Kolatoli food stalls.", "whereOrHow": "Kolatoli and beach-front eateries" },
+    { "id": "coxsbazar-paan", "title": "Chew Maheshkhali mishti paan", "category": "food", "detail": "The island's famous sweet betel leaf, sold all along the beach front.", "whereOrHow": "Maheshkhali and beach stalls" },
+    { "id": "coxsbazar-iconic-station", "title": "Arrive at the Iconic Railway Station", "category": "experience", "detail": "The oyster-shaped Cox's Bazar station, terminus of the new line that brought rail to the coast in 2023.", "whereOrHow": "Cox's Bazar town" },
+    { "id": "coxsbazar-aggmeda-khyang", "title": "Visit Aggmeda Khyang in town", "category": "place", "detail": "A historic Rakhine Buddhist monastery of teak and ironwood in the heart of Cox's Bazar town.", "whereOrHow": "Peshkar Para, Cox's Bazar town" }
+  ],
+  "foods": [
+    { "name": "Shutki Bhuna & Bhorta", "description": "Sun-dried sea fish cooked into pungent, fiery curries and mashes — the most authentic Cox's Bazar flavour.", "whereToFind": "Local restaurants; Nazirartek dried-fish market" },
+    { "name": "Fresh Grilled Seafood", "description": "Squid, prawns, rupchanda and sea fish grilled fresh at the beach-front stalls.", "whereToFind": "Kolatoli and beach-side eateries" },
+    { "name": "Maheshkhali Mishti Paan", "description": "The sweet betel leaf of Maheshkhali, famous across the country.", "whereToFind": "Maheshkhali island and town stalls" },
+    { "name": "Rakhine Cuisine", "description": "The local Rakhine community's cooking — sticky rice, spicy fish soups and dishes built on nappi (fermented shrimp paste).", "whereToFind": "Rakhine para eateries in and around town" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Captain Hiram Cox",
+      "knownFor": "The district's namesake — an East India Company officer sent in 1799 to resettle Arakanese refugees fleeing Burmese persecution. He died before completing the work, and a market raised in his memory ('Cox's Bazar', Cox's market) gave the place its name.",
+      "era": "died 1799"
+    },
+    {
+      "name": "Masudul Hoq",
+      "knownFor": "Contemporary Bengali poet, short-story writer and translator associated with Cox's Bazar.",
+      "era": "born 1968"
+    }
+  ],
+  "didYouKnow": [
+    "Cox's Bazar has the beach often called the world's longest natural unbroken sea beach, commonly cited at around 120 km.",
+    "The district is named after Captain Hiram Cox, an East India Company officer who in 1799 set about resettling Arakanese refugees on this coast.",
+    "Saint Martin's Island is Bangladesh's only coral island — and is now under strict seasonal tourism limits to protect its damaged reefs.",
+    "Maheshkhali is the country's only notably hilly island, famous for its sweet betel leaf (paan) and the hilltop Adinath Shiva temple.",
+    "Cox's Bazar got its first-ever railway in 2023 — the oyster-shaped Iconic Railway Station, the terminus of the new Dohazari–Cox's Bazar line."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Cox's Bazar Sadar Model Police Station", "phone": "—" },
+      { "name": "Teknaf Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Cox's Bazar District Sadar Hospital", "phone": "—" },
+      { "name": "Cox's Bazar Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
