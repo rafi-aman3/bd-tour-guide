@@ -1,0 +1,306 @@
+{
+  "name": "Gaibandha",
+  "division": "Rangpur",
+  "tagline": "River-island chars on the Jamuna, an Aga Khan-winning earthwork, and the land of rasmanjuri.",
+  "stats": {
+    "area": "2179.27 sq km",
+    "population": "2,562,233",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry; the chars accessible and the rivers calm)",
+    "gettingThere": "By train to Gaibandha or Bonarpara junction on the northern line, or by road from Dhaka (~6–7 hr) and Rangpur (~1.5 hr). No airport — the nearest are at Saidpur (Nilphamari) and Rangpur's regional strips.",
+    "difficulty": "Easy in town; char (river-island) visits are moderate and need a boat and dry-season timing."
+  },
+  "mustVisit": [
+    {
+      "name": "Friendship Centre (Fulchhari)",
+      "type": "landmark",
+      "description": "A half-buried, grass-roofed earthwork of brick courtyards and reflecting pools built for the NGO Friendship — one of the most celebrated pieces of modern architecture in Bangladesh, set among the chars.",
+      "history": "Designed by Kashef Mahboob Chowdhury / URBANA for a training centre serving char (river-island) communities, it won the Aga Khan Award for Architecture in 2016. Sunk below flood level and shaped like an excavated ruin, its bare-brick galleries and water courts draw architecture pilgrims from around the world.",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2300, 89.6200],
+      "practical": {
+        "hours": "It is a working training/retreat centre — visits by prior arrangement",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Madanerpara, Kanchipara union, Fulchhari Upazila, east of Gaibandha town toward the Jamuna",
+        "distanceKm": 18,
+        "transport": "CNG or car from Gaibandha town toward Fulchhari"
+      },
+      "bestTime": "Cool, dry months when the approach roads are passable",
+      "tips": [
+        "Call ahead — it is not a ticketed tourist site but a functioning centre",
+        "Combine with a Jamuna char visit, which is the community it was built to serve"
+      ]
+    },
+    {
+      "name": "Balasi Ghat",
+      "type": "nature",
+      "description": "The Jamuna riverbank ghat just outside Gaibandha town — a popular spot for sunset, boat rides and the wide-water views that define the district.",
+      "history": "Once the terminal of the Balasi–Bahadurabad ferry that carried trains and traffic across the Jamuna before the bridges, the ghat is now a riverside leisure spot and the jumping-off point for boats to the chars.",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.3000, 89.6300],
+      "practical": {
+        "hours": "Best at dawn and dusk",
+        "entryFee": "Free (boat hire negotiable)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 5 km east of Gaibandha town on the Jamuna",
+        "distanceKm": 5,
+        "transport": "Rickshaw, CNG or easybike from town"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Agree the boat fare before setting off to a char",
+        "Street-food stalls line the ghat in the evenings"
+      ]
+    },
+    {
+      "name": "Jamuna & Brahmaputra Chars",
+      "type": "nature",
+      "description": "The shifting river-islands (chars) that are Gaibandha's signature landscape — sandbar farms of maize, chili and groundnut, and the resilient communities who farm them between floods.",
+      "history": "The braided Jamuna and Brahmaputra throw up and wash away these islands each year. Char-grown maize and red chili have become branded products of the district; a boat trip out shows a way of life found in few other places.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2000, 89.6800],
+      "practical": {
+        "hours": "Daylight; go and return well before dark",
+        "entryFee": "Boat hire negotiable",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Boats from Balasi Ghat and Fulchhari/Saghata ghats",
+        "distanceKm": 8,
+        "transport": "Country boat or trawler from a river ghat"
+      },
+      "bestTime": "Dry season (Nov–Mar); avoid the monsoon flood months",
+      "tips": [
+        "Go with a local boatman who knows the current year's channels",
+        "Carry water and sun cover — there is no shade on the sandbars"
+      ]
+    },
+    {
+      "name": "Bardhan Kuthi (Gobindaganj)",
+      "type": "heritage",
+      "description": "A colonial-era zamindar estate near Gobindaganj, once the seat of the Bardhan rajas — crumbling red-brick halls from the East India Company era.",
+      "history": "Said to have begun as the 'Bardhan Court', it was ruled under the British by Raja Harinath; the last raja, Shoilesh Chandra, migrated to India at Partition. The estate has decayed since, but its scale still speaks of the old zamindari.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1300, 89.4000],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Gobindaganj Upazila, ~30 km south of Gaibandha town",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Gobindaganj, then easybike"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "The structure is fragile — view from outside",
+        "Gobindaganj is on the Dhaka–Rangpur highway, easy to fold into a road trip"
+      ]
+    },
+    {
+      "name": "Naldanga Zamindar Bari",
+      "type": "heritage",
+      "description": "The old estate of the Naldanga zamindars — birthplace of playwright-actor Tulsi Lahiri — with a black-basalt Shiva linga, a white-stone Vrisa (bull) shrine, and a large tank.",
+      "history": "Seat of a Brahmin zamindar family, Naldanga gave Bengali theatre and cinema the dramatist Tulsi Lahiri (1897–1959). The temple stones and the broad pond survive among the estate ruins.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.3700, 89.4500],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In the Naldanga area, north-west of Gaibandha town",
+        "distanceKm": 15,
+        "transport": "CNG or easybike from town"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Pair with reading a little of Tulsi Lahiri before you go",
+        "The temple stones are the most intact part — ask a local to point them out"
+      ]
+    },
+    {
+      "name": "Bamandanga Zamindar Bari (Sundarganj)",
+      "type": "heritage",
+      "description": "A weathered zamindar mansion in Sundarganj, in the district's north — a quiet stop for anyone tracing the footprint of the Bengal landlord families.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5000, 89.5200],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Sundarganj Upazila, ~25 km north of Gaibandha town",
+        "distanceKm": 25,
+        "transport": "Bus or CNG to Sundarganj, then easybike"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Little is signposted — ask in Sundarganj bazar for directions",
+        "Combine with the northern char ghats nearby"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Rasmanjuri",
+      "description": "Gaibandha's signature sweet — soft chhana morsels in a thin, lightly sweet milk, made at Ramesh Ghosh Mishti Bhandar since 1940 and now a branded product of the district.",
+      "venue": "Ramesh Ghosh Mishti Bhandar & town sweet shops"
+    },
+    {
+      "type": "food",
+      "name": "Char Maize & Red Chili",
+      "description": "Maize (bhutta) and fiery red chili grown on the Jamuna chars are branded district products — grilled corn on the ghats and sun-dried chili in the haats.",
+      "venue": "Riverside stalls & rural haats"
+    },
+    {
+      "type": "craft",
+      "name": "Char Groundnut (Chinabadam)",
+      "description": "Peanuts grown in the sandy char soil, roasted and sold warm by the riverbank — a humble staple of the river economy.",
+      "venue": "Balasi Ghat & char ghats"
+    },
+    {
+      "type": "festival",
+      "name": "Char Boat & Harvest Life",
+      "description": "Winter on the chars brings the maize and chili harvest and the boat crossings that define river life here — best experienced at a working char in the dry months.",
+      "timing": "November – March"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Friendship Centre (Aga Khan Award 2016)",
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2300, 89.6200]
+    },
+    {
+      "name": "Bardhan Kuthi (Gobindaganj)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1300, 89.4000]
+    },
+    {
+      "name": "Naldanga Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.3700, 89.4500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-gaibandha?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Gaibandha&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "SR Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Gaibandha&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Gaibandha Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Gaibandha&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Gaibandha&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "gaibandha-friendship-centre", "title": "Walk the sunken courtyards of the Friendship Centre", "category": "place", "detail": "A grass-roofed earthwork half-buried below flood level — bare-brick galleries and reflecting pools that won the 2016 Aga Khan Award for Architecture, built to serve the char communities.", "whereOrHow": "Fulchhari Upazila (visit by arrangement)", "bestTime": "Dry months" },
+    { "id": "gaibandha-balasi-sunset", "title": "Watch sunset over the Jamuna at Balasi Ghat", "category": "moment", "detail": "The wide-water view that defines Gaibandha — once the great Balasi–Bahadurabad ferry terminal, now a riverside evening spot.", "whereOrHow": "Balasi Ghat, ~5 km from town", "bestTime": "Oct–Mar, dusk" },
+    { "id": "gaibandha-char-boat", "title": "Take a boat out to a Jamuna char", "category": "experience", "detail": "Step onto a shifting sandbar island of maize and chili fields and meet the communities who farm between the floods — a way of life found in few places.", "whereOrHow": "Boats from Balasi & Fulchhari ghats", "bestTime": "Nov–Mar" },
+    { "id": "gaibandha-rasmanjuri", "title": "Taste rasmanjuri at Ramesh Ghosh", "category": "food", "detail": "The district's branded sweet — soft chhana in thin sweet milk, made at Ramesh Ghosh Mishti Bhandar since 1940.", "whereOrHow": "Gaibandha town sweet shops" },
+    { "id": "gaibandha-char-corn", "title": "Eat grilled char maize on the riverbank", "category": "food", "detail": "Corn grown on the Jamuna sandbars, charred on the cob at the ghats — paired with the district's famous red chili.", "whereOrHow": "Balasi & char ghats", "bestTime": "Winter" },
+    { "id": "gaibandha-bardhan-kuthi", "title": "Explore the Bardhan Kuthi ruins", "category": "place", "detail": "The decaying red-brick estate of the Bardhan rajas near Gobindaganj, abandoned when the last raja left at Partition.", "whereOrHow": "Gobindaganj Upazila" },
+    { "id": "gaibandha-naldanga", "title": "Visit Naldanga, Tulsi Lahiri's home estate", "category": "place", "detail": "The Naldanga zamindar bari, with its black-basalt Shiva linga and white-stone bull shrine — birthplace of the playwright-actor Tulsi Lahiri.", "whereOrHow": "Naldanga, near town" },
+    { "id": "gaibandha-bamandanga", "title": "Find the Bamandanga zamindar bari", "category": "place", "detail": "A weathered landlord's mansion in the northern upazila of Sundarganj — quiet and little-visited.", "whereOrHow": "Sundarganj Upazila" },
+    { "id": "gaibandha-red-chili", "title": "See sun-dried red chili spread at a haat", "category": "moment", "detail": "Gaibandha's char-grown red chili is famous countrywide; in season the haats turn crimson with drying chillies.", "whereOrHow": "Rural haats", "bestTime": "Winter" },
+    { "id": "gaibandha-elias", "title": "Read Akhtaruzzaman Elias on home ground", "category": "experience", "detail": "The novelist of 'Khoabnama' and 'Chilekothar Sepai' was born at Gotia village here — his riverine northern Bengal is the landscape around you.", "whereOrHow": "Gotia village, Gaibandha" },
+    { "id": "gaibandha-groundnut", "title": "Snack on roasted char groundnut", "category": "food", "detail": "Peanuts from the sandy char soil, roasted and sold warm by the river — the cheapest, most honest taste of the chars.", "whereOrHow": "Riverbank stalls" },
+    { "id": "gaibandha-pitha", "title": "Eat winter pitha with sugarcane gur", "category": "food", "detail": "North-Bengal rice pithas with aakher gur (sugarcane molasses) at winter-morning stalls in the upazila bazaars.", "whereOrHow": "Winter pitha stalls, district-wide", "bestTime": "Dec–Feb" }
+  ],
+  "foods": [
+    { "name": "Rasmanjuri", "description": "The district's branded sweet — soft chhana morsels in thin, lightly sweet milk, made at Ramesh Ghosh Mishti Bhandar since 1940.", "whereToFind": "Ramesh Ghosh & town sweet shops" },
+    { "name": "Char Maize (Bhutta)", "description": "Corn grown on the Jamuna sandbars, grilled on the cob at the riverside ghats.", "whereToFind": "Balasi & char ghats" },
+    { "name": "Gaibandha Red Chili", "description": "Fiery char-grown red chili, famous countrywide, sun-dried in the winter haats.", "whereToFind": "Rural haats" },
+    { "name": "Char Groundnut (Chinabadam)", "description": "Peanuts from the sandy char soil, roasted and sold warm by the river.", "whereToFind": "Riverbank stalls" },
+    { "name": "Sidol / Shutki Bhorta", "description": "Pungent north-Bengal fermented and dried-fish mash, pounded with chili and onion — a regional staple.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Aakher Gur Pitha", "description": "Winter rice pithas — chitoi and bhapa — with sugarcane molasses, the northern alternative to date-palm gur.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Jamuna River Fish", "description": "Fresh catch from the Jamuna and Brahmaputra — carp and catfish in light mustard curries.", "whereToFind": "Home-style restaurants, Gaibandha town" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Akhtaruzzaman Elias",
+      "knownFor": "One of the towering Bengali novelists of the 20th century, author of 'Chilekothar Sepai' and 'Khoabnama'. Born at Gotia village, Gaibandha.",
+      "era": "1943 – 1997"
+    },
+    {
+      "name": "Tulsi Lahiri",
+      "knownFor": "Playwright, actor and musician born into the Naldanga zamindar family of Gaibandha. His plays 'Dukhir Iman' and 'Chhendatar' drew on rural Bengal's hardships, and he acted in over fifty films.",
+      "era": "1897 – 1959"
+    },
+    {
+      "name": "Mohammad Naeem Islam",
+      "knownFor": "Bangladesh international cricketer — an all-rounder who has represented the national side across formats — born in Gaibandha.",
+      "era": "born 1986"
+    }
+  ],
+  "didYouKnow": [
+    "The name Gaibandha comes from 'gai' (cow) and 'bandha' (to tie) — said to mark the place where cattle were once tethered.",
+    "The Friendship Centre, a half-buried grass-roofed earthwork built for char communities, won the 2016 Aga Khan Award for Architecture.",
+    "Gaibandha is a district of chars — shifting river-islands on the Jamuna and Brahmaputra — and its char-grown maize and red chili are branded district products.",
+    "Rasmanjuri, the district's signature sweet, has been made at Ramesh Ghosh Mishti Bhandar since 1940.",
+    "Novelist Akhtaruzzaman Elias, author of 'Khoabnama', was born at Gotia village here, in the riverine northern Bengal his fiction inhabits."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Gaibandha Sadar Police Station", "phone": "—" },
+      { "name": "Gobindaganj Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Gaibandha General Hospital (Sadar)", "phone": "—" },
+      { "name": "Gobindaganj Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
