@@ -1,0 +1,304 @@
+{
+  "name": "Kushtia",
+  "division": "Khulna",
+  "tagline": "The soul-country of Bengal — Lalon's baul shrine at Cheuria, Tagore's Shilaidaha where Gitanjali was carried into English, and tiler khaja as sweet as the songs.",
+  "stats": {
+    "area": "1,608.8 sq km",
+    "population": "2,149,692",
+    "established": "1947",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March for dry, cool weather. Time it with the Lalon Smaran Utsab around mid-October (1st of Kartik) for the baul mela at Cheuria, or the spring Dol Purnima gathering.",
+    "gettingThere": "By road from Dhaka (~250 km) via the Bangabandhu Bridge or the Padma Bridge route, or from Khulna and Rajshahi. By rail through Kushtia Court station and Poradaha Junction (the country's oldest railway junction), with intercity services such as the Madhumati Express.",
+    "difficulty": "Easy — the town sights are close together, and Cheuria, Shilaidaha, Bheramara and Jhaudia are comfortable day trips by bus, CNG or rickshaw-van."
+  },
+  "mustVisit": [
+    {
+      "name": "Shrine of Lalon Shah (Lalon Akhra, Cheuria)",
+      "type": "religious",
+      "description": "The shrine and cultural complex of the mystic baul saint-poet Fakir Lalon Shah, who lived and taught here — the spiritual heart of baul music in Bangladesh, alive with song, ektara and the orange-clad fakirs who keep his tradition.",
+      "history": "Lalon lived, gathered disciples and died at Cheuria in 1890, and was buried at his akhra here. The shrine hosts a baul mela twice a year — the larger Lalon Smaran Utsab around the 1st of Kartik (mid-October), marking his death anniversary, and a gathering at Dol Purnima in spring — drawing devotees and musicians from across the country.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9200, 89.1300],
+      "practical": {
+        "hours": "Open daily; liveliest in the evenings and during the melas",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Cheuria, Kushtia Sadar, just outside the town",
+        "distanceKm": 3,
+        "transport": "Rickshaw, auto or CNG from Kushtia town"
+      },
+      "bestTime": "Mid-October for the Lalon mela; evenings year-round for the music",
+      "tips": [
+        "Come for an evening to hear baul singers around the shrine",
+        "Dress modestly and be respectful — it is an active place of devotion",
+        "The melas are crowded; plan transport and any stay well ahead"
+      ]
+    },
+    {
+      "name": "Shilaidaha Kuthibari",
+      "type": "culture",
+      "description": "Rabindranath Tagore's serene country house on the bank of the Padma at Shilaidaha — a graceful estate building, now a Tagore memorial museum, set among gardens and old trees.",
+      "history": "The estate was acquired by Tagore's grandfather Dwarkanath in 1807, and Rabindranath stayed here on and off through the 1890s managing the family lands. Much of his finest writing has roots in these years, and it was here in 1912 that he began translating his Gitanjali into English — the work that won him the 1913 Nobel Prize. The house is now a museum under the Department of Archaeology.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7900, 89.1800],
+      "practical": {
+        "hours": "Museum open daytime; closed on the weekly government holiday",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Shilaidaha (Khorshedpur), Kumarkhali upazila",
+        "distanceKm": 20,
+        "transport": "Bus/CNG to Kumarkhali, then local transport to Shilaidaha"
+      },
+      "bestTime": "Cool, dry months; mornings for quiet",
+      "tips": [
+        "Allow time for the museum rooms and the riverside grounds",
+        "Pair it with the Gorai/Padma riverbank nearby"
+      ]
+    },
+    {
+      "name": "Hardinge Bridge & Lalon Shah Bridge (Bheramara)",
+      "type": "landmark",
+      "description": "The twin Padma bridges seen from the Kushtia bank at Bheramara — the steel railway truss of Hardinge Bridge and, alongside, the road deck of the Lalon Shah Bridge, crossing to Paksey on the Pabna side.",
+      "history": "Hardinge Bridge, about 1.8 km long, was built in 1910–1912 and opened by Viceroy Lord Hardinge in 1915; bombed in 1971, it was rebuilt and reopened in 1972. The parallel road bridge, named after Lalon Shah, was inaugurated in 2004.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0600, 89.0300],
+      "practical": {
+        "hours": "Riverside viewing any time; best by daylight",
+        "entryFee": "Free to view from the banks",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Bheramara upazila, on the Padma north of Kushtia town",
+        "distanceKm": 17,
+        "transport": "Bus or CNG to Bheramara/Paksey"
+      },
+      "bestTime": "Late afternoon for the light on the river and the steelwork",
+      "tips": [
+        "View the railway bridge from the bank — it is an active line",
+        "Sunset over the Padma here is the photograph to wait for"
+      ]
+    },
+    {
+      "name": "Mohini Mill",
+      "type": "landmark",
+      "description": "The vast, weathered shell of an early-20th-century textile mill in Kushtia town — once one of the biggest mills in the region, now a haunting relic of the district's industrial past.",
+      "history": "Founded in the early 20th century by Mohini Mohan Chakraborty, the mill grew into a major textile works. It was nationalised in 1972, closed in the 1980s, and despite a brief reopening has since fallen into ruin — its red-brick ranges a favourite of photographers.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.8985, 89.1185],
+      "practical": {
+        "hours": "Daytime; an abandoned site — enter at your own care",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Millpara in Kushtia town",
+        "distanceKm": 2,
+        "transport": "Rickshaw or auto within town"
+      },
+      "bestTime": "Daytime for photography",
+      "tips": [
+        "Watch your footing — parts of the structure are derelict",
+        "Best for the architecture and atmosphere, not facilities"
+      ]
+    },
+    {
+      "name": "Tagore Lodge",
+      "type": "culture",
+      "description": "A handsome duplet building in Kushtia town that Rabindranath Tagore set up in 1895 as the office of his family business — restored, with a Tagore statue, as a small heritage site in the heart of town.",
+      "history": "Tagore established 'Tagore and Company' here in 1895 to run the family's estate and trading interests in Kushtia. The lodge has since been renovated with support from both Bangladesh and India as a memorial to his time in the district.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9015, 89.1215],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In central Kushtia town",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Small site — pair it with the Mohini Mill and a town walk",
+        "Together with Shilaidaha it completes Kushtia's Tagore trail"
+      ]
+    },
+    {
+      "name": "Jhaudia Shahi Mosque",
+      "type": "religious",
+      "description": "A Mughal-period mosque at Jhaudia, crowned by three domes with slender corner minarets — a graceful blend of Iranian, Mughal and Bengali styles southwest of Kushtia town.",
+      "history": "Built by the Sufi Syed Ahmad Ali, the mosque is one of the district's notable surviving Mughal-era monuments, its decoration drawing together several architectural traditions.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.8500, 88.9800],
+      "practical": {
+        "hours": "Daylight; an active mosque — avoid prayer times for sightseeing",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Jhaudia village, Kushtia Sadar, southwest of town",
+        "distanceKm": 22,
+        "transport": "Bus or CNG toward Jhaudia"
+      },
+      "bestTime": "Mid-morning, outside prayer times",
+      "tips": [
+        "Dress modestly and remove shoes to enter",
+        "Be quiet and unobtrusive — it remains in daily use for worship"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Tiler Khaja",
+      "description": "Kushtia's signature sweet — sugar pulled into delicate flaky layers and coated in hulled sesame, made in the town's confectioneries since around 1900 and now carrying a Geographical Indication (GI) tag as a regional heritage product.",
+      "venue": "Sweet shops in Kushtia town"
+    },
+    {
+      "type": "craft",
+      "name": "Kumarkhali Handloom",
+      "description": "Kumarkhali's weaving tradition turns out cotton cloth and gamchhas on handlooms — a long-standing livelihood for the district's weaving families.",
+      "venue": "Kumarkhali weaving villages and town markets"
+    },
+    {
+      "type": "festival",
+      "name": "Lalon Smaran Utsab",
+      "description": "The baul festival at Lalon's shrine in Cheuria — days and nights of mystic song, ektara and gathering of fakirs and devotees, held around Lalon's death anniversary and again at the spring Dol Purnima.",
+      "timing": "Around 1st Kartik (mid-October) and Dol Purnima (Feb–Mar)",
+      "coordinates": [23.9200, 89.1300]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Shrine of Lalon Shah (Cheuria)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9200, 89.1300]
+    },
+    {
+      "name": "Shilaidaha Kuthibari",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7900, 89.1800]
+    },
+    {
+      "name": "Hardinge Bridge (1915)",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0600, 89.0300]
+    },
+    {
+      "name": "Jhaudia Shahi Mosque",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.8500, 88.9800]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-kushtia?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Kushtia&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Kushtia&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Kushtia&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "kushtia-lalon-shrine", "title": "Hear baul song at Lalon's shrine", "category": "experience", "detail": "Sit by the akhra at Cheuria of an evening as orange-clad fakirs sing Lalon's songs to the ektara.", "whereOrHow": "Cheuria, Kushtia Sadar", "bestTime": "Evenings; mid-October mela" },
+    { "id": "kushtia-lalon-mela", "title": "Join the Lalon Smaran Utsab", "category": "experience", "detail": "The great baul gathering at Lalon's death anniversary — days and nights of mystic music and devotees from across the country.", "whereOrHow": "Lalon Akhra, Cheuria", "bestTime": "Around 1st Kartik (mid-October)" },
+    { "id": "kushtia-shilaidaha", "title": "Walk Tagore's Shilaidaha Kuthibari", "category": "place", "detail": "The poet's riverside country house, where he began rendering Gitanjali into English — now a serene memorial museum.", "whereOrHow": "Shilaidaha, Kumarkhali", "bestTime": "Cool months" },
+    { "id": "kushtia-hardinge-bridge", "title": "See the Hardinge Bridge from Bheramara", "category": "place", "detail": "The 1.8 km steel railway bridge of 1915 spanning the Padma, with the Lalon Shah road bridge alongside.", "whereOrHow": "Bheramara", "bestTime": "Late afternoon" },
+    { "id": "kushtia-mohini-mill", "title": "Photograph the ruins of Mohini Mill", "category": "place", "detail": "The vast red-brick shell of an early-20th-century textile mill — a haunting relic of Kushtia's industrial age.", "whereOrHow": "Millpara, Kushtia town" },
+    { "id": "kushtia-tagore-lodge", "title": "Visit Tagore Lodge", "category": "place", "detail": "The town building where Tagore set up his family business office in 1895 — the second stop on Kushtia's Tagore trail.", "whereOrHow": "Kushtia town" },
+    { "id": "kushtia-jhaudia-mosque", "title": "See the Jhaudia Shahi Mosque", "category": "place", "detail": "A three-domed Mughal-period mosque blending Iranian, Mughal and Bengali styles, southwest of town.", "whereOrHow": "Jhaudia, Kushtia Sadar" },
+    { "id": "kushtia-mir-mosharraf", "title": "Pay respects at Mir Mosharraf Hossain's homestead", "category": "place", "detail": "The Lahinipara home of the first major Bengali Muslim novelist, author of Bishad-Sindhu.", "whereOrHow": "Lahinipara, near Kushtia town" },
+    { "id": "kushtia-tiler-khaja", "title": "Taste Kushtia's tiler khaja", "category": "food", "detail": "Flaky pulled-sugar sweet coated in sesame, made here since about 1900 and carrying a GI heritage tag.", "whereOrHow": "Sweet shops, Kushtia town" },
+    { "id": "kushtia-kumarkhali-tant", "title": "Buy Kumarkhali handloom", "category": "food", "detail": "Cotton cloth and gamchhas woven on handlooms in Kumarkhali's weaving villages.", "whereOrHow": "Kumarkhali" },
+    { "id": "kushtia-gorai-river", "title": "Wander the Gorai riverbank", "category": "moment", "detail": "The Gorai branches from the Padma at Kushtia; its ghats make for an easy riverside stroll near town.", "whereOrHow": "Gorai river, Kushtia" },
+    { "id": "kushtia-poradaha", "title": "Pass through Poradaha Junction", "category": "experience", "detail": "Bangladesh's oldest railway junction, where the line from Calcutta first reached in 1862.", "whereOrHow": "Poradaha, Mirpur upazila" }
+  ],
+  "foods": [
+    { "name": "Tiler Khaja", "description": "Kushtia's celebrated sweet — sugar pulled into flaky layers and coated in sesame; a GI-tagged regional speciality.", "whereToFind": "Sweet shops in Kushtia town" },
+    { "name": "Shon Papri", "description": "Light, flaky sweet sold alongside tiler khaja by Kushtia's confectioners.", "whereToFind": "Sweet shops, Kushtia town" },
+    { "name": "Padma & Gorai River Fish", "description": "Freshwater fish from the Padma and Gorai — fried fresh or in light curries at riverside eateries.", "whereToFind": "Bheramara and riverside spots" },
+    { "name": "Khejur Gur", "description": "Date-palm jaggery from the winter harvest, used in the season's pithas and sweets.", "whereToFind": "Winter village markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Fakir Lalon Shah",
+      "knownFor": "The great mystic baul saint-poet and composer of Bengal, whose songs of humanism and inner truth still define baul music. He lived, taught and is buried at Cheuria in Kushtia.",
+      "era": "c. 1774 – 1890"
+    },
+    {
+      "name": "Mir Mosharraf Hossain",
+      "knownFor": "The first major Bengali Muslim novelist, born at Lahinipara in Kushtia; author of the classic Bishad-Sindhu.",
+      "era": "1847 – 1911"
+    },
+    {
+      "name": "Kangal Harinath (Harinath Majumdar)",
+      "knownFor": "Pioneering journalist and social reformer born in Kumarkhali, Kushtia; founder of the peasant newspaper Grambarta Prokashika (1863), a baul-song composer and disciple of Lalon.",
+      "era": "1833 – 1896"
+    },
+    {
+      "name": "Bagha Jatin (Jatindranath Mukherjee)",
+      "knownFor": "Independence revolutionary born at Kayagram in (present-day) Kushtia; nicknamed 'Bagha' (tiger) after reportedly killing a Royal Bengal tiger with a dagger.",
+      "era": "1879 – 1915"
+    }
+  ],
+  "didYouKnow": [
+    "The mystic baul poet Lalon Shah lived, taught and is buried at Cheuria in Kushtia; his shrine hosts a baul mela twice a year that draws devotees and musicians from across Bangladesh.",
+    "Rabindranath Tagore began translating his Gitanjali into English in 1912 at Shilaidaha in Kushtia — the work that won him the 1913 Nobel Prize, the first for any non-European.",
+    "Mir Mosharraf Hossain, born at Lahinipara in Kushtia in 1847, was the first major Bengali Muslim novelist; his Bishad-Sindhu remains a classic of the language.",
+    "The revolutionary Bagha Jatin, born at Kayagram in Kushtia, earned his name — 'Bagha' means tiger — after reportedly killing a Royal Bengal tiger with only a dagger.",
+    "Kushtia's tiler khaja, a flaky pulled-sugar-and-sesame sweet made since around 1900, has earned a Geographical Indication tag as a recognised regional heritage product."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Kushtia Model Thana", "phone": "—" },
+      { "name": "Bheramara Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Kushtia General Hospital", "phone": "—" },
+      { "name": "Kushtia Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
