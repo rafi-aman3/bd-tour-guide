@@ -1,0 +1,299 @@
+{
+  "name": "Dhaka",
+  "division": "Dhaka",
+  "tagline": "Four hundred years of capital — Mughal forts, the Pink Palace, Louis Kahn's parliament, and the biryani lanes of Old Dhaka.",
+  "stats": {
+    "area": "1,463.60 sq km",
+    "population": "14,734,701",
+    "established": "1772",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry, less smog). Shakrain lights up Old Dhaka in mid-January; Pohela Boishakh fills Ramna on 14 April.",
+    "gettingThere": "Dhaka is the national hub — Hazrat Shahjalal International Airport is the country's main gateway, Kamalapur is the central railway station, and Sadarghat is the largest river-launch terminal in Bangladesh. Every highway leads here.",
+    "difficulty": "Easy to reach, harder to get around — Dhaka's traffic is intense. Cluster the Old Dhaka sights on one day and use rickshaws inside the old city."
+  },
+  "mustVisit": [
+    {
+      "name": "Lalbagh Fort",
+      "type": "heritage",
+      "description": "An unfinished 17th-century Mughal fort in Old Dhaka — a walled complex of a mosque, the Diwan-i-Aam, fountains and the tomb of Pari Bibi, set in formal gardens above the Buriganga.",
+      "history": "Begun in 1678 by Prince Muhammad Azam Shah, son of Emperor Aurangzeb, and continued by the subahdar Shaista Khan. When Shaista Khan's daughter Pari Bibi ('Fairy Lady') died, he is said to have abandoned the fort as ill-omened; she lies buried within it.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7188, 90.3880],
+      "practical": {
+        "hours": "Open ~9 am–5 pm; closed one weekday and at midday in season",
+        "entryFee": "Nominal ticket (Bangladeshi / foreign rates differ)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Lalbagh, Old Dhaka, west of the city centre",
+        "distanceKm": 6,
+        "transport": "Rickshaw / CNG into Old Dhaka"
+      },
+      "bestTime": "Morning, before the heat and crowds",
+      "tips": [
+        "Combine with Ahsan Manzil and the Old Dhaka lanes",
+        "The small museum in the Diwan-i-Aam is worth a look"
+      ]
+    },
+    {
+      "name": "Ahsan Manzil (Pink Palace)",
+      "type": "heritage",
+      "description": "The rose-pink riverside palace of the Nawabs of Dhaka on the Buriganga — an Indo-Saracenic mansion crowned by a great dome, now a museum of the Nawab era.",
+      "history": "Renovated in 1872 by Nawab Abdul Ghani and named after his son Khwaja Ahsanullah, the palace was the seat of the Dhaka Nawab family. The All-India Muslim League was founded here in 1906. It is now preserved as a national museum.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7083, 90.4060],
+      "practical": {
+        "hours": "Open most days ~9:30 am–5:30 pm (closed one weekday)",
+        "entryFee": "Nominal ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Kumartoli on the Buriganga, Old Dhaka",
+        "distanceKm": 7,
+        "transport": "Rickshaw / CNG; pair with a Sadarghat boat ride"
+      },
+      "bestTime": "Morning light off the river",
+      "tips": [
+        "The river frontage is the classic photo angle",
+        "Approach through the bustling Islampur cloth bazaar"
+      ]
+    },
+    {
+      "name": "Dhakeshwari Temple",
+      "type": "religious",
+      "description": "The national Hindu temple of Bangladesh and one of the oldest in the country — a serene walled complex of shrines that gives the city, by one account, its very name.",
+      "history": "Traditionally traced to the 12th century and the reign of Ballal Sena, Dhakeshwari ('goddess of Dhaka') has been rebuilt over the centuries. It is the spiritual heart of Dhaka's Hindu community and the focus of the city's Durga Puja.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7242, 90.3880],
+      "practical": {
+        "hours": "Open daily, morning to evening; busiest at festival times",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Near Lalbagh / Dhaka University, Old Dhaka",
+        "distanceKm": 5,
+        "transport": "Rickshaw / CNG"
+      },
+      "bestTime": "Durga Puja (autumn) for the festival; mornings for quiet",
+      "tips": [
+        "Remove shoes before the shrines; dress modestly",
+        "Combine with Lalbagh Fort, close by"
+      ]
+    },
+    {
+      "name": "Jatiya Sangsad Bhaban (National Parliament)",
+      "type": "landmark",
+      "description": "Bangladesh's National Parliament — a monumental concrete masterpiece by the American architect Louis Kahn, ringed by water at Sher-e-Bangla Nagar and counted among the great buildings of the 20th century.",
+      "history": "Designed by Louis I. Kahn and completed in 1982, the complex is celebrated worldwide for its geometry of vast circular and triangular openings cut into raw concrete, and its surrounding artificial lake. The grounds are a favourite of Dhaka's evening walkers.",
+      "image": "https://images.unsplash.com/photo-1487958449943-2429e8be8625?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7625, 90.3785],
+      "practical": {
+        "hours": "Exterior and grounds accessible; interior visits require prior permission",
+        "entryFee": "Free (exterior)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Sher-e-Bangla Nagar, central Dhaka",
+        "distanceKm": 5,
+        "transport": "CNG / ride-share; Manik Mia Avenue runs alongside"
+      },
+      "bestTime": "Late afternoon for the light on the concrete and lake",
+      "tips": [
+        "Photograph from Manik Mia Avenue and the South Plaza",
+        "Interior tours must be arranged in advance through the authorities"
+      ]
+    },
+    {
+      "name": "Jatiyo Smriti Soudho (National Martyrs' Memorial)",
+      "type": "history",
+      "description": "The national monument to those who died in the 1971 Liberation War — seven soaring concrete planes rising in a folded spire over reflecting pools at Savar, on the edge of the city.",
+      "history": "Built after a 1978 design competition won by architect Syed Mainul Hossain and completed in the early 1980s, the memorial's seven pairs of triangular planes step up to a single point, each pair marking a milestone in the nation's struggle. Mass graves of 1971 lie within the grounds.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9080, 90.2580],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Savar, ~35 km north-west of central Dhaka on the Aricha highway",
+        "distanceKm": 35,
+        "transport": "Bus / ride-share toward Savar–Nabinagar"
+      },
+      "bestTime": "Cool months; especially moving on Independence and Victory Days",
+      "tips": [
+        "Maintain a respectful quiet — it is a memorial, not a park",
+        "Combine with Savar's other stops on the way out of the city"
+      ]
+    },
+    {
+      "name": "Sadarghat & the Buriganga",
+      "type": "landmark",
+      "description": "The teeming river port of Old Dhaka — the country's largest launch terminal, where paddle-steamers and ferries jostle on the Buriganga and the whole life of the river plays out at once.",
+      "history": "Sadarghat has been Dhaka's river gateway for centuries, the artery that made the city a Mughal trading capital. Today hundreds of launches leave here for the southern delta, and tiny rowboats (nouka) ferry people across for a few taka.",
+      "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7060, 90.4110],
+      "practical": {
+        "hours": "Always active; liveliest in the early morning and evening",
+        "entryFee": "Small terminal toll; boat rides by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At the southern edge of Old Dhaka on the Buriganga",
+        "distanceKm": 7,
+        "transport": "Rickshaw / CNG into Old Dhaka"
+      },
+      "bestTime": "Early morning for the river bustle and softer light",
+      "tips": [
+        "Hire a rowboat for a short crossing — the best view of the chaos",
+        "Mind your footing and your belongings in the crowds"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Old Dhaka Kacchi & Morog Polao",
+      "description": "The crown of Dhakaiya cuisine — kacchi biryani of mutton and fragrant rice slow-cooked in a sealed pot, and morog polao of chicken and ghee-rich rice, served at weddings and in the old city's legendary kitchens.",
+      "venue": "Old Dhaka biryani houses"
+    },
+    {
+      "type": "food",
+      "name": "Bakarkhani",
+      "description": "A thick, layered, lightly crisp flatbread of Old Dhaka, eaten with tea — a Mughal-era bread still baked in the old quarter's tandoors.",
+      "venue": "Old Dhaka bakeries"
+    },
+    {
+      "type": "festival",
+      "name": "Shakrain (Kite Festival)",
+      "description": "On Poush Sankranti in mid-January the rooftops of Old Dhaka erupt with kites by day and fireworks and fire-breathing by night — the old city's most exuberant festival.",
+      "timing": "Mid-January (Poush Sankranti)"
+    },
+    {
+      "type": "craft",
+      "name": "Dhamrai Bronze & Bell-Metal Craft",
+      "description": "In Dhamrai, the last family studios keep the ancient lost-wax process alive, casting bronze and bell-metal idols and vessels. The town is also famed for its giant Rath Jatra chariot festival.",
+      "venue": "Dhamrai, ~40 km north-west of Dhaka"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Star Mosque (Tara Masjid)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7170, 90.3990]
+    },
+    {
+      "name": "Armenian Church (Armanitola, 1781)",
+      "image": "https://images.unsplash.com/photo-1438032005730-c779502df39b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7110, 90.4010]
+    },
+    {
+      "name": "Curzon Hall (1904)",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7280, 90.4030]
+    },
+    {
+      "name": "Sat Gombuj Mosque (17th century)",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7590, 90.3590]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-dhaka?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Dhaka&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Dhaka&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Dhaka&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3001" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "dhaka-lalbagh", "title": "Climb Lalbagh Fort and find Pari Bibi's tomb", "category": "place", "detail": "An unfinished Mughal fort of 1678 with a mosque, audience hall and the tomb of Shaista Khan's daughter, abandoned as ill-omened after her death.", "whereOrHow": "Lalbagh, Old Dhaka", "bestTime": "Morning" },
+    { "id": "dhaka-ahsan-manzil", "title": "Tour the Pink Palace, Ahsan Manzil", "category": "place", "detail": "The domed riverside palace of the Dhaka Nawabs on the Buriganga — and the birthplace of the All-India Muslim League in 1906.", "whereOrHow": "Kumartoli, Old Dhaka" },
+    { "id": "dhaka-star-mosque", "title": "See the blue stars of the Star Mosque", "category": "place", "detail": "A mosque whose domes and walls are studded with blue-star mosaics made from English and Japanese porcelain.", "whereOrHow": "Armanitola, Old Dhaka" },
+    { "id": "dhaka-parliament", "title": "Stand before Louis Kahn's National Parliament", "category": "moment", "detail": "One of the 20th century's great buildings — vast geometric voids cut into raw concrete, ringed by water at Sher-e-Bangla Nagar.", "whereOrHow": "Manik Mia Avenue", "bestTime": "Late afternoon" },
+    { "id": "dhaka-smriti-soudho", "title": "Pay respects at the National Martyrs' Memorial", "category": "moment", "detail": "Seven folded concrete planes rise to a point at Savar in memory of those killed in 1971.", "whereOrHow": "Savar" },
+    { "id": "dhaka-buriganga-boat", "title": "Cross the Buriganga in a rowboat from Sadarghat", "category": "experience", "detail": "Hire a tiny nouka and slip between the launches at the country's busiest river port — the best seat for Old Dhaka's river life.", "whereOrHow": "Sadarghat", "bestTime": "Early morning" },
+    { "id": "dhaka-kacchi", "title": "Eat kacchi biryani in an Old Dhaka lane", "category": "food", "detail": "Sealed-pot mutton biryani is the city's signature feast — find it in the legendary kitchens of the old quarter.", "whereOrHow": "Old Dhaka biryani houses" },
+    { "id": "dhaka-food-walk", "title": "Do an Old Dhaka food walk", "category": "food", "detail": "Bakarkhani and tea, haleem, nehari, borhani and, in Ramadan, the famous iftar bazaar of Chowk Bazar.", "whereOrHow": "Old Dhaka (Chowk Bazar, Nazira Bazar)", "bestTime": "Evening; Ramadan for the iftar bazaar" },
+    { "id": "dhaka-shakrain", "title": "Fly a kite on a rooftop at Shakrain", "category": "experience", "detail": "Mid-January, the old city's roofs fill with kites by day and fireworks by night — Dhaka's most joyful festival.", "whereOrHow": "Old Dhaka rooftops", "bestTime": "Mid-January" },
+    { "id": "dhaka-liberation-museum", "title": "Visit the Liberation War Museum", "category": "place", "detail": "The powerful national museum of the 1971 war — its story told through artefacts, photographs and relics.", "whereOrHow": "Agargaon, Dhaka" },
+    { "id": "dhaka-dhamrai-bronze", "title": "Watch the lost-wax bronze casters at Dhamrai", "category": "experience", "detail": "The last family studios casting bronze and bell-metal by the ancient lost-wax method — and, in summer, the giant Rath Jatra chariot.", "whereOrHow": "Dhamrai", "bestTime": "Rath Jatra (June/July) for the chariot" },
+    { "id": "dhaka-curzon-hall", "title": "Wander Curzon Hall and the Shaheed Minar", "category": "place", "detail": "The red Indo-Saracenic Curzon Hall (1904) and the Language Movement's Shaheed Minar, in the heart of Dhaka University.", "whereOrHow": "Dhaka University area" }
+  ],
+  "foods": [
+    { "name": "Kacchi Biryani", "description": "Old Dhaka's signature — marinated mutton and fragrant rice slow-cooked together in a sealed pot, served at every wedding worth the name.", "whereToFind": "Old Dhaka biryani houses" },
+    { "name": "Morog Polao", "description": "Chicken and ghee-rich aromatic rice — the gentler cousin of kacchi, beloved across the city.", "whereToFind": "Old Dhaka kitchens and restaurants" },
+    { "name": "Bakarkhani", "description": "A thick, layered, lightly crisp flatbread of Mughal lineage, eaten with tea.", "whereToFind": "Old Dhaka bakeries" },
+    { "name": "Haleem", "description": "Slow-cooked lentil, wheat and meat porridge — a Dhaka staple, especially in Ramadan.", "whereToFind": "Old and New Dhaka eateries" },
+    { "name": "Nehari & Paya", "description": "Rich slow-cooked trotter and shank stews, traditionally a breakfast of the old city.", "whereToFind": "Old Dhaka morning eateries" },
+    { "name": "Borhani", "description": "A spiced, salty yogurt drink served with biryani to cut the richness — uniquely Dhakaiya.", "whereToFind": "Biryani houses citywide" },
+    { "name": "Chowk Bazar Iftar", "description": "The famous Ramadan iftar bazaar of Old Dhaka, headlined by the legendary 'boro baper polai khay' mixed fry.", "whereToFind": "Chowk Bazar, Old Dhaka (Ramadan)" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Nawab Khwaja Salimullah",
+      "knownFor": "Nawab of Dhaka, philanthropist and a founding architect of the All-India Muslim League (1906); a major patron of education whose family seat was Ahsan Manzil. Born at Ahsan Manzil.",
+      "era": "1871 – 1915"
+    },
+    {
+      "name": "Nawab Khwaja Ahsanullah",
+      "knownFor": "Nawab of Dhaka, poet and philanthropist who funded the city's first piped water and electricity; Ahsan Manzil is named after him.",
+      "era": "1846 – 1901"
+    }
+  ],
+  "didYouKnow": [
+    "Dhaka became the Mughal provincial capital in 1610 under Islam Khan, who named it 'Jahangir Nagar' after the emperor Jahangir.",
+    "Lalbagh Fort, begun in 1678, was left unfinished after the death of Pari Bibi, the daughter of subahdar Shaista Khan, who is buried within it.",
+    "The National Parliament building was designed by the American architect Louis Kahn and is regarded as one of the masterpieces of 20th-century architecture.",
+    "The National Martyrs' Memorial at Savar, designed by Syed Mainul Hossain, rises in seven folded planes to remember the dead of the 1971 Liberation War.",
+    "Dhaka was once the world centre of muslin — the legendary Dhakai muslin, the finest cotton cloth ever woven, made on the banks of the Buriganga."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Dhaka Metropolitan Police Control Room", "phone": "—" },
+      { "name": "Lalbagh Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Dhaka Medical College Hospital", "phone": "—" },
+      { "name": "Suhrawardy Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
