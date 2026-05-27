@@ -1,0 +1,309 @@
+{
+  "name": "Magura",
+  "division": "Khulna",
+  "tagline": "Land of Raja Sitaram's ruined fort, riverside maths, and the poets of greater Jessore.",
+  "stats": {
+    "area": "1039.10 sq km",
+    "population": "1,033,115",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry; rivers calm and fields green)",
+    "gettingThere": "By road from Dhaka (~176 km via the Padma Bridge / Faridpur, ~4–5 hr) or from Jashore (~50 km, ~1.5 hr). Magura has no railway station and no airport — the nearest railhead and airport are both at Jashore.",
+    "difficulty": "Easy — flat terrain, short upazila hops by CNG and easybike."
+  },
+  "mustVisit": [
+    {
+      "name": "Palace & Fort of Raja Sitaram Ray (Mohammadpur)",
+      "type": "heritage",
+      "description": "The ruins of the fortified capital of Raja Sitaram Ray, the warrior-king who rebelled against the Mughals and carved out a short-lived independent Hindu kingdom in Bengal at the turn of the 18th century.",
+      "history": "Sitaram Ray rose from a Mughal revenue official to zamindar and then to the title of Raja, settling his estate at Mohammadpur around 1697–98. He raised a square earthen-brick fort — each side no less than 1,300 feet (about 400 m) — ringed by a moat, near Suryakunda. He was eventually defeated and executed by the Murshidabad nawab's forces in 1714. Most of the fort and palace have since collapsed, but the layout, tanks, and temple remains survive under Department of Archaeology protection.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4100, 89.5800],
+      "practical": {
+        "hours": "Daylight hours; open grounds",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 16 km east of Magura town, in Mohammadpur Upazila",
+        "distanceKm": 16,
+        "transport": "Bus or CNG to Mohammadpur bazar, then easybike to the palace site"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Pair it with the Dashabhuja and Krishna temples in the same complex",
+        "Little signage on site — a local easybike driver doubles as a guide"
+      ]
+    },
+    {
+      "name": "Dashabhuja Temple & Krishna Pancharatna Temple",
+      "type": "religious",
+      "description": "Two temples raised by Raja Sitaram Ray that trace his own shift in faith — from the ten-armed goddess Durga (Dashabhuja) to Krishna devotion late in his reign.",
+      "history": "The Dashabhuja (ten-armed) temple was built while Sitaram followed Shakta worship. After he became a disciple of the Vaishnava guru Krishna Vallabh Goswami of Murshidabad, he erected a five-spired pancharatna temple to Krishna at Kanainagar, just west of the Mohammadpur fort. Both are early-18th-century brick temples now under archaeological care.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4125, 89.5745],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Within the Raja Sitaram Ray complex, Mohammadpur, ~16 km east of town",
+        "distanceKm": 16,
+        "transport": "Easybike from Mohammadpur bazar"
+      },
+      "bestTime": "Durga Puja (Sep–Oct) for the festival; cool months for a quiet visit",
+      "tips": [
+        "Remove shoes before stepping onto the temple platform",
+        "The terracotta detailing photographs best in low side-light"
+      ]
+    },
+    {
+      "name": "Siddheshwari Math, Atharkhada",
+      "type": "religious",
+      "description": "A riverside Hindu monastery (math) on the bank of the Nabaganga at Atharkhada, the most accessible heritage site from Magura town.",
+      "history": "Local tradition holds the monastery and its Kali idol to be very old; it was restored about two centuries ago by a Brahmin ascetic named Amalananda. The complex sits among old trees on the riverbank and remains an active place of worship.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4750, 89.4350],
+      "practical": {
+        "hours": "Open daily, daylight hours",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 3 km from Magura town centre at Atharkhada",
+        "distanceKm": 3,
+        "transport": "Easybike or rickshaw from town"
+      },
+      "bestTime": "Late afternoon by the river",
+      "tips": [
+        "Combine with a short country-boat ride on the Nabaganga",
+        "Dress modestly inside the shrine"
+      ]
+    },
+    {
+      "name": "Kazi Kader Newaj's Bari (Mujdia, Sreepur)",
+      "type": "heritage",
+      "description": "The home of the poet Kazi Kader Newaj, best loved for his poem 'Maa', in Mujdia village of Sreepur Upazila — where he spent his later years.",
+      "history": "Built around 1900, the house became the poet's residence after his 1966 retirement from teaching. Newaj won the Bangla Academy Literary Award in 1963. The building is fragile and parts have fallen into ruin, but it draws literary pilgrims to Sreepur.",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5700, 89.4100],
+      "practical": {
+        "hours": "Exterior accessible during daylight",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 12 km north of Magura town, in Sreepur Upazila",
+        "distanceKm": 12,
+        "transport": "Bus or CNG to Sreepur, then easybike to Mujdia"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "The structure is unsafe — view the exterior only",
+        "Ask in Mujdia village for directions; it is off the main road"
+      ]
+    },
+    {
+      "name": "Sreepur Zamindar Bari",
+      "type": "heritage",
+      "description": "The crumbling remains of a zamindar's estate in Sreepur, associated locally with the legendary Birat Raja — a quiet, atmospheric ruin in the northern reaches of the district.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5650, 89.4000],
+      "practical": {
+        "hours": "Daylight hours (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Sreepur Upazila, ~13 km north of Magura town",
+        "distanceKm": 13,
+        "transport": "Bus or CNG to Sreepur bazar, then easybike"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Pair with Kazi Kader Newaj's bari in the same upazila",
+        "Bring water — no shops at the site"
+      ]
+    },
+    {
+      "name": "Nabaganga Riverfront",
+      "type": "nature",
+      "description": "The slow Nabaganga curls along the edge of Magura town and through Atharkhada — the district's lifeline and its best spot for a sunset country-boat ride.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4850, 89.4150],
+      "practical": {
+        "hours": "Best at dawn and dusk",
+        "entryFee": "Free (boat hire negotiable)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Riverbank ghats within and just east of Magura town",
+        "distanceKm": 1,
+        "transport": "Rickshaw or easybike to the nearest ghat"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Agree the boat fare before you set off",
+        "Combine with a visit to Siddheshwari Math on the same bank"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Chui Jhal",
+      "description": "The signature spice of greater Khulna–Jessore — woody stems of the chui (Piper chaba) vine slow-cooked with beef or mutton for a deep, peppery heat. Found across Magura's meat-curry eateries.",
+      "venue": "Local rice-meal restaurants, Magura town"
+    },
+    {
+      "type": "food",
+      "name": "Khejur Gur (Date-Palm Jaggery)",
+      "description": "Greater Jessore is the date-palm-sap heartland of Bangladesh; in winter, gachhis tap the trees at dawn and boil the sap down to fragrant gur sold at rural haats around Magura.",
+      "venue": "Rural haats, December–February"
+    },
+    {
+      "type": "festival",
+      "name": "Jarigan & Kavigan",
+      "description": "Magura's living folk-song traditions — narrative Jarigan and the improvised verse-duels of Kavigan, alongside Sarigan, Bhatiali, Jatra and Pala performed at village gatherings.",
+      "timing": "Winter season (varies by village)"
+    },
+    {
+      "type": "mela",
+      "name": "Mohammadpur Temple Fair",
+      "description": "Seasonal religious fairs gather at the Sitaram-era Dashabhuja and Krishna temples in Mohammadpur during the autumn puja season, drawing devotees and traders to the old fort grounds.",
+      "timing": "Durga / Kali Puja (Sep–Nov)",
+      "coordinates": [23.4125, 89.5745]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Palace & Fort of Raja Sitaram Ray (Mohammadpur)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4100, 89.5800]
+    },
+    {
+      "name": "Dashabhuja & Krishna Pancharatna Temples",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4125, 89.5745]
+    },
+    {
+      "name": "Siddheshwari Math, Atharkhada",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4750, 89.4350]
+    },
+    {
+      "name": "Kazi Kader Newaj's Bari, Sreepur",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5700, 89.4100]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-magura?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Magura&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Sohag Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Magura&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Magura&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "magura-sitaram-fort", "title": "Walk the ruins of Raja Sitaram Ray's fort", "category": "place", "detail": "A 400-metre-square earthen-brick fort and palace, raised around 1697 by a king who briefly defied the Mughals. Most has collapsed, but the moat line and temple remains still trace the old capital.", "whereOrHow": "Mohammadpur, ~16 km east of town", "bestTime": "Cool months, morning" },
+    { "id": "magura-dashabhuja", "title": "See the Dashabhuja temple Sitaram built to Durga", "category": "place", "detail": "The ten-armed-goddess temple raised in the king's Shakta years, before he turned to Krishna devotion.", "whereOrHow": "Sitaram complex, Mohammadpur" },
+    { "id": "magura-krishna-temple", "title": "Find the five-spired Krishna temple at Kanainagar", "category": "place", "detail": "A pancharatna (five-towered) brick temple Sitaram dedicated to Krishna late in his reign, just west of the fort.", "whereOrHow": "Kanainagar, Mohammadpur" },
+    { "id": "magura-siddheshwari", "title": "Visit Siddheshwari Math on the Nabaganga bank", "category": "place", "detail": "A riverside Kali monastery restored two centuries ago by the ascetic Amalananda — the easiest heritage stop from town.", "whereOrHow": "Atharkhada, ~3 km from Magura town", "bestTime": "Late afternoon" },
+    { "id": "magura-nabaganga-boat", "title": "Take a sunset country-boat ride on the Nabaganga", "category": "experience", "detail": "The river that gives Magura its shape is at its best in the last hour of light — slow, green, and quiet.", "whereOrHow": "Ghats in and east of Magura town", "bestTime": "Oct–Mar, dusk" },
+    { "id": "magura-newaj-bari", "title": "Pay respects at poet Kazi Kader Newaj's home", "category": "place", "detail": "The Sreepur house of the poet behind 'Maa', built around 1900 and now fragile. A quiet literary pilgrimage.", "whereOrHow": "Mujdia, Sreepur Upazila" },
+    { "id": "magura-sreepur-zamindar", "title": "Explore the Sreepur Zamindar Bari ruins", "category": "place", "detail": "A crumbling estate tied in local lore to the legendary Birat Raja, in the district's quiet north.", "whereOrHow": "Sreepur Upazila" },
+    { "id": "magura-chui-jhal", "title": "Eat beef chui jhal at a local eatery", "category": "food", "detail": "The peppery, slow-cooked meat curry of greater Khulna–Jessore, built on the woody chui vine. Order it with plain rice.", "whereOrHow": "Rice-meal restaurants, Magura town" },
+    { "id": "magura-khejur-gur", "title": "Buy fresh khejur gur at a winter haat", "category": "food", "detail": "This is date-palm country — in winter, sap tapped at dawn is boiled into fragrant jaggery sold at village markets.", "whereOrHow": "Rural haats", "bestTime": "December–February" },
+    { "id": "magura-roshogolla", "title": "Try greater-Jessore-style roshogolla", "category": "food", "detail": "The southwest is famous for soft, spongy, syrup-soaked chhana sweets — Magura's sweet shops carry the tradition.", "whereOrHow": "Sadar bazaar sweet shops" },
+    { "id": "magura-jarigan", "title": "Catch a Jarigan or Kavigan performance", "category": "experience", "detail": "Narrative Jarigan and improvised Kavigan verse-duels are still performed at winter village gatherings across the district.", "whereOrHow": "Village fairs and gatherings", "bestTime": "Winter season" },
+    { "id": "magura-puja-fair", "title": "Join the autumn temple fair at Mohammadpur", "category": "moment", "detail": "When the puja season comes, the old Sitaram temple grounds fill with devotees, lights, and traders — history and festival in one place.", "whereOrHow": "Dashabhuja/Krishna temples, Mohammadpur", "bestTime": "Sep–Nov puja season" }
+  ],
+  "foods": [
+    { "name": "Beef Chui Jhal", "description": "Beef slow-cooked with woody chui (Piper chaba) stems — the signature peppery curry of greater Khulna–Jessore.", "whereToFind": "Rice-meal restaurants, Magura town" },
+    { "name": "Mutton Chui Jhal", "description": "The same chui-vine heat with goat meat, a richer take favoured at gatherings.", "whereToFind": "Local eateries, Magura & Mohammadpur" },
+    { "name": "Khejur Gur", "description": "Date-palm jaggery boiled down from winter sap — the base of countless regional pithas and a prized tea sweetener.", "whereToFind": "Rural haats, December–February" },
+    { "name": "Roshogolla", "description": "Soft, spongy chhana balls in light syrup, in the celebrated southwest (greater Jessore) sweet tradition.", "whereToFind": "Sadar bazaar sweet shops" },
+    { "name": "Khejur Gur Pitha", "description": "Winter rice-flour pithas — chitoi and bhapa — served with fresh date-palm jaggery and grated coconut.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Panta Bhat with Shutki", "description": "Fermented rice with dried-fish bhuna, a rural southwest staple eaten on warm mornings.", "whereToFind": "Village haats and home-style canteens" },
+    { "name": "Nabaganga River Fish", "description": "Fresh catch from the Nabaganga and Madhumati — small carp and catfish in light mustard curries.", "whereToFind": "Home-style restaurants, Magura town" },
+    { "name": "Doi (Sweet Yogurt)", "description": "Thick, set sweet yogurt in the southwestern style, sold alongside the sweets at heritage shops.", "whereToFind": "Sadar bazaar sweet shops" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Raja Sitaram Ray",
+      "knownFor": "Warrior-king who rebelled against Mughal authority and ruled a short-lived independent kingdom from his fortified capital at Mohammadpur, Magura. Executed by Murshidabad's forces in 1714.",
+      "era": "1658 – 1714"
+    },
+    {
+      "name": "Syed Ali Ahsan",
+      "knownFor": "Poet, literary scholar and educator born in Alokdia village, Magura. Director of Bangla Academy and vice-chancellor of Jahangirnagar and Rajshahi universities; awarded the Ekushey Padak (1982) and the Independence Day Award (1987).",
+      "era": "1920 – 2002"
+    },
+    {
+      "name": "Kazi Kader Newaj",
+      "knownFor": "Poet best known for 'Maa' and winner of the Bangla Academy Literary Award (1963). Born in Murshidabad, he made his home at Mujdia in Sreepur Upazila, Magura, where his house still stands.",
+      "era": "1909 – 1983"
+    }
+  ],
+  "didYouKnow": [
+    "Magura became a district on 1 March 1984, carved out of the greater Jessore region — its four upazilas are Magura Sadar, Mohammadpur, Shalikha and Sreepur.",
+    "Raja Sitaram Ray built a roughly 400-metre-square moated fort at Mohammadpur around 1697 and briefly ran an independent kingdom in defiance of the Mughal Empire.",
+    "Sitaram's two surviving temples chart his change of faith — the ten-armed Dashabhuja temple from his Shakta years and a five-spired Krishna temple built after he turned to Vaishnavism.",
+    "The poet Syed Ali Ahsan, born in Alokdia village here, went on to head Bangla Academy and lead three universities.",
+    "Magura sits in the date-palm belt of greater Jessore, so its winters bring the dawn sap harvest and fragrant khejur gur."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Magura Sadar Police Station", "phone": "—" },
+      { "name": "Mohammadpur Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Magura 250-Bed General Hospital", "phone": "—" },
+      { "name": "Sreepur Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
