@@ -32,7 +32,7 @@ export const DISTRICT_TO_DIVISION: Record<string, string> = {
   "natore": "Rajshahi", "pabna": "Rajshahi", "rajshahi": "Rajshahi", "sirajganj": "Rajshahi",
 
   // Khulna Division
-  "bagherhat": "Khulna", "chuadanga": "Khulna", "jessore": "Khulna", "jhenaidah": "Khulna",
+  "bagerhat": "Khulna", "chuadanga": "Khulna", "jessore": "Khulna", "jhenaidah": "Khulna",
   "khulna": "Khulna", "kushtia": "Khulna", "magura": "Khulna", "meherpur": "Khulna",
   "narail": "Khulna", "satkhira": "Khulna",
 
