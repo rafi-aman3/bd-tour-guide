@@ -1,0 +1,300 @@
+{
+  "name": "Panchagarh",
+  "division": "Rangpur",
+  "tagline": "Bangladesh's far-north tip — Kanchenjunga on the horizon, tea on the slopes, and a fifth-century fort city in the fields.",
+  "stats": {
+    "area": "1404.63 sq km",
+    "population": "1,179,843",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to February (cool, clear skies; the only season Kanchenjunga is visible from Tetulia)",
+    "gettingThere": "By train to Panchagarh station on the far-northern line, or by road from Dhaka (~10–12 hr) and Rangpur (~3 hr). No airport — the nearest is Saidpur (Nilphamari), ~95 km south.",
+    "difficulty": "Easy — flat, cool and uncrowded, but distances within the long, narrow district add up."
+  },
+  "mustVisit": [
+    {
+      "name": "Kanchenjunga View from Tetulia",
+      "type": "nature",
+      "description": "On clear winter mornings, the world's third-highest mountain — Kangchenjunga, 157 km north in the Sikkim Himalaya — rises pink-and-white above the Tetulia tea fields. The view is one of Bangladesh's rarest natural sights.",
+      "history": "Tetulia is the country's northernmost point, and only here does the line of the eastern Himalaya open clear of haze. Visibility is best from late October to February, in the first hour after sunrise.",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.5050, 88.4150],
+      "practical": {
+        "hours": "Best ~6:00–7:30 am",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 55 km north of Panchagarh town in Tetulia Upazila",
+        "distanceKm": 55,
+        "transport": "Car or microbus along the Panchagarh–Banglabandha highway; stay overnight in Tetulia for the dawn view"
+      },
+      "bestTime": "Late October to February, dawn",
+      "tips": [
+        "Stay overnight at Tetulia — you must be in place before sunrise",
+        "The Mahananda riverbank at Tetulia and the Dak Bungalow lawn are the classic vantage points",
+        "Carry a long lens — the mountain is far and shows best in the first 90 minutes of daylight"
+      ]
+    },
+    {
+      "name": "Banglabandha Zero Point",
+      "type": "landmark",
+      "description": "The northernmost land port of Bangladesh and the only one that connects the country, via India's Siliguri Corridor, toward Nepal and Bhutan. The zero-point gate marks the final 200 metres of the country.",
+      "history": "Activated as a land port in 1997 and steadily upgraded since, Banglabandha is a strategic chokepoint of South Asian overland trade. Bangladesh, India, Nepal and Bhutan all meet within a short drive of this gate.",
+      "image": "https://images.unsplash.com/photo-1604934385267-3a0d4e8d59ff?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.6400, 88.4100],
+      "practical": {
+        "hours": "Viewable in daylight; immigration ~9 am – 5 pm",
+        "entryFee": "Free to visit; crossing needs valid passport and onward visa",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 60 km north of Panchagarh town, at the far end of Tetulia Upazila",
+        "distanceKm": 60,
+        "transport": "Car or microbus from Tetulia / Panchagarh town"
+      },
+      "bestTime": "Mid-morning, before queues",
+      "tips": [
+        "Photography of border-fence infrastructure is restricted",
+        "Carry NID or passport even if you are not crossing",
+        "Pair with sunrise at Tetulia and the tea gardens on the way"
+      ]
+    },
+    {
+      "name": "Bhitargarh Fort City",
+      "type": "heritage",
+      "description": "The largest fortified settlement in Bangladesh — a roughly 25-square-kilometre archaeological landscape of moats, ramparts, dighis and temple foundations from a 5th–6th century city-state.",
+      "history": "Bhitargarh is one of the fifteen 'garhs' (fortifications) for which Panchagarh ('five garhs') is named. Excavations have traced an early-medieval fort city with four concentric ramparts, the great Maharaja Dighi tank, and remnants of Buddhist and Hindu shrines.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.4000, 88.6500],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 16 km north-east of Panchagarh town in Amarkhana union, Panchagarh Sadar",
+        "distanceKm": 16,
+        "transport": "CNG or easybike from town to Amarkhana"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Little has been excavated for display — bring a guide or read up before going",
+        "The Maharaja Dighi tank is the easiest single landmark to find inside the site"
+      ]
+    },
+    {
+      "name": "Tetulia Tea Gardens",
+      "type": "nature",
+      "description": "The country's second tea belt — neat green slopes that begin a few kilometres from the Indian border, planted in the late 1990s after Sylhet and now producing a distinctive northern leaf.",
+      "history": "Commercial tea cultivation in Panchagarh was begun in 1998 by industrialist Kazi Shahid Ahmed of Kazi & Kazi Tea Estate, taking the cue from neighbouring Darjeeling. The district now has more than 240 tea gardens covering well over 2,000 acres.",
+      "image": "https://images.unsplash.com/photo-1582450871972-aabbf90b7da4?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.4500, 88.4300],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free (visit by arrangement at the larger estates)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Tea belt runs along the Panchagarh–Tetulia road and around Tetulia town",
+        "distanceKm": 50,
+        "transport": "Car along the Tetulia road; many estates are right by the highway"
+      },
+      "bestTime": "October to March (cool, clear); plucking season for the spectacle",
+      "tips": [
+        "Ask permission before walking into a garden — these are working estates",
+        "Kazi & Kazi is the best-known organic estate; smaller smallholder plots line the road"
+      ]
+    },
+    {
+      "name": "Mirzapur Shahi Mosque (Atwari)",
+      "type": "religious",
+      "description": "A small Mughal-era brick mosque in Atwari, said to be roughly three centuries old — among the oldest standing mosques in the far north of Bangladesh.",
+      "history": "Listed as an archaeological monument, the mosque follows the regional Mughal three-dome pattern and sits 200 yards east of Mirzapur Bazar.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.2200, 88.4800],
+      "practical": {
+        "hours": "Open during five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km south-west of Panchagarh town in Atwari Upazila",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Atwari, then easybike to Mirzapur"
+      },
+      "bestTime": "Outside Friday noon prayers; morning light",
+      "tips": [
+        "Cover head if female; remove shoes before entering",
+        "Combine with the Bhitargarh site for a heritage day"
+      ]
+    },
+    {
+      "name": "Tetulia Dak Bungalow & Mahananda Riverbank",
+      "type": "heritage",
+      "description": "A weathered Victorian dak bungalow on the Mahananda riverbank — said to have been built by the Cooch Behar royals in the British period, and one of the best vantage points for the Kanchenjunga view.",
+      "history": "The bungalow sits a short walk from the India border on the Mahananda. The riverbed, scattered with stones washed down from the Himalaya, is the focus of the district's famous stone-lifting livelihoods.",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.5300, 88.4100],
+      "practical": {
+        "hours": "Exterior/lawn accessible in daylight",
+        "entryFee": "Free (visit the lawn)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Tetulia town on the Mahananda, ~55 km north of Panchagarh",
+        "distanceKm": 55,
+        "transport": "Car to Tetulia"
+      },
+      "bestTime": "Cool months, dawn and dusk",
+      "tips": [
+        "The bungalow is owned by the local administration — be respectful, do not enter without permission",
+        "Walk down to the river to see the stone-lifters at work"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Panchagarh Tea",
+      "description": "The country's second tea belt — light, bright leaf grown on flat tea gardens just south of the Himalayan foothills. Often drunk as 'lal cha' with milk on the side.",
+      "venue": "Tetulia tea estates & roadside cha stalls"
+    },
+    {
+      "type": "craft",
+      "name": "River Stones of the Mahananda",
+      "description": "Pebbles and small rocks washed down from the Himalaya into Panchagarh's rivers — collected by hand and dredged for construction across the country, the backbone of the district's stone economy.",
+      "venue": "Mahananda, Karatoya & Dahuk riverbanks"
+    },
+    {
+      "type": "landmark",
+      "name": "Rocks Museum",
+      "description": "A small, charming museum at the Government Women's College, Panchagarh, established in 1997 by Dr Nazmul Haque — a teaching collection of the stones the district's rivers carry down from the mountains.",
+      "venue": "Government Women's College, Panchagarh town",
+      "coordinates": [26.3400, 88.5500]
+    },
+    {
+      "type": "festival",
+      "name": "Bhitargarh Heritage Walks",
+      "description": "Department of Archaeology open days and university field trips bring a quiet flow of visitors to the 5th–6th century fort city — best timed for the cool, clear winter weeks.",
+      "timing": "Cool, dry season",
+      "coordinates": [26.4000, 88.6500]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Bhitargarh Fort City (5th–6th c.)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.4000, 88.6500]
+    },
+    {
+      "name": "Mirzapur Shahi Mosque (Atwari, ~300 yrs)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.2200, 88.4800]
+    },
+    {
+      "name": "Tetulia Dak Bungalow",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.5300, 88.4100]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-panchagarh?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Panchagarh&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Nabil Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Panchagarh&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Panchagarh Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Panchagarh&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Panchagarh&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "panchagarh-kanchenjunga", "title": "See Kanchenjunga at dawn from Tetulia", "category": "moment", "detail": "The world's third-highest peak, 157 km north, glowing pink in the first 30 minutes of light. The only spot in Bangladesh you can see it.", "whereOrHow": "Tetulia town, Mahananda riverbank", "bestTime": "Late Oct–Feb, sunrise" },
+    { "id": "panchagarh-banglabandha", "title": "Stand at Banglabandha Zero Point", "category": "place", "detail": "The northernmost land port of Bangladesh — the only one that connects the country, via India's Siliguri Corridor, toward Nepal and Bhutan.", "whereOrHow": "Tetulia Upazila", "bestTime": "Mid-morning" },
+    { "id": "panchagarh-bhitargarh", "title": "Walk the ramparts of Bhitargarh fort city", "category": "place", "detail": "The largest fortified settlement in Bangladesh — 25 square kilometres of 5th–6th-century moats, ramparts and tanks, including the great Maharaja Dighi.", "whereOrHow": "Amarkhana, Panchagarh Sadar", "bestTime": "Cool months" },
+    { "id": "panchagarh-tea-walk", "title": "Walk a row of the Tetulia tea gardens", "category": "experience", "detail": "Flat tea estates begun in 1998 by Kazi & Kazi — a quieter, cooler counterpart to Sylhet's hill plantations, with the Himalaya peeking above on a clear day.", "whereOrHow": "Tetulia tea belt", "bestTime": "Plucking season" },
+    { "id": "panchagarh-rocks-museum", "title": "Visit the Rocks Museum in Panchagarh town", "category": "place", "detail": "A charming college museum (est. 1997) of the stones the district's rivers carry down from the Himalaya — small, free and quietly unique.", "whereOrHow": "Government Women's College, Panchagarh" },
+    { "id": "panchagarh-mahananda-stones", "title": "Watch the stone-lifters on the Mahananda", "category": "moment", "detail": "Hundreds of labourers wade waist-deep into the cold river to lift Himalayan pebbles by hand — Panchagarh's signature livelihood, hard and honest.", "whereOrHow": "Mahananda riverbed, Tetulia", "bestTime": "Dry season morning" },
+    { "id": "panchagarh-mirzapur-mosque", "title": "Visit the Mirzapur Shahi Mosque in Atwari", "category": "place", "detail": "A small, three-centuries-old Mughal-era mosque, listed under the Department of Archaeology — easy to fold into a Bhitargarh day.", "whereOrHow": "Mirzapur, Atwari Upazila" },
+    { "id": "panchagarh-dak-bungalow", "title": "Sit on the lawn of Tetulia Dak Bungalow", "category": "place", "detail": "A Victorian bungalow on the Mahananda, said to have been built by the Cooch Behar royals, with one of the best Kanchenjunga vantage points in the country.", "whereOrHow": "Tetulia, on the Mahananda" },
+    { "id": "panchagarh-tea-lal-cha", "title": "Drink a glass of lal cha by the tea gardens", "category": "food", "detail": "Roadside stalls in Tetulia serve the local leaf in tiny glasses — strong, clear and best with a slice of lemon.", "whereOrHow": "Roadside cha stalls, Tetulia" },
+    { "id": "panchagarh-mahananda-fish", "title": "Eat Mahananda fish at a Tetulia canteen", "category": "food", "detail": "Bhetki, katla and ayer pulled from the cold river — ayer cooked in a fiery red-chili sauce is the local favourite.", "whereOrHow": "Tetulia town home-style restaurants" },
+    { "id": "panchagarh-aakher-gur", "title": "Buy fresh aakher gur at a winter haat", "category": "food", "detail": "North-Bengal sugarcane molasses, pressed and boiled at village mills — the base of winter pithas and tea.", "whereOrHow": "Rural haats", "bestTime": "Dec–Feb" },
+    { "id": "panchagarh-fifteen-garhs", "title": "Trace the fifteen garhs the district is named for", "category": "experience", "detail": "Bhitargarh, Hosaingarh, Mirgarh, Rajangarh, Devengarh — Panchagarh ('five garhs') is named for these old fortifications, and a slow drive joins the remnants together.", "whereOrHow": "Across Panchagarh Sadar & Boda", "bestTime": "Cool months" }
+  ],
+  "foods": [
+    { "name": "Panchagarh Tea", "description": "The country's second tea belt — light, bright leaf grown in Tetulia since 1998 and served as strong lal cha at every roadside stall.", "whereToFind": "Tetulia tea estates & roadside stalls" },
+    { "name": "Mahananda River Fish", "description": "Bhetki, katla and ayer from the cold Mahananda — ayer in a fiery red-chili and potol sauce is the local favourite.", "whereToFind": "Home-style restaurants, Tetulia & Panchagarh town" },
+    { "name": "Aakher Gur", "description": "Northern Bengal's sugarcane molasses, pressed and boiled at village mills — used in winter pithas and to sweeten tea.", "whereToFind": "Rural haats, Dec–Feb" },
+    { "name": "Aakher Gur Pitha", "description": "Winter rice pithas — chitoi and bhapa — drizzled with hot sugarcane molasses.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Sidol / Shutki Bhorta", "description": "Pungent north-Bengal fermented and dried-fish mash, pounded with chili and onion — a staple across Rangpur division.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Sugarcane (Akh) Juice", "description": "Fresh sugarcane juice pressed at roadside mills in the cane-growing belt — cold, sweet, and fortifying.", "whereToFind": "Roadside cane stalls" },
+    { "name": "Pulao with Country Chicken", "description": "Festive northern plate — fragrant pulao with deshi murgi curry, the local way to celebrate.", "whereToFind": "Restaurants in Panchagarh town" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Shoriful Islam",
+      "knownFor": "Left-arm fast-medium bowler for Bangladesh, born in Panchagarh on 3 June 2001. Starred in Bangladesh's 2020 U-19 World Cup-winning side and made his senior international debut in March 2021.",
+      "era": "born 2001"
+    }
+  ],
+  "didYouKnow": [
+    "Panchagarh became a district on 1 February 1984 and is the country's northernmost — its name comes from 'panch' (five) and 'garh' (fortification), after the five chief forts of the area.",
+    "Fifteen old garhs have been traced in the district; the biggest, Bhitargarh, is the largest fortified settlement in Bangladesh at roughly 25 sq km.",
+    "On clear winter mornings, the world's third-highest peak Kanchenjunga is visible from Tetulia, about 157 km north in the Sikkim Himalaya.",
+    "Commercial tea cultivation came to Panchagarh in 1998 by Kazi & Kazi Tea Estate — making it the country's second tea belt after Sylhet, with over 240 gardens today.",
+    "Panchagarh's rivers — Mahananda, Karatoya, Dahuk and others — carry down Himalayan stones; lifting and dredging them is one of the district's signature livelihoods."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Panchagarh Sadar Police Station", "phone": "—" },
+      { "name": "Tetulia Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Panchagarh District Hospital (Sadar)", "phone": "—" },
+      { "name": "Tetulia Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
