@@ -1,0 +1,297 @@
+{
+  "name": "Kurigram",
+  "division": "Rangpur",
+  "tagline": "Sixteen rivers, a hundred chars, and the home of Bhawaiya — Bangladesh's far north-west corner.",
+  "stats": {
+    "area": "2245.04 sq km",
+    "population": "2,329,160",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "November to February (cool, dry; the chars accessible and the Dharla calm)",
+    "gettingThere": "By train to Kurigram station on the northern line, or by road from Dhaka (~8 hr) and Rangpur (~1.5 hr). No airport — the nearest is Saidpur (Nilphamari), ~75 km away.",
+    "difficulty": "Easy in town and the Sadar belt; char (river-island) and Roumari trips are moderate and need dry-season timing."
+  },
+  "mustVisit": [
+    {
+      "name": "Ulipur Munshibari",
+      "type": "heritage",
+      "description": "The decaying 18th-century estate of the Munshi family at Dharanibari in Ulipur — a domed administrative house with playhouse, barnyard, Durga and Vishnu temples, dining hall and kitchen, all still legible amid the ruin.",
+      "history": "Founded in the mid-18th century during the reign of Nawab Sirajuddaula by a Mughal-era official, the estate served as the seat of a feudal lineage that gave the locality its name. The compound is now a protected antiquity under the Department of Archaeology of Bangladesh.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6800, 89.7400],
+      "practical": {
+        "hours": "Daylight (exterior only — the interior is structurally unsafe)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 22 km south-east of Kurigram town in Dharanibari union, Ulipur Upazila",
+        "distanceKm": 22,
+        "transport": "Bus or CNG to Ulipur, then easybike to Dharanibari"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Do not climb the upper floors — the masonry is failing",
+        "Pair with the Bhawaiya Academy at Ulipur for a cultural half-day"
+      ]
+    },
+    {
+      "name": "Chandamari Mosque (Rajarhat)",
+      "type": "religious",
+      "description": "A small three-domed Mughal-era brick mosque at Mandalpara in Rajarhat — one of the oldest standing mosques in Rangpur division.",
+      "history": "Believed to have been built between the late 16th and late 17th centuries during Mughal rule in Bengal, the mosque follows the classic three-dome plan with Islamic geometric ornament. It is listed under the Department of Archaeology.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8050, 89.5050],
+      "practical": {
+        "hours": "Open during five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Mandalpara, Rajarhat Upazila, ~15 km west of Kurigram town",
+        "distanceKm": 15,
+        "transport": "CNG or bus to Rajarhat, then easybike to Mandalpara"
+      },
+      "bestTime": "Outside Friday noon prayers; morning light",
+      "tips": [
+        "Cover head if female; remove shoes before entering",
+        "The interior is small — the carved façade is the highlight"
+      ]
+    },
+    {
+      "name": "Bhitorbond Zamindar Bari (Nageshwari)",
+      "type": "heritage",
+      "description": "An old zamindari mansion in Nageshwari that once served as the administrative seat of the Bhitorbond Pargana — a quiet, atmospheric ruin.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.9200, 89.7500],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 16 km north of Kurigram town in Nageshwari Upazila",
+        "distanceKm": 16,
+        "transport": "Bus or CNG to Nageshwari, then easybike"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Little is signposted — ask in Nageshwari bazar for directions",
+        "Combine with a stop at the Dudhkumar riverbank nearby"
+      ]
+    },
+    {
+      "name": "Dharla Bridge & Riverfront",
+      "type": "nature",
+      "description": "The 950-metre Dharla Bridge and the riverbank just outside Kurigram town — a popular sunset spot with grilled-corn stalls and easy access to the river.",
+      "history": "The 2nd Dharla Bridge, 950 m long and 9.80 m wide, has 19 spans and is the headline crossing on the road north out of Kurigram town.",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7900, 89.6000],
+      "practical": {
+        "hours": "Best at dawn and dusk",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the northern edge of Kurigram town, on the Dharla",
+        "distanceKm": 3,
+        "transport": "Rickshaw or easybike from town"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Walk down to the embankment for the wider view",
+        "Roadside stalls grill maize and serve sweet tea in the evenings"
+      ]
+    },
+    {
+      "name": "Chilmari River Port & Brahmaputra Chars",
+      "type": "nature",
+      "description": "The Brahmaputra river port at Chilmari and the chain of chars (river-islands) stretching out beyond it — a stark, wide-water landscape of sandbar farms and ferry boats.",
+      "history": "Chilmari has been a river port since the colonial period, once a major trading point on the Brahmaputra. The chars beyond it are dry-season homes to communities who farm maize, chili, groundnut and watermelon in the sandy soil.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5500, 89.7000],
+      "practical": {
+        "hours": "Daylight; go and return well before dark",
+        "entryFee": "Boat hire negotiable",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km south-east of Kurigram town in Chilmari Upazila",
+        "distanceKm": 35,
+        "transport": "Bus or CNG to Chilmari, then country boat from the port"
+      },
+      "bestTime": "Dry season (Nov–Mar); avoid monsoon flood months",
+      "tips": [
+        "Go with a local boatman who knows the current year's channels",
+        "Carry water and sun cover — there is no shade on the sandbars"
+      ]
+    },
+    {
+      "name": "Bhawaiya Academy, Ulipur",
+      "type": "landmark",
+      "description": "A modest tin-roofed academy in Ulipur that has been preserving and teaching Bhawaiya — the soulful folk music of the northern delta — for over three decades.",
+      "history": "Founded in 1994 when a former Durgapur union chairman, Golep Uddin Sarkar, donated five decimals of land, the academy has become the working heart of Bhawaiya in Bangladesh — running classes, gatherings and a small museum of folk instruments and recordings.",
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6850, 89.7350],
+      "practical": {
+        "hours": "Best to call ahead — performances are seasonal",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Ulipur Upazila, ~22 km south-east of Kurigram town",
+        "distanceKm": 22,
+        "transport": "Bus or CNG to Ulipur"
+      },
+      "bestTime": "Winter season for performances",
+      "tips": [
+        "Ask about a small recital — the elongated, mournful Bhawaiya tones repay a slow listen",
+        "Pair with Ulipur Munshibari in the same upazila"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "festival",
+      "name": "Bhawaiya Folk Music",
+      "description": "The signature folk tradition of greater Rangpur — Cooch Behar — Goalpara, with its long-drawn tones and themes of mahouts, mahishals and gariyals (cart drivers). Kurigram is one of its living centres.",
+      "timing": "Winter season; festivals and academy recitals",
+      "coordinates": [25.6850, 89.7350]
+    },
+    {
+      "type": "food",
+      "name": "Char Maize, Chili & Groundnut",
+      "description": "The chars of the Brahmaputra, Dharla and Teesta grow maize (bhutta), red chili and groundnut in the sandy soil — sold grilled at the ghats and dried at the rural haats.",
+      "venue": "Chilmari, Roumari, Char Rajibpur ghats & haats"
+    },
+    {
+      "type": "food",
+      "name": "Aakher Gur (Sugarcane Molasses)",
+      "description": "Northern Bengal's gur of choice — sugarcane molasses pressed and boiled at village mills, used in winter pithas and tea.",
+      "venue": "Rural haats, December–February"
+    },
+    {
+      "type": "craft",
+      "name": "Char Watermelon",
+      "description": "A newer success story — watermelons grown in the sandy char soil of the Brahmaputra, transforming dry-season livelihoods in Chilmari and Roumari.",
+      "venue": "Char ghats, dry season"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Ulipur Munshibari (18th c.)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.6800, 89.7400]
+    },
+    {
+      "name": "Chandamari Mosque (Mughal era)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8050, 89.5050]
+    },
+    {
+      "name": "Bhitorbond Zamindar Bari (Nageshwari)",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.9200, 89.7500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-kurigram?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Kurigram&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "SR Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Kurigram&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Kurigram Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Kurigram&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Kurigram&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "kurigram-bhawaiya", "title": "Hear a Bhawaiya song at the Ulipur academy", "category": "experience", "detail": "The elongated, mournful folk music of the cart-drivers and mahishals of the northern delta — kept alive at a tin-roofed academy founded in 1994.", "whereOrHow": "Bhawaiya Academy, Ulipur", "bestTime": "Winter" },
+    { "id": "kurigram-munshibari", "title": "Explore the ruined Ulipur Munshibari", "category": "place", "detail": "An 18th-century domed estate founded in Nawab Sirajuddaula's reign — playhouse, barnyard, temples and kitchens, all still legible in the ruin.", "whereOrHow": "Dharanibari, Ulipur" },
+    { "id": "kurigram-chandamari", "title": "Visit the three-domed Chandamari Mosque", "category": "place", "detail": "A small Mughal-era mosque at Mandalpara — one of the oldest standing mosques in Rangpur division.", "whereOrHow": "Mandalpara, Rajarhat" },
+    { "id": "kurigram-dharla-sunset", "title": "Watch sunset over the Dharla Bridge", "category": "moment", "detail": "The 950-metre, 19-span bridge frames the river at golden hour; embankment stalls grill corn as the evening rolls in.", "whereOrHow": "Northern edge of Kurigram town", "bestTime": "Oct–Mar, dusk" },
+    { "id": "kurigram-chilmari-char", "title": "Take a boat from Chilmari into the Brahmaputra chars", "category": "experience", "detail": "Step onto a sandbar island of maize, chili and watermelon and meet the communities who farm between the floods.", "whereOrHow": "Chilmari River Port", "bestTime": "Nov–Mar" },
+    { "id": "kurigram-bhitorbond", "title": "Find the Bhitorbond zamindar bari at Nageshwari", "category": "place", "detail": "The old administrative seat of the Bhitorbond Pargana — a quiet ruin in the district's north.", "whereOrHow": "Nageshwari Upazila" },
+    { "id": "kurigram-char-watermelon", "title": "Eat char-grown watermelon in spring", "category": "food", "detail": "A new lifeline crop on the Brahmaputra sandbars — bright, sweet melons from the dry-season chars.", "whereOrHow": "Chilmari & Roumari ghats", "bestTime": "Mar–May" },
+    { "id": "kurigram-grilled-bhutta", "title": "Snack on grilled char maize at a riverbank stall", "category": "food", "detail": "Corn from the chars, charred on the cob over coals — the simplest, best taste of the northern rivers.", "whereOrHow": "Dharla & Chilmari ghats", "bestTime": "Winter" },
+    { "id": "kurigram-aakher-gur", "title": "Buy fresh aakher gur at a winter haat", "category": "food", "detail": "Northern Bengal's sugarcane molasses, pressed and boiled at village mills — the base of pithas and tea.", "whereOrHow": "Rural haats", "bestTime": "Dec–Feb" },
+    { "id": "kurigram-haq", "title": "Read Syed Shamsul Haq on home ground", "category": "experience", "detail": "The 'sabyasachi' poet, novelist and playwright behind 'Payer Awaj Paowa Jay' was born here in 1935. His rivers and town shape the landscape around you.", "whereOrHow": "Kurigram town" },
+    { "id": "kurigram-dudhkumar", "title": "Visit a quieter riverbank on the Dudhkumar", "category": "moment", "detail": "Beyond the Dharla and Brahmaputra, the smaller Dudhkumar runs through Nageshwari — fewer visitors, the same wide light.", "whereOrHow": "Nageshwari riverbank ghats" },
+    { "id": "kurigram-pitha", "title": "Eat winter pitha with aakher gur", "category": "food", "detail": "Chitoi and bhapa rice cakes with northern sugarcane gur, served at winter-morning stalls in the upazila bazaars.", "whereOrHow": "Winter pitha stalls, district-wide", "bestTime": "Dec–Feb" }
+  ],
+  "foods": [
+    { "name": "Char Maize (Bhutta)", "description": "Corn grown on the chars of the Brahmaputra, Dharla and Teesta — grilled on the cob at the riverside ghats.", "whereToFind": "Dharla, Chilmari & Roumari ghats" },
+    { "name": "Char Watermelon", "description": "Sweet melons from the sandy char soil of the Brahmaputra — a newer dry-season crop with a famously bright juice.", "whereToFind": "Chilmari & Roumari ghats (Mar–May)" },
+    { "name": "Char Groundnut & Red Chili", "description": "Peanuts roasted warm at the ghats, and the fiery dried red chili of the chars.", "whereToFind": "Riverbank stalls & rural haats" },
+    { "name": "Aakher Gur", "description": "Sugarcane molasses pressed and boiled at village mills — the northern alternative to date-palm gur, used in tea and pithas.", "whereToFind": "Rural haats, Dec–Feb" },
+    { "name": "Aakher Gur Pitha", "description": "Winter rice pithas — chitoi and bhapa — drizzled with hot sugarcane molasses.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Sidol / Shutki Bhorta", "description": "Pungent north-Bengal fermented and dried-fish mash, pounded with chili and onion — a regional staple.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Brahmaputra & Dharla River Fish", "description": "Fresh catch from the big rivers — carp, catfish and small char-river fish in light mustard curries.", "whereToFind": "Home-style restaurants, Kurigram town" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Syed Shamsul Haq",
+      "knownFor": "'Sabyasachi' writer — poet, novelist, dramatist and translator across nearly every Bengali form. Born in Kurigram on 27 December 1935; author of 'Payer Awaj Paowa Jay', the canonical Liberation War drama. Honoured with the Bangla Academy Award, the Adamjee Award and the Ekushey Padak.",
+      "era": "1935 – 2016"
+    }
+  ],
+  "didYouKnow": [
+    "Kurigram became a district on 1 February 1984, carved out of greater Rangpur — its nine upazilas include the far-eastern chars of Roumari and Char Rajibpur.",
+    "The district sits at the confluence of the Brahmaputra, Dharla and Teesta, with a constellation of smaller rivers (Dudhkumar, Phulkumar) and dozens of seasonal chars.",
+    "Bhawaiya, the long-toned folk music of the northern delta, is at home here — taught and kept alive at the Bhawaiya Academy at Ulipur since 1994.",
+    "Ulipur Munshibari was founded in the mid-18th century during the reign of Nawab Sirajuddaula and is now a protected antiquity.",
+    "Chandamari Mosque in Rajarhat was built during Mughal rule (late 16th–17th century) — one of the oldest standing mosques in Rangpur division."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Kurigram Sadar Police Station", "phone": "—" },
+      { "name": "Ulipur Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Kurigram General Hospital (Sadar)", "phone": "—" },
+      { "name": "Ulipur Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
