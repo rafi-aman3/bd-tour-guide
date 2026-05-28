@@ -1,0 +1,315 @@
+{
+  "name": "Rangpur",
+  "division": "Rangpur",
+  "tagline": "Tajhat's palace, Carmichael's red brick, and the village where Begum Rokeya was born.",
+  "stats": {
+    "area": "2400.56 sq km",
+    "population": "3,169,614",
+    "established": "1984",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry) — May–July for Haribhanga mango season",
+    "gettingThere": "By train to Rangpur railway station, by road from Dhaka (~7–8 hr) and Bogura (~3 hr), or by plane to Saidpur airport (~50 km north). Rangpur is the divisional headquarters and the gateway to all eight northern districts.",
+    "difficulty": "Easy — flat terrain, a working divisional city with good hotels and a compact heritage core."
+  },
+  "mustVisit": [
+    {
+      "name": "Tajhat Palace (Rangpur Museum)",
+      "type": "heritage",
+      "description": "The grand neoclassical palace of the Tajhat zamindars on the southern edge of Rangpur city — broad marble stairs, a long arcaded façade and now the Rangpur Museum holding Pala-era sculpture and regional antiquities.",
+      "history": "Built in the early 20th century by Maharaja Kumar Gopal Lal Roy, a Sikh zamindar whose family had migrated from Punjab. The two-storey palace is shaped like a crown ('taj') and was acquired by the government after independence; the Department of Archaeology now operates the Rangpur Museum here.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7280, 89.2700],
+      "practical": {
+        "hours": "~10 am – 5 pm; closed one weekly day",
+        "entryFee": "Nominal museum ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 3 km south of Rangpur city centre at Tajhat",
+        "distanceKm": 3,
+        "transport": "Rickshaw, CNG or easybike from town"
+      },
+      "bestTime": "Cool months, mid-morning",
+      "tips": [
+        "The Pala-era stone sculpture in the museum is the highlight inside",
+        "The marble staircase photographs best in the morning"
+      ]
+    },
+    {
+      "name": "Carmichael College",
+      "type": "heritage",
+      "description": "One of the country's grand colonial college campuses — long red-brick wings, a handsome clocktower, shady avenues and broad lawns, all still in active academic use.",
+      "history": "Established in 1916 and named after Lord Carmichael, the then Governor of Bengal. For a century it has been one of north Bengal's most important seats of higher learning.",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7350, 89.2400],
+      "practical": {
+        "hours": "Campus accessible during college hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 2 km west of the city centre",
+        "distanceKm": 2,
+        "transport": "Rickshaw or easybike from town"
+      },
+      "bestTime": "Cool months, late afternoon",
+      "tips": [
+        "It is a working college — be respectful in academic blocks",
+        "Walk the back lawns and look up at the clocktower"
+      ]
+    },
+    {
+      "name": "Begum Rokeya Memorial Centre, Payrabondh (Mithapukur)",
+      "type": "heritage",
+      "description": "The birthplace of Begum Rokeya Sakhawat Hossain — pioneer of women's education in Bengal — at Payrabondh village in Mithapukur, now a memorial centre with her family home, a small museum and gardens.",
+      "history": "Rokeya was born here on 9 December 1880 to a Persian-Bengali Muslim aristocratic family whose ancestors had migrated from Tabriz. The memorial centre commemorates her life and her landmark works 'Sultana's Dream' and 'Padmarag', the schools she founded in Bhagalpur and Kolkata, and her broader role as the founder of women's education for Bengali Muslim women.",
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5500, 89.3000],
+      "practical": {
+        "hours": "~9 am – 5 pm; busiest on 9 December (her birth anniversary / Rokeya Day)",
+        "entryFee": "Free / nominal",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km south of Rangpur city in Payrabondh village, Mithapukur Upazila",
+        "distanceKm": 25,
+        "transport": "Bus or CNG to Mithapukur, then easybike to Payrabondh"
+      },
+      "bestTime": "9 December (Rokeya Day) or any cool-month morning",
+      "tips": [
+        "Read 'Sultana's Dream' before visiting — it makes the small museum read very differently",
+        "Pair with Mithapukur Mosque on the same morning"
+      ]
+    },
+    {
+      "name": "Mithapukur Mosque",
+      "type": "religious",
+      "description": "A small, beautifully proportioned late-Mughal brick mosque in Mithapukur — three domes with the central one raised, four octagonal corner minarets, and terracotta floral and vine motifs around the three mihrabs.",
+      "history": "Built in 1802 CE (1217 AH) by Sheikh Mohammad Asar, son of Sheikh Mohammad Saber. The compact 11.58 × 4.42 metre prayer hall is one of the best surviving examples of late-Mughal mosque architecture in northern Bangladesh, and is protected by the Department of Archaeology.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5500, 89.2800],
+      "practical": {
+        "hours": "Open during five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 22 km south of Rangpur city in Mithapukur Upazila",
+        "distanceKm": 22,
+        "transport": "Bus or CNG to Mithapukur"
+      },
+      "bestTime": "Outside Friday noon prayers; morning light",
+      "tips": [
+        "Cover head if female; remove shoes",
+        "The terracotta mihrab carvings are the highlight — look closely",
+        "Easy to combine with Payrabondh"
+      ]
+    },
+    {
+      "name": "Itakumari Rajbari (Pirgacha)",
+      "type": "heritage",
+      "description": "The arched, vine-grown ruins of an 18th-century zamindar estate in Pirgacha — broken halls, an old tank and a temple foundation, all slowly being reclaimed by the trees.",
+      "history": "Seat of an old north-Bengal zamindar family whose estate dates to the 18th century. The buildings have been ruined for generations; today the site is more atmosphere than architecture, but the scale of the masonry still reads.",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5000, 89.5000],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km east of Rangpur city in Pirgacha Upazila",
+        "distanceKm": 35,
+        "transport": "Bus or CNG to Pirgacha, then easybike to Itakumari"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Wear closed shoes — the brush is dense",
+        "Bring water; there are no shops at the ruin itself"
+      ]
+    },
+    {
+      "name": "Vinno Jagat Amusement & Cultural Park",
+      "type": "landmark",
+      "description": "A large family amusement and cultural park on the north-western edge of Rangpur city — rides, gardens, a small zoo and themed cultural sets, the popular weekend day-out of the divisional capital.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8350, 89.2100],
+      "practical": {
+        "hours": "~10 am – 7 pm",
+        "entryFee": "Ticketed (separate fees for rides)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 15 km north-west of Rangpur city on the Taraganj road",
+        "distanceKm": 15,
+        "transport": "Car, CNG or easybike from city"
+      },
+      "bestTime": "Cool months, weekend afternoons",
+      "tips": [
+        "Busy on holidays — go early for the rides",
+        "Pair with a Haribhanga mango orchard visit in summer"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Haribhanga Mango",
+      "description": "Rangpur's signature mango — fibreless, fleshy, very sweet, with a small seed. Grown mainly in Mithapukur, Badarganj, Pirganj and Sadar upazilas, and a key part of the district's June–July economy.",
+      "venue": "Mithapukur & Badarganj orchards and haats"
+    },
+    {
+      "type": "food",
+      "name": "Pelka",
+      "description": "The earthy north-Bengal greens-and-kalai-flour curry — a Rangpur-division home-cooking tradition that you'll find on every serious north-Bengal menu.",
+      "venue": "Home-style canteens, district-wide"
+    },
+    {
+      "type": "food",
+      "name": "Kalai Ruti & Sidol Bhorta",
+      "description": "Thick gram-flour rotis served hot with pungent fermented-fish sidol bhorta, mashed eggplant, or country-chicken curry — the standard north-Bengal breakfast plate.",
+      "venue": "Kalai Ghor & roadside dhabas, Rangpur city"
+    },
+    {
+      "type": "festival",
+      "name": "Rokeya Day",
+      "description": "Every 9 December the country marks Begum Rokeya's birth anniversary — Rangpur sees the largest gathering, with seminars, school programmes and a heavy flow of visitors to Payrabondh.",
+      "timing": "9 December",
+      "coordinates": [25.5500, 89.3000]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Tajhat Palace (early 20th c.)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7280, 89.2700]
+    },
+    {
+      "name": "Carmichael College (1916)",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.7350, 89.2400]
+    },
+    {
+      "name": "Mithapukur Mosque (1802)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5500, 89.2800]
+    },
+    {
+      "name": "Begum Rokeya Memorial, Payrabondh",
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5500, 89.3000]
+    },
+    {
+      "name": "Itakumari Rajbari (Pirgacha)",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.5000, 89.5000]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-rangpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Rangpur&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Shyamoli Paribahan", "phone": "—" },
+        { "name": "SR Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Rangpur&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Rangpur Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "US-Bangla Airlines (via Saidpur)", "url": "https://usbair.com/" },
+        { "name": "Biman Bangladesh (via Saidpur)", "url": "https://biman-airlines.com/?from={fromCityAir}&to=SPD&date={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Saidpur Airport (SPD), ~50 km north", "phone": "—" }
+      ]
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Rangpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Rangpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "rangpur-tajhat", "title": "Stand on the marble stairs of Tajhat Palace", "category": "place", "detail": "An early-20th-century neoclassical palace shaped like a crown, built by a Punjabi-origin Sikh zamindar — now the Rangpur Museum, with Pala-era stone sculpture inside.", "whereOrHow": "Tajhat, southern edge of Rangpur city" },
+    { "id": "rangpur-carmichael", "title": "Walk the avenues of Carmichael College", "category": "moment", "detail": "Long red-brick wings, a handsome clocktower and broad shady lawns — one of the country's grand colonial college campuses, in active academic use since 1916.", "whereOrHow": "Carmichael College, west of city centre" },
+    { "id": "rangpur-rokeya", "title": "Visit Begum Rokeya's home at Payrabondh", "category": "experience", "detail": "Where the pioneer of women's education in Bengal — author of 'Sultana's Dream' — was born in 1880. Read her once before you go and the small museum at Payrabondh changes shape.", "whereOrHow": "Payrabondh, Mithapukur", "bestTime": "9 December (Rokeya Day)" },
+    { "id": "rangpur-mithapukur-mosque", "title": "See the terracotta mihrabs of Mithapukur Mosque", "category": "place", "detail": "A small, beautifully proportioned late-Mughal three-domed mosque built in 1802 — its three mihrabs decorated with floral and vine terracotta motifs.", "whereOrHow": "Mithapukur Upazila" },
+    { "id": "rangpur-itakumari", "title": "Explore the Itakumari Rajbari ruins", "category": "place", "detail": "Arched, vine-grown remains of an 18th-century zamindar estate — more atmosphere than architecture now, but the scale of the masonry still reads.", "whereOrHow": "Pirgacha Upazila" },
+    { "id": "rangpur-haribhanga", "title": "Eat a Haribhanga mango at the orchard", "category": "food", "detail": "Rangpur's signature mango — fibreless, fleshy, very sweet, with a small seed. At its best a few hours after the morning pluck.", "whereOrHow": "Mithapukur, Badarganj & Pirganj orchards", "bestTime": "Jun–Jul" },
+    { "id": "rangpur-pelka", "title": "Try pelka at a home-style canteen", "category": "food", "detail": "The earthy north-Bengal greens-and-kalai-flour curry — a Rangpur-division home tradition you cannot order south of here.", "whereOrHow": "Home-style canteens, district-wide" },
+    { "id": "rangpur-kalai-ruti", "title": "Eat kalai ruti with sidol bhorta", "category": "food", "detail": "Thick black-gram-and-rice-flour rotis with pungent fermented-fish sidol bhorta — the working breakfast of the Rangpur belt.", "whereOrHow": "Kalai Ghor & roadside dhabas, Rangpur city" },
+    { "id": "rangpur-vinno-jagat", "title": "Take a slow afternoon at Vinno Jagat", "category": "experience", "detail": "Rides, gardens and themed cultural sets at the divisional capital's most popular family park — a slice of how Rangpur spends its weekends.", "whereOrHow": "Taraganj road, north-west of city" },
+    { "id": "rangpur-aakher-gur", "title": "Buy aakher gur at a winter haat", "category": "food", "detail": "Sugarcane molasses pressed and boiled at village mills — the northern alternative to date-palm gur, used in winter pithas and tea.", "whereOrHow": "Rural haats", "bestTime": "Dec–Feb" },
+    { "id": "rangpur-saidpur-train", "title": "Take a train through Rangpur Junction", "category": "experience", "detail": "Rangpur is the working railhead of north-western Bangladesh — the platform's tea-stall life is a quiet study in itself.", "whereOrHow": "Rangpur railway station" },
+    { "id": "rangpur-bara-mosque", "title": "Walk the city for the old mosques and tanks", "category": "moment", "detail": "Beyond Mithapukur, the divisional city carries old mosques, tanks and zamindari fragments tucked into its modern streets — easiest at a slow morning pace.", "whereOrHow": "Central Rangpur city" }
+  ],
+  "foods": [
+    { "name": "Haribhanga Mango", "description": "Rangpur's signature mango — fibreless, fleshy, very sweet, small-seeded. Grown in Mithapukur, Badarganj and Pirganj.", "whereToFind": "Mithapukur, Badarganj & Pirganj orchards & haats (Jun–Jul)" },
+    { "name": "Pelka", "description": "Earthy regional curry of greens cooked with small kalai-flour balls — a north-Bengal home-cooking staple.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Kalai Ruti", "description": "Thick rotis of black-gram and rice flour, served hot with sidol bhorta, mashed eggplant, or country-chicken curry.", "whereToFind": "Kalai Ghor & roadside dhabas, Rangpur city" },
+    { "name": "Sidol Bhorta", "description": "Pungent fermented-fish mash, pounded with red chili, onion and mustard oil — the classic partner to kalai ruti.", "whereToFind": "Home-style canteens" },
+    { "name": "Aakher Gur", "description": "Sugarcane molasses pressed and boiled at village mills — used in winter pithas and to sweeten tea.", "whereToFind": "Rural haats, Dec–Feb" },
+    { "name": "Aakher Gur Pitha", "description": "Winter rice pithas — chitoi and bhapa — drizzled with fresh sugarcane molasses.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Teesta River Fish", "description": "Fresh catch from the Teesta and Ghaghot — small carp and catfish in light mustard curries.", "whereToFind": "Home-style restaurants, Rangpur city & Gangachara" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Begum Rokeya Sakhawat Hossain",
+      "knownFor": "Pioneer of women's education in Bengal and one of the foundational feminist writers of the subcontinent. Born at Payrabondh in Mithapukur on 9 December 1880; author of 'Sultana's Dream' (1905) and 'Padmarag', founder of the Sakhawat Memorial Girls' School in Kolkata (1911). Her birth anniversary is observed nationally as Rokeya Day.",
+      "era": "1880 – 1932"
+    }
+  ],
+  "didYouKnow": [
+    "Rangpur is the headquarters of Rangpur Division and one of the oldest district names in northern Bengal — a British district since 1772, though the modern Rangpur district in its current shape dates to 1 February 1984, after greater Rangpur was split into five.",
+    "Begum Rokeya Sakhawat Hossain — pioneer of women's education in Bengal and author of 'Sultana's Dream' — was born at Payrabondh in Mithapukur Upazila on 9 December 1880, observed nationally as Rokeya Day.",
+    "Tajhat Palace was built in the early 20th century by Maharaja Kumar Gopal Lal Roy, a Sikh zamindar whose family had migrated from Punjab — its plan is said to be shaped like a crown ('taj').",
+    "Carmichael College, founded in 1916 and named after the then Governor of Bengal, has been one of north Bengal's premier colleges for over a century.",
+    "Mithapukur Mosque was built in 1802 — a late-Mughal three-domed brick mosque with terracotta floral motifs around its mihrabs, protected by the Department of Archaeology.",
+    "The Haribhanga mango — fibreless, fleshy, sweet — is Rangpur's branded fruit, with most of the country's orchards in Mithapukur, Badarganj and Pirganj."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Rangpur Kotwali Police Station", "phone": "—" },
+      { "name": "Mithapukur Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Rangpur Medical College Hospital", "phone": "—" },
+      { "name": "Rangpur 250-Bed General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
