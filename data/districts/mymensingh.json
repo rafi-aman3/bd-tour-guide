@@ -1,0 +1,309 @@
+{
+  "name": "Mymensingh",
+  "division": "Mymensingh",
+  "tagline": "Shashi Lodge, the old Brahmaputra, and Maharaja Suryakanta's town of palaces.",
+  "stats": {
+    "area": "4363.48 sq km",
+    "population": "5,899,005",
+    "established": "1787",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry; the Brahmaputra calm and the city's avenues at their best)",
+    "gettingThere": "By train (Mymensingh is a major junction on the northern line) or by road from Dhaka (~3 hr via the Mymensingh expressway). The nearest airport is Hazrat Shahjalal International in Dhaka.",
+    "difficulty": "Easy — flat terrain, a working divisional city with good roads and a compact heritage core; the upazila trips (Muktagacha, Trishal) are short drives."
+  },
+  "mustVisit": [
+    {
+      "name": "Shashi Lodge",
+      "type": "heritage",
+      "description": "The white, classical-fronted palace of the Mymensingh zamindars on a nine-acre garden — broad stairs, columned façades, and a Greek-style marble Venus in the central courtyard. Now a museum holding the zamindari's furniture and portraits.",
+      "history": "Built by Maharaja Suryakanta Acharya Chowdhury in the late 19th century and rebuilt by his adopted son and successor Shashi Kanta Acharya Chowdhury in 1905, after the original was destroyed in the great 1897 Assam earthquake. The lodge is named for Shashi Kanta, and is now a protected monument run by the Department of Archaeology.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7535, 90.4040],
+      "practical": {
+        "hours": "~10 am – 5 pm; closed one weekly day",
+        "entryFee": "Nominal museum ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In central Mymensingh, near the old Circuit House",
+        "distanceKm": 1,
+        "transport": "Rickshaw or on foot from the town centre"
+      },
+      "bestTime": "Cool months, mid-morning",
+      "tips": [
+        "The marble Venus in the courtyard is the most-photographed object in the city",
+        "Pair with Alexander Castle a few minutes' walk away"
+      ]
+    },
+    {
+      "name": "Alexander Castle",
+      "type": "heritage",
+      "description": "An unusual 14-room, two-storey iron-frame building set in 27 acres — not a fortified castle at all, but a grand colonial guest house, and the most-visited single building in the city.",
+      "history": "Built in 1879 by Maharaja Suryakanta Acharya Chowdhury during Queen Victoria's Jubilee, in honour of N. S. Alexander, the first district magistrate of Mymensingh. Rabindranath Tagore, Lord Curzon, Chittaranjan Das and Nawab Salimullah of Dhaka all stayed here on visits to the city.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7548, 90.4055],
+      "practical": {
+        "hours": "Daylight (exterior; interior on guided museum hours when open)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "A short walk from Shashi Lodge in central Mymensingh",
+        "distanceKm": 1,
+        "transport": "On foot or rickshaw"
+      },
+      "bestTime": "Cool months, late afternoon",
+      "tips": [
+        "It is structurally fragile — view exterior carefully",
+        "Read up on the Acharya-Chowdhury zamindari before you go"
+      ]
+    },
+    {
+      "name": "Muktagacha Rajbari",
+      "type": "heritage",
+      "description": "The vast, multi-courtyard estate of the senior Mymensingh zamindari at Muktagacha — temples, audience halls, water tanks and the family's Krishna temple, all in a single walled compound.",
+      "history": "Founded in the mid-18th century by Shrikrishna Acharya, expanded into one of the largest and richest zamindaris of greater Bengal — eventually covering parts of Sherpur, Susang, Dhaka, Malda, Faridpur, Murshidabad, Bogra and Pabna under Maharaja Suryakanta. The estate is also the home of the country's most famous sweet, Muktagacha Monda.",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7700, 90.2500],
+      "practical": {
+        "hours": "Daylight (exterior; selected halls during day)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 17 km west of Mymensingh in Muktagacha Upazila",
+        "distanceKm": 17,
+        "transport": "Bus or CNG to Muktagacha, then easybike to the rajbari"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Stop at Gopal Pal's monda shop on the way out — the original since 1824",
+        "Wear closed shoes; some courtyards are loose brick"
+      ]
+    },
+    {
+      "name": "Bangladesh Agricultural University (BAU)",
+      "type": "landmark",
+      "description": "The country's first agricultural university — a 1,200-acre campus on the south edge of Mymensingh, with banyan avenues, lakes, a botanical garden, and one of the most photographed academic landscapes in Bangladesh.",
+      "history": "Founded in 1961 as the country's first agricultural university, BAU remains its second-largest public university and the centre of agricultural science in Bangladesh. The campus is open to visitors during day hours and is famous for its long, shady roads and lake-front photography.",
+      "image": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7180, 90.4290],
+      "practical": {
+        "hours": "Daylight hours (campus visit); academic blocks during weekday hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 5 km south of the city centre",
+        "distanceKm": 5,
+        "transport": "CNG, rickshaw or easybike from town"
+      },
+      "bestTime": "Cool months, late afternoon",
+      "tips": [
+        "The botanical garden and the central lake are the photo highlights",
+        "It is a working campus — be respectful in academic blocks"
+      ]
+    },
+    {
+      "name": "Kazi Nazrul Islam's Darirampur (Trishal)",
+      "type": "heritage",
+      "description": "Darirampur village in Trishal Upazila is where the young Kazi Nazrul Islam — National Poet of Bangladesh — went to school in 1914. The Darirampur High School is now Nazrul Academy, and the area is the seat of Jatiya Kabi Kazi Nazrul Islam University.",
+      "history": "Nazrul was brought to Kazir Shimla in Trishal in 1913 by sub-inspector Kazi Rafizullah and joined Darirampur School in 1914 as a class-VI student. He charmed the school by reciting Tagore's 'Dui Bigha Jomi' and 'Puratan Bhrittya' at its annual function without any preparation. The Darirampur school site is preserved as Nazrul Academy, and Jatiya Kabi Kazi Nazrul Islam University was founded at Trishal in 2006.",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.5750, 90.3950],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km south of Mymensingh in Trishal Upazila",
+        "distanceKm": 25,
+        "transport": "Bus or CNG to Trishal, then easybike to Darirampur"
+      },
+      "bestTime": "11 Jaistha / 25 May (Nazrul's birth anniversary) or any cool-month morning",
+      "tips": [
+        "Pair with a stop at Jatiya Kabi Kazi Nazrul Islam University on the same trip",
+        "Read 'Bidrohi' before you go — Trishal is where the seed of that voice was planted"
+      ]
+    },
+    {
+      "name": "Brahmaputra Riverfront, Mymensingh",
+      "type": "nature",
+      "description": "The Old Brahmaputra runs along the eastern edge of the city — a wide, slow river with a long embankment park, fishing boats and the Brahmaputra Bridge framed against the evening light.",
+      "history": "The Old Brahmaputra was the main channel of the great river until the 1787 earthquake shifted most of its flow east into what is now the Jamuna. The river that still runs past Mymensingh — narrower than its glory days — is part of the channel that gave the city its strategic importance.",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7620, 90.4100],
+      "practical": {
+        "hours": "Best at dawn and dusk",
+        "entryFee": "Free (boat hire negotiable)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Along the eastern edge of Mymensingh city, near the Brahmaputra Bridge",
+        "distanceKm": 1,
+        "transport": "Rickshaw or easybike from town"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "The boat-ride to the sandbars across the river is a quiet 30-minute escape",
+        "Embankment stalls serve grilled corn and sweet tea at dusk"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Muktagacha Monda",
+      "description": "The country's most celebrated monda — soft milk-chhana sweet first made by Gopal Pal of Muktagacha in 1824 for Maharaja Suryakanta. Bangladesh awarded it Geographical Indication (GI) status in February 2024.",
+      "venue": "Gopal Pal's Mondar Dokan, Muktagacha"
+    },
+    {
+      "type": "food",
+      "name": "Matri Bhandar Rasmalai",
+      "description": "Mymensingh town's heritage sweet shop — small saucers of pillow-soft rasmalai in milk that has built a name across the country.",
+      "venue": "Matri Bhandar, Mymensingh town"
+    },
+    {
+      "type": "craft",
+      "name": "Mainmansingha Gitika",
+      "description": "Old ballads of the Mymensingh region — love stories of Mohuya, Malua, Kamala and the rest — collected and edited by Dr Dinesh Chandra Sen and published from Calcutta in 1923 as one of the great treasures of Bengali folk literature.",
+      "venue": "District-wide oral & literary tradition"
+    },
+    {
+      "type": "festival",
+      "name": "Nazrul Jayanti at Trishal",
+      "description": "Every 11 Jaistha (25 May) the Nazrul Academy at Darirampur and the Kazi Nazrul Islam University at Trishal mark the National Poet's birth anniversary with recitations, song and a fair.",
+      "timing": "11 Jaistha (25 May)",
+      "coordinates": [24.5750, 90.3950]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Shashi Lodge (1905)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7535, 90.4040]
+    },
+    {
+      "name": "Alexander Castle (1879)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7548, 90.4055]
+    },
+    {
+      "name": "Muktagacha Rajbari (mid-18th c.)",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7700, 90.2500]
+    },
+    {
+      "name": "Nazrul Academy / Darirampur School (Trishal)",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.5750, 90.3950]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-mymensingh?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Mymensingh&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Ena Transport", "phone": "—" },
+        { "name": "Shyamoli Paribahan", "phone": "—" },
+        { "name": "Imam Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Mymensingh&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Mymensingh Junction Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Mymensingh&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Mymensingh&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "mymensingh-shashi-lodge", "title": "Stand before the marble Venus at Shashi Lodge", "category": "place", "detail": "The white classical-fronted palace of the Mymensingh zamindars — broad stairs, columned façades and a Greek Venus in the central courtyard. Rebuilt in 1905 after the 1897 earthquake.", "whereOrHow": "Central Mymensingh" },
+    { "id": "mymensingh-alexander-castle", "title": "Step inside Alexander Castle", "category": "place", "detail": "An unusual 14-room iron-frame guest house built in 1879 by Maharaja Suryakanta in honour of the first district magistrate. Tagore, Curzon and Salimullah have all stayed here.", "whereOrHow": "Central Mymensingh, near Shashi Lodge" },
+    { "id": "mymensingh-muktagacha-bari", "title": "Walk the Muktagacha Rajbari courtyards", "category": "place", "detail": "The vast estate of the senior Mymensingh zamindari — temples, audience halls and tanks in a single walled compound, founded mid-18th century.", "whereOrHow": "Muktagacha, ~17 km west of town" },
+    { "id": "mymensingh-monda", "title": "Taste a Muktagacha monda at Gopal Pal's", "category": "food", "detail": "The country's most celebrated monda, first made for the Muktagacha zamindar in 1824 and now a GI-tagged product (2024). Still made by the 5th generation of Gopal Pal's family.", "whereOrHow": "Gopal Pal's Mondar Dokan, Muktagacha" },
+    { "id": "mymensingh-bau", "title": "Walk the banyan avenues of BAU", "category": "moment", "detail": "Bangladesh's first agricultural university — a 1,200-acre campus of banyan-lined roads, lakes and a botanical garden, founded in 1961.", "whereOrHow": "South of Mymensingh city", "bestTime": "Late afternoon" },
+    { "id": "mymensingh-nazrul-trishal", "title": "Visit Nazrul's old school at Darirampur, Trishal", "category": "experience", "detail": "In 1914 a young Kazi Nazrul Islam joined class VI at Darirampur School in Trishal. The school is now Nazrul Academy; the same village hosts Kazi Nazrul Islam University.", "whereOrHow": "Darirampur, Trishal", "bestTime": "11 Jaistha (25 May)" },
+    { "id": "mymensingh-brahmaputra", "title": "Take a sunset boat on the Old Brahmaputra", "category": "moment", "detail": "The river that once dominated north-east Bengal now runs slow past Mymensingh — a wide, calm channel, with sandbars to walk across and a working bridge in the distance.", "whereOrHow": "Brahmaputra Bridge embankment, Mymensingh", "bestTime": "Oct–Mar, dusk" },
+    { "id": "mymensingh-rasmalai", "title": "Eat rasmalai at Matri Bhandar", "category": "food", "detail": "The Mymensingh town heritage sweet shop, famous for soft rasmalai in milk — a small saucer is a city tradition.", "whereOrHow": "Matri Bhandar, Mymensingh town" },
+    { "id": "mymensingh-gitika", "title": "Read the Mainmansingha Gitika before you go", "category": "experience", "detail": "Mohuya, Malua, Kamala — the great ballads of Mymensingh, collected by Dinesh Chandra Sen and published in 1923 as one of the treasures of Bengali folk literature.", "whereOrHow": "District-wide oral tradition" },
+    { "id": "mymensingh-bau-botanic", "title": "See the lotus pond in BAU's botanical garden", "category": "moment", "detail": "Beyond the avenues, BAU's botanical garden has lotus tanks and old greenhouses — a quiet corner of the campus.", "whereOrHow": "BAU campus" },
+    { "id": "mymensingh-old-mosque", "title": "Trace the old mosques and tanks of the city", "category": "experience", "detail": "Beyond Shashi Lodge, the city carries old mosques, tanks and zamindari fragments tucked into its modern streets — easiest at a slow morning pace.", "whereOrHow": "Central Mymensingh" },
+    { "id": "mymensingh-pitha", "title": "Eat winter pitha by the Brahmaputra", "category": "food", "detail": "Chitoi and bhapa pithas with date-palm jaggery on the embankment stalls — the cool-month evening ritual of Mymensingh families.", "whereOrHow": "Brahmaputra embankment", "bestTime": "Dec–Feb" }
+  ],
+  "foods": [
+    { "name": "Muktagacha Monda", "description": "The country's most celebrated monda — soft milk-chhana sweet, first made in 1824 by Gopal Pal for Maharaja Suryakanta; GI-tagged in 2024.", "whereToFind": "Gopal Pal's Mondar Dokan, Muktagacha" },
+    { "name": "Matri Bhandar Rasmalai", "description": "Pillow-soft rasmalai in sweetened milk — the most-photographed dessert of the city.", "whereToFind": "Matri Bhandar, Mymensingh town" },
+    { "name": "Brahmaputra River Fish", "description": "Fresh catch from the Old Brahmaputra and Kangsha — small carp, catfish and chital in light mustard curries.", "whereToFind": "Home-style restaurants, Mymensingh town" },
+    { "name": "Kacchi Biryani (Mymensingh-style)", "description": "Mymensingh has its own beef and goat biryani tradition — saffron rice, soft meat, and a heavy hand with ghee.", "whereToFind": "Old-town biryani houses" },
+    { "name": "Chita Pitha & Bhapa Pitha", "description": "Winter rice-flour pithas served on embankment stalls with date-palm gur and grated coconut.", "whereToFind": "Brahmaputra embankment, Dec–Feb" },
+    { "name": "Bharta Platter", "description": "The northern bharta plate — mashed eggplant, potato, dried-fish sidol, and lentil — paired with rice.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Aman Rice from Bhaluka & Trishal", "description": "Aromatic Aman rice grown in the south of the district — the basic table grain across northern Bangladesh.", "whereToFind": "Local rice-meal restaurants" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Maharaja Suryakanta Acharya Chowdhury",
+      "knownFor": "The great Mymensingh zamindar, builder of Alexander Castle (1879), the original Shashi Lodge, Suryakanta Hospital and the Town Hall. Awarded Rai Bahadur (1877), Raja (1880) and Maharaja (1897) for his philanthropy; a leading opponent of the Partition of Bengal and patron of theatre and the arts.",
+      "era": "1840s – 1898"
+    },
+    {
+      "name": "Abul Mansur Ahmad",
+      "knownFor": "Writer, journalist and political-satirist born in Dhanikhola, Trishal Upazila. Author of the canonical political satire 'Aina' (1937) and the autobiography 'Amar Dekha Rajneetir Panchas Bachhar'.",
+      "era": "1898 – 1979"
+    }
+  ],
+  "didYouKnow": [
+    "Mymensingh was established as a British district in 1787 — one of the oldest in Bangladesh. The modern district keeps that name although Jamalpur (1978), Tangail (1969), Sherpur, Kishoreganj and Netrokona (1984) have since been carved out of greater Mymensingh.",
+    "Shashi Lodge was first built by Maharaja Suryakanta Acharya Chowdhury and rebuilt by his successor Shashi Kanta Acharya Chowdhury in 1905, after the original collapsed in the 1897 Assam earthquake.",
+    "Alexander Castle (1879) — a 14-room iron-frame building, not a castle — has hosted Rabindranath Tagore, Lord Curzon, Chittaranjan Das and Nawab Salimullah.",
+    "Bangladesh Agricultural University, founded in 1961, is the country's first agricultural university and its second-largest public university.",
+    "The young Kazi Nazrul Islam came to Trishal in 1913 and joined Darirampur School the next year — now the Nazrul Academy, near Jatiya Kabi Kazi Nazrul Islam University at Trishal.",
+    "Muktagacha Monda — made by the Gopal Pal family since 1824 — became one of Bangladesh's GI-tagged products in February 2024."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Mymensingh Kotwali Police Station", "phone": "—" },
+      { "name": "Muktagacha Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Mymensingh Medical College Hospital", "phone": "—" },
+      { "name": "Suryakanta Hospital, Mymensingh", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
