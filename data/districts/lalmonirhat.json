@@ -1,0 +1,299 @@
+{
+  "name": "Lalmonirhat",
+  "division": "Rangpur",
+  "tagline": "Teesta's barrage, the corridor that crosses a border, and Kakina — the lost cultural capital of north Bengal.",
+  "stats": {
+    "area": "1247.37 sq km",
+    "population": "1,428,406",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry; the Teesta calm and the chars accessible)",
+    "gettingThere": "By train to Lalmonirhat Junction on the far-northern line, or by road from Dhaka (~9–10 hr) and Rangpur (~1.5 hr). No airport — the nearest is Saidpur (Nilphamari), ~50 km south.",
+    "difficulty": "Easy — flat terrain, short upazila hops; Patgram is a long but rewarding drive north for Burimari and Tin Bigha."
+  },
+  "mustVisit": [
+    {
+      "name": "Tin Bigha Corridor & Dahagram–Angarpota",
+      "type": "landmark",
+      "description": "A 178 × 85 metre sliver of Indian land that India keeps permanently open to give Bangladesh road access to its Dahagram–Angarpota enclaves — one of the most curious pieces of geography in South Asia.",
+      "history": "The corridor goes back to the 1974 Indira–Mujib treaty; after long delay India leased the strip to Bangladesh in 1992, and made it 24-hour open in 2011. Dahagram–Angarpota, the world's largest Bangladeshi exclave (about 22 sq km), sits inside India and is reached only through this lane.",
+      "image": "https://images.unsplash.com/photo-1604934385267-3a0d4e8d59ff?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.3500, 89.1000],
+      "practical": {
+        "hours": "Corridor lane open 24 hr (since 2011); BD-side checkpoint hours during daylight",
+        "entryFee": "Free; valid NID required",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 55 km north of Lalmonirhat town in Patgram Upazila, near Dahagram union",
+        "distanceKm": 55,
+        "transport": "Car or microbus from Lalmonirhat / Patgram"
+      },
+      "bestTime": "Cool months, mid-morning",
+      "tips": [
+        "Photography of border infrastructure is restricted — keep your camera down at the lane itself",
+        "Carry NID; the corridor crossing is logged on both sides",
+        "Dahagram is Bangladesh — you do not need an Indian visa to use the corridor lane"
+      ]
+    },
+    {
+      "name": "Teesta Barrage at Doani (Hatibandha)",
+      "type": "landmark",
+      "description": "The barrage that controls Bangladesh's share of the Teesta — the country's largest irrigation project, with a long row of gates spanning the river and a wide reservoir behind.",
+      "history": "Commissioned to irrigate the northern Teesta floodplain, the barrage is the engineering centrepiece of the district and a fixed point in the politics of the Teesta water-sharing question. The downstream embankments are popular evening walks.",
+      "image": "https://images.unsplash.com/photo-1518176258769-f227c798150e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.1050, 89.0600],
+      "practical": {
+        "hours": "Embankment accessible in daylight",
+        "entryFee": "Free (visitor viewing area)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Doani, Hatibandha Upazila, ~40 km north-west of Lalmonirhat town",
+        "distanceKm": 40,
+        "transport": "Bus or microbus to Hatibandha, then easybike to Doani"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Best light is the hour before sunset",
+        "Heavy security — do not climb onto the operational structures"
+      ]
+    },
+    {
+      "name": "Burimari Land Port (Patgram)",
+      "type": "landmark",
+      "description": "Bangladesh's northernmost major land port — the official crossing into Changrabandha in West Bengal, and a key corridor for trade with Bhutan and Nepal via the Siliguri belt.",
+      "history": "An old colonial railway station town that grew into a full customs port. Today freight and cross-border traffic move through here daily, and the zero-point gate is a working spectacle.",
+      "image": "https://images.unsplash.com/photo-1604934385267-3a0d4e8d59ff?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.4350, 88.9350],
+      "practical": {
+        "hours": "Immigration ~6 am – 6 pm; viewing area in daylight",
+        "entryFee": "Free; crossing needs valid passport and Indian visa",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 65 km north of Lalmonirhat town in Patgram Upazila",
+        "distanceKm": 65,
+        "transport": "Direct bus from Lalmonirhat / Rangpur to Burimari"
+      },
+      "bestTime": "Mid-morning, before queues build",
+      "tips": [
+        "Photography of fence infrastructure is restricted",
+        "Carry NID or passport even if you are not crossing",
+        "Pair with Tin Bigha Corridor on the same northern run"
+      ]
+    },
+    {
+      "name": "Kakina Zamindar Bari (Kaliganj)",
+      "type": "heritage",
+      "description": "The two-storey brick palace of the Roy Chowdhuris of Kakina — a fusion of European façades and Mughal ornament, with a royal court, guest wing, hawakhana and hidden passages.",
+      "history": "Founded in the late 17th century by Raja Ram Narayan, the estate was expanded under Mahimaranjan Roy Chowdhury into the cultural and economic heart of northern Bengal. Mahimaranjan was the founding president of the Rangpur Literary Society, donated land for a theatre, and saw the railway stations of Mahimaganj, Teesta, Mahendranagar, Lalmonirhat, Aditmari, Mogolhat and Kakina all open under the Kakina Zamindari. The estate was auctioned off around 1925 after years of financial decline.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8500, 89.3200],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 15 km south-west of Lalmonirhat town in Kaliganj Upazila",
+        "distanceKm": 15,
+        "transport": "CNG or easybike to Kakina"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Pair with poet Sheikh Fazlul Karim's house in the same village",
+        "Interior is unsafe — view from outside; the hawakhana is the best-preserved wing"
+      ]
+    },
+    {
+      "name": "Tushbhandar Zamindar Bari (Kaliganj)",
+      "type": "heritage",
+      "description": "A second old zamindar's mansion in Kaliganj — quieter than Kakina, with carved doorways, a family temple and broad tanks set among palm groves.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8700, 89.3000],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 18 km south-west of Lalmonirhat town in Kaliganj Upazila",
+        "distanceKm": 18,
+        "transport": "CNG or easybike from town"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Easy to fold into the same morning as Kakina",
+        "The local easybike drivers know the back lane in"
+      ]
+    },
+    {
+      "name": "Lalmonirhat WWII Airfield",
+      "type": "landmark",
+      "description": "A long-abandoned World War II British airbase on the southern edge of Lalmonirhat town — a relic of the Burma campaign, with a wartime runway still legible across the field, and now home to a Bangladesh Air Force unit and aviation training academy.",
+      "history": "Built by the British during the Second World War to support operations against the Japanese in Burma, it sat unused for decades after independence. In recent years it has been revived as a Bangladesh Air Force base and the seat of Bangladesh's aerospace and aviation training programme.",
+      "image": "https://images.unsplash.com/photo-1510415048841-4a8c0c6d8c40?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8550, 89.4600],
+      "practical": {
+        "hours": "Public viewing from the boundary road only; the base itself is restricted military property",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the southern edge of Lalmonirhat town",
+        "distanceKm": 3,
+        "transport": "Rickshaw or CNG from town"
+      },
+      "bestTime": "Cool months, daytime",
+      "tips": [
+        "Do not photograph the active base — only the public-road frontage",
+        "The history is in the scale of the runway, not in interpretive signs"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Pelka",
+      "description": "The earthy north-Bengal greens-and-kalai-flour curry — a Rangpur-belt home-cooking tradition that Lalmonirhat shares with Kurigram and Thakurgaon.",
+      "venue": "Home-style canteens, district-wide"
+    },
+    {
+      "type": "food",
+      "name": "Kolai Ruti & Sidol Bhorta",
+      "description": "Thick gram-flour rotis served hot with pungent fermented-fish sidol bhorta — the standard farmer's breakfast across the Teesta belt.",
+      "venue": "Roadside dhabas & winter morning stalls"
+    },
+    {
+      "type": "craft",
+      "name": "Kakina Literary Heritage",
+      "description": "The Kakina Zamindari under Mahimaranjan Roy Chowdhury became a centre of Bengali letters in northern Bengal — patron of the Rangpur Literary Society and home of poet Sheikh Fazlul Karim, who set up his Shahabia Printing Works in Kakina in the 1900s.",
+      "venue": "Kakina, Kaliganj"
+    },
+    {
+      "type": "festival",
+      "name": "Teesta Embankment Picnics",
+      "description": "The cool months bring families and college groups to the embankments below the Teesta Barrage for picnics and slow afternoons over the reservoir.",
+      "timing": "November – February"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Kakina Zamindar Bari (late 17th c.)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8500, 89.3200]
+    },
+    {
+      "name": "Tushbhandar Zamindar Bari (Kaliganj)",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8700, 89.3000]
+    },
+    {
+      "name": "Lalmonirhat WWII Airfield",
+      "image": "https://images.unsplash.com/photo-1510415048841-4a8c0c6d8c40?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8550, 89.4600]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-lalmonirhat?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Lalmonirhat&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Nabil Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Lalmonirhat&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Lalmonirhat Junction Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Lalmonirhat&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Lalmonirhat&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "lalmonirhat-tin-bigha", "title": "Cross the Tin Bigha Corridor into Dahagram", "category": "experience", "detail": "A 178 × 85 metre lane of India that's kept permanently open so Bangladeshis can reach Dahagram–Angarpota — the world's largest Bangladeshi exclave, all 22 square kilometres of it.", "whereOrHow": "Patgram Upazila, near Dahagram", "bestTime": "Cool months" },
+    { "id": "lalmonirhat-teesta-barrage", "title": "Walk the Teesta Barrage at Doani", "category": "place", "detail": "The largest irrigation project in Bangladesh — a long row of gates spanning the Teesta, with a wide reservoir behind it and embankments for evening walks.", "whereOrHow": "Doani, Hatibandha", "bestTime": "Oct–Mar, late afternoon" },
+    { "id": "lalmonirhat-burimari", "title": "See the gate at Burimari Land Port", "category": "moment", "detail": "Bangladesh's northernmost major land port, the working road artery toward Changrabandha in West Bengal and onward toward Bhutan and Nepal.", "whereOrHow": "Patgram, ~65 km north of town", "bestTime": "Mid-morning" },
+    { "id": "lalmonirhat-kakina-bari", "title": "Explore the Kakina Zamindar Bari", "category": "place", "detail": "The late-17th-century palace of the Kakina Roy Chowdhuris — European façade, Mughal detail, royal court, hawakhana and hidden passages. The cultural heart of north-Bengali letters in its day.", "whereOrHow": "Kakina, Kaliganj" },
+    { "id": "lalmonirhat-sheikh-fazlul", "title": "Visit poet Sheikh Fazlul Karim's home village", "category": "experience", "detail": "Kakina was the home and life's work of Sheikh Fazlul Karim (1882–1936), who set up his Shahabia Printing Works here and wrote some 58 books before his death. His house and grave still stand.", "whereOrHow": "Kakina, Kaliganj" },
+    { "id": "lalmonirhat-tushbhandar", "title": "See the Tushbhandar Zamindar Bari", "category": "place", "detail": "A quieter second zamindar's mansion in Kaliganj — carved doorways, broad tanks, and a family temple under palm groves.", "whereOrHow": "Kaliganj Upazila" },
+    { "id": "lalmonirhat-airfield", "title": "Drive past the WWII Lalmonirhat Airfield", "category": "moment", "detail": "A British wartime base built for the Burma campaign, abandoned for decades, now revived as the seat of Bangladesh's aerospace training. The old runway still runs across the field.", "whereOrHow": "Southern edge of Lalmonirhat town" },
+    { "id": "lalmonirhat-teesta-fish", "title": "Eat fresh Teesta river fish", "category": "food", "detail": "Carp and catfish straight from the Teesta — the simplest northern plate, with mustard oil and a little green chili.", "whereOrHow": "Home-style restaurants, Lalmonirhat town" },
+    { "id": "lalmonirhat-pelka", "title": "Try pelka at a home-style canteen", "category": "food", "detail": "The earthy north-Bengal greens-and-kalai-flour curry — slow-simmered, traditional, almost unheard of south of Rangpur division.", "whereOrHow": "Home-style canteens, district-wide" },
+    { "id": "lalmonirhat-kolai-ruti", "title": "Eat kolai ruti with sidol bhorta", "category": "food", "detail": "Thick gram-flour rotis with pungent fermented-fish sidol bhorta — the breakfast that fuels the Teesta-belt bazaars.", "whereOrHow": "Roadside dhabas & winter morning stalls" },
+    { "id": "lalmonirhat-aakher-gur", "title": "Buy aakher gur at a winter haat", "category": "food", "detail": "Northern Bengal's sugarcane molasses, pressed and boiled at village mills — for tea and winter pithas.", "whereOrHow": "Rural haats", "bestTime": "Dec–Feb" },
+    { "id": "lalmonirhat-train-junction", "title": "Watch the trains roll through Lalmonirhat Junction", "category": "moment", "detail": "Lalmonirhat Junction is the railway heart of north-western Bangladesh — the lines and yards remain a working monument to the British-era Kakina Zamindari that helped open them.", "whereOrHow": "Lalmonirhat town" }
+  ],
+  "foods": [
+    { "name": "Pelka", "description": "Earthy regional curry of greens cooked with small kalai-flour balls — a north-Bengal home-cooking staple.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Kolai Ruti", "description": "Thick gram-flour rotis served hot with sidol bhorta or pickle — the farmer's breakfast across Rangpur division.", "whereToFind": "Roadside dhabas & winter morning stalls" },
+    { "name": "Sidol Bhorta", "description": "Pungent fermented-fish mash, pounded with red chili, onion and mustard oil — the partner to kolai ruti.", "whereToFind": "Home-style canteens" },
+    { "name": "Teesta River Fish", "description": "Fresh catch from the Teesta — carp and catfish in light mustard curries.", "whereToFind": "Home-style restaurants, Lalmonirhat town & Hatibandha" },
+    { "name": "Aakher Gur", "description": "Sugarcane molasses pressed and boiled at village mills — for winter pithas and tea.", "whereToFind": "Rural haats, Dec–Feb" },
+    { "name": "Aakher Gur Pitha", "description": "Winter rice pithas — chitoi and bhapa — drizzled with fresh sugarcane molasses.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Char Maize (Bhutta)", "description": "Corn from the Teesta chars, grilled on the cob at the riverside ghats.", "whereToFind": "Teesta riverbank stalls" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Sheikh Fazlul Karim",
+      "knownFor": "Bengali poet and writer born at Kakina Bazar in Lalmonirhat in 1882. Wrote some 58 books across Bangla literature, founded the Shahabia Printing Works at Kakina, and was decorated with the titles 'Sahitya Bisharad', 'Kabya Ratnakar' and 'Neeti Bhushan'. A contemporary of Kazi Nazrul Islam, Begum Rokeya and Ismail Hossein Siraji.",
+      "era": "1882 – 1936"
+    }
+  ],
+  "didYouKnow": [
+    "Lalmonirhat became a district on 1 February 1984, carved out of greater Rangpur; its five upazilas include Patgram in the far north, almost an island of Bangladesh between India and Bhutan.",
+    "The Tin Bigha Corridor is a 178 × 85 metre lane of Indian land kept open so Bangladesh can reach Dahagram–Angarpota, the world's largest Bangladeshi exclave (~22 sq km).",
+    "The Teesta Barrage at Doani is the largest irrigation project in Bangladesh, controlling the country's share of the Teesta.",
+    "The Kakina Zamindari under Mahimaranjan Roy Chowdhury was an early-20th-century cultural hub of northern Bengal — founding home of the Rangpur Literary Society, and patron of seven railway stations through Lalmonirhat.",
+    "Poet Sheikh Fazlul Karim (1882–1936) was born at Kakina Bazar in this district and set up his Shahabia Printing Works there.",
+    "Lalmonirhat's WWII-era British airfield is being revived as the seat of Bangladesh's aerospace and aviation training programme."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Lalmonirhat Sadar Police Station", "phone": "—" },
+      { "name": "Patgram Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Lalmonirhat 250-Bed General Hospital (Sadar)", "phone": "—" },
+      { "name": "Patgram Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
