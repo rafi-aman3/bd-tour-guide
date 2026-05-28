@@ -1,0 +1,302 @@
+{
+  "name": "Thakurgaon",
+  "division": "Rangpur",
+  "tagline": "Asia's largest mango tree, a Tonknath rajbari, and the quiet north-west cousin of Panchagarh.",
+  "stats": {
+    "area": "1809.52 sq km",
+    "population": "1,533,895",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March for the cool, dry season; May–July to see the Suryapuri mango trees in fruit",
+    "gettingThere": "By train to Thakurgaon Road station on the far-northern line, or by road from Dhaka (~10–11 hr), Rangpur (~2.5 hr) and Saidpur airport (~75 km). No airport in the district.",
+    "difficulty": "Easy — flat terrain, cool weather, short upazila hops by CNG and easybike."
+  },
+  "mustVisit": [
+    {
+      "name": "Suryapuri Mango Tree of Harinmari (Baliadangi)",
+      "type": "nature",
+      "description": "A roughly 200-year-old Suryapuri mango tree at Mandumala village near the Indian border — claimed as the largest mango tree in Asia, its branches spreading across about an acre of ground.",
+      "history": "The tree stands 80–90 feet tall with a trunk girth around 35 feet and a canopy covering some 2.5 bighas. It still bears a full crop each year of the regional Suryapuri variety, the mango that has made Baliadangi upazila famous. A small team of caretakers tends it season after season.",
+      "image": "https://images.unsplash.com/photo-1591073113125-e46713c829ed?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0700, 88.2600],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km west of Thakurgaon town in Mandumala village, Harinmari block, Baliadangi Upazila",
+        "distanceKm": 35,
+        "transport": "Bus or CNG to Baliadangi, then easybike to Harinmari"
+      },
+      "bestTime": "May to July for fruiting; cool months for a quiet visit",
+      "tips": [
+        "It sits very close to the India border — keep your NID handy",
+        "Combine with the Harinmari Shiv Mandir just nearby"
+      ]
+    },
+    {
+      "name": "Jamalpur Zamindar Bari Jame Mosque",
+      "type": "religious",
+      "description": "An ornate three-domed brick mosque with twenty-eight minarets on its roof, built by the Jamalpur zamindars in 1867 and listed under the Department of Archaeology of Bangladesh.",
+      "history": "Zamindar Jamal Uddin, a descendant of Roshan Ali of the Tajpur Parganas in West Bengal, laid the foundation of his estate house in 1862 and began the mosque in 1867. The mosque was completed before the family home, and remains in active use; it holds about 300–600 worshippers.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0050, 88.4400],
+      "practical": {
+        "hours": "Open during five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Jamalpur union, ~10 km from Thakurgaon town",
+        "distanceKm": 10,
+        "transport": "CNG or easybike from town"
+      },
+      "bestTime": "Outside Friday noon prayers; morning light",
+      "tips": [
+        "Cover head if female; remove shoes before stepping onto the platform",
+        "The 28 roof minarets are best seen from the courtyard"
+      ]
+    },
+    {
+      "name": "Raja Tonknath Rajbari (Ranisankail)",
+      "type": "heritage",
+      "description": "The brick palace of Raja Tonknath at Ranisankail, set among old tanks and shrines — including a Ramchandra temple just outside the main gate.",
+      "history": "Built by the 19th-century zamindar Tonknath of the Mahishpota estate, the rajbari combines a red-brick European façade with traditional Bengali courtyards and family temples. Parts of the building are ruined but the scale and ornament still carry the old zamindari.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8650, 88.2950],
+      "practical": {
+        "hours": "Daylight (exterior)",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km south-west of Thakurgaon town in Ranisankail Upazila",
+        "distanceKm": 30,
+        "transport": "Bus or CNG to Ranisankail, then easybike to the rajbari"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "Walk around the back to see the Ramchandra temple",
+        "Be careful with the failing upper masonry — exterior viewing only"
+      ]
+    },
+    {
+      "name": "Harinmari Shiv Mandir (Baliadangi)",
+      "type": "religious",
+      "description": "A small, roughly 400-year-old Shiva temple at Harinmari Haat, square in plan with a charchala roof and terracotta panels of creeper-motif figures on its south wall.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0700, 88.2700],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free (donations welcome)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Harinmari Haat, ~35 km from Thakurgaon town in Baliadangi Upazila",
+        "distanceKm": 35,
+        "transport": "CNG to Baliadangi, then easybike to Harinmari"
+      },
+      "bestTime": "Shivaratri (Feb–Mar) for the festival; cool months otherwise",
+      "tips": [
+        "Photograph the south-wall terracotta in soft side-light",
+        "Pair with the Suryapuri mango tree, which is right next door"
+      ]
+    },
+    {
+      "name": "Balia Mosque",
+      "type": "religious",
+      "description": "A small three-domed brick mosque with eight slender minarets — almost identical to a miniature of the Jamalpur mosque — and a local legend that jinns raised it overnight on a new-moon night.",
+      "history": "Listed by the Department of Archaeology of Bangladesh as a historical structure. The dome was reportedly the last element added — local folklore holds that the unfinished work was the jinns' incomplete share.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0150, 88.4250],
+      "practical": {
+        "hours": "Open during five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Balia, Thakurgaon Sadar, ~12 km from town",
+        "distanceKm": 12,
+        "transport": "CNG or easybike from town"
+      },
+      "bestTime": "Outside Friday noon prayers; golden hour",
+      "tips": [
+        "Cover head if female; remove shoes",
+        "Pair with the Jamalpur mosque on the same morning"
+      ]
+    },
+    {
+      "name": "Tangon Riverbank, Thakurgaon Town",
+      "type": "nature",
+      "description": "The slow Tangon river runs along the western edge of Thakurgaon town — a quiet evening walk with a wooden footbridge, fishing boats and old gachhi (date-palm-sap) trees in winter.",
+      "history": "—",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0350, 88.4650],
+      "practical": {
+        "hours": "Best at dawn and dusk",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the western edge of Thakurgaon town",
+        "distanceKm": 1,
+        "transport": "Rickshaw or on foot from the town centre"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Combine with grilled corn at the embankment stalls",
+        "Stalls are quiet on weekday afternoons"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Suryapuri Mango",
+      "description": "The slim, golden-orange mango of Baliadangi — sweet, fragrant and the variety the district is named for in fruit-lover circles. Most of the country's Suryapuri orchards are here.",
+      "venue": "Baliadangi orchards & haats, May–July"
+    },
+    {
+      "type": "food",
+      "name": "Pelka",
+      "description": "A regional north-Bengal vegetable curry of greens cooked with kalai-flour balls — slow-simmered, earthy, and traditional to Thakurgaon and the wider Rangpur belt.",
+      "venue": "Home-style canteens, district-wide"
+    },
+    {
+      "type": "food",
+      "name": "Kolai Ruti & Sidol Bhorta",
+      "description": "Thick gram-flour rotis paired with pungent fermented-fish sidol bhorta, the standard farmer's breakfast of the region.",
+      "venue": "Roadside dhabas & winter morning stalls"
+    },
+    {
+      "type": "festival",
+      "name": "Suryapuri Mango Season",
+      "description": "Late May into July is the great Suryapuri season — orchard hopping, mango-tasting visits to Mandumala, and the haats around Baliadangi alive with crates of fruit.",
+      "timing": "Late May – July",
+      "coordinates": [26.0700, 88.2600]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Jamalpur Zamindar Bari Jame Mosque (1867)",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0050, 88.4400]
+    },
+    {
+      "name": "Raja Tonknath Rajbari (Ranisankail)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.8650, 88.2950]
+    },
+    {
+      "name": "Harinmari Shiv Mandir (~400 yrs)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0700, 88.2700]
+    },
+    {
+      "name": "Balia Mosque",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [26.0150, 88.4250]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-thakurgaon?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Thakurgaon&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Nabil Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Thakurgaon%20Road&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Thakurgaon Road Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Thakurgaon&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Thakurgaon&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "thakurgaon-suryapuri-tree", "title": "Stand under Asia's largest mango tree", "category": "moment", "detail": "A 200-year-old Suryapuri at Mandumala spreading across about an acre — 80–90 feet tall, 35-foot girth, still bearing a full crop every summer.", "whereOrHow": "Mandumala, Harinmari, Baliadangi", "bestTime": "May–July for fruit" },
+    { "id": "thakurgaon-suryapuri-fruit", "title": "Eat a fresh Suryapuri mango in season", "category": "food", "detail": "The slim golden mango that gave the district its mango fame — at its sweetest a few hours after the morning pluck.", "whereOrHow": "Orchards & haats around Baliadangi", "bestTime": "Late May – July" },
+    { "id": "thakurgaon-jamalpur-mosque", "title": "Count the 28 minarets of Jamalpur Mosque", "category": "place", "detail": "Three domes and twenty-eight slim roof minarets — built by the Jamalpur zamindar in 1867, still in daily prayer.", "whereOrHow": "Jamalpur union, ~10 km from town" },
+    { "id": "thakurgaon-tonknath", "title": "Explore Raja Tonknath's rajbari at Ranisankail", "category": "place", "detail": "A 19th-century red-brick palace with European façades and Bengali courtyards, with a Ramchandra temple just outside the gate.", "whereOrHow": "Ranisankail Upazila" },
+    { "id": "thakurgaon-harinmari-shiv", "title": "See the terracotta creepers at Harinmari Shiv Mandir", "category": "place", "detail": "A ~400-year-old charchala-roofed Shiva temple with terracotta panels of creeper-motif figures along its south wall.", "whereOrHow": "Harinmari, Baliadangi" },
+    { "id": "thakurgaon-balia-mosque", "title": "Visit the jinn-built Balia Mosque", "category": "place", "detail": "A small three-domed mosque with eight minarets, listed by the Department of Archaeology — local lore says jinns raised it in one night.", "whereOrHow": "Balia, Thakurgaon Sadar" },
+    { "id": "thakurgaon-tangon-walk", "title": "Walk the Tangon riverbank at dusk", "category": "moment", "detail": "A slow river along the western edge of town, with a wooden footbridge, fishing boats and embankment stalls grilling corn in winter.", "whereOrHow": "Western edge of Thakurgaon town", "bestTime": "Oct–Mar, dusk" },
+    { "id": "thakurgaon-pelka", "title": "Try pelka at a home-style canteen", "category": "food", "detail": "The earthy north-Bengal greens-and-kalai-flour curry — slow-simmered, traditional and almost impossible to find south of Rangpur division.", "whereOrHow": "Home-style canteens, district-wide" },
+    { "id": "thakurgaon-kolai-ruti", "title": "Eat kolai ruti with sidol bhorta", "category": "food", "detail": "Thick gram-flour rotis with pungent fermented-fish sidol bhorta — the breakfast that fuels the upazila bazaars.", "whereOrHow": "Roadside dhabas & winter stalls" },
+    { "id": "thakurgaon-aakher-gur", "title": "Buy aakher gur at a winter haat", "category": "food", "detail": "North Bengal's sugarcane molasses, pressed and boiled at village mills — used in tea and winter pithas.", "whereOrHow": "Rural haats", "bestTime": "Dec–Feb" },
+    { "id": "thakurgaon-bhattacharjee", "title": "Read about Shishir Bhattacharjee on home ground", "category": "experience", "detail": "The painter and editorial cartoonist behind some of the country's sharpest satirical work was born here in 1960 — Thakurgaon shapes the wit behind his brush.", "whereOrHow": "Thakurgaon town" },
+    { "id": "thakurgaon-mango-orchard", "title": "Walk a Suryapuri orchard at flower-time", "category": "experience", "detail": "Before the fruit, the trees fill with creamy panicles in March — the orchards hum with bees and the air carries the early-summer scent.", "whereOrHow": "Baliadangi orchards", "bestTime": "March" }
+  ],
+  "foods": [
+    { "name": "Suryapuri Mango", "description": "The slim, golden-orange mango of Baliadangi — sweet, fragrant, and the variety the district is famous for.", "whereToFind": "Baliadangi orchards & haats, May–July" },
+    { "name": "Pelka", "description": "Earthy regional curry of greens cooked with small kalai-flour balls — a north-Bengal home-cooking staple.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Kolai Ruti", "description": "Thick gram-flour rotis served hot with sidol bhorta or pickle — the farmer's breakfast across Rangpur division.", "whereToFind": "Roadside dhabas & winter morning stalls" },
+    { "name": "Sidol Bhorta", "description": "Pungent fermented-fish mash, pounded with red chili, onion and mustard oil — the partner to kolai ruti.", "whereToFind": "Home-style canteens" },
+    { "name": "Aakher Gur", "description": "Sugarcane molasses pressed and boiled at village mills — used in winter pithas and to sweeten tea.", "whereToFind": "Rural haats, Dec–Feb" },
+    { "name": "Aakher Gur Pitha", "description": "Winter rice pithas — chitoi and bhapa — drizzled with fresh sugarcane molasses.", "whereToFind": "Winter morning pitha stalls" },
+    { "name": "Tangon River Fish", "description": "Fresh catch from the Tangon and the smaller northern rivers — small carp and catfish in light mustard curries.", "whereToFind": "Home-style restaurants, Thakurgaon town" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Shishir Bhattacharjee",
+      "knownFor": "Painter, editorial cartoonist and academic — one of Bangladesh's leading satirical artists. Born in Thakurgaon in 1960, trained at Dhaka University and Maharaja Sayajirao University of Baroda; long-time professor at the Faculty of Fine Art, Dhaka University.",
+      "era": "born 1960"
+    }
+  ],
+  "didYouKnow": [
+    "Thakurgaon became a district on 1 February 1984, carved out of greater Dinajpur — its name is traced to the local Thakur (Brahmin) families who ruled the area before 1879.",
+    "The Suryapuri mango tree at Mandumala in Baliadangi — about 200 years old, 80–90 feet tall and spreading over roughly an acre — is claimed as the largest mango tree in Asia.",
+    "The Suryapuri mango itself is a Thakurgaon signature: most of the country's Suryapuri orchards sit in Baliadangi upazila.",
+    "Jamalpur Zamindar Bari Jame Mosque was built in 1867 with three domes and 28 minarets — its construction was begun before the zamindar's own house was finished.",
+    "Painter Shishir Bhattacharjee, one of Bangladesh's most distinctive satirical artists, was born here in 1960."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Thakurgaon Sadar Police Station", "phone": "—" },
+      { "name": "Baliadangi Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Thakurgaon District Hospital (Sadar)", "phone": "—" },
+      { "name": "Baliadangi Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
