@@ -1,0 +1,288 @@
+{
+  "name": "Bhola",
+  "division": "Barisal",
+  "tagline": "Bangladesh's biggest island — a 16-storey watchtower over the Meghna, a wildlife sanctuary on a Bay-of-Bengal char, and the birth-village of a 23-year-old Bir Sreshtho.",
+  "stats": {
+    "area": "3,403.48 sq km",
+    "population": "1,932,518",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "November to February — cool, dry, the chars are accessible and the launches run on time. Avoid May–August: rivers are rough and cyclone season runs Apr–May and Oct–Nov.",
+    "gettingThere": "By overnight launch from Dhaka Sadarghat (~12 hr) — the way most travellers come. By road via Barisal and the Bhola–Lakshmipur ferry at Veduria–Madanpur. The big sights cluster at the southern tip in Char Fasson (Jacob Tower, Tarua, Kukri-Mukri) and the eastern char (Monpura).",
+    "difficulty": "Moderate — chars need boat hops and overnight stays; weather changes the schedule. Plan in days, not hours."
+  },
+  "mustVisit": [
+    {
+      "name": "Jacob Tower (Char Fasson)",
+      "type": "modern",
+      "description": "A 225-foot, 16-storey steel watchtower in the style of the Eiffel Tower, planted in the middle of Char Fasson town — the tallest watchtower in Bangladesh and the subcontinent. From the top you see Tarua beach, Kukri-Mukri's forests, Monpura, Hatiya's Nijhum Dwip and the Bay.",
+      "history": "Built by the local government in the mid-2010s and inaugurated in 2018 in Char Fasson Upazila. Named for the area's MP and benefactor Md. Nazrul Islam Jacob; each of the 16 floors holds about 50 visitors.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1833, 90.7833],
+      "practical": {
+        "hours": "9 am – 6 pm; closed some Fridays",
+        "entryFee": "Token entry + small lift charge",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 90 km south of Bhola town in central Char Fasson",
+        "distanceKm": 90,
+        "transport": "Bus / car from Bhola town, then rickshaw in Char Fasson"
+      },
+      "bestTime": "Cool months; late afternoon for the long Bay-of-Bengal view",
+      "tips": [
+        "Carry binoculars — the higher floors give a real island-and-sea panorama",
+        "Lifts can queue on weekends; weekday mornings are best"
+      ]
+    },
+    {
+      "name": "Char Kukri-Mukri (wildlife sanctuary)",
+      "type": "nature",
+      "description": "A mangrove-and-chital-deer wildlife sanctuary on a Meghna-mouth char in the Bay of Bengal — small forest trails, watchtowers, a long muddy beach and migratory birds in the winter.",
+      "history": "Declared a wildlife sanctuary in 1981 over about 40 sq km of mangrove and accretion forest in Char Fasson Upazila. Holds spotted deer, monkeys, foxes, otters, wild fowl and a growing migratory-bird list — one of the country's few accessible river-island reserves.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9000, 90.6500],
+      "practical": {
+        "hours": "Daylight; needs an overnight stay on the char or nearby",
+        "entryFee": "Forest Department permit + boat hire",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 120 km from Bhola town; bus to Char Fasson, then trawler from Kochukhali ghat to Kukri-Mukri",
+        "distanceKm": 120,
+        "transport": "Bus + trawler; tour operators run weekend packages in winter"
+      },
+      "bestTime": "December to February for birds and dry trails",
+      "tips": [
+        "Book a Forest Department rest-house or local home-stay before going",
+        "Carry torch, dry food, mosquito repellent — limited supplies on the char",
+        "Hire a local guide — the trails are short but the chars shift"
+      ]
+    },
+    {
+      "name": "Monpura Island",
+      "type": "nature",
+      "description": "A lonely island upazila in the Meghna estuary — wide silver chars, paddy fields, herds of buffalo at sunset, and very little phone signal. Reachable only by a long boat from Tazumuddin or Bhola town.",
+      "history": "Once part of Char Fasson and made a separate upazila in 2011, Monpura sits in the Meghna estuary between Bhola Island and the Hatiya channel. The 1970 Bhola Cyclone wiped out most of its villages; the rebuilt settlements still cluster on raised killas.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.2667, 90.9667],
+      "practical": {
+        "hours": "Daylight; needs an overnight stay",
+        "entryFee": "Boat hire only",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 70 km east of Bhola town across the Meghna; trawler from Tazumuddin Ghat (~3 hr) or Tajumuddin's Slatu ghat",
+        "distanceKm": 70,
+        "transport": "Bus / car to Tazumuddin, then trawler"
+      },
+      "bestTime": "November to February — calm water and clear evenings",
+      "tips": [
+        "Phone signal is patchy — tell people in advance you'll be off-grid",
+        "Carry cash; ATMs do not exist on the island",
+        "Watch the killas at dusk: buffalo, ponies and herding boys are the whole show"
+      ]
+    },
+    {
+      "name": "Tarua Beach (Dhal Char)",
+      "type": "nature",
+      "description": "A long open beach on the southern tip of Bhola Island in Dhal Char union — wide flat sand, mangrove edges, no construction, and one of the few places in Bangladesh where you can watch both sunrise and sunset over water.",
+      "history": "Tarua is a relatively new char of Char Fasson, accreted from the Meghna's silt in the last fifty years. The Forest Department planted mangrove behind it; the beach has stayed open and unbuilt — a long-running argument over how to develop it without ruining it.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8500, 90.6500],
+      "practical": {
+        "hours": "Daylight",
+        "entryFee": "Boat hire only",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 135 km south of Bhola town; Char Fasson, then trawler to Dhal Char and a short walk to the beach",
+        "distanceKm": 135,
+        "transport": "Bus + trawler"
+      },
+      "bestTime": "Cool months; both sunrise and sunset are over water",
+      "tips": [
+        "Camping is possible but bring everything — no facilities on Tarua",
+        "Pair with Kukri-Mukri on the same trip — same upazila, neighbouring char"
+      ]
+    },
+    {
+      "name": "Bir Sreshtho Mostafa Kamal Memorial Museum (Hajipur)",
+      "type": "heritage",
+      "description": "The birthplace village and memorial museum of Sepoy Mohammad Mostafa Kamal — one of seven Bir Sreshthos and the first soldier of the Mukti Bahini to be awarded the highest gallantry honour.",
+      "history": "Mostafa Kamal was born in Poshchim Hajipur in Daulatkhan, Bhola, on 16 December 1947 — exactly 24 years before independence. He was killed at Darwin in Brahmanbaria on 18 April 1971 while covering his platoon's withdrawal with a light machine-gun, and was posthumously awarded the Bir Sreshtho.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5833, 90.7333],
+      "practical": {
+        "hours": "9 am – 4 pm; closed Sundays",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 12 km south of Bhola town in Hajipur Union, Daulatkhan Upazila",
+        "distanceKm": 12,
+        "transport": "CNG / car from Bhola town"
+      },
+      "bestTime": "Cool months; 16 December (Victory Day) and 18 April (martyrdom day) are observed here",
+      "tips": [
+        "The museum holds his army documents, photographs and personal items",
+        "Combine with a launch ghat visit at Daulatkhan on the Meghna"
+      ]
+    },
+    {
+      "name": "Bhola Town Meghna Foreshore",
+      "type": "heritage",
+      "description": "The launch ghat at Bhola town on the Meghna — the busiest waking-up scene on the island. Big white passenger launches come in from Dhaka at dawn; trawlers, fishing boats and shutki traders work the bank from before sunrise.",
+      "history": "Bhola has been a regular Sadarghat–island launch port for over a century. The town sits on the Meghna's western channel; the foreshore is the island's main lifeline for cargo, fish and passenger traffic to Dhaka.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6859, 90.6498],
+      "practical": {
+        "hours": "Best at dawn and dusk",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the western edge of Bhola town",
+        "distanceKm": 1,
+        "transport": "Rickshaw from anywhere in town"
+      },
+      "bestTime": "5–7 am for arriving launches; sunset for the river",
+      "tips": [
+        "Buy ilish straight off the trawlers in season (Aug–Nov)",
+        "Watch the launches dock — disembarkation is a small spectacle"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Meghna Ilish (Hilsa)",
+      "description": "Bhola sits on the Meghna in peak ilish water — the fish here are bigger, fattier and richer than upstream. Shorshe Ilish (mustard hilsa), bhuna or simply pan-fried in mustard oil is the island's defining meal.",
+      "venue": "Bhola town and Daulatkhan launch-ghat restaurants (peak Aug–Nov)"
+    },
+    {
+      "type": "food",
+      "name": "Char Fasson Buffalo Curd (Mishti Doi)",
+      "description": "Buffalo-milk curd from the char herds — set in clay pots, deep-cream, faintly tangy. The Char Fasson and Lalmohan stalls are where you eat it on the road south.",
+      "venue": "Char Fasson and Lalmohan town stalls"
+    },
+    {
+      "type": "craft",
+      "name": "Wild Honey & Coconut",
+      "description": "Honey from mangrove blossom around Kukri-Mukri and Tarua, and char-grown green coconut for daab-er pani — the island's two everyday luxuries.",
+      "venue": "Char Fasson, Daulatkhan and Bhola town markets"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Bir Sreshtho Mostafa Kamal Memorial (Hajipur, Daulatkhan)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5833, 90.7333]
+    },
+    {
+      "name": "Jacob Tower (Char Fasson)",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1833, 90.7833]
+    },
+    {
+      "name": "Char Kukri-Mukri Wildlife Sanctuary",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9000, 90.6500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-bhola?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Bhola&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Sakura Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets Launch (Bhola)", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-bhola?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "MV Tashrif / MV Karnaphuli (Sadarghat–Bhola)", "phone": "—" },
+        { "name": "Bhola Launch Ghat (BIWTA)", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Bhola&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "bhola-overnight-launch", "title": "Sleep on the Dhaka–Bhola overnight launch", "category": "experience", "detail": "Board at Sadarghat by 7 pm, wake to the Meghna widening into estuary, dock at Bhola at dawn — the cheapest river cruise in Bangladesh.", "whereOrHow": "Dhaka Sadarghat → Bhola Launch Ghat", "bestTime": "Oct–Mar" },
+    { "id": "bhola-jacob-tower", "title": "Climb Jacob Tower in Char Fasson", "category": "place", "detail": "225 feet, 16 storeys, an Eiffel-styled steel watchtower planted in the middle of a small island town — Tarua, Kukri-Mukri and Monpura visible from the top.", "whereOrHow": "Jacob Tower, Char Fasson" },
+    { "id": "bhola-kukri-mukri", "title": "Walk the mangrove trails of Kukri-Mukri", "category": "experience", "detail": "A river-island wildlife sanctuary in the Meghna mouth — chital deer, mangrove forest, watchtowers, migratory birds. Best as an overnight from Char Fasson.", "whereOrHow": "Char Kukri-Mukri, Char Fasson", "bestTime": "Dec–Feb" },
+    { "id": "bhola-monpura", "title": "Get cut off on Monpura Island", "category": "experience", "detail": "An off-grid upazila in the Meghna estuary — wide chars, paddy, buffalo at sunset, and almost no phone signal. The 1970 cyclone wiped its villages out; the rebuilt settlements sit on raised killas.", "whereOrHow": "Monpura, via Tazumuddin Ghat", "bestTime": "Nov–Feb" },
+    { "id": "bhola-tarua", "title": "Walk Tarua beach at low tide", "category": "moment", "detail": "Wide flat sand, mangrove edges, no construction — and a horizon where both sunrise and sunset are over water. The most peaceful beach in Bangladesh.", "whereOrHow": "Tarua, Dhal Char, Char Fasson", "bestTime": "Cool months" },
+    { "id": "bhola-mostafa-kamal", "title": "Pay respects at Mostafa Kamal's village", "category": "place", "detail": "Bir Sreshtho Sepoy Mohammad Mostafa Kamal, born in Hajipur on 16 December 1947, was killed at Darwin (Brahmanbaria) on 18 April 1971 — the first Mukti Bahini soldier awarded the highest gallantry honour.", "whereOrHow": "Mostafa Kamal Memorial Museum, Hajipur, Daulatkhan" },
+    { "id": "bhola-meghna-ilish", "title": "Eat Meghna ilish off the launch ghat", "category": "food", "detail": "Bhola sits on the fattest stretch of the Meghna for hilsa — bigger, fattier, richer than upstream. Shorshe ilish, bhuna, or a simple mustard-oil fry.", "whereOrHow": "Bhola town launch ghat restaurants (Aug–Nov)", "bestTime": "Aug–Nov" },
+    { "id": "bhola-cattle-char", "title": "Cross a cattle char on the western Meghna", "category": "experience", "detail": "Vast accretion chars between Bhola and Barisal where herders raise buffalo, goats and ponies for the dry-season markets. Reachable by short trawler from Lalmohan or Veduria.", "whereOrHow": "Cattle chars off Lalmohan / Tazumuddin", "bestTime": "Dec–Mar" },
+    { "id": "bhola-buffalo-doi", "title": "Try Char Fasson buffalo curd", "category": "food", "detail": "Buffalo-milk curd from the char herds — set in clay pots, deep-cream, faintly tangy. Eat it cold on the road south.", "whereOrHow": "Char Fasson and Lalmohan town stalls" },
+    { "id": "bhola-bot-tree", "title": "Find the 200-year banyan at Char Fasson Bot Tola", "category": "place", "detail": "An enormous banyan said to be over two centuries old at Char Fasson — locals gather under it for shade, gossip and the occasional mela.", "whereOrHow": "Bot Tola, Char Fasson" }
+  ],
+  "foods": [
+    { "name": "Meghna Ilish (Shorshe / Bhaja)", "description": "Hilsa off the Meghna — bigger, fattier, richer than upstream. Eat it shorshe (mustard) or simply pan-fried in mustard oil with rice.", "whereToFind": "Bhola town and Daulatkhan ghat-side restaurants (peak Aug–Nov)" },
+    { "name": "Char Fasson Buffalo Curd", "description": "Deep-cream buffalo-milk curd set in clay pots — Lalmohan and Char Fasson stalls are the road-trip stop.", "whereToFind": "Lalmohan and Char Fasson town stalls" },
+    { "name": "Char Honey", "description": "Wild honey from mangrove blossom around Kukri-Mukri and Tarua — paler and thinner than commercial honey, with a faint mangrove tang.", "whereToFind": "Char Fasson and Daulatkhan markets (Apr–Jun)" },
+    { "name": "Bhola Daab (Green Coconut)", "description": "Char-grown green coconut, drunk cold straight from the shell — the island's everyday luxury, especially in the summer.", "whereToFind": "Roadside stalls across the island" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Bir Sreshtho Sepoy Mohammad Mostafa Kamal",
+      "knownFor": "Sepoy of the 4th East Bengal Regiment and one of only seven recipients of Bangladesh's highest gallantry honour, the Bir Sreshtho. Killed at Darwin in Brahmanbaria on 18 April 1971 while covering his platoon's withdrawal with a light machine-gun. Born in Poshchim Hajipur village of Daulatkhan, Bhola, on 16 December 1947 — exactly 24 years before independence.",
+      "era": "1947 – 1971"
+    }
+  ],
+  "didYouKnow": [
+    "Bhola Island is Bangladesh's largest island — about 3,403 sq km across seven upazilas, spread between the Meghna estuary and the Bay of Bengal.",
+    "Jacob Tower in Char Fasson is 225 feet (69 m) tall — the tallest watchtower in Bangladesh and the Indian subcontinent.",
+    "Bir Sreshtho Sepoy Mohammad Mostafa Kamal was born in Poshchim Hajipur, Daulatkhan, Bhola, on 16 December 1947 — exactly 24 years to the day before Bangladesh's independence.",
+    "Char Kukri-Mukri, declared a wildlife sanctuary in 1981, holds chital deer, monkeys, otters and a growing migratory-bird list on about 40 sq km of mangrove and accretion forest in the Meghna mouth.",
+    "Monpura Island bore the brunt of the 1970 Bhola Cyclone — the deadliest tropical cyclone on record, which killed an estimated 300,000–500,000 people across the coastal belt.",
+    "Most of Bangladesh's ilish (hilsa) comes from the Meghna, and Bhola's stretch of the river produces fatter, richer fish than anywhere else in the country."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Bhola Sadar Model Thana", "phone": "—" },
+      { "name": "Char Fasson Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Bhola 250-Bed Sadar Hospital", "phone": "—" },
+      { "name": "Char Fasson Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
