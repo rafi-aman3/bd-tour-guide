@@ -1,0 +1,299 @@
+{
+  "name": "Chandpur",
+  "division": "Chittagong",
+  "tagline": "The hilsa capital of Bangladesh — where the Padma, Meghna and Dakatia meet at the Molhead, the country's biggest ilish market runs at dawn, and the river launches from Dhaka dock all day.",
+  "stats": {
+    "area": "1,704.06 sq km",
+    "population": "2,635,748",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "July to October for the hilsa season and a full, broad river; October to February for cool weather, the mosques and the riverfront. Note the roughly 22-day hilsa ban in October, when the fish goes off-market.",
+    "gettingThere": "The classic way is the Dhaka–Chandpur launch down the Meghna (one of the country's busiest routes); also by train via Laksam (the Sagarika / Meghna Express) or by road from Comilla and Chittagong. The Molhead and fish market are in Chandpur town; Hajiganj and Shahrasti lie east on the Comilla road.",
+    "difficulty": "Easy — the town sights cluster around the riverfront, and the launch trip is half the fun. The confluence current is genuinely strong; stay behind the railings at the Molhead."
+  },
+  "mustVisit": [
+    {
+      "name": "Tin Nodir Mohona (Boro Station Molhead)",
+      "type": "landmark",
+      "description": "The 'meeting of three rivers' — Padma, Meghna and Dakatia — at the tip of Chandpur town, where a long concrete promenade juts into the water past the Rakta Dhara monument. The district's signature view and its favourite sunset gathering.",
+      "history": "The Molhead embankment was built to protect the town and its railway/launch station from erosion at this volatile confluence; the Rakta Dhara memorial honours the area's 1971 martyrs.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2333, 90.6450],
+      "practical": {
+        "hours": "Daylight; best at sunset",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Chandpur town, walkable from the launch terminal, Chandpur Sadar",
+        "distanceKm": 1,
+        "transport": "Rickshaw / on foot from the launch ghat"
+      },
+      "bestTime": "Late afternoon for sunset; Oct–Mar for calmer water",
+      "tips": [
+        "The current at the point is strong — stay behind the railings, don't wade",
+        "Combine with the adjacent Boro Station hilsa market in the morning"
+      ]
+    },
+    {
+      "name": "Hajiganj Boro Masjid",
+      "type": "religious",
+      "description": "One of the largest mosques in the subcontinent by capacity — about 28,400 sq ft, holding some 10,000 worshippers — with a soaring ~188-ft minaret and marble-and-stone domes. A major Friday and Eid congregation site.",
+      "history": "The site began as a prayer house after the Sufi Mokimuddin settled here; the masonry mosque's foundation was laid around 1930 by Maulana Abul Farah Jainpuri, with the first azan a few years later.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2497, 90.8580],
+      "practical": {
+        "hours": "Daylight; quietest outside Friday prayers",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km east of town on the Chandpur–Comilla road, Hajiganj Upazila",
+        "distanceKm": 25,
+        "transport": "Bus / CNG / train to Hajiganj"
+      },
+      "bestTime": "Cool months; avoid prayer times for a quiet visit",
+      "tips": [
+        "Modest dress required; non-Muslims should ask before entering the prayer hall",
+        "Near Hajiganj railway station — easy to reach by train"
+      ]
+    },
+    {
+      "name": "Hazrat Shah Rasti (RA) Mazar",
+      "type": "religious",
+      "description": "The tomb-shrine of the 14th-century Sufi saint who gives Shahrasti upazila its name, set beside a large historic dighi with a three-domed mosque. A pilgrimage and ziyarat site, busiest at the annual urs.",
+      "history": "Shah Rasti, said to have reached Bengal around 1351 among the companions of Shah Jalal, died around 1388; the shrine was raised over his tomb three centuries later on the order of Pari Bibi, daughter of Mughal subedar Shaista Khan.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2330, 91.0700],
+      "practical": {
+        "hours": "Daylight; busiest at the urs",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35–40 km east/southeast at Sreepur, Shahrasti Upazila",
+        "distanceKm": 38,
+        "transport": "Bus / CNG to Shahrasti"
+      },
+      "bestTime": "The urs (last Thursday of Magh, Jan–Feb); otherwise cool mornings",
+      "tips": [
+        "Shoes off at the shrine; expect crowds during the urs",
+        "Women should check access at the inner tomb"
+      ]
+    },
+    {
+      "name": "Angikar Sculpture",
+      "type": "landmark",
+      "description": "Chandpur town's principal 1971 memorial — a roughly 15-ft figural sculpture of freedom fighters set beside a lake in the town centre, and a civic gathering point.",
+      "history": "Installed in 1989 and created by sculptor Syed Abdullah Khalid — the artist behind Dhaka's Aparajeyo Bangla — to commemorate the district's liberation struggle.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2350, 90.6500],
+      "practical": {
+        "hours": "Open space; evenings are liveliest",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Central Chandpur town, Chandpur Sadar",
+        "distanceKm": 1,
+        "transport": "Rickshaw / on foot"
+      },
+      "bestTime": "Year-round; especially 26 March & 16 December",
+      "tips": [
+        "An easy stroll from the Molhead",
+        "Pair with a riverfront walk at dusk"
+      ]
+    },
+    {
+      "name": "Rupsa Zamindar Bari",
+      "type": "heritage",
+      "description": "A roughly 250-year-old zamindar estate in Faridganj with old residential buildings and grounds — a window into the district's landed-gentry past.",
+      "history": "Founded after the earlier Hindu zamindars declined, when a Muslim landlord bought the zamindari from the British; the Rupsa landlords are locally remembered as benevolent.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1500, 90.7300],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km south of town at Rupsa, Faridganj Upazila",
+        "distanceKm": 30,
+        "transport": "Bus / CNG to Faridganj"
+      },
+      "bestTime": "Dry season, daytime",
+      "tips": [
+        "Parts are old and decayed — watch your footing",
+        "Ask locally for the caretaker"
+      ]
+    },
+    {
+      "name": "Boro Station Hilsa Market",
+      "type": "market",
+      "description": "The country's biggest hilsa wholesale and landing market, on the riverfront beside the Molhead — a dawn spectacle of boats, ice and silver ilish auctioned by the maund.",
+      "history": "The market grew around Chandpur's role as the natural collection point for hilsa from the Padma–Meghna and the southern coast; it remains the reference point for national hilsa prices.",
+      "image": "https://images.unsplash.com/photo-1605027990121-cbae9e0642df?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2330, 90.6440],
+      "practical": {
+        "hours": "Early morning; peak in the Jul–Oct season",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At the Molhead / Boro Station, Chandpur Sadar",
+        "distanceKm": 1,
+        "transport": "Rickshaw / on foot from the launch ghat"
+      },
+      "bestTime": "Sunrise, July to October (closed during the October ban)",
+      "tips": [
+        "Go at sunrise for the auctions",
+        "Catching and selling hilsa is banned during the ~22-day October breeding ban — plan around it"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Padma-Meghna Hilsa (Ilish)",
+      "description": "Chandpur's ilish is regarded as the freshest and finest in the country. Eaten as shorshe ilish (mustard), ilish bhaja (fried), or panta-ilish with fermented rice — the monsoon and Pohela Boishakh ritual.",
+      "venue": "Boro Station fish market & town restaurants (Jul–Oct)"
+    },
+    {
+      "type": "food",
+      "name": "River-Fish Bhorta",
+      "description": "Mashed and curried freshwater fish with mustard oil, onion and chilli — the staple riverine plate across the district.",
+      "venue": "Town eateries near the riverfront"
+    },
+    {
+      "type": "food",
+      "name": "Pitha & Mishti Doi",
+      "description": "Winter rice cakes (pitha) and sweet curd and sweetmeats from the town's confectioners — the everyday Bengali sweet tradition.",
+      "venue": "Chandpur town sweet shops"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Hajiganj Boro Masjid",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2497, 90.8580]
+    },
+    {
+      "name": "Hazrat Shah Rasti (RA) Mazar & Dighi",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2330, 91.0700]
+    },
+    {
+      "name": "Rupsa Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1500, 90.7300]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-chandpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Chandpur&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Al-Arafah / local Comilla coaches", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway e-Ticket", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": [
+        { "name": "Chandpur Court Railway Station (via Laksam)", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets Launch (Dhaka–Chandpur)", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-chandpur?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Chandpur Launch Ghat (Dhaka Sadarghat route)", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Chandpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "chandpur-molhead", "title": "Watch three rivers meet at the Molhead", "category": "moment", "detail": "The Padma, Meghna and Dakatia converge at the tip of Chandpur town — a long promenade into the water, busiest and most beautiful at sunset.", "whereOrHow": "Tin Nodir Mohona, Chandpur town", "bestTime": "Sunset" },
+    { "id": "chandpur-hilsa-market", "title": "Watch the dawn hilsa auction at Boro Station", "category": "experience", "detail": "The country's biggest ilish market — boats, ice and silver fish auctioned by the maund as the sun comes up.", "whereOrHow": "Boro Station fish market", "bestTime": "Jul–Oct, sunrise" },
+    { "id": "chandpur-launch", "title": "Take the Dhaka–Chandpur launch", "category": "experience", "detail": "One of the busiest river routes in the country — a few hours down the Meghna from Sadarghat, the classic way to arrive.", "whereOrHow": "Dhaka Sadarghat → Chandpur Launch Ghat" },
+    { "id": "chandpur-shorshe-ilish", "title": "Eat shorshe ilish at the source", "category": "food", "detail": "Hilsa in mustard gravy, cooked from fish landed that morning — nowhere fresher than Chandpur.", "whereOrHow": "Town restaurants near the riverfront", "bestTime": "Jul–Oct" },
+    { "id": "chandpur-hajiganj-masjid", "title": "Stand under the Hajiganj Boro Masjid minaret", "category": "place", "detail": "A mosque holding 10,000 worshippers, its ~188-ft minaret among the tallest in the region.", "whereOrHow": "Hajiganj, ~25 km east" },
+    { "id": "chandpur-shah-rasti", "title": "Visit the Shah Rasti shrine and dighi", "category": "place", "detail": "The 14th-century Sufi saint who named Shahrasti, his tomb beside a great tank and three-domed mosque.", "whereOrHow": "Sreepur, Shahrasti", "bestTime": "Magh urs" },
+    { "id": "chandpur-angikar", "title": "See the Angikar sculpture", "category": "place", "detail": "Chandpur's 1971 memorial by Syed Abdullah Khalid — freedom fighters in bronze beside a town-centre lake.", "whereOrHow": "Central Chandpur town" },
+    { "id": "chandpur-panta-ilish", "title": "Try panta-ilish on Pohela Boishakh", "category": "food", "detail": "Fermented rice with fried hilsa — the Bengali New Year plate, eaten with green chilli and onion.", "whereOrHow": "Chandpur town", "bestTime": "Pohela Boishakh / monsoon" },
+    { "id": "chandpur-rupsa-bari", "title": "Wander the Rupsa Zamindar Bari", "category": "place", "detail": "A ~250-year-old zamindar estate in Faridganj, its old buildings slowly returning to green.", "whereOrHow": "Rupsa, Faridganj" },
+    { "id": "chandpur-dakatia", "title": "Walk the Dakatia riverbank", "category": "experience", "detail": "The Dakatia loops through the district before joining the Meghna at the Molhead — quiet ghats and fishing boats.", "whereOrHow": "Chandpur Sadar riverbank", "bestTime": "Oct–Mar" },
+    { "id": "chandpur-sunset-cruise", "title": "Drift the confluence by boat", "category": "experience", "detail": "Hire a small boat off the Molhead at dusk to feel the scale of three great rivers meeting.", "whereOrHow": "Molhead boat ghat", "bestTime": "Oct–Mar, dusk" },
+    { "id": "chandpur-mishti", "title": "Buy sweet curd from a town confectioner", "category": "food", "detail": "Chandpur's old sweet shops turn out mishti doi and pitha to round off a river meal.", "whereOrHow": "Chandpur town sweet shops" }
+  ],
+  "foods": [
+    { "name": "Padma-Meghna Hilsa (Ilish)", "description": "Regarded as the freshest, finest hilsa in the country — shorshe ilish, ilish bhaja, or panta-ilish, from fish landed that morning.", "whereToFind": "Boro Station fish market & town restaurants (Jul–Oct)" },
+    { "name": "River-Fish Bhorta", "description": "Mashed, curried freshwater fish with mustard oil, onion and chilli, eaten with rice — staple riverine fare.", "whereToFind": "Town eateries near the riverfront" },
+    { "name": "Panta-Ilish", "description": "Fermented rice with fried hilsa, green chilli and onion — the Pohela Boishakh and monsoon ritual plate.", "whereToFind": "Chandpur town (Pohela Boishakh / monsoon)" },
+    { "name": "Mishti Doi & Pitha", "description": "Sweet curd and winter rice cakes from the town's confectioners — the everyday Bengali sweet.", "whereToFind": "Chandpur town sweet shops" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Shankha Ghosh",
+      "knownFor": "Major Bengali poet and literary critic, winner of the Jnanpith Award (2016) and many of Bengal's highest literary honours. Born in Chandpur in 1932 (with ancestral roots in Banaripara, Barisal).",
+      "era": "1932 – 2021"
+    },
+    {
+      "name": "Monirul Islam",
+      "knownFor": "Internationally renowned printmaker and etcher, recipient of the Ekushey Padak (1999) and Spanish royal honours, who divides his life between Dhaka and Madrid. Born in Chandpur in 1943.",
+      "era": "b. 1943"
+    },
+    {
+      "name": "Dildar",
+      "knownFor": "One of Bangladesh's most beloved film comedians, a fixture of Dhallywood cinema for decades. From Chandpur district.",
+      "era": "1945 – 2003"
+    }
+  ],
+  "didYouKnow": [
+    "Chandpur is the 'hilsa (ilish) capital of Bangladesh' — its Boro Station is the country's largest hilsa landing and wholesale market.",
+    "The town sits at the confluence of three rivers — Padma, Meghna and Dakatia — the famous Tin Nodir Mohona at the Molhead.",
+    "The district's name is traced either to the zamindar Chand Rai or to the Sufi Chand Faqir — two competing folk etymologies.",
+    "Shahrasti upazila is named after the Sufi saint Hazrat Shah Rasti, who died there around 1388.",
+    "Hajiganj Boro Masjid is among the largest mosques in the subcontinent by capacity, holding around 10,000 worshippers under a ~188-ft minaret.",
+    "Chandpur became a subdivision in 1878 but a full district only in 1984, split from greater Comilla — despite its town being a busy river port since the 19th century."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Chandpur Sadar Model Thana", "phone": "—" },
+      { "name": "Hajiganj Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Chandpur Sadar General Hospital (250-Bed)", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
