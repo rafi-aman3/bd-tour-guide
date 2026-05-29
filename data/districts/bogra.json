@@ -1,0 +1,299 @@
+{
+  "name": "Bogura",
+  "division": "Rajshahi",
+  "tagline": "The oldest city in Bangladesh — Mahasthangarh, capital of ancient Pundranagar since the 3rd century BCE, ringed by Buddhist monasteries and folk-legend mounds, and the home of the country's most famous sweet curd.",
+  "stats": {
+    "area": "2,898.68 sq km",
+    "population": "3,734,297",
+    "established": "1821",
+    "attractions": "12+"
+  },
+  "guide": {
+    "bestTime": "November to February — cool, dry weather for the archaeology belt and the Jamuna chars. Avoid peak monsoon (Jun–Aug) when Sariakandi floods.",
+    "gettingThere": "By road or rail on the main Dhaka–north corridor (~5–6 hr from Dhaka; ~200 km). Trains run via Santahar Junction (Adamdighi) and Bogura station; intercity coaches are frequent. The archaeology cluster — Mahasthangarh, Gokul Medh, Vasu Bihar — sits 11–13 km north of town in Shibganj; Sariakandi's Jamuna riverfront is ~25–30 km east.",
+    "difficulty": "Easy — the ancient sites are short CNG/auto hops on good roads; the rural monastery ruins (Vasu Bihar) need a local auto from Mahasthan. The Jamuna chars are a calm-season boat ride."
+  },
+  "mustVisit": [
+    {
+      "name": "Mahasthangarh (ancient Pundranagar)",
+      "type": "heritage",
+      "description": "The fortified ruins of Pundranagara — the oldest known urban site in Bangladesh — sitting on one of the country's highest land tracts. Massive rampart walls enclose a citadel surrounded by mounds, monasteries and temple bases, with the shrine of Shah Sultan Balkhi at its eastern edge.",
+      "history": "A Brahmi-script limestone slab found here in 1931 (the Mahasthan inscription) dates the city to at least the 3rd century BCE, when it was a Mauryan administrative capital. It stayed a living city through the Gupta, Pala and Sena dynasties until the 12th century CE.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9667, 89.3417],
+      "practical": {
+        "hours": "Daylight hours; site open daily",
+        "entryFee": "Small ticket at the gate",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 11–13 km north of Bogura town on the Bogura–Rangpur highway, Shibganj Upazila",
+        "distanceKm": 12,
+        "transport": "CNG / auto from Bogura town toward Mahasthan"
+      },
+      "bestTime": "November to February",
+      "tips": [
+        "See the on-site museum first to make sense of the field mounds",
+        "Pair with Gokul Medh and Vasu Bihar for a half-day archaeology loop",
+        "Wear sun protection — the ramparts are open and shadeless"
+      ]
+    },
+    {
+      "name": "Mahasthan Archaeological Museum",
+      "type": "heritage",
+      "description": "A government museum beside the Mahasthangarh citadel displaying excavated finds — Hindu and Buddhist stone images, terracotta plaques of daily life, coins, pottery and pre-Pala bronzes from the surrounding monasteries. It is the interpretive anchor for the whole Pundranagar complex.",
+      "history": "Established in 1967 by the Department of Archaeology to house artefacts recovered from the site. The collection has since grown through later excavations, including a France–Bangladesh joint mission.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9650, 89.3420],
+      "practical": {
+        "hours": "Daytime; closed one weekday — check locally",
+        "entryFee": "Small ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Adjacent to the Mahasthangarh site, ~12 km north of Bogura town, Shibganj Upazila",
+        "distanceKm": 12,
+        "transport": "Same trip as Mahasthangarh"
+      },
+      "bestTime": "November to February",
+      "tips": [
+        "Carry small notes for the ticket counter",
+        "Photography rules vary by gallery — ask at the desk"
+      ]
+    },
+    {
+      "name": "Gokul Medh (Behula's Bashor Ghar)",
+      "type": "heritage",
+      "description": "An excavated terraced mound with a striking podium of 172 rectangular blind cells that once carried a tall shrine. Folk tradition ties it to the Bengali legend of Behula and Lakhindar — hence 'Behula's bridal chamber' — though no evidence supports the tale.",
+      "history": "Excavated in 1934–36 by N. G. Majumdar; the structure dates to roughly the 7th–8th century CE as a Buddhist establishment, with a Shiva temple added in the Sena period.",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9000, 89.3200],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Small ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Gokul village, ~2–3 km south of Mahasthangarh, Shibganj Upazila",
+        "distanceKm": 10,
+        "transport": "CNG / auto from Mahasthan"
+      },
+      "bestTime": "November to February",
+      "tips": [
+        "Photograph the cellular podium from a slight elevation",
+        "An easy add-on to the Mahasthangarh visit"
+      ]
+    },
+    {
+      "name": "Vasu Bihar (Narapatir Dhap)",
+      "type": "heritage",
+      "description": "A Buddhist monastic complex of two rectangular monasteries around open courtyards with a central cruciform shrine, set in quiet farmland west of Mahasthangarh. Excavations here yielded clay seals and brick structures.",
+      "history": "Dates to the post-Gupta and Pala period (~7th–11th century CE); eighteen clay seals, mostly Pala-era, were recovered. The ruins are thought to match a monastery described by the 7th-century Chinese pilgrim Hiuen Tsang.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9700, 89.2800],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free / small ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 6 km west of Mahasthangarh, Shibganj Upazila",
+        "distanceKm": 16,
+        "transport": "Local CNG / auto from Mahasthan; roads are rural"
+      },
+      "bestTime": "November to February",
+      "tips": [
+        "Combine with the archaeology loop — it's off the main road",
+        "Bring water; there are no facilities on site"
+      ]
+    },
+    {
+      "name": "Sariakandi Jamuna Riverfront",
+      "type": "nature",
+      "description": "The wide Jamuna at Sariakandi, with sandy chars, boat rides and the popular Kalitala and Prem Jamuna ('Bank of Love') ghats. The Sariakandi groyne dam is the focal viewpoint and a major local picnic spot.",
+      "history": "The groyne was built by the Water Development Board to protect the Jamuna's right bank from erosion; it has since become the area's top tourist draw, pulling huge picnic crowds in the cool months.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8800, 89.5500],
+      "practical": {
+        "hours": "Daylight; best late afternoon",
+        "entryFee": "Free; boat hire extra",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25–30 km east of Bogura town, Sariakandi Upazila",
+        "distanceKm": 28,
+        "transport": "CNG from Bogura's Chelopara stand"
+      },
+      "bestTime": "October to March — calmer water, avoid monsoon flooding",
+      "tips": [
+        "Settle the boat rate before stepping in",
+        "Sunset over the chars is the reason to come"
+      ]
+    },
+    {
+      "name": "Nawab Mohammad Ali Palace Museum",
+      "type": "landmark",
+      "description": "A 19th-century palace on the west bank of the Karatoya River, now the largest family museum in northern Bangladesh, displaying the Nawab family's furniture, objects and garments, with gardens and a small amusement park alongside.",
+      "history": "An roughly 180-year-old late-colonial building linked to the Bogra Nawab family. The museum opened in 1998 and was listed as a Preserved Antiquity by the Department of Archaeology in 2016.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8480, 89.3720],
+      "practical": {
+        "hours": "Daytime; quietest on weekday mornings",
+        "entryFee": "Ticketed",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In/near Bogura town centre, Bogura Sadar Upazila",
+        "distanceKm": 1,
+        "transport": "Rickshaw / CNG within town"
+      },
+      "bestTime": "Year-round; a good rainy-day option",
+      "tips": [
+        "Go for the museum and grounds — the rides are dated",
+        "Combine with a doi tasting in town"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Bogurar Doi (Sweet Curd)",
+      "description": "The district's signature — thick, creamy sweetened yogurt set in clay pots. Traced to the Ghosh confectioners of Sherpur some 250 years ago and awarded a national Geographical Indication (GI) tag in 2023.",
+      "venue": "Established sweet shops in Bogura town & Sherpur"
+    },
+    {
+      "type": "produce",
+      "name": "Bogura Morich (Chili)",
+      "description": "Bogura is one of the country's largest chili belts, its deep-red 'Bogra morich' prized for heat and colour. The Sariakandi and Sonatala char lands are the key growing zones.",
+      "venue": "Char-land farms and town wholesale markets"
+    },
+    {
+      "type": "food",
+      "name": "Doi-Chira Breakfast",
+      "description": "The classic local morning plate — sweet curd spooned over chira (flattened rice), sometimes with banana and a drizzle of molasses.",
+      "venue": "Town sweet shops and roadside stalls"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Mahasthangarh Citadel & Ramparts",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9667, 89.3417]
+    },
+    {
+      "name": "Gokul Medh (Behula's Bashor Ghar)",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9000, 89.3200]
+    },
+    {
+      "name": "Vasu Bihar Monastery Ruins",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9700, 89.2800]
+    },
+    {
+      "name": "Nawab Mohammad Ali Palace",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8480, 89.3720]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-bogura?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Bogura&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "SR Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway e-Ticket", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": [
+        { "name": "Bogura Railway Station", "phone": "—" },
+        { "name": "Santahar Junction (Adamdighi)", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Bogura&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "bogra-mahasthangarh", "title": "Walk the ramparts of Mahasthangarh", "category": "place", "detail": "The oldest city in Bangladesh — ancient Pundranagar, a Mauryan capital from the 3rd century BCE, on one of the country's highest land tracts.", "whereOrHow": "Mahasthangarh, Shibganj", "bestTime": "Nov–Feb" },
+    { "id": "bogra-museum", "title": "Read 2,000 years at the Mahasthan Museum", "category": "place", "detail": "Stone images, terracotta plaques of daily life and pre-Pala bronzes excavated from the Pundranagar mounds, gathered in one government gallery since 1967.", "whereOrHow": "Mahasthan Archaeological Museum" },
+    { "id": "bogra-gokul-medh", "title": "Find Behula's Bashor Ghar at Gokul Medh", "category": "place", "detail": "A terraced mound of 172 blind cells wrapped in the folk legend of Behula and Lakhindar — myth over a 7th-century Buddhist shrine.", "whereOrHow": "Gokul village, near Mahasthangarh" },
+    { "id": "bogra-vasu-bihar", "title": "Stand in the courtyards of Vasu Bihar", "category": "place", "detail": "Pala-era Buddhist monastery ruins in quiet farmland, linked to a monastery the Chinese pilgrim Hiuen Tsang described in the 7th century.", "whereOrHow": "Vasu Bihar, Shibganj" },
+    { "id": "bogra-doi", "title": "Eat Bogurar doi from a clay pot", "category": "food", "detail": "Thick, creamy sweet curd from the Ghosh confectioners of Sherpur — a 250-year-old tradition and a GI-tagged product since 2023.", "whereOrHow": "Bogura town & Sherpur sweet shops" },
+    { "id": "bogra-sariakandi-sunset", "title": "Watch sunset over the Jamuna at Sariakandi", "category": "moment", "detail": "Sandy chars, boat rides and the Prem Jamuna 'Bank of Love' ghat on the country's mightiest river.", "whereOrHow": "Sariakandi riverfront", "bestTime": "Oct–Mar" },
+    { "id": "bogra-char-boat", "title": "Take a char boat ride on the Jamuna", "category": "experience", "detail": "Hire a wooden boat from a Sariakandi ghat and drift out to the shifting sand islands midstream.", "whereOrHow": "Kalitala / Prem Jamuna Ghat, Sariakandi", "bestTime": "Oct–Mar" },
+    { "id": "bogra-nawab-palace", "title": "Tour the Nawab Mohammad Ali Palace", "category": "place", "detail": "A 19th-century palace on the Karatoya, now northern Bangladesh's largest family museum of the Bogra Nawab family.", "whereOrHow": "Nawab Palace Museum, Bogura town" },
+    { "id": "bogra-shah-sultan", "title": "Pay respects at Shah Sultan Balkhi's shrine", "category": "place", "detail": "The mazar of the saint Shah Sultan Mahisawar at the eastern edge of Mahasthangarh, a living pilgrimage beside the ancient ruins.", "whereOrHow": "Mahasthangarh, Shibganj" },
+    { "id": "bogra-chili", "title": "See the red-chili char lands", "category": "experience", "detail": "Sariakandi and Sonatala chars turn crimson with drying 'Bogra morich', one of the country's great chili belts.", "whereOrHow": "Sariakandi / Sonatala char farms", "bestTime": "Dry season" },
+    { "id": "bogra-doi-chira", "title": "Try doi-chira for breakfast", "category": "food", "detail": "Sweet curd over flattened rice with banana and molasses — the classic Bogura morning plate.", "whereOrHow": "Town sweet shops" },
+    { "id": "bogra-karatoya", "title": "Stroll the Karatoya riverbank in town", "category": "experience", "detail": "The once-mighty Karatoya, sacred in old texts, threads through Bogura town past the Nawab Palace.", "whereOrHow": "Karatoya riverbank, Bogura Sadar" }
+  ],
+  "foods": [
+    { "name": "Bogurar Doi (Sweet Curd)", "description": "Thick, creamy sweetened yogurt set in clay pots — the Ghosh confectioners of Sherpur perfected it some 250 years ago, and it earned a national GI tag in 2023.", "whereToFind": "Established sweet shops in Bogura town & Sherpur" },
+    { "name": "Doi-Chira", "description": "Sweet curd spooned over chira (flattened rice) with banana and molasses — the everyday local breakfast.", "whereToFind": "Town sweet shops and roadside stalls" },
+    { "name": "Bogura Morich (Red Chili)", "description": "Deep-red, fiery 'Bogra morich' from the Jamuna char lands — a distinct local germplasm prized across the country.", "whereToFind": "Sariakandi / Sonatala farms & town wholesale markets" },
+    { "name": "Sherpur Sweetmeats", "description": "The same dairy tradition that gave Bogura its doi supports a strong line of milk sweets in the Sherpur sweet shops.", "whereToFind": "Sherpur Upazila sweet shops" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Prafulla Chaki",
+      "knownFor": "Anti-colonial revolutionary of the Jugantar group who, with Khudiram Bose, attempted to assassinate magistrate Kingsford at Muzaffarpur in 1908 and shot himself to avoid capture. Born 10 December 1888 in Bihar village of Bogura district and schooled at Namuja.",
+      "era": "1888 – 1908"
+    },
+    {
+      "name": "Akhteruzzaman Elias",
+      "knownFor": "Major modernist Bengali novelist, author of Chilekothar Sepai and Khoabnama. His family home was at Chelopara in Bogura, though he was born at his maternal grandparents' home in Gotia village, Gaibandha.",
+      "era": "1943 – 1997"
+    }
+  ],
+  "didYouKnow": [
+    "Mahasthangarh is the oldest known urban site in Bangladesh — the ancient city of Pundranagar, in use from the 3rd century BCE to the 12th century CE.",
+    "The city's age is fixed by the Mahasthan inscription, found in 1931 — six lines in Prakrit-Brahmi recording a land grant, dated to at least the 3rd century BCE under the Mauryas.",
+    "Pundranagar was built on one of the highest land tracts in Bangladesh (~36 m above sea level) — flood-safe high ground in a delta country.",
+    "Bogurar doi earned a national Geographical Indication tag in 2023, capping a sweet-curd tradition some 250 years old.",
+    "Vasu Bihar's monastery ruins are linked to a description by the 7th-century Chinese pilgrim Hiuen Tsang, placing Bogura on the early Buddhist pilgrim routes of Bengal.",
+    "Bogura was carved out as a district in 1821 from parts of Rajshahi, Dinajpur and Rangpur, and was later split in 1983 to create Joypurhat district."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Bogura Sadar Police Station", "phone": "—" },
+      { "name": "Shibganj Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Shaheed Ziaur Rahman Medical College Hospital", "phone": "—" },
+      { "name": "Bogura Mohammad Ali Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
