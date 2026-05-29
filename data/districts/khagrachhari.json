@@ -1,0 +1,270 @@
+{
+  "name": "Khagrachhari",
+  "division": "Chittagong",
+  "tagline": "A green hill district of the Chittagong Hill Tracts — the torchlit Alutila cave, mossy waterfalls and hilltop ponds, Chakma–Marma–Tripura villages, and the road gateway to Sajek.",
+  "stats": {
+    "area": "2,749.16 sq km",
+    "population": "714,119",
+    "established": "1983",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "October to March — dry trails, clear hill views and safe cave footing. The monsoon (Jun–Oct) fills Richang Waterfall but makes the rock slippery.",
+    "gettingThere": "By bus from Chittagong (~3.5–4 hr) or overnight coach from Dhaka (~9–10 hr); there is no railway or airport in the Hill Tracts. Internal travel is by chander gari (open-top jeep), CNG and motorbike. Alutila and Richang are close to town; Dighinala — the road head for Sajek — is ~21 km north.",
+    "difficulty": "Easy to moderate. Khagrachhari is a Chittagong Hill Tracts district with army/BGB checkpoints; Bangladeshi visitors travel freely to the main sites, while foreign nationals need permission (handled through the DC's office or a registered operator). Rules can tighten without notice — confirm the current situation locally, especially for onward travel toward Sajek."
+  },
+  "mustVisit": [
+    {
+      "name": "Alutila Cave & Tourism Complex",
+      "type": "nature",
+      "description": "A roughly 350-ft natural cave in the Alutila hills at around 3,000 ft, pitch-dark inside and crossed by torchlight in ten to fifteen minutes, with a hilltop viewpoint complex above. The district's single best-known attraction.",
+      "history": "Locals call it Matai Hakar — 'cave of the gods' — and it has long been the symbolic gateway to Khagrachhari tourism, now framed by a managed complex and viewpoint.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0700, 91.9300],
+      "practical": {
+        "hours": "Daylight; cave entry with a torch/guide",
+        "entryFee": "Small entry fee; torch hire extra",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 7–8 km west of town on the Khagrachhari–Matiranga road, Sadar/Matiranga",
+        "distanceKm": 8,
+        "transport": "Chander gari / CNG from town"
+      },
+      "bestTime": "October to March — drier, less slippery cave floor",
+      "tips": [
+        "Hire a torch and local guide at the entrance — the cave is fully dark and slick",
+        "Wear grippy shoes; the descent to the cave mouth is steep"
+      ]
+    },
+    {
+      "name": "Richang Waterfall",
+      "type": "nature",
+      "description": "A multi-tier cascade dropping over moss-covered rock through dense green hills, with a natural rock slide forming at the base in good flow. One of the more accessible falls in the Hill Tracts.",
+      "history": "A long-loved local swimming and photography spot near Alutila; the flow is strong only in and just after the monsoon.",
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0400, 91.9300],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Small fee",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 10–11 km from town off the Khagrachhari–Matiranga road, Sadar/Matiranga",
+        "distanceKm": 11,
+        "transport": "Chander gari / CNG, then a short walk"
+      },
+      "bestTime": "June to October for full flow; rock is slippery then",
+      "tips": [
+        "The final approach is a steep walk down steps then a dirt trail — go slow on wet rock",
+        "Combine with Alutila as one trip"
+      ]
+    },
+    {
+      "name": "Jhulonto Bridge & 'New Zealand', Dighinala",
+      "type": "landmark",
+      "description": "A hanging footbridge over the Maini river area at Dighinala, paired with a flat, lush paddy plain that locals nickname 'New Zealand' for its green expanse ringed by hills.",
+      "history": "Dighinala is the regional town and the road head for onward travel toward Sajek; the bridge and plain are easy, scenic roadside stops on that route.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1600, 91.8800],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 21 km north of town, Dighinala Upazila",
+        "distanceKm": 21,
+        "transport": "Chander gari / bus to Dighinala"
+      },
+      "bestTime": "October to February — clear skies over the plain",
+      "tips": [
+        "Easily paired with a Sajek run since both use the Dighinala road",
+        "Check the day's checkpoint situation locally before heading on toward Sajek"
+      ]
+    },
+    {
+      "name": "Mayabini Lake, Panchhari",
+      "type": "nature",
+      "description": "A calm hill-ringed lake of clear water with a small island hill at its centre, where visitors row small boats among the forested shores. A quieter, less-commercial alternative to the headline spots.",
+      "history": "Set at Kanchanchhari in Panchhari upazila, it has grown into a gentle day-trip destination away from the busier Alutila circuit.",
+      "image": "https://images.unsplash.com/photo-1572125675722-238a4f1f4ea2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2100, 91.9700],
+      "practical": {
+        "hours": "Daylight; boats on site",
+        "entryFee": "Small fee; boat hire extra",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30–40 minutes' drive, Panchhari Upazila",
+        "distanceKm": 25,
+        "transport": "Chander gari / CNG to Panchhari"
+      },
+      "bestTime": "November to February — still water, good reflections",
+      "tips": [
+        "Boats are available on site for a small fee",
+        "Bring your own snacks and water — facilities are limited"
+      ]
+    },
+    {
+      "name": "Hatimura (Hatimatha)",
+      "type": "nature",
+      "description": "A dramatic, very steep hill route — locally Mayang Kapal, around 1,200 ft — with long concrete staircases climbing through forest past a string of Indigenous para (villages). A genuine workout with big views.",
+      "history": "Increasingly popular for its raw scenery and glimpses of village life along the climb, in Perachhara union of Sadar upazila.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1000, 91.9900],
+      "practical": {
+        "hours": "Daylight; start early",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Perachhara union, Khagrachhari Sadar — a drive plus a strenuous walk",
+        "distanceKm": 12,
+        "transport": "Chander gari / CNG, then climb on foot"
+      },
+      "bestTime": "October to March — dry, cooler climb",
+      "tips": [
+        "The staircase is long and steep — carry water and start early",
+        "A local guide helps with the village trail sections"
+      ]
+    },
+    {
+      "name": "Devata Pukur (Nuya Dhala), Matiranga",
+      "type": "nature",
+      "description": "A large natural pond — about 1,600 ft long — sitting atop a hill at roughly 1,000 ft, reached by a kilometre-long uphill trail from Nunchhari village. Revered locally as the 'Pond of God.'",
+      "history": "Visited by pilgrims as well as trekkers, it sits in a Tripura village along the Khagrachhari–Rangamati road and carries genuine religious significance.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0500, 92.0000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Nunchhari village off the Khagrachhari–Rangamati road, Matiranga area",
+        "distanceKm": 30,
+        "transport": "Chander gari / CNG, then a ~1 km uphill walk"
+      },
+      "bestTime": "November to February — dry trail",
+      "tips": [
+        "Take a local guide from Nunchhari para",
+        "Treat it respectfully — it is a place of worship"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Pajon",
+      "description": "Khagrachhari's famous mixed hill-vegetable dish, combining many varieties — dozens, by some counts — of greens, ferns, bamboo shoot and herbs, often with a little dried fish.",
+      "venue": "Indigenous-run eateries in Khagrachhari town"
+    },
+    {
+      "type": "food",
+      "name": "Bamboo Chicken",
+      "description": "Chicken (or fish) stuffed with herbs and slow-cooked inside a green bamboo tube over fire — the signature hill dish, Chakma-style.",
+      "venue": "Hill restaurants, Khagrachhari town"
+    },
+    {
+      "type": "craft",
+      "name": "Pinon-Hadi Weaving",
+      "description": "The traditional handwoven Chakma women's two-piece — the pinon skirt and hadi wrap — made on backstrap looms and prized at hill celebrations.",
+      "venue": "Indigenous weavers & town craft shops"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Alutila Cave (Matai Hakar)",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0700, 91.9300]
+    },
+    {
+      "name": "Manikchhari Maitri Bihar (Buddhist temple)",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.9000, 91.8500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-khagrachhari?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Khagrachhari&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Shanti Paribahan", "phone": "—" },
+        { "name": "Shyamoli / S. Alam (from Chittagong)", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Khagrachhari&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "khagrachhari-alutila", "title": "Cross the Alutila cave by torchlight", "category": "experience", "detail": "A ~350-ft natural cave the Tripura call Matai Hakar, 'cave of the gods' — pitch-dark, crossed in ten minutes by torch, with a hilltop viewpoint above.", "whereOrHow": "Alutila, Khagrachhari–Matiranga road", "bestTime": "Oct–Mar" },
+    { "id": "khagrachhari-richang", "title": "Slide down Richang Waterfall", "category": "experience", "detail": "A mossy multi-tier cascade with a natural rock slide at the base — the most accessible fall near town.", "whereOrHow": "Richang, near Alutila", "bestTime": "Jun–Oct for flow" },
+    { "id": "khagrachhari-new-zealand", "title": "Stand on the 'New Zealand' plain at Dighinala", "category": "place", "detail": "A flat, lush paddy expanse ringed by hills beside a hanging bridge over the Maini — the green that earned its nickname.", "whereOrHow": "Dighinala", "bestTime": "Oct–Feb" },
+    { "id": "khagrachhari-mayabini", "title": "Row across Mayabini Lake", "category": "place", "detail": "A still hill lake with an island at its centre in Panchhari — the quiet alternative to the busy spots.", "whereOrHow": "Kanchanchhari, Panchhari", "bestTime": "Nov–Feb" },
+    { "id": "khagrachhari-hatimura", "title": "Climb the Hatimura staircase", "category": "experience", "detail": "A steep stairway up Mayang Kapal through forest and Indigenous para — a real workout for a big hill view.", "whereOrHow": "Perachhara, Khagrachhari Sadar", "bestTime": "Oct–Mar" },
+    { "id": "khagrachhari-devata-pukur", "title": "Hike to Devata Pukur", "category": "place", "detail": "A 1,600-ft-long pond atop a hill, revered as the 'Pond of God,' reached by a kilometre uphill from Nunchhari.", "whereOrHow": "Nunchhari, Matiranga", "bestTime": "Nov–Feb" },
+    { "id": "khagrachhari-pajon", "title": "Eat Pajon, the many-vegetable dish", "category": "food", "detail": "Khagrachhari's famous hill plate — dozens of greens, ferns and bamboo shoot cooked together with a little dried fish.", "whereOrHow": "Indigenous-run eateries, Khagrachhari town" },
+    { "id": "khagrachhari-bamboo-chicken", "title": "Try Chakma bamboo chicken", "category": "food", "detail": "Chicken slow-cooked inside a green bamboo tube over fire — smoky, herby, the signature hill dish.", "whereOrHow": "Hill restaurants, Khagrachhari town" },
+    { "id": "khagrachhari-sajek-gateway", "title": "Set off for Sajek from Dighinala", "category": "experience", "detail": "Khagrachhari is the road gateway to Sajek Valley — though Sajek itself lies just across the line in Rangamati district.", "whereOrHow": "Dighinala → Sajek (chander gari)", "bestTime": "Oct–Mar" },
+    { "id": "khagrachhari-pinon-hadi", "title": "Buy a handwoven pinon-hadi", "category": "craft", "detail": "The Chakma women's two-piece, woven on a backstrap loom in bold patterns — the district's signature textile.", "whereOrHow": "Town craft shops & weavers" },
+    { "id": "khagrachhari-chander-gari", "title": "Ride a chander gari into the hills", "category": "experience", "detail": "The open-top 4WD jeep is how Khagrachhari moves — grinding up ridges with the valley falling away beside you.", "whereOrHow": "Hired in Khagrachhari town" },
+    { "id": "khagrachhari-tareng", "title": "Catch the view from Tareng", "category": "place", "detail": "A hilltop viewpoint over Khagrachhari town and the Chengi valley — an easy sunset spot.", "whereOrHow": "Tareng, Khagrachhari Sadar", "bestTime": "Late afternoon" }
+  ],
+  "foods": [
+    { "name": "Pajon", "description": "Khagrachhari's famous mixed hill-vegetable dish — dozens of greens, ferns and bamboo shoot cooked together, often with a little dried fish.", "whereToFind": "Indigenous-run eateries in Khagrachhari town" },
+    { "name": "Bamboo Chicken", "description": "Chicken stuffed with herbs and slow-cooked inside a green bamboo tube over fire — the smoky Chakma signature.", "whereToFind": "Hill restaurants, Khagrachhari town" },
+    { "name": "Jhum Rice & Bamboo-Shoot Curry", "description": "Hill rice and bamboo-shoot curry from jhum cultivation — lightly spiced, heavy on fresh hillside herbs.", "whereToFind": "Indigenous eateries & hill villages" }
+  ],
+  "famousPeople": [],
+  "didYouKnow": [
+    "Khagrachhari's most famous site, the Alutila Cave, is called Matai Hakar — 'cave of the gods' — and is explored entirely by torchlight through about 350 ft of darkness.",
+    "The district is the seat of the Mong Circle, one of only three traditional hereditary chieftaincies in the entire Chittagong Hill Tracts.",
+    "Almost half its people are Indigenous — Chakma, Marma, Tripura and others — making Khagrachhari one of Bangladesh's most multi-ethnic districts.",
+    "Khagrachhari is the road gateway to Sajek Valley, Bangladesh's most famous hill resort — even though Sajek itself sits across the boundary in Rangamati district.",
+    "Three rivers thread the district: the Chengi (the longest), the Maini and the Feni.",
+    "Local cuisine centres on bamboo-tube cooking and Pajon — a single dish that can blend dozens of types of hill vegetable."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Khagrachhari Sadar Police Station", "phone": "—" },
+      { "name": "Dighinala Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Khagrachhari Adhunik Zila Sadar Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
