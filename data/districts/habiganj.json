@@ -65,30 +65,6 @@
       ]
     },
     {
-      "name": "Madhabpur Lake",
-      "type": "nature",
-      "description": "A serene lake cradled by the rolling slopes of a tea estate in Madhabpur — famous for the lotus and water lilies that bloom across its surface. A short, scenic stop on the way to or from the forests.",
-      "history": "—",
-      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
-      "coordinates": [24.2000, 91.6500],
-      "practical": {
-        "hours": "Daylight hours",
-        "entryFee": "—",
-        "contact": "—",
-        "website": "—"
-      },
-      "howToReach": {
-        "fromDistrictTown": "About 50 km southeast of Habiganj town, inside a tea garden in Madhabpur Upazila near the Moulvibazar border",
-        "distanceKm": 50,
-        "transport": "Bus to Madhabpur, then CNG into the tea estate"
-      },
-      "bestTime": "Cool months; lotus blooms strongest in late monsoon to early winter",
-      "tips": [
-        "Ask permission at the tea-estate office before walking in",
-        "Mornings are quietest and best for photographs"
-      ]
-    },
-    {
       "name": "Shankarpasha Shahi Mosque",
       "type": "religious",
       "description": "A rare surviving Sultanate-era mosque at Uchail Shankarpasha — a single-domed brick mosque with terracotta detailing that has stood for over five centuries.",
@@ -236,7 +212,6 @@
   "bucketlist": [
     { "id": "habiganj-satchari-gibbon", "title": "Listen for hoolock gibbons in Satchari at dawn", "category": "experience", "detail": "The gibbons call across the canopy in the first hour of light. Walk the 'seven streams' trail with a Forest Department guide for the best chance of hearing — and glimpsing — them.", "whereOrHow": "Satchari National Park, Chunarughat", "bestTime": "Oct–Mar, at dawn" },
     { "id": "habiganj-rema-kalenga", "title": "Trek deep into Rema-Kalenga", "category": "experience", "detail": "One of the country's oldest and largest natural forests — watchtowers, hill trails and a species list that runs to hundreds of birds and plants. Wilder and quieter than Satchari.", "whereOrHow": "Rema-Kalenga Wildlife Sanctuary, Chunarughat", "bestTime": "Nov–Feb" },
-    { "id": "habiganj-madhabpur-lotus", "title": "See the lotus bloom on Madhabpur Lake", "category": "moment", "detail": "A tea-garden lake carpeted with lotus and water lilies. Come in the morning when the surface is still and the blooms are open.", "whereOrHow": "Madhabpur Lake, Madhabpur", "bestTime": "Late monsoon to early winter" },
     { "id": "habiganj-shankarpasha", "title": "Visit the 1513 Shankarpasha Shahi Mosque", "category": "place", "detail": "A single-domed Sultanate-era mosque that has stood for over five centuries — one of the oldest surviving mosques in the region.", "whereOrHow": "Uchail Shankarpasha, Rajiura", "bestTime": "Late afternoon" },
     { "id": "habiganj-komola-dighi", "title": "Walk the banks of Komola Rani'r Dighi", "category": "place", "detail": "A vast historic tank wrapped in the legend of a queen who gave her life so it would fill with water — a story the poet Jasimuddin set in verse.", "whereOrHow": "Baniachong" },
     { "id": "habiganj-baniachong", "title": "Stand in Baniachong — said to be Asia's largest village", "category": "moment", "detail": "Endless homesteads, ponds and paddy stretching to the horizon. Pair it with the dighi and the nearby Bithangal Akhra.", "whereOrHow": "Baniachong Upazila" },

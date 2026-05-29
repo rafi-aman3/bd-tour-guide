@@ -175,8 +175,8 @@
     {
       "type": "food",
       "name": "Seven-Colour Tea (Saat Rong Cha)",
-      "description": "Sylhet's most famous drink — seven layers of differently spiced tea, each a different colour and flavour, poured to settle one above the other. Invented in a small tea-stall in Srimangal and now a Sylhet city ritual.",
-      "venue": "Nilkantha Cha Cabin and copycats around town"
+      "description": "The greater-Sylhet drink that everyone tries — seven layers of differently spiced tea, each a different colour, poured to settle one above the other. Invented by Romesh Ram Gour in Sreemangal in 2002; Sylhet city has plenty of imitators.",
+      "venue": "Tea cabins around the city (the original Nilkantha Cha Cabin is in Sreemangal)"
     },
     {
       "type": "food",
@@ -266,13 +266,13 @@
     { "id": "sylhet-sada-pathor", "title": "Wade across the white stones at Bholaganj", "category": "experience", "detail": "Sada Pathor — kilometres of chalk-white stones in the Dhalai river bed at the Meghalaya zero-point, the hills rising straight out of the boulders behind.", "whereOrHow": "Bholaganj Zero Point, Companiganj", "bestTime": "Winter, when water is shin-deep" },
     { "id": "sylhet-malnicherra", "title": "Walk the rows of Malnicherra — subcontinent's oldest tea garden", "category": "place", "detail": "Established in 1849, Malnicherra is where commercial tea in the subcontinent began. A glass of fresh garden tea in the canteen is the right way to end the visit.", "whereOrHow": "Malnicherra Tea Estate, Sylhet city outskirts" },
     { "id": "sylhet-osmani-museum", "title": "Pay respects at the Osmani Museum", "category": "place", "detail": "Bangabir General MAG Osmani's family home in Naiorpul, now a museum to the man who commanded the Mukti Bahini through the Liberation War.", "whereOrHow": "Osmani Museum, Naiorpul, Sylhet city" },
-    { "id": "sylhet-seven-colour-tea", "title": "Order a glass of seven-colour tea", "category": "food", "detail": "Seven layers of differently spiced tea, poured so each colour holds its place — Sylhet's most photographed drink. Nilkantha Cha Cabin is the original; copycats abound.", "whereOrHow": "Nilkantha Cha Cabin (multiple Sylhet branches)" },
+    { "id": "sylhet-seven-colour-tea", "title": "Order a glass of seven-colour tea", "category": "food", "detail": "Seven layers of differently spiced tea, poured so each colour holds its place. The original cabin is Romesh Ram Gour's Nilkantha in Sreemangal (Moulvibazar) — Sylhet city has good imitators.", "whereOrHow": "Tea cabins around Sylhet city" },
     { "id": "sylhet-shatkora-beef", "title": "Eat shatkora beef in its own home district", "category": "food", "detail": "Beef slow-cooked with the fragrant local citrus shatkora — the dish that defines Sylheti home cooking. Eat it where the shatkora actually grows.", "whereOrHow": "Home-style Sylheti restaurants across the city" }
   ],
   "foods": [
     { "name": "Shatkora Beef", "description": "Sylhet's hallmark — beef cooked with shatkora citrus for a fragrant, bittersweet gravy. Best as a slow Friday lunch.", "whereToFind": "Home-style Sylheti restaurants" },
     { "name": "Akhni (Sylheti Pulao)", "description": "The Sylheti spiced meat-and-rice pulao, fragrant with whole spices and ghee — a feast-day staple across the region.", "whereToFind": "Local restaurants & special occasions" },
-    { "name": "Seven-Colour Tea (Saat Rong Cha)", "description": "Seven layers of differently spiced tea poured to settle one above the other — Sylhet's invented-here party trick.", "whereToFind": "Nilkantha Cha Cabin and other tea cabins in town" },
+    { "name": "Seven-Colour Tea (Saat Rong Cha)", "description": "Seven layers of differently spiced tea poured to settle one above the other — invented in 2002 by Romesh Ram Gour in Sreemangal (Moulvibazar). Sylhet city's tea cabins serve their own takes.", "whereToFind": "Tea cabins around Sylhet city" },
     { "name": "Hidol / Shidol Shutki", "description": "Fermented dried-fish paste — pungent, intensely savoury, deeply Sylheti. Eaten with rice or stirred into a curry.", "whereToFind": "Sylheti home kitchens and shutki bazars" }
   ],
   "famousPeople": [
@@ -296,7 +296,7 @@
     "By tradition, Hazrat Shah Jalal arrived in Sylhet in 1303 with 360 companions; his dargah at Dargah Mahalla has been a pilgrimage site for over 700 years.",
     "Malnicherra Tea Estate, on the edge of Sylhet city, was established in 1849 — the oldest commercial tea garden in the entire Indian subcontinent.",
     "Ratargul, in Gowainghat upazila, is the only freshwater swamp forest in Bangladesh and one of just a handful in the world.",
-    "The 'seven-colour tea' that Sylhet is famous for was invented in Srimangal by tea-stall owner Romesh Ram Gour, who later opened the Nilkantha Cha Cabin near Sylhet city.",
+    "The 'seven-colour tea' that greater Sylhet is famous for was invented in 2002 by Romesh Ram Gour at his Nilkantha Cha Cabin in Sreemangal (Moulvibazar) — Sylhet city's cabins are imitators.",
     "Sylhet was administratively part of Assam Province from 1874 until the 1947 referendum, when it voted to join East Pakistan and rejoined Bengal.",
     "Bangabir General MAG Osmani, who commanded the Mukti Bahini through 1971, is buried in the grounds of the Shah Jalal Dargah; his family home is now the Osmani Museum at Naiorpul."
   ],
