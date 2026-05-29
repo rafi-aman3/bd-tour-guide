@@ -1,0 +1,304 @@
+{
+  "name": "Khulna",
+  "division": "Khulna",
+  "tagline": "Bangladesh's southern gateway to the Sundarbans — the chemist's village on the Kopotaksho, a 1.6-km bridge over the Rupsa, and the canal where 15,000 lay buried.",
+  "stats": {
+    "area": "4,394.46 sq km",
+    "population": "2,613,385",
+    "established": "1882",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "October to March — cool, dry, and the only time to do a multi-day Sundarbans trip in any comfort.",
+    "gettingThere": "By road from Dhaka (~270 km, ~6 hr via Padma Bridge), by rail (Sundarban / Chitra Express overnight from Dhaka), or by short flight to Jashore and a 1-hour drive. Sundarbans launches depart from Khulna Jahaj Ghat on the Rupsa; the deep-forest Hiron Point and Kotka are 6–10 hours downstream by motor vessel.",
+    "difficulty": "Easy in the city. Sundarbans trips need permits, 2–3 days, and a registered tour boat — moderate logistics."
+  },
+  "mustVisit": [
+    {
+      "name": "The Sundarbans (Hiron Point / Kotka from Khulna)",
+      "type": "nature",
+      "description": "The world's largest mangrove forest. Khulna's gateway is the deep-forest, motor-vessel route — leave Khulna Jahaj Ghat on the Rupsa, sleep on the boat, wake at Hiron Point or Kotka. Tigers are rare; deer, crocodiles, dolphins and an immense bird list are not.",
+      "history": "About 6,017 sq km in Bangladesh, recognised as a UNESCO World Heritage site in 1997. Hiron Point (Nilkamol) is a protected wildlife sanctuary on the Kunga; Kotka is the famous tiger-deer reserve; both lie inside Khulna Range and need a Forest Department permit issued from the Khulna divisional office.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.8500, 89.4833],
+      "practical": {
+        "hours": "Multi-day boat tour; departs 7 am from Khulna Jahaj Ghat",
+        "entryFee": "Forest Department permit + boat package (per head)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Boat from Khulna Jahaj Ghat on the Rupsa; ~6–10 hours to Hiron Point or Kotka via Mongla",
+        "distanceKm": 120,
+        "transport": "Registered Sundarbans cruise vessel (multi-night package)"
+      },
+      "bestTime": "November to March; book 2–3 weeks ahead in season",
+      "tips": [
+        "Permit must be applied for at the Divisional Forest Office on Circuit House Road, Khulna",
+        "Only travel with an approved tour operator and an armed Forest Guard on board",
+        "Keep noise down on landings — tigers move off at voices long before you see them"
+      ]
+    },
+    {
+      "name": "Acharya P.C. Roy Bari (Raruli-Katipara)",
+      "type": "heritage",
+      "description": "The childhood home of Acharya Prafulla Chandra Roy on the banks of the Kopotaksho — a quiet rural homestead, a banyan-shaded courtyard, and the school he later helped fund still teaching village children up the road.",
+      "history": "Acharya Prafulla Chandra Roy — father of Indian chemistry and founder of Bengal Chemicals & Pharmaceuticals — was born here on 2 August 1861. The house and adjoining temple were declared a protected antiquity by the Department of Archaeology after years of neglect.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5500, 89.3500],
+      "practical": {
+        "hours": "Daylight hours; the gate is open most days",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 80 km southwest of Khulna city in Raruli village, Paikgachha Upazila, on the Kopotaksho river",
+        "distanceKm": 80,
+        "transport": "Bus to Paikgachha, then CNG to Raruli-Katipara"
+      },
+      "bestTime": "Cool months; afternoon for the river light",
+      "tips": [
+        "Ask at the school next door — the staff often unlock the house for visitors",
+        "Pair with the Champaful school P.C. Roy helped endow, a short drive away"
+      ]
+    },
+    {
+      "name": "Khan Jahan Ali Bridge (Rupsa)",
+      "type": "modern",
+      "description": "A 1.6-km cable-stay bridge over the Rupsa — Khulna's signature skyline. Built 2005, it lifts the city's traffic across to the Mongla Port road and is the way south to Bagerhat and the Sundarbans.",
+      "history": "Opened in May 2005 as the Khan Jahan Ali Bridge, named for the 15th-century saint-administrator who developed the region. The bridge replaced the old Daulatpur ferry crossing and gave the southwest its first road link of any consequence to the Mongla port.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8167, 89.5856],
+      "practical": {
+        "hours": "Open 24/7; the underbridge food stalls are best at dusk",
+        "entryFee": "Vehicle toll for crossings",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 5 km east of Khulna city centre, on the road to Bagerhat",
+        "distanceKm": 5,
+        "transport": "Rickshaw / CNG from city centre"
+      },
+      "bestTime": "Late afternoon to sunset for the river light",
+      "tips": [
+        "Use the pedestrian stairs on the east bank to walk up to the deck",
+        "The food stalls under the bridge serve hot ilish fry in season"
+      ]
+    },
+    {
+      "name": "Gallamari Smriti Soudh",
+      "type": "heritage",
+      "description": "A stark concrete monument on the canal-bank where, after Khulna's liberation in December 1971, some five trucks of human skulls and bones were pulled up — one of the largest killing fields of the war.",
+      "history": "The Pakistan Army used the old Radio Pakistan station at Gallamari as a torture and execution centre from March to December 1971; an estimated 15,000 Bengalis are believed to have been killed and dumped in the adjacent canal. The Smriti Soudh stands on the campus of Khulna University.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8083, 89.5408],
+      "practical": {
+        "hours": "Open access; daylight hours best",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the Khulna University campus, about 5 km southwest of Khulna city centre",
+        "distanceKm": 5,
+        "transport": "Rickshaw / CNG from city centre"
+      },
+      "bestTime": "Cool months; 16 December (Victory Day) sees a heavy wreath-laying",
+      "tips": [
+        "Walk down to the canal-bank where the bones were recovered — that is the site, not the plaque",
+        "Treat the spot quietly; it is a grave"
+      ]
+    },
+    {
+      "name": "Shahid Hadis Park",
+      "type": "heritage",
+      "description": "Khulna city's central park — banyan-shaded paths, a Liberation War sculpture and an open-air rally ground at the heart of the city's political and cultural life.",
+      "history": "Named for Sheikh Hadisur Rahman, the BCL leader from Daulatpur killed by the Pakistan Army on 10 April 1971 in Dhaka. Refurbished several times since, the park houses the city's main Shaheed Smritistambha sculpture by Hamiduzzaman Khan.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8417, 89.5640],
+      "practical": {
+        "hours": "Open 5 am – 10 pm",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Central Khulna, opposite Khulna Sadar",
+        "distanceKm": 0,
+        "transport": "Walk / rickshaw from anywhere in the city"
+      },
+      "bestTime": "Late afternoon",
+      "tips": [
+        "Combine with a tea-stall walk along nearby Sir Iqbal Road",
+        "Public rallies sometimes close access on short notice"
+      ]
+    },
+    {
+      "name": "Banishanta Bazar (Sundarbans gateway, Dakope)",
+      "type": "heritage",
+      "description": "A river-bazar on the Pasur facing the Sundarbans — the closest you can get to the mangroves on a single-day trip from Khulna. Half-day country boats run from Khulna's Mongla-Banishanta route.",
+      "history": "Banishanta sits on the Pasur in Dakope Upazila, opposite the Mongla port and a short hop into the western Sundarbans. The bazar has been a sailor and forest-worker stop for over a century and is also one of Bangladesh's better-known red-light areas — visit the river, not the brothel.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.4833, 89.5833],
+      "practical": {
+        "hours": "Daylight; the bazar wakes at dawn for the fish landings",
+        "entryFee": "Boat hire only",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 90 km south of Khulna by road via Bagerhat–Mongla, then a 10-minute ferry to Banishanta",
+        "distanceKm": 90,
+        "transport": "Bus / car to Mongla, ferry across to Banishanta"
+      },
+      "bestTime": "Cool months; early morning for fishing-boat colour",
+      "tips": [
+        "Visit the bazar and ghat — the surrounding lanes are sensitive ground; do not photograph residents",
+        "Hire a forest-permit boat here for a short day-trip into the western Sundarbans"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Khulna Chui Jhal Mangsho",
+      "description": "Khulna's signature dish — beef or mutton slow-cooked with chui jhal, a thin woody pepper-vine root native to the southwest delta, giving the gravy its distinctive warming pepperiness.",
+      "venue": "Home-style Khulna restaurants citywide"
+    },
+    {
+      "type": "food",
+      "name": "Pasur River Ilish",
+      "description": "Khulna's ilish (hilsa) comes off the Pasur and Rupsa estuaries — eaten as bhuna with shorshe (mustard), or whole-fried at the Rupsa-bridge stalls in season.",
+      "venue": "Rupsa-bridge stalls and city seafood restaurants (peak Sep–Nov)"
+    },
+    {
+      "type": "craft",
+      "name": "Sundarbans Honey & Crab",
+      "description": "Mawalis collect wild honey from Sundri trees in the spring; mud-crab fattening farms ring the Dakope-Koyra coast. Both come into the city's markets fresh.",
+      "venue": "Sonadanga and Dakshin Khalishpur markets"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Acharya P.C. Roy Bari (Raruli-Katipara)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5500, 89.3500]
+    },
+    {
+      "name": "Gallamari Smriti Soudh",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8083, 89.5408]
+    },
+    {
+      "name": "Shahid Hadis Park (Khulna city)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8417, 89.5640]
+    },
+    {
+      "name": "Govt Brajalal (BL) College, Daulatpur (est. 1902)",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8617, 89.5183]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-khulna?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Khulna&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Eagle Paribahan", "phone": "—" },
+        { "name": "Green Line Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Khulna)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Khulna&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Khulna Railway Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets Launch", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-khulna?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Khulna Jahaj Ghat (BIWTA)", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Khulna&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Khulna&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "khulna-sundarbans-cruise", "title": "Sleep on a Sundarbans cruise to Hiron Point", "category": "experience", "detail": "Leave Khulna Jahaj Ghat at dawn, sail down the Rupsa-Pasur, fall asleep to engine-hum, wake to monkey calls at Hiron Point or Kotka. The classic three-day deep-forest trip.", "whereOrHow": "Khulna Jahaj Ghat → Hiron Point / Kotka", "bestTime": "Nov–Mar" },
+    { "id": "khulna-pc-roy-bari", "title": "Visit Acharya P.C. Roy's birth-house at Raruli", "category": "place", "detail": "A quiet rural homestead on the Kopotaksho where the father of Indian chemistry was born in 1861 — now a Department of Archaeology preserved antiquity.", "whereOrHow": "Raruli-Katipara, Paikgachha" },
+    { "id": "khulna-rupsa-bridge", "title": "Walk Khan Jahan Ali Bridge at dusk", "category": "moment", "detail": "Climb the pedestrian stairs onto the cable-stay deck and watch the Rupsa light up — the food stalls under the abutments cook hot ilish fry in the season.", "whereOrHow": "Khan Jahan Ali (Rupsa) Bridge", "bestTime": "Late afternoon to sunset" },
+    { "id": "khulna-gallamari", "title": "Stand quietly at Gallamari", "category": "place", "detail": "The canal where some 15,000 Bengalis were killed and dumped between March and December 1971. Walk past the Smriti Soudh to the canal bank — that is the actual ground.", "whereOrHow": "Gallamari Smriti Soudh, Khulna University campus" },
+    { "id": "khulna-hadis-park", "title": "Sit under the banyans of Shahid Hadis Park", "category": "place", "detail": "The city's central park — named for Sheikh Hadisur Rahman, killed in Dhaka on 10 April 1971 — and home of the main Shaheed Smritistambha sculpture by Hamiduzzaman Khan.", "whereOrHow": "Shahid Hadis Park, Khulna city" },
+    { "id": "khulna-chui-jhal", "title": "Eat chui jhal mangsho at a Khulna home-style joint", "category": "food", "detail": "Mutton or beef slow-cooked with chui jhal — the thin woody pepper-vine root of the southwest delta. Available almost only here.", "whereOrHow": "Home-style restaurants citywide" },
+    { "id": "khulna-banishanta", "title": "Cross to Banishanta on the Pasur ferry", "category": "experience", "detail": "Ten minutes by ferry from Mongla puts you at a river bazar on the edge of the Sundarbans — fishing boats, mawalis with honey-pots, the mangroves a stone's throw away. Photograph the river, not the people.", "whereOrHow": "Mongla → Banishanta ferry, Dakope" },
+    { "id": "khulna-koyra-koyrah", "title": "Drive to Koyra and stare at the Sundarbans edge", "category": "place", "detail": "Koyra is where the road ends and the forest begins — saline embankments, shrimp farms, tiger-victim memorials in every other village. The starkest sense of what living next to the Sundarbans means.", "whereOrHow": "Koyra Upazila" },
+    { "id": "khulna-pc-roy-school", "title": "Find the village school Acharya Roy endowed", "category": "place", "detail": "Champaful Acharya Prafulla Chandra Secondary School, near Raruli — one of several schools the chemist quietly funded in his home district from his Calcutta earnings.", "whereOrHow": "Champaful, Paikgachha" },
+    { "id": "khulna-bl-college", "title": "Walk the grounds of BL College, Daulatpur", "category": "place", "detail": "Established in 1902 as the Hindu Academy by Brajalal Chakraborty — the first higher-education institution in greater Khulna, and the alma mater of much of the southwest's intelligentsia.", "whereOrHow": "Govt Brajalal College, Daulatpur" },
+    { "id": "khulna-pasur-ilish", "title": "Eat fresh Pasur ilish in season", "category": "food", "detail": "Ilish off the Pasur and Rupsa estuaries is the Khulna autumn — bhuna with shorshe (mustard) or whole-fried at the bridge stalls.", "whereOrHow": "Rupsa-bridge stalls and city seafood places", "bestTime": "Sep–Nov" },
+    { "id": "khulna-honey", "title": "Buy mawali honey from a Sundarbans collector", "category": "food", "detail": "Mawalis enter the forest each spring to collect wild honey from Sundri-tree hives — tense, dangerous work. Their fresh honey sells in the Sonadanga and Khalishpur markets through Apr–Jun.", "whereOrHow": "Sonadanga / Dakshin Khalishpur markets", "bestTime": "Apr–Jun" }
+  ],
+  "foods": [
+    { "name": "Chui Jhal Mangsho", "description": "Beef or mutton slow-cooked with chui jhal — the thin woody pepper-vine root of the southwest delta, giving the gravy a distinctive warming heat. Khulna's hallmark dish.", "whereToFind": "Home-style Khulna restaurants citywide" },
+    { "name": "Pasur Ilish (Hilsa)", "description": "Ilish off the Pasur and Rupsa estuaries — bhuna with shorshe (mustard) or whole-fried at the bridge stalls in season.", "whereToFind": "Rupsa-bridge stalls; city seafood places (Sep–Nov peak)" },
+    { "name": "Sundarbans Mawali Honey", "description": "Wild honey collected from Sundri-tree hives in the forest each spring — paler and runnier than commercial honey, with a faint mangrove tang.", "whereToFind": "Sonadanga and Dakshin Khalishpur markets (Apr–Jun)" },
+    { "name": "Mud Crab", "description": "Brackish mud crab from the Dakope-Koyra coast — fattened in farms and exported in volume, eaten locally as a simple curry with mustard oil.", "whereToFind": "Khalishpur fish market and Dakope-coast restaurants" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Acharya Prafulla Chandra Roy",
+      "knownFor": "'Father of Indian chemistry' — chemist, educationist, historian and industrialist who founded Bengal Chemicals & Pharmaceuticals in 1901 and wrote the landmark History of Hindu Chemistry. Born on 2 August 1861 at Raruli-Katipara in Paikgachha, Khulna, on the Kopotaksho river.",
+      "era": "1861 – 1944"
+    },
+    {
+      "name": "Sheikh Razzak Ali",
+      "knownFor": "Lawyer and parliamentarian who served as the seventh and ninth Speaker of the Jatiya Sangsad (1991–96, 2001–06) and was Bangladesh's Deputy Speaker in the 1980s. Born on 28 August 1928 in Hitampur village, Paikgachha, Khulna.",
+      "era": "1928 – 2018"
+    }
+  ],
+  "didYouKnow": [
+    "Acharya Prafulla Chandra Roy — the 'father of Indian chemistry' and founder of Bengal Chemicals — was born on 2 August 1861 in Raruli-Katipara, Paikgachha, on the banks of the Kopotaksho.",
+    "Khulna is one of the two land gateways to the Sundarbans; deep-forest tours to Hiron Point and Kotka leave from Khulna Jahaj Ghat on the Rupsa.",
+    "The Gallamari canal at Khulna University was one of the largest killing fields of the 1971 Liberation War — an estimated 15,000 Bengalis were killed there between March and December.",
+    "The Khan Jahan Ali Bridge over the Rupsa is 1.6 km long — the gateway to Khulna's southern hinterland of Bagerhat, Mongla and the Sundarbans, opened in 2005.",
+    "Govt Brajalal (BL) College in Daulatpur was founded in 1902 as the Hindu Academy by Brajalal Chakraborty — the first higher-education institution in greater Khulna.",
+    "Khulna's signature dish, chui jhal mangsho, is cooked with the woody root of a pepper-vine native to the southwest delta — eaten almost nowhere else in Bangladesh."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Khulna Sadar Model Thana", "phone": "—" },
+      { "name": "Khulna Metropolitan Police Control", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Khulna Medical College Hospital", "phone": "—" },
+      { "name": "Khulna 250-Bed General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
