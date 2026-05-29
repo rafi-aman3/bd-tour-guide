@@ -1,196 +1,133 @@
 import Link from "next/link";
-import { ChevronLeft, MapPin, Users, Calendar, Camera, Utensils, Navigation, Info } from "lucide-react";
-import { getThematicColor } from "@/lib/map-data";
+import { ChevronLeft } from "lucide-react";
 import fs from "fs";
 import path from "path";
-import dynamic from "next/dynamic";
+import { DISTRICT_TO_DIVISION, getThematicColor } from "@/lib/map-data";
+import { folioNumber } from "@/lib/field-guide-folio";
+import { getDivisionItineraries } from "@/lib/itineraries";
 import DynamicMap from "@/components/DynamicMap";
+import DivisionItineraries from "@/components/DivisionItineraries";
 
 interface PageProps {
   params: Promise<{ division: string }>;
 }
 
 async function getDivisionData(slug: string) {
-  const filePath = path.join(process.cwd(), "data", "divisions.json");
-  const jsonData = fs.readFileSync(filePath, "utf8");
-  const data = JSON.parse(jsonData);
-  return data[slug];
+  try {
+    const filePath = path.join(process.cwd(), "data", "divisions.json");
+    const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
+    return data[slug];
+  } catch {
+    return undefined;
+  }
 }
 
 export default async function DivisionPage({ params }: PageProps) {
   const { division } = await params;
   const data = await getDivisionData(division);
 
-  // Fallback name if data is missing
   const fallbackName = division
     .split("-")
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
     .join(" ");
-
   const divisionName = data?.name || fallbackName;
 
-  // Use the division itself to get its thematic styling
   const primaryColor = getThematicColor(divisionName, divisionName, 1);
   const secondaryColor = getThematicColor(divisionName, divisionName, 0.15);
   const mutedColor = getThematicColor(divisionName, divisionName, 0.05);
 
+  const itineraries = getDivisionItineraries(division);
+
+  // Districts in this division, derived from the single source of truth.
+  const districts = Object.entries(DISTRICT_TO_DIVISION)
+    .filter(([, div]) => div === divisionName)
+    .map(([slug]) => slug)
+    .sort();
+
+  const stats = [
+    { label: "Districts", value: String(districts.length) },
+    { label: "Area", value: data?.stats?.area || "—" },
+    { label: "Trip plans", value: String(itineraries.length) },
+  ].filter((s) => s.value && s.value !== "—");
+
   return (
-    <main
-      className="min-h-screen py-12 transition-colors duration-500"
-      style={{
-        background: `radial-gradient(circle at top right, ${secondaryColor}, transparent), 
-                     radial-gradient(circle at bottom left, ${mutedColor}, transparent),
-                     #f8fafc`
-      }}
-    >
-      <div className="container mx-auto px-4">
+    <main className="min-h-screen paper-grain" style={{ backgroundColor: "var(--paper-cream)" }}>
+      <div className="container mx-auto px-4 py-10 max-w-5xl">
         <Link
           href="/"
-          className="inline-flex items-center font-bold mb-8 transition-all hover:-translate-x-1"
-          style={{ color: primaryColor }}
+          className="inline-flex items-center gap-1 text-[0.7rem] tracking-[0.18em] uppercase font-semibold font-body text-slate-500 hover:text-slate-900 transition-colors mb-10"
         >
-          <ChevronLeft className="mr-1 h-5 w-5" />
-          Back to Country Map
+          <ChevronLeft className="h-4 w-4" />
+          Back to country map
         </Link>
 
-        <div className="bg-white rounded-[2rem] shadow-2xl border border-slate-100 overflow-hidden relative mb-12">
-          {/* Header Accent */}
-          <div
-            className="absolute top-0 left-0 w-full h-3"
-            style={{ backgroundColor: primaryColor }}
-          />
-
-          <div className="p-8 md:p-14">
-            <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
-              <div>
-                <span className="text-sm font-bold uppercase tracking-widest text-slate-400 mb-2 block" style={{ color: primaryColor }}>Bangladesh</span>
-                <h1 className="text-5xl md:text-7xl font-black tracking-tighter text-slate-900">{divisionName} Division</h1>
-              </div>
-              <div className="flex gap-4">
-                <button className="px-6 py-3 rounded-xl font-bold text-white transition-opacity hover:opacity-90" style={{ backgroundColor: primaryColor }}>Explore Map Below</button>
-              </div>
-            </div>
-
-            {/* Quick Stats Grid */}
-            <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
-              {[
-                { label: "Area", value: data?.stats?.area || "N/A", icon: MapPin },
-                { label: "Population", value: data?.stats?.population || "N/A", icon: Users },
-                { label: "Established", value: data?.stats?.established || "N/A", icon: Calendar },
-                { label: "Attractions", value: data?.stats?.attractions || "N/A", icon: Camera },
-              ].map((stat, idx) => (
-                <div key={idx} className="p-6 rounded-2xl bg-slate-50 border border-slate-100 flex flex-col items-start transition-transform hover:-translate-y-1">
-                  <div className="p-3 rounded-lg mb-4" style={{ backgroundColor: mutedColor }}>
-                    <stat.icon className="h-6 w-6" style={{ color: primaryColor }} />
-                  </div>
-                  <span className="text-sm font-medium text-slate-500 mb-1">{stat.label}</span>
-                  <span className="text-xl font-black text-slate-900">{stat.value}</span>
-                </div>
-              ))}
-            </div>
-            
-            <div className="w-full mb-16 rounded-[2rem] overflow-hidden shadow-inner border border-slate-200">
-               <DynamicMap mode="division-districts" activeDivision={division} />
-            </div>
-
-            {/* Main Content Sections */}
-            <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-              <div className="lg:col-span-2">
-                <section className="mb-16">
-                  <h2 className="text-3xl font-black text-slate-900 mb-8 flex items-center">
-                    <span className="w-1.5 h-8 mr-4 rounded-full" style={{ backgroundColor: primaryColor }}></span>
-                    Must Visit Places in {divisionName}
-                  </h2>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    {(data?.mustVisit || [
-                      { name: "Local Landmark", description: "A popular spot known for its unique culture and scenery.", image: "" }
-                    ]).map((spot: any, idx: number) => (
-                      <div key={idx} className="group cursor-pointer">
-                        <div className="relative h-64 w-full rounded-2xl overflow-hidden bg-slate-100 mb-4 border border-slate-100 transition-shadow group-hover:shadow-xl">
-                          {spot.image ? (
-                            <img
-                              src={spot.image}
-                              alt={spot.name}
-                              className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
-                            />
-                          ) : (
-                            <div className="absolute inset-0 flex items-center justify-center bg-slate-100">
-                              <Camera className="h-12 w-12 text-slate-300" />
-                            </div>
-                          )}
-                          <div className="absolute bottom-0 left-0 w-full p-6 bg-gradient-to-t from-slate-900/80 to-transparent">
-                            <h3 className="text-white font-black text-xl">{spot.name}</h3>
-                          </div>
-                        </div>
-                        <p className="text-slate-600 leading-relaxed">{spot.description}</p>
-                      </div>
-                    ))}
-                  </div>
-                </section>
-
-                <section>
-                  <h2 className="text-3xl font-black text-slate-900 mb-8 flex items-center">
-                    <span className="w-1.5 h-8 mr-4 rounded-full" style={{ backgroundColor: primaryColor }}></span>
-                    Division Specialties
-                  </h2>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    <div className="p-8 rounded-3xl flex items-start gap-6 border border-slate-100 transition-colors" style={{ backgroundColor: mutedColor }}>
-                      <div className="p-4 rounded-2xl bg-white shadow-sm">
-                        <Utensils className="h-8 w-8" style={{ color: primaryColor }} />
-                      </div>
-                      <div>
-                        <h3 className="text-xl font-bold text-slate-900 mb-2">Famous Cuisine</h3>
-                        <p className="text-slate-600">{data?.specialties?.cuisine || "Discover the unique local flavors and traditional dishes of this region."}</p>
-                      </div>
-                    </div>
-                    <div className="p-8 rounded-3xl flex items-start gap-6 border border-slate-100 transition-colors" style={{ backgroundColor: mutedColor }}>
-                      <div className="p-4 rounded-2xl bg-white shadow-sm">
-                        <Info className="h-8 w-8" style={{ color: primaryColor }} />
-                      </div>
-                      <div>
-                        <h3 className="text-xl font-bold text-slate-900 mb-2">Traditional Crafts</h3>
-                        <p className="text-slate-600">{data?.specialties?.crafts || "Explore the rich heritage of craftsmanship and local artisanal products."}</p>
-                      </div>
-                    </div>
-                  </div>
-                </section>
-              </div>
-
-              {/* Sidebar Info */}
-              <div className="space-y-8">
-                <div className="p-8 rounded-[2rem] bg-slate-900 text-white relative overflow-hidden group">
-                  <Navigation className="absolute -right-8 -bottom-8 h-40 w-40 text-white/5 transition-transform group-hover:scale-110" />
-                  <h3 className="text-2xl font-black mb-6">Traveler's Guide</h3>
-                  <div className="space-y-6">
-                    <div>
-                      <h4 className="text-xs uppercase font-black tracking-widest text-white/40 mb-2">Best Time to Visit</h4>
-                      <p className="font-bold">{data?.guide?.bestTime || "October to March"}</p>
-                    </div>
-                    <div>
-                      <h4 className="text-xs uppercase font-black tracking-widest text-white/40 mb-2">Getting There</h4>
-                      <p className="font-bold leading-relaxed">{data?.guide?.gettingThere || "Connected via major highways and transport networks."}</p>
-                    </div>
-                    <div>
-                      <h4 className="text-xs uppercase font-black tracking-widest text-white/40 mb-2">Difficulty Level</h4>
-                      <p className="font-bold">{data?.guide?.difficulty || "Easy / Family Friendly"}</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="p-8 rounded-[2rem] border-2 border-dashed border-slate-200 text-center">
-                  <h3 className="text-lg font-bold text-slate-400 mb-4 italic">"Explore all districts of {divisionName} Division."</h3>
-                  <div className="flex justify-center -space-x-3">
-                    {[1, 2, 3].map(i => (
-                      <div key={i} className="w-10 h-10 rounded-full border-2 border-white bg-slate-200"></div>
-                    ))}
-                    <div className="w-10 h-10 rounded-full border-2 border-white bg-indigo-600 flex items-center justify-center text-[10px] font-black text-white">+5M</div>
-                  </div>
-                  <p className="text-xs text-slate-400 mt-4 font-bold uppercase tracking-tighter">Tourists per year</p>
-                </div>
-              </div>
-            </div>
+        {/* Cover band */}
+        <header className="mb-16">
+          <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold font-body text-slate-500">
+            Bangladesh · Division
           </div>
-        </div>
+          <h1 className="mt-3 font-display text-5xl md:text-7xl font-semibold tracking-tight text-slate-900">
+            {divisionName}
+          </h1>
+          <div className="mt-4 h-px w-full bg-[var(--hairline)]" />
+          <dl className="mt-5 flex flex-wrap gap-x-10 gap-y-3">
+            {stats.map((s) => (
+              <div key={s.label}>
+                <dt className="text-[0.6rem] uppercase tracking-[0.16em] font-semibold text-slate-400 font-body">{s.label}</dt>
+                <dd className="font-display text-2xl font-semibold text-slate-900 tabular-nums">{s.value}</dd>
+              </div>
+            ))}
+          </dl>
+        </header>
+
+        {/* § 01 Trip Plans */}
+        <DivisionItineraries
+          itineraries={itineraries}
+          primaryColor={primaryColor}
+          secondaryColor={secondaryColor}
+          mutedColor={mutedColor}
+        />
+
+        {/* § 02 The Map */}
+        <section className="mb-20">
+          <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body mb-6">
+            § 02 &nbsp;The Map
+          </div>
+          <div className="rounded-md overflow-hidden border border-[var(--hairline)] bg-white">
+            <DynamicMap mode="division-districts" activeDivision={division} />
+          </div>
+        </section>
+
+        {/* § 03 Districts */}
+        <section className="mb-12">
+          <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold text-slate-500 font-body mb-6">
+            § 03 &nbsp;Districts
+          </div>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+            {districts.map((slug) => {
+              const folio = folioNumber(slug);
+              const name = slug
+                .split("-")
+                .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+                .join(" ");
+              return (
+                <Link
+                  key={slug}
+                  href={`/district/${slug}`}
+                  className="group rounded-md border border-[var(--hairline)] bg-white/70 hover:bg-white transition-colors p-4 flex flex-col gap-2"
+                >
+                  <span className="text-[0.6rem] uppercase tracking-[0.16em] font-semibold font-body text-slate-400 tabular-nums">
+                    {folio || "Guide"}
+                  </span>
+                  <span className="font-display text-lg font-semibold text-slate-900 leading-tight">{name}</span>
+                  <span className="text-[0.7rem] font-body transition-colors" style={{ color: primaryColor }}>
+                    Open field guide →
+                  </span>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
       </div>
     </main>
   );
