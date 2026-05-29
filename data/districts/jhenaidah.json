@@ -1,0 +1,289 @@
+{
+  "name": "Jhenaidah",
+  "division": "Khulna",
+  "tagline": "Mughal-era mosques scattered through Barobazar, the largest banyan in Bangladesh, and the village where a 19-year-old Bir Sreshtho was born.",
+  "stats": {
+    "area": "1,964.77 sq km",
+    "population": "2,005,849",
+    "established": "1984",
+    "attractions": "10+"
+  },
+  "guide": {
+    "bestTime": "October to March — cool, dry, easy on the road. Avoid peak monsoon for the rural mosques on dirt approaches.",
+    "gettingThere": "By road from Dhaka (~190 km, ~5 hr) via the Dhaka–Khulna highway or via Magura. By rail, alight at Kotchandpur or Mobarakganj on the Khulna line, or at Darshana / Chuadanga and CNG in. The mosques cluster at Barobazar in Kaliganj; Hamidnagar and Dattanagar lie in Mohespur, far southwest.",
+    "difficulty": "Easy — town and Kaliganj sights are short hops by CNG; only Hamidnagar / Mohespur is a longer drive."
+  },
+  "mustVisit": [
+    {
+      "name": "Galakata Mosque (Barobazar)",
+      "type": "religious",
+      "description": "A single-domed brick mosque from the Sultanate period — squat, severe and beautifully detailed, with two free-standing stone columns of clearly older Hindu temple origin inside, repurposed as supports.",
+      "history": "Built in the late 15th–early 16th century at the Sultanate-era settlement of Barobazar, one of more than a dozen old mosques scattered around the bazar. Excavated and protected by the Department of Archaeology.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4500, 89.1500],
+      "practical": {
+        "hours": "Daylight hours; mosque opens around prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km southeast of Jhenaidah town in Barobazar Union of Kaliganj Upazila",
+        "distanceKm": 30,
+        "transport": "Bus / CNG to Barobazar, then short walk"
+      },
+      "bestTime": "Late afternoon for the brickwork light",
+      "tips": [
+        "Combine with Jor Bangla and other Barobazar mosques on the same trip",
+        "Cover head if female; remove shoes before entering",
+        "The two stone columns inside are the rare bit — don't miss them"
+      ]
+    },
+    {
+      "name": "Jor Bangla Mosque",
+      "type": "religious",
+      "description": "A small Sultanate-era mosque at Barobazar with a curved-cornice 'do-chala' roofline borrowed from village Bengali architecture — a rare survivor where Hindu thatched-hut form was lifted whole into Muslim sacred building.",
+      "history": "Late 15th–16th century brick mosque in Barobazar, part of the same Sultanate settlement as Galakata. The 'jor bangla' (twin-hut) form is one of the early hybrid Bengali styles of mosque architecture.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4520, 89.1480],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km southeast of Jhenaidah town in Barobazar, Kaliganj",
+        "distanceKm": 30,
+        "transport": "Bus / CNG to Barobazar, easy walk between mosques"
+      },
+      "bestTime": "Morning light through the surrounding fields",
+      "tips": [
+        "Walk between the cluster of Barobazar mosques — at least a dozen Sultanate-era survivors",
+        "Bring water; the bazar is small, refreshments thin"
+      ]
+    },
+    {
+      "name": "Naldanga Rajbari",
+      "type": "heritage",
+      "description": "The ruined palace of the Naldanga zamindar family, set among gardens and temples on the bank of the Chitra river — Doric pillars, broken pediments and the quiet of a feudal estate gone to seed.",
+      "history": "Seat of one of Bengal's oldest Hindu zamindar lines, the Naldanga Raj, said to date from the 12th–13th centuries; the present brick complex was built mainly in the 18th–19th centuries and includes temples to Shiva, Vishnu and Govinda alongside the main rajbari.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4500, 89.0833],
+      "practical": {
+        "hours": "Daylight hours; parts are unrestored",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km west of Jhenaidah town in Kaliganj Upazila, on the Chitra river",
+        "distanceKm": 30,
+        "transport": "Bus / CNG to Kaliganj, then local rickshaw to Naldanga"
+      },
+      "bestTime": "Cool months, late afternoon",
+      "tips": [
+        "Mind your step — sections of the rajbari are unstable",
+        "Look for the Govinda temple's terracotta panels behind the main building"
+      ]
+    },
+    {
+      "name": "Mallikpur Banyan Tree (Suitala)",
+      "type": "nature",
+      "description": "A roughly 300-year-old banyan that has spread over more than two acres of village land — dozens of aerial roots have grown into trunks, the canopy walks itself out into a forest of its own.",
+      "history": "Locally called Suitala Bot, at Mallikpur village in Kaliganj. Reckoned by Bangladesh tree counts as the largest banyan in the country and one of the largest in Asia; the Forest Department has been working to stabilise its declining limbs.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4167, 89.1667],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km southeast of Jhenaidah town, in Kaliganj Upazila on the Kaliganj–Khajura road",
+        "distanceKm": 25,
+        "transport": "Bus / CNG to Kaliganj, then rickshaw or van to Mallikpur"
+      },
+      "bestTime": "Cool months; afternoon light filters through the aerial roots",
+      "tips": [
+        "Don't pull on the aerial roots — many are still alive and load-bearing",
+        "Pair with Naldanga Rajbari on the same day — same upazila"
+      ]
+    },
+    {
+      "name": "Birsreshtho Hamidur Rahman Memorial (Hamidnagar)",
+      "type": "heritage",
+      "description": "The birthplace village of Bir Sreshtho Mohammad Hamidur Rahman — a small museum, school and memorial in the village now renamed Hamidnagar in his honour, on the Indian border.",
+      "history": "Hamidur Rahman was born here in February 1953 in what was then Khordo Khalishpur village of Mohespur thana. He died at Dhalai in Moulvibazar on 28 October 1971, silencing a Pakistan Army machine-gun in hand-to-hand combat; he was posthumously awarded the Bir Sreshtho.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4000, 88.9500],
+      "practical": {
+        "hours": "Daylight hours; ask at the village school office",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 60 km southwest of Jhenaidah town in Mohespur Upazila, near the Indian border",
+        "distanceKm": 60,
+        "transport": "Bus to Mohespur, then CNG to Hamidnagar"
+      },
+      "bestTime": "Cool months",
+      "tips": [
+        "The border is patrolled — carry ID",
+        "Combine with Dattanagar Agricultural Farm, a short drive away"
+      ]
+    },
+    {
+      "name": "Dattanagar Agricultural Farm",
+      "type": "heritage",
+      "description": "A 3,000-acre seed farm — for decades described as the largest seed-production farm in Asia. Endless flat fields of paddy, jute, oilseed and pulse trials, with the Indian border one canal across.",
+      "history": "Established by the Pakistan government in the 1960s as a seed-multiplication centre, the Dattanagar Agricultural Farm in Mohespur covers about 3,000 acres and produces foundation seed for distribution across the country's farms.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.3833, 88.9333],
+      "practical": {
+        "hours": "Working hours, weekdays; visits by request",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 65 km southwest of Jhenaidah town in Mohespur Upazila",
+        "distanceKm": 65,
+        "transport": "Bus to Mohespur, then CNG to Dattanagar"
+      },
+      "bestTime": "Sowing season (post-monsoon) or harvest — fields are at their fullest",
+      "tips": [
+        "Ask permission at the farm office before walking the plots",
+        "The border canal runs along one edge — stay on the Bangladeshi side"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Nalen Gurer Sandesh",
+      "description": "Date-palm jaggery sandesh — Jhenaidah and the Jashore region together are one of the country's great date-palm belts. The winter pitha and sandesh stalls along the highway are reason enough to drive through.",
+      "venue": "Highway sweet stalls and town confectioners (winter)"
+    },
+    {
+      "type": "craft",
+      "name": "Kaliganj Pottery",
+      "description": "Generations of potters in Kaliganj turn out terracotta water pots, ritual lamps and figures — a craft town tucked behind the Mughal mosques.",
+      "venue": "Potter villages around Kaliganj"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Galakata Mosque (Barobazar)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4500, 89.1500]
+    },
+    {
+      "name": "Jor Bangla Mosque (Barobazar)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4520, 89.1480]
+    },
+    {
+      "name": "Naldanga Rajbari (Kaliganj)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4500, 89.0833]
+    },
+    {
+      "name": "Birsreshtho Hamidur Rahman Birthplace (Hamidnagar, Mohespur)",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4000, 88.9500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-jhenaidah?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Jhenaidah&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Shyamoli Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Mobarakganj)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Mobarakganj&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Mobarakganj Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Jhenaidah&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "jhenaidah-barobazar-mosques", "title": "Walk the Sultanate mosques of Barobazar", "category": "place", "detail": "More than a dozen 15th–16th-century brick mosques scattered through one country market town — Galakata, Jor Bangla, Sukur Mallick, Goragor — a quiet archaeological landscape.", "whereOrHow": "Barobazar Union, Kaliganj" },
+    { "id": "jhenaidah-galakata-stone", "title": "Find the temple-pillars inside Galakata Mosque", "category": "moment", "detail": "Two stone columns inside the single-domed brick mosque — repurposed from an older Hindu temple, one of the clearest signs in Bangladesh of a Sultanate-era cultural cross-over.", "whereOrHow": "Galakata Mosque, Barobazar" },
+    { "id": "jhenaidah-naldanga", "title": "Wander Naldanga Rajbari at golden hour", "category": "place", "detail": "Broken pediments, garden temples and the Chitra river behind — the seat of one of Bengal's oldest Hindu zamindar lines, said to date from the 12th–13th centuries.", "whereOrHow": "Naldanga, Kaliganj", "bestTime": "Late afternoon" },
+    { "id": "jhenaidah-mallikpur-banyan", "title": "Stand inside Bangladesh's biggest banyan", "category": "experience", "detail": "Three centuries of growth at Suitala, Mallikpur — the canopy walks itself outward on hundreds of aerial roots, more like a small forest than a single tree.", "whereOrHow": "Suitala, Mallikpur, Kaliganj" },
+    { "id": "jhenaidah-hamidnagar", "title": "Visit Bir Sreshtho Hamidur Rahman's village", "category": "place", "detail": "The renamed village of Hamidnagar in Mohespur — a small museum, school and memorial at the birthplace of the 19-year-old sepoy who silenced a machine-gun at Dhalai in 1971.", "whereOrHow": "Hamidnagar, Mohespur" },
+    { "id": "jhenaidah-dattanagar", "title": "See the Dattanagar seed fields", "category": "place", "detail": "Three thousand acres of foundation-seed plots — paddy, jute, oilseed, pulse — long described as the largest seed farm in Asia, with the Indian border one canal across.", "whereOrHow": "Dattanagar Agricultural Farm, Mohespur" },
+    { "id": "jhenaidah-date-jaggery", "title": "Buy nalen gur at a roadside stall in winter", "category": "food", "detail": "The Jashore–Jhenaidah belt is one of Bangladesh's great date-palm regions; the winter pitha and sandesh stalls along the highway pour fresh khejurer gur on everything.", "whereOrHow": "Highway sweet stalls in winter", "bestTime": "Dec–Feb" },
+    { "id": "jhenaidah-chitra-river", "title": "Take a boat on the Chitra river", "category": "experience", "detail": "The Chitra threads past Naldanga, Kaliganj town and a string of old ghats and temples — a slow, half-day country boat ride at the right level.", "whereOrHow": "Chitra river, Kaliganj" },
+    { "id": "jhenaidah-pottery", "title": "Visit a Kaliganj potter's village", "category": "experience", "detail": "Generations of terracotta pot-makers — water jars, ritual lamps, votive figures — a quiet craft town tucked behind the Mughal mosques.", "whereOrHow": "Potter villages around Kaliganj" },
+    { "id": "jhenaidah-golam-mostafa", "title": "Track down Kavi Golam Mostafa's Manoharpur", "category": "place", "detail": "Sailkupa's most famous son — the poet who wrote 'Biswanabi' was born in Manoharpur, in a family of Qazis fluent in Bengali, Arabic and Persian.", "whereOrHow": "Manoharpur, Sailkupa" }
+  ],
+  "foods": [
+    { "name": "Nalen Gurer Sandesh", "description": "Sandesh made with fresh winter date-palm jaggery — Jhenaidah and Jashore together are one of the country's great khejurer-gur belts.", "whereToFind": "Highway sweet stalls and town confectioners (winter)" },
+    { "name": "Pitha (Bhapa, Patishapta, Chitoi)", "description": "Winter rice-flour cakes — bhapa with gur and coconut, patishapta filled with kheer, chitoi dipped in date-palm syrup.", "whereToFind": "Roadside winter pitha stalls" },
+    { "name": "Khejurer Ras", "description": "Fresh date-palm sap collected from the trees at dawn — drunk lightly chilled on a cold morning before the sun ferments it.", "whereToFind": "Date-palm villages around Kaliganj, Sailkupa, Mohespur (winter)" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Bir Sreshtho Mohammad Hamidur Rahman",
+      "knownFor": "Sepoy of the Bangladesh Forces who silenced a Pakistan Army machine-gun in hand-to-hand combat at Dhalai (Moulvibazar) on 28 October 1971 and was killed in the action — posthumously awarded the Bir Sreshtho. Born in Khordo Khalishpur village of Mohespur, Jhenaidah, now renamed Hamidnagar in his honour.",
+      "era": "1953 – 1971"
+    },
+    {
+      "name": "Kavi Golam Mostafa",
+      "knownFor": "Poet, biographer and translator whose Biswanabi (1942), a Bengali biography of the Prophet Muhammad, became a defining work of Muslim Bengali letters. Born in 1897 at Manoharpur village in Sailkupa, in a Qazi family fluent in Bengali, Arabic and Persian.",
+      "era": "1897 – 1964"
+    }
+  ],
+  "didYouKnow": [
+    "Bir Sreshtho Mohammad Hamidur Rahman — one of only seven recipients of Bangladesh's highest gallantry honour — was born in Khordo Khalishpur village of Mohespur, Jhenaidah, in 1953; the village has since been renamed Hamidnagar.",
+    "The Mallikpur (Suitala) banyan tree in Kaliganj has spread over two acres of village land in roughly three centuries — reckoned the largest banyan in Bangladesh.",
+    "Barobazar in Kaliganj is one of the densest clusters of Sultanate-era mosques in the country — more than a dozen 15th–16th-century brick mosques survive within a few kilometres.",
+    "Dattanagar Agricultural Farm in Mohespur covers about 3,000 acres and has long been described as the largest seed-multiplication farm in Asia.",
+    "Kavi Golam Mostafa, author of the 1942 Bengali biography Biswanabi, was born in Manoharpur village of Sailkupa, Jhenaidah, in 1897.",
+    "Naldanga, on the Chitra river, was seat of one of Bengal's oldest Hindu zamindar families — the Naldanga Raj is traced back to the 12th–13th centuries."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Jhenaidah Sadar Model Thana", "phone": "—" },
+      { "name": "Kaliganj Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Jhenaidah 250-Bed Sadar Hospital", "phone": "—" },
+      { "name": "Kaliganj Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
