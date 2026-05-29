@@ -1,0 +1,299 @@
+{
+  "name": "Jhalokati",
+  "division": "Barisal",
+  "tagline": "Bangladesh's smallest delta district — where three canals meet at the Bhimruli floating guava market, the Gabkhan 'Suez Canal of Bengal' carries 70 ships a day, and Basanda village gave British India its first woman honours graduate.",
+  "stats": {
+    "area": "706.76 sq km",
+    "population": "661,160",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "July to September — the guava harvest and full monsoon water, when the Bhimruli floating market and the orchard canals run at their fullest. October–February for the Gabkhan channel, zamindar ruins and a cooler river town.",
+    "gettingThere": "By overnight launch from Dhaka Sadarghat up the Sugandha (or via Barisal, ~20 km, ~40 min by road). The guava country — Bhimruli, Kirtipasha — sits northeast of Jhalokati town in Sadar Upazila; Saturia and Rajapur are to the southwest; Nalchity, the old trading port, is east on the river.",
+    "difficulty": "Easy — the floating market and orchards are short boat rides, and the town sites are quick CNG/rickshaw hops. Boat hire and a willingness to get up at dawn are all the market really asks."
+  },
+  "mustVisit": [
+    {
+      "name": "Bhimruli Floating Guava Market",
+      "type": "nature",
+      "description": "The largest floating market in southern Bangladesh — at an estuary where three canals merge, hundreds of small boats heaped with green and amber guava jostle for the dawn trade. Growers row out from the orchards, wholesalers moor their bigger boats mid-stream, and the kilo-rates are shouted across the water until midday.",
+      "history": "Guava has been grown around Bhimruli for over two hundred years; the floating wholesale market has run prominently for about three decades, peaking in the Bengali months of Ashar and Sravan. It is the Jhalokati half of the 31,000-acre Pirojpur–Jhalokati–Barisal guava belt, the largest contiguous guava orchard in Asia, with the Atghar Kuriana market its sister site one canal across in Pirojpur.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6900, 90.1900],
+      "practical": {
+        "hours": "Roughly 7 am – 12 noon daily, in season (Jul–Sep)",
+        "entryFee": "Boat hire only (negotiate at Bhimruli ghat)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 15 km northeast of Jhalokati town in Bhimruli, Kirtipasha union, Jhalokati Sadar",
+        "distanceKm": 15,
+        "transport": "CNG to Bhimruli bazar, then hire a small wooden boat into the canals"
+      },
+      "bestTime": "July to September; the market is busiest 7–10 am",
+      "tips": [
+        "Arrive at first light — the wholesale trade is over by noon",
+        "Buy directly from a grower's boat; it is cheaper, fresher and the right etiquette",
+        "Pair it with a slow boat ride through the orchard Kandi canals behind the market"
+      ]
+    },
+    {
+      "name": "Bhimruli Guava Orchards (the Kandi canals)",
+      "type": "nature",
+      "description": "Behind the floating market, narrow tidal channels — locally called Kandi — thread mile after mile of guava trees, with amra (hog plum), banana, lemon and papaya planted along the banks. Hire a boat and drift between orchards where families pluck fruit straight into canoes pulled alongside.",
+      "history": "The orchards are cut through with Kandi so the daily tide can flow in and out without waterlogging the trees — a centuries-old delta technique. Around 20,000 farming families across the belt live off the guava trade, sending their fruit to Bhimruli and on to Barisal and Dhaka.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6950, 90.1850],
+      "practical": {
+        "hours": "Daylight; mornings are quietest and coolest",
+        "entryFee": "Boat hire only",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Orchard ghats cluster around Bhimruli and Dumuria, ~15 km northeast of town",
+        "distanceKm": 15,
+        "transport": "CNG to Bhimruli, then a small wooden boat into the Kandi"
+      },
+      "bestTime": "July to September — full water and ripe guava",
+      "tips": [
+        "Settle the hourly boat rate at the ghat before stepping in",
+        "Buy guava and amra off the harvester boats — fresh, cheap and sweet",
+        "Carry rain protection; afternoon showers are routine in the season"
+      ]
+    },
+    {
+      "name": "Gabkhan Channel & Bridge",
+      "type": "nature",
+      "description": "The 'Suez Canal of Bengal' — an 18-km man-made waterway, the country's only excavated naval channel, with cargo ships, passenger launches and country boats threading past all day. The Gabkhan bridge arching over it gives the classic view of the traffic below.",
+      "history": "Dug under British rule in 1918 to join the Sandha River of Pirojpur with the Sugandha River of Jhalokati, the channel shaved about 118 km off the Dhaka–Mongla and Chittagong–Mongla river routes. Some 60–70 domestic and foreign goods and passenger vessels pass through it every day, making it one of the busiest inland routes in the country.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6450, 90.2200],
+      "practical": {
+        "hours": "Open waterway; the bridge viewpoint is best at sunrise/sunset",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 8 km east of Jhalokati town, on the Jhalokati–Pirojpur road",
+        "distanceKm": 8,
+        "transport": "CNG / bus toward Pirojpur, alight at Gabkhan bridge"
+      },
+      "bestTime": "Year-round; clearest skies Nov–Feb",
+      "tips": [
+        "Stand on the bridge at dusk to watch the ship traffic lit up below",
+        "Hire a boat from a nearby ghat to feel the scale of the channel from the water"
+      ]
+    },
+    {
+      "name": "Kirtipasha Zamindar Bari",
+      "type": "heritage",
+      "description": "The crumbling brick palace of the Kirtipasha zamindars near Kirtipasha bazar — overgrown courtyards, a decaying rajbari façade and the remains of family temples, a short hop from the Bhimruli guava country.",
+      "history": "Founded by Ramjibon Sen and named after King Kirty Narayan, the Kirtipasha estate was one of the old landed Hindu families of greater Bakerganj. The buildings date from the 18th–19th centuries and now stand largely in ruin, threaded with banyan roots.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6650, 90.2100],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 12 km from Jhalokati town near Kirtipasha bazar, Jhalokati Sadar",
+        "distanceKm": 12,
+        "transport": "CNG from Jhalokati town toward Bhimruli / Kirtipasha"
+      },
+      "bestTime": "Cool, dry months (Nov–Feb)",
+      "tips": [
+        "Mind your footing — parts of the structure are unstable",
+        "Combine with the Bhimruli market and orchards on the same loop"
+      ]
+    },
+    {
+      "name": "Saturia Zamindar Bari (Rajapur)",
+      "type": "heritage",
+      "description": "A 17th-century zamindar estate spread across some 100 acres in Rajapur — brick mansion ruins, ponds and old temple structures, set well back from the main road in quiet countryside.",
+      "history": "The estate is said to have been established in the 17th century by Sheikh Shahabuddin. It sits about 21 km from Jhalokati town in Rajapur Upazila and is one of the district's oldest surviving zamindari sites.",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5550, 90.1300],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 21 km southwest of Jhalokati town in Rajapur Upazila",
+        "distanceKm": 21,
+        "transport": "Bus / CNG to Rajapur, then rickshaw to Saturia"
+      },
+      "bestTime": "Cool, dry months (Nov–Feb)",
+      "tips": [
+        "Ask locally for directions — the bari is set back from the main road",
+        "Carry water; there is little in the way of facilities on site"
+      ]
+    },
+    {
+      "name": "Basanda — Kamini Roy's Village",
+      "type": "heritage",
+      "description": "The riverside village near Jhalokati town where the poet Kamini Roy — the first woman honours graduate in British India — was born in 1864. A quiet pilgrimage for anyone who has read her verse, with the family's old homestead and a memory of the Sen family that produced a barrister-mayor and a pioneering doctor.",
+      "history": "Kamini Roy (1864–1933) was born in Basunda (Basanda) of then-Bakerganj district. Her father Chandi Charan Sen was a writer and judge; her brother Nisith Chandra Sen became Mayor of Calcutta and her sister Jamini Sen a royal physician in Nepal. Kamini took her BA with Sanskrit honours from Bethune College in 1886.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6550, 90.1950],
+      "practical": {
+        "hours": "Daylight; ask at the village",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Basanda village, a short ride from Jhalokati town in Sadar Upazila",
+        "distanceKm": 5,
+        "transport": "Rickshaw / CNG from Jhalokati town"
+      },
+      "bestTime": "Cool months; her birth anniversary (12 October) for any local remembrance",
+      "tips": [
+        "The site is informal — ask villagers to point out the Sen family homestead",
+        "Bring a copy of her poems; locals appreciate the reverence"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Jhalokati Guava (Peyara)",
+      "description": "Crisp, fragrant white-flesh guava from the Bhimruli orchards — the fruit that built the floating market. Eaten raw with salt and chilli straight off the boat in season.",
+      "venue": "Bhimruli floating market & orchard ghats (Jul–Sep)"
+    },
+    {
+      "type": "craft",
+      "name": "Shitalpati (Cool Mat)",
+      "description": "Hand-woven mats split from the murta reed — smooth, cooling and prized across Bengal. Shitalpati and guava together give the district its official motto, 'the land of tasty guava and shitalpati'.",
+      "venue": "Village weaving households across Jhalokati"
+    },
+    {
+      "type": "food",
+      "name": "Amra (Hog Plum)",
+      "description": "Tart green amra grows alongside the guava in the orchard Kandi and sells from the same boats — sliced with salt and chilli, or pickled.",
+      "venue": "Bhimruli market & orchards (rainy season)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Kirtipasha Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6650, 90.2100]
+    },
+    {
+      "name": "Saturia Zamindar Bari (Rajapur, 17th c.)",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5550, 90.1300]
+    },
+    {
+      "name": "Mia Bari Tin Gombuj (Three-Dome) Mosque",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6400, 90.2000]
+    },
+    {
+      "name": "Basanda — Kamini Roy's Birthplace",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6550, 90.1950]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-jhalokati?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Jhalokati&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Sakura Paribahan", "phone": "—" },
+        { "name": "Hanif Enterprise", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets Launch (Jhalokati)", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-jhalokati?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Jhalokati Launch Ghat (Sugandha river, Dhaka Sadarghat route)", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Jhalokati&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "jhalokati-bhimruli-market", "title": "Buy guava off a boat at Bhimruli", "category": "experience", "detail": "Southern Bangladesh's largest floating market — hundreds of boats heaped with green and amber guava at the spot where three canals merge, kilo-rates shouted across the water from dawn to noon.", "whereOrHow": "Bhimruli Floating Guava Market, Kirtipasha", "bestTime": "Jul–Sep, 7–10 am" },
+    { "id": "jhalokati-kandi-boat", "title": "Drift the orchard Kandi by boat", "category": "experience", "detail": "Narrow tidal channels threading mile after mile of guava and amra trees — families pluck fruit into canoes pulled alongside; you drift, eat, and pay almost nothing.", "whereOrHow": "Bhimruli / Dumuria orchard ghats", "bestTime": "Jul–Sep, mornings" },
+    { "id": "jhalokati-gabkhan", "title": "Watch the ships on the Gabkhan channel", "category": "place", "detail": "The 'Suez Canal of Bengal' — an 18-km man-made waterway dug in 1918, with 60–70 ships threading through daily. Stand on the Gabkhan bridge at dusk to watch the traffic lit up below.", "whereOrHow": "Gabkhan Bridge, Jhalokati–Pirojpur road", "bestTime": "Sunset" },
+    { "id": "jhalokati-kirtipasha", "title": "Wander the Kirtipasha Zamindar Bari ruins", "category": "place", "detail": "The banyan-tangled brick palace of the Kirtipasha zamindars, founded by Ramjibon Sen and named for King Kirty Narayan — a quiet ruin a short hop from the guava country.", "whereOrHow": "Kirtipasha bazar, Jhalokati Sadar" },
+    { "id": "jhalokati-saturia", "title": "Find the 17th-century Saturia Zamindar Bari", "category": "place", "detail": "A 100-acre estate said to be founded by Sheikh Shahabuddin in the 1600s — mansion ruins, ponds and old temples set deep in Rajapur's countryside.", "whereOrHow": "Saturia, Rajapur Upazila" },
+    { "id": "jhalokati-kamini-roy", "title": "Visit Kamini Roy's Basanda", "category": "place", "detail": "The riverside village where the poet Kamini Roy — the first woman honours graduate in British India — was born in 1864.", "whereOrHow": "Basanda village, Jhalokati Sadar" },
+    { "id": "jhalokati-tin-gombuj", "title": "See the Mia Bari Tin Gombuj Mosque", "category": "place", "detail": "An old three-domed brick mosque known to locals as the Mia Bari Tin Gombuj — part of Jhalokati's centuries-old riverside heritage.", "whereOrHow": "Jhalokati Sadar" },
+    { "id": "jhalokati-shitalpati", "title": "Buy a hand-woven shitalpati mat", "category": "craft", "detail": "Smooth, cooling mats split from murta reed — one half of the district's motto, 'the land of tasty guava and shitalpati'.", "whereOrHow": "Village weaving households across Jhalokati" },
+    { "id": "jhalokati-nalchity", "title": "Walk the old river port of Nalchity", "category": "place", "detail": "Once a major trading hub on the Sugandha drawing foreign merchants — the riverfront and old commercial lanes still carry the memory of when Jhalokati was called the 'second Kolkata'.", "whereOrHow": "Nalchity Upazila" },
+    { "id": "jhalokati-launch", "title": "Take the Sugandha launch from Dhaka", "category": "experience", "detail": "Board at Dhaka Sadarghat at dusk and wake to the river town on the Sugandha — the slow, classic southern-delta way in.", "whereOrHow": "Dhaka Sadarghat → Jhalokati Launch Ghat", "bestTime": "Oct–Mar" },
+    { "id": "jhalokati-guava-taste", "title": "Eat Jhalokati guava with salt and chilli", "category": "food", "detail": "Crisp white-flesh peyara straight from the orchard boat — the fruit the whole district is built on, at its sweetest in late monsoon.", "whereOrHow": "Bhimruli market & orchard ghats", "bestTime": "Jul–Sep" },
+    { "id": "jhalokati-sugandha-hilsa", "title": "Try Sugandha-river hilsa at the ghat", "category": "food", "detail": "Hilsa pulled fresh from the Sugandha and Bishkhali in season — fried or in a light mustard jhol at a ghat-side eatery.", "whereOrHow": "Jhalokati town riverfront", "bestTime": "Aug–Nov" }
+  ],
+  "foods": [
+    { "name": "Jhalokati Guava (Peyara)", "description": "Crisp, fragrant white-flesh guava from the Bhimruli orchards — the fruit the whole district is built on. Eaten raw with salt and chilli straight off the boat.", "whereToFind": "Bhimruli floating market & orchard ghats (Jul–Sep)" },
+    { "name": "Amra (Hog Plum)", "description": "Tart green amra grown alongside the guava in the orchard Kandi — sliced with salt and chilli, or pickled.", "whereToFind": "Bhimruli market & orchards (rainy season)" },
+    { "name": "Sugandha & Bishkhali Hilsa", "description": "Hilsa pulled fresh from the rivers that ring the town — fried, or in a light mustard jhol at a ghat-side eatery.", "whereToFind": "Jhalokati town riverfront restaurants (Aug–Nov)" },
+    { "name": "Floating-Market Daab (Green Coconut)", "description": "Cold green coconut hawked from boats — the antidote to a humid morning in the orchards.", "whereToFind": "Bhimruli and orchard ghats" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Kamini Roy",
+      "knownFor": "Bengali poet, teacher, social worker and suffrage activist — the first woman honours graduate in British India, taking her BA with Sanskrit honours from Bethune College in 1886. Her first collection, Alo O Chhaya (1889), and her line 'why should women stay confined within the home' became touchstones of early Bengali feminism. Born 12 October 1864 in Basanda village of Jhalokati; she co-founded the Bangiya Nari Samaj in 1921.",
+      "era": "1864 – 1933"
+    },
+    {
+      "name": "Nachiketa Chakraborty",
+      "knownFor": "Singer-songwriter of modern Bengali 'jibonmukhi' (life-oriented) song, known across Bengal for hits like 'Nilanjana' and 'Brishti Tomake Dilam'. His family's ancestral home is in Chechri Rampur village of Kathalia Upazila, Jhalokati.",
+      "era": "b. 1964"
+    }
+  ],
+  "didYouKnow": [
+    "At roughly 707 sq km, Jhalokati is one of the smallest districts in Bangladesh — yet it sits at the heart of Asia's largest guava belt.",
+    "The Gabkhan channel is Bangladesh's only man-made naval waterway: dug in 1918 to join the Sandha and Sugandha rivers, it shaved about 118 km off the Dhaka–Mongla route and carries 60–70 ships a day, earning it the nickname 'Suez Canal of Bengal'.",
+    "Bhimruli's floating guava market sits at an estuary where three canals merge; guava has been grown around it for over two hundred years.",
+    "Kamini Roy, born in Basanda village of Jhalokati in 1864, was the first woman honours graduate in British India.",
+    "Jhalokati was once prosperous enough on its river trade to be called the 'second Kolkata'; its old name was Moharajganj, and the name 'Jhalokati' is traced to the Kaibarta 'Jhalo' fishing community who settled 'Jhalopara'.",
+    "The district's official motto calls it 'the land of tasty guava and shitalpati' — the cool, hand-woven murta-reed mats made in its villages."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Jhalokati Sadar Thana", "phone": "—" },
+      { "name": "Nalchity Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Jhalokati Sadar Hospital", "phone": "—" },
+      { "name": "Nalchity Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
