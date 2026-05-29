@@ -18,13 +18,21 @@ export default function ItineraryTab({ tripId }: { tripId: string }) {
   // If dates are not set, we'll default to just showing "Unassigned" and maybe "Day 1"
   let totalDays = 1;
   let startDate = new Date(); // Use today as default if none set just for UI preview if they didn't pick dates
-  
+
   if (dateRange?.from) {
     startDate = dateRange.from;
     if (dateRange.to) {
       totalDays = differenceInDays(dateRange.to, dateRange.from) + 1;
     }
   }
+
+  // Also account for places already assigned to days (e.g. seeded from a division itinerary)
+  // so the full plan is visible even before the user picks travel dates.
+  const maxAssignedOffset = placesToExplore.reduce(
+    (max, p) => (p.dayOffset !== undefined && p.dayOffset > max ? p.dayOffset : max),
+    -1
+  );
+  totalDays = Math.max(totalDays, maxAssignedOffset + 1);
 
   // Create an array of days
   const days = Array.from({ length: totalDays }, (_, i) => ({
