@@ -1,0 +1,286 @@
+{
+  "name": "Faridpur",
+  "division": "Dhaka",
+  "tagline": "A floodplain district on the Padma and Kumar — home of the 'Pallikabi' Jasimuddin, a Sultanate mosque on a dighi, and the new Padma Bridge rail link at Bhanga.",
+  "stats": {
+    "area": "2,052.86 sq km",
+    "population": "2,162,879",
+    "established": "1815",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March for cool, dry weather across the river floodplain; the monsoon (June–September) brings high water on the Padma and Kumar. Literary observances around poet Jasimuddin (born 1 January 1903) and Vaishnava festivals at Sree Angan add cultural colour.",
+    "gettingThere": "By road from Dhaka it is ~117 km via the Padma Bridge (~2–2.5 hr by bus through Bhanga). Faridpur also has rail — the town station (1899, service restored 2014) sits on the Rajbari–Faridpur line, and Bhanga Junction inside the district is a key node on the new Padma Bridge Rail Link opened from 2023.",
+    "difficulty": "Easy to moderate. Town sights are simple; rural sites like Mathurapur Deul (Madhukhali), Pathrail Mosque (Bhanga) and Baishrashi Zamindar Bari (Sadarpur) need a CNG or auto and some are weathered ruins."
+  },
+  "mustVisit": [
+    {
+      "name": "Pathrail Mosque & Dighi",
+      "type": "religious",
+      "description": "A ten-domed Sultanate-era mosque on the bank of a large dighi at Pathrail, its walls clad in terracotta floral scrolls and rosettes, beside the mazar of a medieval preacher.",
+      "history": "Attributed to the reign of Sultan Ghiyasuddin Azam Shah (c. 1393–1410), which would make it among the older surviving mosques in Bengal. It stands next to the shrine of Majlis Abdullah Khan; the adjacent dighi was dug to relieve a local water shortage.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.3600, 89.9600],
+      "practical": {
+        "hours": "Open daily; respect prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Pathrail village, Bhanga upazila",
+        "distanceKm": 28,
+        "transport": "Bus/CNG toward Bhanga, then local auto to Pathrail"
+      },
+      "bestTime": "Daytime; cool, dry months",
+      "tips": [
+        "Look closely at the terracotta scrollwork on the walls",
+        "Pair with the dighi and the adjoining shrine"
+      ]
+    },
+    {
+      "name": "Mathurapur Deul",
+      "type": "historical",
+      "description": "A roughly 80-ft twelve-sided brick tower, every face covered in terracotta panels of gods, dancers, horses and scenes from the Ramayana and Mahabharata.",
+      "history": "No inscription survives, so its date is debated; on stylistic grounds it is placed in the 16th–17th century. It is one of the most striking solitary towers (deuls) of the region, standing alone amid the fields of Madhukhali.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5000, 89.5500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Mathurapur village, Madhukhali upazila",
+        "distanceKm": 32,
+        "transport": "Road to Madhukhali, then local auto"
+      },
+      "bestTime": "Daytime for the terracotta detail",
+      "tips": [
+        "Walk a full circle — the panels differ on every side",
+        "Morning or late-afternoon light brings out the carving"
+      ]
+    },
+    {
+      "name": "Jagatbandhu Angan (Sree Angan)",
+      "type": "religious",
+      "description": "A Mahanam Sampradaya Vaishnava ashram in Faridpur town, a place of devotion that is also a 1971 Liberation War memorial.",
+      "history": "Founded in 1899 by followers of Prabhu Jagadbandhu Sundar, a Krishnaite revivalist. On 21 April 1971 the Pakistan Army killed eight monks here; a memorial with eight black plaques, raised in 1996, now stands within the grounds.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6000, 89.8400],
+      "practical": {
+        "hours": "Daytime; respect worship times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Goalchamat area, Faridpur Sadar",
+        "distanceKm": 2,
+        "transport": "Rickshaw within town"
+      },
+      "bestTime": "Daytime; quieter on ordinary days",
+      "tips": [
+        "Be respectful — it is a living ashram and a place of memory",
+        "Read the eight memorial plaques to the murdered monks"
+      ]
+    },
+    {
+      "name": "House of Pallikabi Jasimuddin",
+      "type": "culture",
+      "description": "The riverside home, museum and grave of 'Pallikabi' (the Rural Poet) Jasimuddin, by the Kumar River, with his personal effects and family resting place under the trees.",
+      "history": "Jasimuddin (1903–1976), poet of Nakshi Kanthar Math and Sojan Badiar Ghat and a great collector of Bengali folk songs, lived and is buried at Ambikapur/Gobindapur. The house keeps his bed, chair, camera and writings.",
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5800, 89.8200],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Ambikapur/Gobindapur, Faridpur Sadar",
+        "distanceKm": 3,
+        "transport": "Rickshaw or auto from the bus stand"
+      },
+      "bestTime": "Daytime; around 1 January for the poet's birth anniversary",
+      "tips": [
+        "Read a few lines of Nakshi Kanthar Math before you go",
+        "Pair with a quiet hour by the Kumar River"
+      ]
+    },
+    {
+      "name": "Kanaipur Sikder Bari",
+      "type": "historical",
+      "description": "A weathered two-storey zamindar mansion of the Sikder clan on the bank of the Kumar River, its faded façade and ponds making an atmospheric ruin.",
+      "history": "Seat of the Sikder zamindars of Kanaipur, the estate is locally held to be some centuries old; without conservation it has slipped into disrepair, leaving a romantic, time-worn house. Its exact build date is uncertain.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6100, 89.7800],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kanaipur, Faridpur Sadar",
+        "distanceKm": 9,
+        "transport": "Auto/CNG from Faridpur town"
+      },
+      "bestTime": "Daytime for the architecture and ponds",
+      "tips": [
+        "Tread carefully around the dilapidated structures",
+        "Best for atmosphere, not facilities"
+      ]
+    },
+    {
+      "name": "Baishrashi Zamindar Bari",
+      "type": "historical",
+      "description": "The sprawling estate of the Saha zamindars at Baishrashi — once fourteen buildings with gardens, ponds and a puja mandap, the seat of lords who held many parganas.",
+      "history": "The Saha family, originally salt merchants, built their fortune in the early 17th century and amassed zamindari across the Faridpur–Barisal region; the estate held some 50 acres and fourteen buildings before its long decline.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4000, 89.9500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Baishrashi village, Sadarpur upazila",
+        "distanceKm": 25,
+        "transport": "Road to Sadarpur, then local auto"
+      },
+      "bestTime": "Daytime for the old buildings and ponds",
+      "tips": [
+        "Several structures are ruinous — keep your distance from weak walls",
+        "Ask villagers to point out the old puja mandap"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Faridpur Malai Sweets",
+      "description": "The old-town sweet shops are known for rich malai-based sweets — rosomalai, malai chop and malai roast — soft chhana and cream in thickened milk.",
+      "venue": "Sweet shops in Faridpur town"
+    },
+    {
+      "type": "festival",
+      "name": "Jasimuddin Observances",
+      "description": "Literary and folk-culture events around the birth (1 January) and death (14 March) of Pallikabi Jasimuddin, celebrating the rural Bengal he sang of.",
+      "timing": "January and March",
+      "coordinates": [23.5800, 89.8200]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Pathrail Mosque (c. 1393–1410)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.3600, 89.9600]
+    },
+    {
+      "name": "Mathurapur Deul",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5000, 89.5500]
+    },
+    {
+      "name": "Jagatbandhu Angan (Sree Angan, 1899)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6000, 89.8400]
+    },
+    {
+      "name": "House of Pallikabi Jasimuddin",
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5800, 89.8200]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-faridpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Faridpur&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Faridpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Faridpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "faridpur-jasimuddin-house", "title": "Visit Pallikabi Jasimuddin's home", "category": "place", "detail": "The riverside house, museum and grave of the Rural Poet, with his bed, chair, camera and writings.", "whereOrHow": "Ambikapur/Gobindapur, Faridpur Sadar" },
+    { "id": "faridpur-pathrail", "title": "See the ten-domed Pathrail Mosque", "category": "place", "detail": "A Sultanate-era mosque clad in terracotta on the bank of a great dighi.", "whereOrHow": "Pathrail, Bhanga" },
+    { "id": "faridpur-mathurapur-deul", "title": "Circle the Mathurapur Deul", "category": "place", "detail": "A twelve-sided brick tower covered in terracotta gods, dancers and epic scenes.", "whereOrHow": "Mathurapur, Madhukhali" },
+    { "id": "faridpur-sree-angan", "title": "Pay respects at Sree Angan", "category": "place", "detail": "A Vaishnava ashram and 1971 memorial where eight monks were killed.", "whereOrHow": "Goalchamat, Faridpur Sadar" },
+    { "id": "faridpur-kanaipur", "title": "Explore Kanaipur Sikder Bari", "category": "place", "detail": "A faded riverside zamindar mansion on the Kumar, all atmosphere and old ponds.", "whereOrHow": "Kanaipur, Faridpur Sadar" },
+    { "id": "faridpur-baishrashi", "title": "Wander Baishrashi Zamindar Bari", "category": "place", "detail": "The sprawling Saha-family estate, once fourteen buildings with gardens and a puja mandap.", "whereOrHow": "Baishrashi, Sadarpur" },
+    { "id": "faridpur-bhanga-rail", "title": "Ride the new Padma Bridge rail link", "category": "experience", "detail": "Bhanga Junction inside Faridpur put the district on the modern Dhaka–Jashore rail corridor.", "whereOrHow": "Bhanga Junction" },
+    { "id": "faridpur-kumar-river", "title": "Sit by the Kumar River", "category": "moment", "detail": "The distributary that loops past Faridpur town — quiet ghats and golden-hour light.", "whereOrHow": "Kumar riverbank, Faridpur Sadar", "bestTime": "Late afternoon" },
+    { "id": "faridpur-padma-edge", "title": "Reach the edge of the Padma", "category": "moment", "detail": "The great river forms the district's northern rim — wide skies and shifting char islands.", "whereOrHow": "Northern/eastern edge of the district" },
+    { "id": "faridpur-malai", "title": "Taste Faridpur's malai sweets", "category": "food", "detail": "Rosomalai, malai chop and malai roast from the old-town sweet shops.", "whereOrHow": "Faridpur town sweet shops" },
+    { "id": "faridpur-river-fish", "title": "Eat fresh Padma–Kumar river fish", "category": "food", "detail": "Hilsa and freshwater fish from the rivers, fried fresh or in light curries.", "whereOrHow": "Local town eateries" },
+    { "id": "faridpur-jasimuddin-verse", "title": "Read a verse of Nakshi Kanthar Math", "category": "experience", "detail": "Walk the poet's home district with his most famous folk-poem in mind.", "whereOrHow": "Anywhere in Faridpur" }
+  ],
+  "foods": [
+    { "name": "Rosomalai", "description": "Soft chhana balls in thickened, lightly sweetened milk — a signature of Faridpur's old-town sweet shops.", "whereToFind": "Sweet shops in Faridpur town" },
+    { "name": "Malai Chop", "description": "A cream-filled sweet, rich with malai — a Faridpur specialty.", "whereToFind": "Faridpur town sweet shops" },
+    { "name": "Malai Roast", "description": "Another locally prized milk-and-cream sweet from the town's confectioners.", "whereToFind": "Faridpur town sweet shops" },
+    { "name": "Padma & Kumar River Fish", "description": "Hilsa and freshwater fish from the rivers, fried fresh or cooked in light Bengali curries.", "whereToFind": "Local eateries in Faridpur town" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Jasimuddin",
+      "knownFor": "The 'Pallikabi' (Rural Poet) of Bengal — born at Tambulkhana, Faridpur, and buried in the district. Author of Nakshi Kanthar Math and Sojan Badiar Ghat, and a great collector of Bengali folk songs.",
+      "era": "1903 – 1976"
+    },
+    {
+      "name": "Humayun Kabir",
+      "knownFor": "Writer, educationist and essayist born near Faridpur town (Komarpur), author of the Padma-set novel 'Men and Rivers' and studies of Tagore and the Bengali novel.",
+      "era": "1906 – 1969"
+    }
+  ],
+  "didYouKnow": [
+    "Faridpur is named for the Sufi saint Sheikh Farid; the town was earlier called Fatehabad, appearing as 'Haweli Mahal Fatehabad' in the Ain-i-Akbari before its 19th-century renaming.",
+    "Pallikabi Jasimuddin, the poet of rural Bengal, was born in the district in 1903 and is buried by the Kumar River at Gobindapur.",
+    "Bhanga Junction, a key station on the new Padma Bridge Rail Link, lies inside Faridpur — putting the district on the modern Dhaka–Jashore rail corridor.",
+    "Pathrail Mosque is attributed to the reign of Sultan Ghiyasuddin Azam Shah (c. 1393–1410), among the older surviving mosques in Bengal.",
+    "Sree Angan ashram in Faridpur town was the site of a 1971 massacre in which eight monks were killed; a memorial with eight plaques stands there today."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Faridpur Kotwali (Sadar) Model Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Faridpur Medical College Hospital", "phone": "—" },
+      { "name": "Faridpur General (250-Bed) Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
