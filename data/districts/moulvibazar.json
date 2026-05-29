@@ -1,0 +1,307 @@
+{
+  "name": "Moulvibazar",
+  "division": "Sylhet",
+  "tagline": "Tea capital of Bangladesh — rainforests with hoolock gibbons, the country's tallest waterfall, lotus lakes in the gardens, and the world's only seven-layer tea.",
+  "stats": {
+    "area": "2,799.38 sq km",
+    "population": "2,123,447",
+    "established": "1984",
+    "attractions": "12+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry — gardens, forests and waterfalls all at their best). Monsoon (June–August) for full-flow waterfalls and the Hakaluki haor at peak.",
+    "gettingThere": "By road from Dhaka (~190 km, ~5 hr) on the Dhaka–Sylhet highway, or by rail to Sreemangal / Kulaura / Moulvibazar on the Dhaka–Sylhet line (Parabat / Joyantika / Upaban / Kalni). Most sights cluster around Sreemangal (Lawachhara, BTRI) and Kamalganj (Madhabpur Lake, Hum Hum); Madhabkunda is in Barlekha, far to the east.",
+    "difficulty": "Easy to moderate — towns and tea gardens are easy; the Hum Hum trek and Patharia trails need a guide and good shoes."
+  },
+  "mustVisit": [
+    {
+      "name": "Lawachhara National Park",
+      "type": "nature",
+      "description": "A pocket of mixed evergreen rainforest in Sreemangal — narrow trails wind under a high canopy where hoolock gibbons call across the morning. Easy short walks for casual visitors, longer trails for the patient.",
+      "history": "About 1,250 hectares declared a national park in 1996, carved out of the West Bhanugach reserve forest. Home to the endangered hoolock gibbon, capped langur, phayre's langur, pythons, and a long bird list; the Khasia Punji of Magurchhara sits inside the forest. Bisected by the Dhaka–Sylhet railway line.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3236, 91.7867],
+      "practical": {
+        "hours": "Sunrise to sunset; arrive at dawn for gibbons and birds",
+        "entryFee": "Forest Department entry fee + guide fee",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 8 km east of Sreemangal town, off the Sreemangal–Bhanugach road",
+        "distanceKm": 8,
+        "transport": "CNG / reserved car from Sreemangal town"
+      },
+      "bestTime": "October to March; arrive at dawn for wildlife",
+      "tips": [
+        "Hire a Forest Department guide at the gate — trails fork and the gibbons need spotting",
+        "Wear closed shoes and long sleeves — leeches appear after rain",
+        "Keep your voice down on the trail; gibbons move off at noise"
+      ]
+    },
+    {
+      "name": "Madhabkunda Waterfall",
+      "type": "nature",
+      "description": "Bangladesh's tallest waterfall — water drops some 60 metres off the Patharia hills into a wide rocky pool. The walk in is short, the spray is constant, and on a clear afternoon you can wade to the foot of the fall.",
+      "history": "Set in the Patharia hill range of Barlekha, the falls and surrounding forest were turned into an eco-park by the Forest Department. A Khasi village sits nearby and a smaller fall, Parikunda, lies a short trek into the woods behind.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.6500, 92.2333],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Eco-park ticket at the gate",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 70 km east of Moulvibazar town, in Barlekha Upazila; or by train to Kulaura then road",
+        "distanceKm": 70,
+        "transport": "Bus / CNG to Madhabkunda gate from Moulvibazar or Kulaura"
+      },
+      "bestTime": "June to October — fall is in full flow; the rocks are slippery so wear sandals with grip",
+      "tips": [
+        "Trek the extra 30 minutes to Parikunda — quieter and quite beautiful",
+        "Pakhipath bridge near the entrance is a good photograph spot",
+        "Avoid swimming directly under the fall — rocks tumble after rain"
+      ]
+    },
+    {
+      "name": "Madhabpur Lake",
+      "type": "nature",
+      "description": "A long, narrow lake carved out of three small hills inside the Patrakhola tea estate — its surface stippled with red, white and blue lotus and lily. The classic Sreemangal photograph: tea-bushes climbing one bank, lotus opening on the water.",
+      "history": "Built in 1965 by Patrakhola Tea Estate to store irrigation water for the gardens, the 50-acre lake quickly became famous for its lotus blooms. It lies in Madhabpur Union of Kamalganj Upazila, about 12 km east of Sreemangal.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3236, 91.8800],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 50 km west of Moulvibazar town, in Kamalganj Upazila; ~12 km east of Sreemangal",
+        "distanceKm": 50,
+        "transport": "CNG / car from Sreemangal town through Bhanugach into the tea estate"
+      },
+      "bestTime": "September to December — lotus at peak; mornings are quietest",
+      "tips": [
+        "Ask permission at the tea-estate office before walking the inner paths",
+        "Pair with Lawachhara on the same day — they're 20 minutes apart",
+        "The blue water-lily is rare; look along the far edges"
+      ]
+    },
+    {
+      "name": "Hum Hum Waterfall",
+      "type": "nature",
+      "description": "A hidden fall deep in the Rajkandi reserve forest — reached by a 2-3 hour trek through streams, bamboo and hill-paths. About 50 metres tall, found only in 2010, and still the wildest cascade in the country.",
+      "history": "Lies in Kurma reserve forest of Kamalganj, on the edge of the Tripura border. The fall went unmapped for decades because the trail crosses streams in and out — local Tipra and Manipuri trackers were the first to lead outsiders in.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1833, 91.8500],
+      "practical": {
+        "hours": "Daytime only — start before 9 am",
+        "entryFee": "Forest entry + mandatory local guide fee",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 55 km from Moulvibazar via Kamalganj; reserved car to Kolabon Para, then trek",
+        "distanceKm": 55,
+        "transport": "CNG / car to Kolabon Para village, then 2-3 hr trek with a local guide"
+      },
+      "bestTime": "July to October — full flow; avoid going right after heavy rain (flash currents)",
+      "tips": [
+        "Hire a local Tipra guide at Kolabon — the trail crosses streams and is easy to lose",
+        "Wear closed-toe waterproof sandals; carry water and a light bag only",
+        "Plan for a full day; leeches are common after rain"
+      ]
+    },
+    {
+      "name": "Sreemangal Tea Country & BTRI",
+      "type": "nature",
+      "description": "The town that calls itself Bangladesh's tea capital — endless rolling estates, the Bangladesh Tea Research Institute, the world-famous seven-layer tea, and roads where workers, baskets full, walk back from the bushes at dusk.",
+      "history": "Tea came here in the late 19th century after the success of Sylhet's Malnicherra; today Sreemangal and Kamalganj together hold the densest cluster of tea estates in the country. BTRI was set up in 1957 as a Pakistan Tea Board station and re-formed as the national institute in 1973.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3142, 91.7320],
+      "practical": {
+        "hours": "Estates are private; the BTRI campus is visitable by request",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Sreemangal town is about 40 km southwest of Moulvibazar town on the Sylhet line",
+        "distanceKm": 40,
+        "transport": "Train to Sreemangal, then CNG / rickshaw around the gardens"
+      },
+      "bestTime": "October to March — clear, cool air, full bushes",
+      "tips": [
+        "Walk garden paths in early morning or late afternoon light",
+        "Drink the seven-layer tea where it was invented (Sreemangal town)",
+        "Always ask permission of garden staff before stepping into the rows"
+      ]
+    },
+    {
+      "name": "Hakaluki Haor",
+      "type": "nature",
+      "description": "One of Bangladesh's largest haors — a vast freshwater wetland that swells to over 18,000 hectares in the monsoon and dries to a chain of beels in winter, drawing tens of thousands of migratory waterbirds.",
+      "history": "Spread across Barlekha, Juri, Kulaura, Fenchuganj and Golapganj, declared an Ecologically Critical Area and recognised as a Ramsar wetland of international importance for its bird, fish and freshwater diversity.",
+      "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7000, 92.0000],
+      "practical": {
+        "hours": "Daylight hours; access by country boat",
+        "entryFee": "Boat hire at local ghats",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 60–80 km northeast of Moulvibazar; the main boat ghats sit in Barlekha and Juri",
+        "distanceKm": 75,
+        "transport": "Bus / reserved car to Barlekha or Juri, then engine boat across the haor"
+      },
+      "bestTime": "Monsoon (Jun–Sep) for the full haor; Nov–Feb for migratory birds at the beels",
+      "tips": [
+        "Carry binoculars — the bird list is the real attraction",
+        "Use local boatmen — they know which beels still hold water in the dry season",
+        "Sunset on the water is the photograph; head out by 4 pm in winter"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Seven-Layer Tea (Sat Rong Cha)",
+      "description": "Invented by Romesh Ram Gour at his Nilkantha Cha Cabin in Sreemangal in 2002 — seven layers of differently spiced tea, each a different colour and density, poured to settle one above the other.",
+      "venue": "Nilkantha Cha Cabin, Ramnagar, Sreemangal"
+    },
+    {
+      "type": "food",
+      "name": "Sreemangal Estate Tea",
+      "description": "Strong, fresh tea poured straight from the country's densest cluster of tea gardens. A glass at a tea-garden canteen in Bhanugach or Finlay Tea is the simplest local pleasure.",
+      "venue": "Sreemangal & Kamalganj tea estate canteens"
+    },
+    {
+      "type": "food",
+      "name": "Manipuri Bamboo-Shoot Curry",
+      "description": "From the Manipuri community of Kamalganj — fresh bamboo shoots cooked into a sour, fragrant curry. Best alongside hidol (fermented fish) chutney and rice.",
+      "venue": "Manipuri Palli home-stays, Kamalganj"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Lawachhara National Park (1996)",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3236, 91.7867]
+    },
+    {
+      "name": "Manipuri Palli (Kamalganj)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4000, 91.9000]
+    },
+    {
+      "name": "Magurchhara Khasi Punji (Lawachhara)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3300, 91.7900]
+    },
+    {
+      "name": "Birsreshtho Hamidur Rahman Memorial (Dhalai)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1500, 91.9333]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-moulvibazar?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Moulvibazar&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Ena Transport", "phone": "—" },
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Shyamoli Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Sreemangal)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Sreemangal&doj={date}&class=SNIGDHA" },
+        { "name": "Bangladesh Railway (Kulaura)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Kulaura&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Sreemangal Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Sreemangal&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Sreemangal&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "moulvibazar-gibbon-dawn", "title": "Hear hoolock gibbons in Lawachhara at dawn", "category": "experience", "detail": "Be at the gate before sunrise — the gibbons call across the canopy in the first hour of light, the most arresting sound in a Bangladeshi forest.", "whereOrHow": "Lawachhara National Park, Sreemangal", "bestTime": "Oct–Mar, sunrise" },
+    { "id": "moulvibazar-madhabkunda", "title": "Stand under Madhabkunda's spray", "category": "moment", "detail": "Bangladesh's tallest waterfall — 60 metres of water onto a rock pool. Walk through the spray, then trek 30 minutes to Parikunda fall behind it.", "whereOrHow": "Madhabkunda Eco-Park, Barlekha", "bestTime": "Jun–Oct" },
+    { "id": "moulvibazar-madhabpur-lotus", "title": "Catch the lotus in bloom at Madhabpur Lake", "category": "moment", "detail": "A long lake carved out of three hills inside Patrakhola Tea Estate, its surface stippled with red, white and rare blue water-lily — Sreemangal's signature postcard.", "whereOrHow": "Madhabpur Lake, Kamalganj", "bestTime": "Sep–Dec, morning" },
+    { "id": "moulvibazar-hum-hum-trek", "title": "Trek to Hum Hum waterfall", "category": "experience", "detail": "A two-to-three-hour walk through bamboo, streams and hill-paths into the Rajkandi reserve to a 50-metre cascade unmapped until 2010 — the wildest day-hike in Bangladesh.", "whereOrHow": "Kurma reserve forest, Kamalganj", "bestTime": "Jul–Oct" },
+    { "id": "moulvibazar-seven-layer-tea", "title": "Drink seven-layer tea where it was invented", "category": "food", "detail": "Romesh Ram Gour layered seven different teas in 2002 at his small cabin in Ramnagar — Sreemangal's most photographed glass. Imitators are everywhere; the original is here.", "whereOrHow": "Nilkantha Cha Cabin, Ramnagar, Sreemangal" },
+    { "id": "moulvibazar-btri", "title": "Walk the rows at BTRI", "category": "place", "detail": "Bangladesh Tea Research Institute's 1957 campus is the lab and lecture hall of the country's tea — clones, trials, drying sheds and lots of fresh estate tea.", "whereOrHow": "Bangladesh Tea Research Institute, Sreemangal" },
+    { "id": "moulvibazar-manipuri-palli", "title": "Visit a Manipuri Palli in Kamalganj", "category": "experience", "detail": "Bamboo-shoot curries, hand-woven shawls and the Rashlila dance — the Manipuri community of Kamalganj have kept their language and ritual alive for two centuries since arriving from the Imphal valley.", "whereOrHow": "Manipuri Palli, Adampur / Kamalganj", "bestTime": "Rashlila Purnima (Kartik full moon, Nov)" },
+    { "id": "moulvibazar-khasia-punji", "title": "Sit in a Khasia Punji and chew paan", "category": "place", "detail": "Khasi villages inside Lawachhara grow paan vines on trees and welcome visitors warmly — bring a small gift, sit on a cane mat, drink red tea.", "whereOrHow": "Magurchhara Khasia Punji, Lawachhara" },
+    { "id": "moulvibazar-hakaluki-birds", "title": "Watch migratory birds at Hakaluki Haor", "category": "experience", "detail": "Bangladesh's biggest haor, a Ramsar wetland — tens of thousands of waterbirds in winter and the kind of horizon-wide sunset that justifies binoculars.", "whereOrHow": "Hakaluki Haor, Barlekha / Juri", "bestTime": "Nov–Feb" },
+    { "id": "moulvibazar-rashlila", "title": "Catch the Manipuri Rashlila on Kartik Purnima", "category": "moment", "detail": "The single great festival of the Bishnupriya Manipuri community — overnight dance honouring Krishna and Radha, performed at Madhabpur and Adampur for over a century.", "whereOrHow": "Madhabpur / Adampur, Kamalganj", "bestTime": "Kartik Purnima (Nov)" },
+    { "id": "moulvibazar-hamidur-rahman", "title": "Pay respects at the Hamidur Rahman memorial", "category": "place", "detail": "Bir Sreshtho sepoy Mohammad Hamidur Rahman was killed on 28 October 1971 silencing a Pakistan Army machine-gun at Dhalai, Kamalganj — the only Liberation War battlefield in the country marked for a Bir Sreshtho.", "whereOrHow": "Dhalai, Kamalganj" },
+    { "id": "moulvibazar-tea-train", "title": "Ride the Dhaka–Sylhet train through the tea hills", "category": "experience", "detail": "The line slices straight through Lawachhara and the tea estates — between Bhairab and Sreemangal the windows are an unbroken green corridor of bushes and rainforest.", "whereOrHow": "Parabat / Joyantika / Upaban / Kalni Express", "bestTime": "Day trains only" }
+  ],
+  "foods": [
+    { "name": "Seven-Layer Tea (Sat Rong Cha)", "description": "Invented in Sreemangal by Romesh Ram Gour in 2002 — seven layers of differently spiced tea poured to settle one above the other. The most photographed glass in Bangladesh.", "whereToFind": "Nilkantha Cha Cabin, Ramnagar, Sreemangal" },
+    { "name": "Sreemangal Estate Tea", "description": "Fresh, strong tea from the country's densest cluster of estates — drink it where the bushes climb the hill behind you.", "whereToFind": "Tea-garden canteens across Sreemangal & Kamalganj" },
+    { "name": "Manipuri Bamboo-Shoot Curry", "description": "A sour, fragrant curry made with fresh bamboo shoots — the signature dish of the Bishnupriya Manipuri community of Kamalganj.", "whereToFind": "Manipuri Palli home-stays, Kamalganj" },
+    { "name": "Shatkora Beef", "description": "The greater-Sylhet hallmark — beef cooked with shatkora citrus for a fragrant, bittersweet gravy.", "whereToFind": "Home-style Sylheti restaurants" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Dwijen Sharma",
+      "knownFor": "Naturalist, botanist and one of the foundational figures of Bangla science writing — author of over thirty books on trees, gardens and the natural world. Born in Shimulia village of Barlekha Upazila in Moulvibazar; awarded the Bangla Academy Literary Award (1987) and Ekushey Padak (2015).",
+      "era": "1929 – 2017"
+    },
+    {
+      "name": "Bir Sreshtho Mohammad Hamidur Rahman",
+      "knownFor": "Sepoy of the Bangladesh Forces who silenced a Pakistan Army machine-gun in hand-to-hand combat at Dhalai, Kamalganj, on 28 October 1971 and was killed in the action. Posthumously awarded the Bir Sreshtho, Bangladesh's highest gallantry honour. Born in Jhenaidah; the Moulvibazar battlefield and memorial are where his story ends.",
+      "era": "1953 – 1971"
+    }
+  ],
+  "didYouKnow": [
+    "Madhabkunda Waterfall in Barlekha is Bangladesh's tallest, dropping about 60 metres off the Patharia hills.",
+    "Lawachhara National Park's 1,250 hectares are home to the endangered hoolock gibbon — one of the few places left in Bangladesh where you can hear them call at dawn.",
+    "Sreemangal's seven-layer tea was invented in 2002 by Romesh Ram Gour at his Nilkantha Cha Cabin — celebrities, ambassadors and visitors from more than a hundred countries have since come to drink it.",
+    "Madhabpur Lake in Kamalganj was dug in 1965 by Patrakhola Tea Estate to store irrigation water; it is now famous for its lotus blooms and giant water-lily.",
+    "Hakaluki Haor is one of Bangladesh's largest haors and a Ramsar wetland of international importance — a critical wintering ground for migratory waterbirds.",
+    "Bangladesh Tea Research Institute (BTRI) was founded in Sreemangal in 1957 as the Pakistan Tea Research Station and re-formed under its current name in 1973.",
+    "Bir Sreshtho Mohammad Hamidur Rahman, one of only seven recipients of Bangladesh's highest gallantry honour, was killed at Dhalai in Kamalganj on 28 October 1971."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Moulvibazar Sadar Model Thana", "phone": "—" },
+      { "name": "Sreemangal Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Moulvibazar 250-Bed Sadar Hospital", "phone": "—" },
+      { "name": "Sreemangal Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
