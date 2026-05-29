@@ -1,0 +1,320 @@
+{
+  "name": "Chittagong",
+  "division": "Chittagong",
+  "tagline": "Port city of the Karnaphuli — Sufi shrines and softshell turtles, a hill of three hundred temple steps, war cemeteries in the rain, and the home districts of three of Bengal's most famous lives.",
+  "stats": {
+    "area": "5,282.92 sq km",
+    "population": "7,616,352",
+    "established": "1666",
+    "attractions": "15+"
+  },
+  "guide": {
+    "bestTime": "October to March — cool, dry, low humidity. Avoid May–August: this is one of the wettest corners of Bangladesh.",
+    "gettingThere": "By air to Shah Amanat International Airport (~50 min from Dhaka), by overnight train (Subarna / Sonar Bangla / Mahanagar / Turna), by Dhaka–Chittagong highway (~245 km, ~6–8 hr), or by launch from Dhaka Sadarghat. The city sits on the Karnaphuli; the main outlying sights are at Sitakunda (north, ~37 km) and Mirsharai (north, ~80 km).",
+    "difficulty": "Easy in the city. Chandranath and the Mirsharai waterfalls need a steady walk; Khoiyachora is a 3–4 hour trek through hill-streams."
+  },
+  "mustVisit": [
+    {
+      "name": "Patenga Sea Beach (Karnaphuli mouth)",
+      "type": "nature",
+      "description": "The city beach — where the Karnaphuli meets the Bay of Bengal at the southern tip of Chittagong. Cargo ships line the horizon, the breakwater is paved for evening walks, and the small Naval Academy stands a kilometre back. Not a swimming beach; a sunset and a chotpoti.",
+      "history": "Patenga sits at the mouth of the Karnaphuli, just south of the Shah Amanat International Airport and the Naval Base. The 'Outer Ring Road' redeveloped the foreshore in the 2010s; today it is the city's main evening promenade.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.2330, 91.7960],
+      "practical": {
+        "hours": "Open 24/7; best at sunset",
+        "entryFee": "Free along the promenade",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 18 km south of central Chittagong, past the airport",
+        "distanceKm": 18,
+        "transport": "CNG / car / Uber from anywhere in the city"
+      },
+      "bestTime": "Late afternoon to sunset",
+      "tips": [
+        "Don't swim — strong currents and shipping channels",
+        "Walk the breakwater for the cargo-ship view",
+        "Chotpoti, fuchka and grilled crab line the promenade in the evening"
+      ]
+    },
+    {
+      "name": "Bayazid Bostami Mazar (with the turtle pond)",
+      "type": "religious",
+      "description": "A 12th-century-style shrine and tank at the foot of Bayazid hill in Nasirabad — a complex of green-tiled cloisters around a pond holding the world's only known population of black softshell turtles, sacred to the local tradition.",
+      "history": "Tradition holds that the Persian Sufi Bayazid Bostami (804–874 CE) visited Chittagong in the 9th century, though most historians believe the shrine is a much later memorial. The pond's black softshell turtles (Nilssonia nigricans) are extinct in the wild and survive almost only here.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.3667, 91.8000],
+      "practical": {
+        "hours": "Open around the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free; small donation for the turtle pond",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 6 km north of central Chittagong in Nasirabad",
+        "distanceKm": 6,
+        "transport": "CNG / rickshaw / Uber from anywhere in the city"
+      },
+      "bestTime": "Late afternoon",
+      "tips": [
+        "Buy banana or biscuits at the gate to feed the turtles; do not lift them out of the water",
+        "Cover head if female; remove shoes before entering the inner shrine",
+        "The complex is busy on Thursday nights"
+      ]
+    },
+    {
+      "name": "Chandranath Hill (Sitakunda)",
+      "type": "religious",
+      "description": "A Shakti Pitha at the summit of the highest hill in Chittagong District — a hard climb up several hundred stone steps through forest and small shrines to a temple of Chandranath Bhairava with the Bay of Bengal opening out below.",
+      "history": "One of the 51 Shakti Pithas of Hindu tradition, said to mark the place where the right arm of Sati fell. The summit shrine and the older complexes (Birupaksha, Krishnaray) form a major pilgrimage centre; the Shiva Chaturdashi mela in Magh–Falgun draws hundreds of thousands.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6333, 91.6500],
+      "practical": {
+        "hours": "Daylight; the climb takes about 1.5–2 hours each way",
+        "entryFee": "Free; small donations at the shrines",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 37 km north of Chittagong city in Sitakunda Upazila, off the Dhaka–Chittagong highway",
+        "distanceKm": 37,
+        "transport": "Bus / train to Sitakunda, then CNG to the trail-head"
+      },
+      "bestTime": "October to March; Shiva Chaturdashi mela (Feb–Mar) for the full pilgrimage",
+      "tips": [
+        "Wear shoes with grip — the steps are uneven and slick in the rains",
+        "Carry water; the small stalls thin out above the middle",
+        "Pair with Sitakunda Eco Park and the hot springs at Labanakshya"
+      ]
+    },
+    {
+      "name": "Commonwealth War Cemetery",
+      "type": "heritage",
+      "description": "A walled green at Dampara holding 755 graves of Commonwealth soldiers killed in the Burma campaign of the Second World War — Indian, British, Australian, African and Japanese — set among lawns and frangipani trees, the quietest acre in the city.",
+      "history": "Maintained by the Commonwealth War Graves Commission; almost all of the dead fell in the 1942–45 Burma campaign fought through Arakan and the Naga and Chin hills. Inscriptions are in English, Bengali, Burmese, Arabic and Gurmukhi.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.3500, 91.8167],
+      "practical": {
+        "hours": "8 am – 5 pm, daily",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Dampara, about 3 km north of New Market in central Chittagong",
+        "distanceKm": 3,
+        "transport": "CNG / Uber from anywhere in the city"
+      },
+      "bestTime": "Cool months; 11 November (Remembrance Day) for the wreath-laying",
+      "tips": [
+        "Read the inscriptions — they are in five scripts",
+        "Photography is allowed but quiet please"
+      ]
+    },
+    {
+      "name": "Khoiyachora Waterfall (Mirsharai)",
+      "type": "nature",
+      "description": "A seven-step waterfall hidden in the hills of Mirsharai — a 3 to 4 hour trek through shallow streams, jungle and rope-pulled climbs to a chain of plunge-pools and a tall main fall. The wildest day-hike within easy reach of the city.",
+      "history": "Khoiyachhara village sits in the Mirsharai hills at the northern edge of Chittagong District. The trail and falls became a popular weekend trek in the late 2010s; a local guide cooperative now manages access and rescue.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7833, 91.5500],
+      "practical": {
+        "hours": "Daytime only — start before 10 am",
+        "entryFee": "Local guide fee at Baratakia bazar",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 80 km north of Chittagong city via the Dhaka–Chittagong highway to Baratakia bazar (Mirsharai), then 4 km east on foot",
+        "distanceKm": 80,
+        "transport": "Bus / car to Baratakia, then walk to the trail-head"
+      },
+      "bestTime": "July to October — full flow; avoid going right after heavy rain (flash currents)",
+      "tips": [
+        "Hire a local guide at the trail-head — the streams cross and re-cross",
+        "Wear closed-toe waterproof sandals; carry water, a torch and a light bag",
+        "Pair with Napittachora Waterfall on the same trip — same upazila"
+      ]
+    },
+    {
+      "name": "Foy's Lake",
+      "type": "heritage",
+      "description": "A 1924 artificial lake in the city's northern hills, originally cut as a reservoir for the Assam Bengal Railway — today an amusement park, water-park and resort under a developer concession, but still ringed by the original wooded ridges.",
+      "history": "Excavated in 1924 by the Assam Bengal Railway Authority, the 320-acre lake was named after the railway engineer Foy who designed it. The Concord group leased it for development in the 1990s; the park retains the lake's heritage shoreline along with modern rides.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.3667, 91.7889],
+      "practical": {
+        "hours": "10 am – 8 pm; closed some Tuesdays",
+        "entryFee": "Park ticket + ride / water-park add-ons",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 6 km north of New Market in Pahartali, central Chittagong",
+        "distanceKm": 6,
+        "transport": "CNG / Uber from anywhere in the city"
+      },
+      "bestTime": "Cool months; weekday afternoons are quieter",
+      "tips": [
+        "Take a small boat onto the lake itself — quieter than the rides",
+        "The Sea World water-park has separate timings and tickets"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Mezbani Beef (Mejjan)",
+      "description": "Chittagong's defining feast — a community lunch of steamed rice, fiery beef curry, chonar daal and nolar kanzi (bone-marrow soup) served from open kitchens to every passer-by. Ain-boin-khain: 'all are welcome to sit and eat.'",
+      "venue": "Specialist Mejbani restaurants in Andarkilla, Bahaddarhat and around the city"
+    },
+    {
+      "type": "food",
+      "name": "Kala Bhuna",
+      "description": "Slow-fried beef cooked until the spices and meat darken almost black — Chittagong's signature 'kala' (black) bhuna, eaten with parota or rice. Now a staple at mezbans, eid, weddings and iftar across the country.",
+      "venue": "Mezbani houses and city restaurants"
+    },
+    {
+      "type": "food",
+      "name": "Shutki (Dried Fish)",
+      "description": "Chittagong is shutki country — dried and cured saltwater and freshwater fish, eaten as a strong-smelling, deeply savoury curry. Loitya, churi, rupchanda, koral — the markets at Asadganj and Karnaphuli ghat are a sensory experience.",
+      "venue": "Asadganj shutki market & home-style Chittagonian restaurants"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Bayazid Bostami Mazar (Nasirabad)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.3667, 91.8000]
+    },
+    {
+      "name": "Commonwealth War Cemetery (Dampara)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.3500, 91.8167]
+    },
+    {
+      "name": "Shah Amanat Shah Mazar (Anderkilla)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.3358, 91.8331]
+    },
+    {
+      "name": "Master Da Surya Sen Memorial (Noapara, Raozan)",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5200, 91.9333]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-chittagong?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Chittagong&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Green Line Paribahan", "phone": "—" },
+        { "name": "Saudia Coach Service", "phone": "—" },
+        { "name": "Soudia / Desh Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Chittagong)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Chittagong&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Chittagong Railway Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets Launch", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-chittagong?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Sadarghat–Chittagong / Sandwip ferry", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Biman Bangladesh", "url": "https://biman-airlines.com/" },
+        { "name": "US-Bangla Airlines", "url": "https://usbair.com/" },
+        { "name": "NovoAir", "url": "https://www.flynovoair.com/" }
+      ],
+      "manualBookings": [
+        { "name": "Shah Amanat International Airport (CGP) Inquiry", "phone": "—" }
+      ]
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Chittagong&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Chittagong&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "chittagong-patenga-sunset", "title": "Watch the sun set at Patenga", "category": "moment", "detail": "Cargo ships on the Bay, the Karnaphuli emptying out, the breakwater filling up with families and the chotpoti carts — the everyday Chittagong evening.", "whereOrHow": "Patenga Sea Beach", "bestTime": "Late afternoon" },
+    { "id": "chittagong-bostami-turtles", "title": "Feed the sacred black softshell turtles", "category": "experience", "detail": "Bayazid Bostami's shrine pond holds the world's only surviving population of Nilssonia nigricans — extinct in the wild, alive here only by tradition.", "whereOrHow": "Bayazid Bostami Mazar, Nasirabad" },
+    { "id": "chittagong-chandranath-climb", "title": "Climb Chandranath Hill at dawn", "category": "experience", "detail": "Several hundred stone steps through forest and small shrines to a Shakti Pitha at the summit — the Bay of Bengal opens beneath you on a clear morning.", "whereOrHow": "Chandranath Hill, Sitakunda", "bestTime": "Oct–Mar, sunrise" },
+    { "id": "chittagong-war-cemetery", "title": "Stand quietly at the Commonwealth War Cemetery", "category": "place", "detail": "755 graves from the Burma campaign — Indian, British, Australian, African, Japanese — under frangipani trees in five scripts.", "whereOrHow": "Commonwealth War Cemetery, Dampara" },
+    { "id": "chittagong-khoiyachora-trek", "title": "Trek the seven steps of Khoiyachora", "category": "experience", "detail": "A 3–4 hour walk through hill-streams and jungle to a chain of plunge-pools and a tall main fall — the wildest day-hike within easy reach of the city.", "whereOrHow": "Khoiyachora Waterfall, Mirsharai", "bestTime": "Jul–Oct" },
+    { "id": "chittagong-mezban", "title": "Sit down to a Chittagonian Mezbani", "category": "food", "detail": "Steamed rice, fiery beef curry, chonar daal, nolar kanzi — a community feast served from open kitchens to every passer-by. Ain-boin-khain: all welcome.", "whereOrHow": "Mezbani houses in Andarkilla, Bahaddarhat" },
+    { "id": "chittagong-shutki-market", "title": "Walk the shutki market at Asadganj", "category": "experience", "detail": "Sacks of dried loitya, churi, rupchanda and koral — Chittagong's shutki market is a sensory landmark and the source of every shutki bhorta on the south coast.", "whereOrHow": "Asadganj shutki market" },
+    { "id": "chittagong-foys-lake-boat", "title": "Take a boat across Foy's Lake", "category": "place", "detail": "A 1924 reservoir cut for the Assam Bengal Railway, still ringed by wooded ridges — a small boat away from the rides is the best way to see it.", "whereOrHow": "Foy's Lake, Pahartali" },
+    { "id": "chittagong-surya-sen-bari", "title": "Visit Master Da's village at Noapara", "category": "place", "detail": "Birthplace of Surya Sen, the schoolmaster who planned the 1930 Chittagong Armoury Raid and was hanged for it in 1934 — Bangladesh's quietest pilgrimage.", "whereOrHow": "Noapara, Raozan Upazila" },
+    { "id": "chittagong-pritilata", "title": "Find Pritilata Waddedar's Dhalghat", "category": "place", "detail": "The village in Patiya where Bengal's first woman martyr grew up — 21 years old when she led the Pahartali European Club raid in 1932 and took cyanide to escape capture.", "whereOrHow": "Dhalghat, Patiya Upazila" },
+    { "id": "chittagong-sandwip", "title": "Cross the Bay to Sandwip Island", "category": "experience", "detail": "A 2-hour boat from Kumira to Sandwip — a 50,000-hectare river-island in the Bay of Bengal with its own dialect, mosques and tidal villages.", "whereOrHow": "Kumira ghat → Sandwip ferry" },
+    { "id": "chittagong-circuit-house", "title": "Pay respects at the Zia Memorial Museum", "category": "place", "detail": "The old British-era Circuit House where President Ziaur Rahman was assassinated on 30 May 1981 — now a small museum to him and the early 1980s.", "whereOrHow": "Zia Memorial Museum, Old Circuit House, Chittagong" }
+  ],
+  "foods": [
+    { "name": "Mezbani Beef (Mejjan)", "description": "Chittagong's defining beef curry — fiery, slow-cooked, served from open kitchens at community feasts. Ain-boin-khain: all welcome.", "whereToFind": "Mezbani houses in Andarkilla, Bahaddarhat" },
+    { "name": "Kala Bhuna", "description": "Slow-fried beef cooked until the meat darkens almost black — the city's most copied dish, eaten with parota or rice.", "whereToFind": "Mezbani houses and city restaurants citywide" },
+    { "name": "Shutki Bhorta / Curry", "description": "Dried-fish bhorta or curry — pungent, deeply savoury, eaten with rice. Loitya, churi and rupchanda are the prized varieties.", "whereToFind": "Asadganj shutki market and home-style Chittagonian restaurants" },
+    { "name": "Nolar Kanzi (Beef Bone-Marrow Soup)", "description": "Beef bone-marrow soup, slow-cooked to a pale gold and seasoned simply — the Mezbani side that defines a good kitchen.", "whereToFind": "Mezbani houses and weekend lunch buffets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Master Da Surya Sen",
+      "knownFor": "Schoolteacher and revolutionary nationalist who planned and led the Chittagong Armoury Raid of 18 April 1930 — the most audacious armed action of the Indian independence movement east of Bengal. Born at Noapara in Raozan, Chittagong, hanged by the British on 12 January 1934.",
+      "era": "1894 – 1934"
+    },
+    {
+      "name": "Pritilata Waddedar",
+      "knownFor": "Schoolteacher and Indian Republican Army member who led the September 1932 raid on the Pahartali European Club and consumed cyanide to avoid capture — remembered as 'Bengal's first woman martyr.' Born at Dhalghat in Patiya, Chittagong.",
+      "era": "1911 – 1932"
+    },
+    {
+      "name": "Dr. Muhammad Yunus",
+      "knownFor": "Economist, founder of Grameen Bank and pioneer of modern microcredit — awarded the Nobel Peace Prize in 2006 (with Grameen Bank) for 'efforts to create economic and social development from below.' Born at Bathua village in Hathazari, Chittagong; serving as Bangladesh's Chief Adviser of the interim government since August 2024.",
+      "era": "1940 –"
+    }
+  ],
+  "didYouKnow": [
+    "The pond at Bayazid Bostami Mazar holds the world's only surviving population of the black softshell turtle (Nilssonia nigricans) — extinct in the wild, alive here by tradition for centuries.",
+    "Master Da Surya Sen, the schoolteacher who led the 1930 Chittagong Armoury Raid, was born at Noapara in Raozan Upazila and hanged by the British in 1934.",
+    "Pritilata Waddedar of Dhalghat in Patiya, who led the September 1932 raid on the Pahartali European Club at the age of 21, is remembered as 'Bengal's first woman martyr.'",
+    "Dr. Muhammad Yunus — born at Bathua village in Hathazari, Chittagong, in 1940 — won the 2006 Nobel Peace Prize with Grameen Bank for the modern concept of microcredit.",
+    "Chandranath Hill in Sitakunda is one of the 51 Shakti Pithas of Hindu tradition — believed to mark the place where Sati's right arm fell.",
+    "Chittagong's Commonwealth War Cemetery at Dampara holds 755 graves from the Second World War's Burma campaign in five scripts: English, Bengali, Burmese, Arabic and Gurmukhi.",
+    "Foy's Lake was excavated in 1924 by the Assam Bengal Railway Authority and named after its English railway engineer — long before it became an amusement park.",
+    "'Mezban' or Mejjan is Chittagong's signature community feast — derived from the Persian word for 'host,' built around a fiery beef curry served to all comers."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Chittagong Metropolitan Police Control Room", "phone": "—" },
+      { "name": "Kotwali Model Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Chittagong Medical College Hospital", "phone": "—" },
+      { "name": "Chittagong General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
