@@ -1,0 +1,285 @@
+{
+  "name": "Narail",
+  "division": "Khulna",
+  "tagline": "Bangladesh's painter-district — S.M. Sultan's village on the Chitra, the annual boat race he started, and the home village of one of seven Bir Sreshthos.",
+  "stats": {
+    "area": "967.99 sq km",
+    "population": "788,671",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to February — cool and dry; September if you want to catch the S.M. Sultan Nouka Baich.",
+    "gettingThere": "By road from Dhaka (~210 km, ~4–5 hr via Padma Bridge and Jashore), or via Khulna (~80 km, ~2 hr) and Jashore (~35 km, ~1 hr). The Chitra river runs straight through Narail town; most sights are within a short ride.",
+    "difficulty": "Easy — short hops, flat country, almost everything reachable by CNG or local rickshaw."
+  },
+  "mustVisit": [
+    {
+      "name": "S.M. Sultan Memorial Museum (Machimdia)",
+      "type": "heritage",
+      "description": "The home and resting place of S.M. Sultan, the giant-figured painter of peasant Bengal — set in his old compound by the Chitra. The gallery on two floors holds original Sultans and digital prints of the rest; the river-bank grave sits among trees he planted himself.",
+      "history": "Sheikh Mohammed Sultan (1923–94) lived, painted and ran his children's art school here until his death; he was buried on the river bank under the trees. The memorial complex was developed after he won the Ekushey Padak (1982) and Independence Award (1993) and is run as a museum and arts centre by Bangladesh Shilpakala Academy.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1700, 89.4900],
+      "practical": {
+        "hours": "9 am – 1 pm and 3 pm – 5 pm; closed Sunday afternoons",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Machimdia, on the Chitra river, about 2 km from Narail town centre",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG from anywhere in town"
+      },
+      "bestTime": "Cool months; late September during the Sultan Festival is the high point",
+      "tips": [
+        "Don't miss the children's wing — Sultan's art school was the heart of his life here",
+        "Walk down to the river-bank grave under the trees behind the museum",
+        "Photography of the canvases is restricted; ask at the desk"
+      ]
+    },
+    {
+      "name": "S.M. Sultan Nouka Baich (Chitra river)",
+      "type": "religious",
+      "description": "The annual boat race on the Chitra that S.M. Sultan revived in his lifetime — long, brightly painted country boats with twenty oars a side, drummers in the centre, and the whole town along the banks.",
+      "history": "Boat races on the Chitra go back centuries; Sultan brought the tradition back into the cultural calendar in the late 1980s. The race is now organised by the Narail district administration around World Tourism Day in late September.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1750, 89.5000],
+      "practical": {
+        "hours": "Race day afternoon (one day, usually a Saturday in late Sep)",
+        "entryFee": "Free along the banks",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the Chitra river through Narail town — the main viewing stretch is along Bandha Ghat",
+        "distanceKm": 0,
+        "transport": "Walk to Bandha Ghat from anywhere in town"
+      },
+      "bestTime": "Late September (World Tourism Day weekend)",
+      "tips": [
+        "Get a riverside spot by mid-morning; the race finishes by sunset",
+        "The Sultan Festival run-up week has art exhibitions, music and children's competitions"
+      ]
+    },
+    {
+      "name": "Bir Sreshtho Nur Mohammad Complex (Moheshkhali)",
+      "type": "heritage",
+      "description": "The birthplace and memorial complex of Lance Naik Nur Mohammad Sheikh — one of only seven Bir Sreshthos. A library, museum and granite bust on the ground where he was born, in Moheshkhali village of Narail Sadar.",
+      "history": "Born 26 February 1936 in Moheshkhali, Nur Mohammad Sheikh served in the East Pakistan Rifles and crossed over to the Mukti Bahini in 1971. He was killed on 5 September 1971 at Goalhati near the Indian border in Jashore, providing covering fire as fellow soldiers withdrew. Posthumously awarded the Bir Sreshtho, Bangladesh's highest gallantry honour.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1500, 89.4500],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 6 km southwest of Narail town in Moheshkhali village, Narail Sadar Upazila",
+        "distanceKm": 6,
+        "transport": "Rickshaw / CNG from Narail town"
+      },
+      "bestTime": "Cool months; 5 September (martyrdom day) and 16 December are observed here",
+      "tips": [
+        "The library is small but holds his original ID papers and gallantry citation",
+        "Combine with the S.M. Sultan museum on the same day"
+      ]
+    },
+    {
+      "name": "Goal Bathan Mosque (Kalia, 1654)",
+      "type": "religious",
+      "description": "A small Mughal-era brick mosque of three domes from the mid-17th century — squat walls, mihrab inlays and the patina of three and a half centuries of village rain.",
+      "history": "Built in 1654 during the reign of Mughal emperor Shah Jahan, the mosque stands at Goal Bathan village in Kalia Upazila and is among the older surviving mosques of greater Jashore-Narail.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0300, 89.6500],
+      "practical": {
+        "hours": "Daylight hours; open around prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km southeast of Narail town in Goal Bathan village, Kalia Upazila",
+        "distanceKm": 30,
+        "transport": "CNG / bus to Kalia, then rickshaw to Goal Bathan"
+      },
+      "bestTime": "Late afternoon for the brickwork light",
+      "tips": [
+        "Cover head if female; remove shoes before entering",
+        "Pair with Arunima Eco Park nearby"
+      ]
+    },
+    {
+      "name": "Arunima Eco Park (Panchbaria, Kalia)",
+      "type": "nature",
+      "description": "A 55-acre eco-park and golf resort in a bend of the Madhumati — bamboo cottages over the water, a butterfly garden, a freshwater fish farm and one of the country's better small 9-hole golf courses.",
+      "history": "Developed in the early 2010s by the Arunima group on reclaimed wetland at Panchbaria village, the park has become Narail's main resort and Bangladesh Tourism Board partner for the Sultan Festival weekend.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0000, 89.6500],
+      "practical": {
+        "hours": "Daily; bookings advisable on weekends",
+        "entryFee": "Day ticket; cottages on separate tariff",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 32 km southeast of Narail town in Panchbaria, Kalia Upazila",
+        "distanceKm": 32,
+        "transport": "CNG / car from Narail town"
+      },
+      "bestTime": "Cool months; weekdays are quieter",
+      "tips": [
+        "Cottages over the lake are the best rooms — book early",
+        "The golf course is open to walk-on visitors on weekdays"
+      ]
+    },
+    {
+      "name": "Ghazir Dargah (Naldi)",
+      "type": "religious",
+      "description": "An old shrine of the warrior-saint Pir Ghazi at Naldi in Lohagara — a small whitewashed dome over a tomb, with a mela held each year that draws devotees from across the southwest.",
+      "history": "Ghazi Pir is one of the syncretic warrior-saints of the southwest delta, a figure also revered in folk songs and Sundarbans tradition. The Naldi dargah has been a centre of pilgrimage for centuries; the annual mela falls in winter.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1200, 89.5500],
+      "practical": {
+        "hours": "Daylight hours; mela in winter",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 15 km south of Narail town at Naldi, Lohagara Upazila",
+        "distanceKm": 15,
+        "transport": "CNG / bus to Lohagara, then rickshaw to Naldi"
+      },
+      "bestTime": "Cool months; mela days for the full crowd",
+      "tips": [
+        "Dress modestly; cover head if female",
+        "Mela days can be very crowded — go in the morning for a quieter walk"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "craft",
+      "name": "S.M. Sultan-inspired Art",
+      "description": "Local painters trained in Sultan's children's art school still work in his big-bodied peasant style — canvases and prints sold at the museum's shop and at independent studios around Narail.",
+      "venue": "S.M. Sultan Memorial Museum & town studios"
+    },
+    {
+      "type": "food",
+      "name": "Chitra River Fish",
+      "description": "Fresh-water fish of the Chitra and Madhumati — chital, magur, ayre and the small but prized parshe — eaten as a simple bhuna with rice in town home-style restaurants.",
+      "venue": "Bandha Ghat-side restaurants and town home-style joints"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "S.M. Sultan Memorial Museum (Machimdia)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1700, 89.4900]
+    },
+    {
+      "name": "Bir Sreshtho Nur Mohammad Complex (Moheshkhali)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1500, 89.4500]
+    },
+    {
+      "name": "Goal Bathan Mosque (Kalia, 1654)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0300, 89.6500]
+    },
+    {
+      "name": "Ghazir Dargah (Naldi, Lohagara)",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1200, 89.5500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-narail?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Narail&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "Shyamoli Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Narail&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "narail-sultan-museum", "title": "Stand in front of an original Sultan canvas", "category": "experience", "detail": "Heavy-thighed peasants, oxen and rivers in colour beyond any photograph. The Machimdia museum holds 13 originals and reproductions of the rest; the river-bank grave is in the trees behind.", "whereOrHow": "S.M. Sultan Memorial Museum, Machimdia" },
+    { "id": "narail-sultan-festival", "title": "Catch the Sultan Festival and Nouka Baich", "category": "moment", "detail": "Late September: exhibitions, children's art, music and the annual boat race on the Chitra that S.M. Sultan himself revived in the 1980s.", "whereOrHow": "Narail town & Chitra river", "bestTime": "Late September" },
+    { "id": "narail-nur-mohammad", "title": "Visit Bir Sreshtho Nur Mohammad's village", "category": "place", "detail": "Moheshkhali — birthplace of the Lance Naik who held off a Pakistan Army advance at Goalhati on 5 September 1971 to cover the withdrawal of his platoon, and was killed in the action.", "whereOrHow": "Bir Sreshtho Nur Mohammad Complex, Moheshkhali" },
+    { "id": "narail-bandha-ghat", "title": "Sit at Bandha Ghat on the Chitra at dusk", "category": "moment", "detail": "The old ghat at the heart of Narail town — Sultan's favourite stretch of river, where he watched the boats and walked at dusk most evenings.", "whereOrHow": "Bandha Ghat, Narail town", "bestTime": "Late afternoon" },
+    { "id": "narail-goalbathan", "title": "Find the 1654 Goal Bathan mosque", "category": "place", "detail": "A small three-domed Mughal-era mosque tucked in a Kalia village — squat walls and mihrab inlays carrying three and a half centuries of village rain.", "whereOrHow": "Goal Bathan village, Kalia" },
+    { "id": "narail-arunima", "title": "Stay in an Arunima lake-cottage", "category": "experience", "detail": "Bamboo cottages built over the water in a bend of the Madhumati, with a small 9-hole golf course on dry land — the southwest's quietest weekend.", "whereOrHow": "Arunima Eco Park, Panchbaria, Kalia" },
+    { "id": "narail-ghazi-dargah", "title": "Walk a winter mela at Ghazir Dargah", "category": "experience", "detail": "Old syncretic shrine of the warrior-saint Ghazi Pir at Naldi — an annual winter mela pulls in devotees and merchants from across the southwest.", "whereOrHow": "Ghazir Dargah, Naldi, Lohagara", "bestTime": "Winter mela days" },
+    { "id": "narail-chitra-fish", "title": "Eat fresh Chitra fish at a Bandha Ghat stall", "category": "food", "detail": "Chital, magur, ayre, parshe — straight off the river and into the pan. Simpler is better; ask for it bhuna with rice.", "whereOrHow": "Bandha Ghat-side restaurants" },
+    { "id": "narail-keshob-roy", "title": "Find the ruined Wazirpur rajbari of Raja Keshob Roy", "category": "place", "detail": "The crumbling homestead of one of Narail's old Hindu landed families — terracotta panels, broken temple plinths, banyan-tangled walls.", "whereOrHow": "Wazirpur, Narail Sadar" },
+    { "id": "narail-madhumati-boat", "title": "Take a country boat on the Madhumati", "category": "experience", "detail": "The Madhumati threads the Kalia side of the district — wide, slow, and lined with paddy and date-palm. A half-day ride and a bowl of fish curry at a riverside village.", "whereOrHow": "Kalia / Lohagara river ghats" }
+  ],
+  "foods": [
+    { "name": "Chitra River Fish (Bhuna)", "description": "Chital, magur, ayre and the small but prized parshe — freshwater fish off the Chitra and Madhumati, cooked simple bhuna with rice.", "whereToFind": "Bandha Ghat-side restaurants and town home-style joints" },
+    { "name": "Nalen Gurer Sandesh", "description": "Date-palm jaggery sandesh — the Jashore-Narail belt is one of the great khejurer-gur regions, and Narail town's confectioners pour fresh gur into winter sweets.", "whereToFind": "Town sweet-shops and roadside winter stalls" },
+    { "name": "Khejurer Ras", "description": "Fresh date-palm sap collected at dawn from village trees — lightly chilled, drunk before the sun heats it into ferment.", "whereToFind": "Village date-palm yards in winter (Dec–Feb)" }
+  ],
+  "famousPeople": [
+    {
+      "name": "S.M. Sultan (Sheikh Mohammed Sultan)",
+      "knownFor": "Painter of the Bengali peasant in giant, muscular form — one of the great figurative artists of the subcontinent. Born in Machimdia village of Narail Sadar on 10 August 1923, awarded the Ekushey Padak (1982) and Independence Award (1993), and buried on the bank of the Chitra at his own museum.",
+      "era": "1923 – 1994"
+    },
+    {
+      "name": "Bir Sreshtho Lance Naik Nur Mohammad Sheikh",
+      "knownFor": "Lance Naik of the East Pakistan Rifles who held off a Pakistan Army advance at Goalhati near the Indian border in Jashore on 5 September 1971, providing covering fire as his platoon withdrew, and was killed in the action. One of only seven Bir Sreshthos, Bangladesh's highest gallantry honour. Born in Moheshkhali village of Narail Sadar on 26 February 1936.",
+      "era": "1936 – 1971"
+    }
+  ],
+  "didYouKnow": [
+    "S.M. Sultan, one of the great figurative painters of the subcontinent, was born in Machimdia village of Narail on 10 August 1923 and is buried on the bank of the Chitra at his own museum.",
+    "Bir Sreshtho Lance Naik Nur Mohammad Sheikh — one of only seven recipients of Bangladesh's highest gallantry honour — was born in Moheshkhali village of Narail Sadar in 1936.",
+    "The annual S.M. Sultan Nouka Baich on the Chitra river, revived by the painter himself in the late 1980s, is now organised by the district administration around World Tourism Day in late September.",
+    "Goal Bathan Mosque in Kalia Upazila was built in 1654, during the reign of Mughal emperor Shah Jahan — among the older surviving mosques of greater Jashore-Narail.",
+    "Narail district was carved out of greater Jashore on 1 March 1984 and is one of Bangladesh's smallest districts by area, with only three upazilas: Narail Sadar, Kalia and Lohagara.",
+    "The Chitra river — central to Narail's identity — flows through the town past S.M. Sultan's museum and Bandha Ghat, and on into the Madhumati."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Narail Sadar Model Thana", "phone": "—" },
+      { "name": "Kalia Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Narail 250-Bed Sadar Hospital", "phone": "—" },
+      { "name": "Lohagara Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
