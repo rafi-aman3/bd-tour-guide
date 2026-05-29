@@ -1,0 +1,295 @@
+{
+  "name": "Feni",
+  "division": "Chittagong",
+  "tagline": "A small southeastern district on the Tripura border — the Muhuri sluice and the country's first wind turbines, ancient legend-soaked dighis, Mughal mosques, and the birthplace of filmmaker Zahir Raihan.",
+  "stats": {
+    "area": "928.34 sq km",
+    "population": "1,648,896",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "November to February — cool, dry weather for the Muhuri Project sunsets, the dighis and the old mosques. The coast at Sonagazi is most pleasant out of the monsoon.",
+    "gettingThere": "On the Dhaka–Chittagong highway and main rail line — Feni Junction is a stop for most southbound trains, and Mohipal is the town's bus hub. The Muhuri Project is ~18 km south at Sonagazi; Chand Gazi mosque and Shamsher Gazi's country lie east in Chhagalnaiya.",
+    "difficulty": "Easy — flat roads and short CNG/bus hops. A couple of sites (Sharshadi, Shamsher Gazi) are rural; ask locally for directions."
+  },
+  "mustVisit": [
+    {
+      "name": "Muhuri Project (Irrigation Regulator)",
+      "type": "nature",
+      "description": "A vast closure dam and 40-gate regulator where the Feni, Muhuri and Kalidas-Pahaliya rivers meet — ringed by an embankment, water-hyacinth lagoons and Bangladesh's first wind turbines. The district's premier nature outing and a favourite winter picnic and sunset spot.",
+      "history": "The regulator and Feni River closure dam were built in 1982 for irrigation and flood control; the country's first wind-power unit — four 225 kW turbines — was installed here in 2004–05.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.8250, 91.4300],
+      "practical": {
+        "hours": "Daylight; sunset is best",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 18 km south of Feni town, Sonagazi Upazila",
+        "distanceKm": 18,
+        "transport": "Bus / CNG to Sonagazi"
+      },
+      "bestTime": "November to February",
+      "tips": [
+        "Go for sunset over the water and turbines",
+        "Carry your own food and water — facilities on site are limited"
+      ]
+    },
+    {
+      "name": "Bijoy Singh Dighi",
+      "type": "heritage",
+      "description": "A roughly 37-acre historic tank in front of the Feni Circuit House, its high tree-lined banks made for pedal-boating and kingfisher-spotting. One of the district's most storied dighis and a favourite afternoon spot.",
+      "history": "Attributed to Vijay Sen, founder of Bengal's Sen dynasty; local legend says it was dug five or six centuries ago and that its 'holy water' once cured the blindness of a Tripura king's daughter.",
+      "image": "https://images.unsplash.com/photo-1572125675722-238a4f1f4ea2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0050, 91.3800],
+      "practical": {
+        "hours": "Daylight; evenings are liveliest",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 2 km west of Feni town, Feni Sadar",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG from town"
+      },
+      "bestTime": "Late afternoon, year-round",
+      "tips": [
+        "Combine with a Circuit House visit",
+        "Quietest on weekday evenings"
+      ]
+    },
+    {
+      "name": "Chand Gazi Bhuiyan Jame Mosque",
+      "type": "religious",
+      "description": "A three-domed Mughal-era mosque with twelve minarets and floral wall reliefs, built in burnt brick with a marble interior floor — a protected national archaeological monument.",
+      "history": "Built between roughly 1635 and 1700 by Chandgazi Bhuiyan, a Mughal-recognised tax collector and zamindar whose estate reached the Tripura foothills; gazetted as a protected monument in 1987.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0500, 91.5500],
+      "practical": {
+        "hours": "Daylight; outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Matiyagoda (Mahamaya union), Chhagalnaiya Upazila",
+        "distanceKm": 22,
+        "transport": "Bus / CNG to Chhagalnaiya"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Dress modestly; ask before photographing inside",
+        "Combine with Shamsher Gazi's country in the same upazila"
+      ]
+    },
+    {
+      "name": "Rajajhi Dighi",
+      "type": "landmark",
+      "description": "Feni town's central historic tank at the Zero Point junction — the pond around which the town itself grew, tree-lined and central, with courts and offices on its banks.",
+      "history": "When the Feni subdivision formed in 1875, the courts, DC office and Court Mosque rose around this dighi; folklore again ties it to a Tripura king who dug it to cure his daughter (his 'ji') — hence 'Raja-jhi'.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0180, 91.3970],
+      "practical": {
+        "hours": "Daylight; evenings",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Central Feni town (Zero Point), Feni Sadar",
+        "distanceKm": 1,
+        "transport": "Rickshaw / on foot"
+      },
+      "bestTime": "Evening",
+      "tips": [
+        "An easy on-foot stop in town",
+        "Sweet shops cluster nearby — good for a snack"
+      ]
+    },
+    {
+      "name": "Sharshadi Shahi Mosque (Takiyah Mosque)",
+      "type": "religious",
+      "description": "A three-domed lime-and-brick mosque with walls some five feet thick and vine-and-leaf ornament, known locally as the Takiyah Mosque — tied to the earliest independent Sultanate of Bengal.",
+      "history": "Associated with Sultan Fakhruddin Mubarak Shah, founder of Bengal's first independent Sultanate, who is said to have made Sharshadi a second capital and built dams, mosques and tombs across the area.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0000, 91.4500],
+      "practical": {
+        "hours": "Daylight; outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Sharshadi village, Feni Sadar",
+        "distanceKm": 8,
+        "transport": "CNG from town"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Rural location — hire local transport",
+        "Modest dress; visit outside prayer times"
+      ]
+    },
+    {
+      "name": "Shamsher Gazi Dighi & Fort Site",
+      "type": "heritage",
+      "description": "A large historic dighi and fort/palace site near the Feni river and Raghunandan hills, tied to the 18th-century folk hero Shamsher Gazi — a pilgrimage for anyone drawn to regional history.",
+      "history": "Shamsher Gazi (1712–1760), the 'Tiger of Bhati,' rose from rent-collector to ruler of parts of Tripura/Roshnabad and led a peasant resistance; he kept his main fort at Champaknagar in present Chhagalnaiya.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0400, 91.5000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Champaknagar / Sonapur area, Chhagalnaiya Upazila",
+        "distanceKm": 20,
+        "transport": "Bus / CNG to Chhagalnaiya"
+      },
+      "bestTime": "November to February",
+      "tips": [
+        "Signage is sparse — ask locals for directions",
+        "Combine with the Chand Gazi mosque nearby"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Khondoler Misti",
+      "description": "Feni's signature sweet — a rasogolla-style mishti unusual for being served both hot and cold. It originated in Khandal near Parshuram some fifty years ago and is now made by hundreds of families.",
+      "venue": "Parshuram (the original 'Khondoler' shop) & Feni-town sweet shops"
+    },
+    {
+      "type": "food",
+      "name": "Feni Sweetmeats",
+      "description": "Feni town is known regionally for traditional milk-based sweets; the long-running shops cluster around the Zero Point and Rajajhi Dighi.",
+      "venue": "Feni town (Zero Point area)"
+    },
+    {
+      "type": "food",
+      "name": "Mezban Beef",
+      "description": "The greater-Chittagong communal beef feast (mezban) tradition is observed in Feni too — best eaten at a community event rather than a fixed venue.",
+      "venue": "Community mezban events across the district"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Chand Gazi Bhuiyan Mosque (c.1635–1700)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0500, 91.5500]
+    },
+    {
+      "name": "Sharshadi Shahi (Takiyah) Mosque",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0000, 91.4500]
+    },
+    {
+      "name": "Bijoy Singh Dighi",
+      "image": "https://images.unsplash.com/photo-1572125675722-238a4f1f4ea2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0050, 91.3800]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-feni?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Feni&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Star Line (Mohipal hub)", "phone": "—" },
+        { "name": "Hanif Enterprise", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway e-Ticket", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": [
+        { "name": "Feni Junction", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Feni&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "feni-muhuri", "title": "Watch sunset over the Muhuri sluice", "category": "moment", "detail": "A 40-gate regulator where three rivers meet, with Bangladesh's first wind turbines turning above the water — the district's best picnic and sunset spot.", "whereOrHow": "Muhuri Project, Sonagazi", "bestTime": "Nov–Feb" },
+    { "id": "feni-bijoy-singh", "title": "Pedal-boat on Bijoy Singh Dighi", "category": "experience", "detail": "A 37-acre Sen-dynasty tank wrapped in legend, its tree-lined banks a favourite Feni afternoon.", "whereOrHow": "Bijoy Singh Dighi, Feni Sadar", "bestTime": "Late afternoon" },
+    { "id": "feni-chand-gazi", "title": "Count the twelve minarets of Chand Gazi Mosque", "category": "place", "detail": "A burnt-brick Mughal mosque of the 17th century with three domes and twelve minarets — a protected monument in Chhagalnaiya.", "whereOrHow": "Matiyagoda, Chhagalnaiya" },
+    { "id": "feni-khondoler-misti", "title": "Eat Khondoler misti hot and cold", "category": "food", "detail": "Feni's signature sweet from Khandal near Parshuram — a rasogolla-style mishti served both ways.", "whereOrHow": "Parshuram & Feni-town sweet shops" },
+    { "id": "feni-rajajhi", "title": "Stroll Rajajhi Dighi at Zero Point", "category": "place", "detail": "The central tank around which Feni town grew in 1875, ringed by courts and offices.", "whereOrHow": "Rajajhi Dighi, Feni town", "bestTime": "Evening" },
+    { "id": "feni-sharshadi", "title": "Find the Sharshadi Takiyah Mosque", "category": "place", "detail": "A three-domed Sultanate-era mosque with five-foot walls, tied to Bengal's first independent sultan.", "whereOrHow": "Sharshadi, Feni Sadar" },
+    { "id": "feni-shamsher-gazi", "title": "Walk Shamsher Gazi's country", "category": "place", "detail": "The dighi and fort of the 18th-century 'Tiger of Bhati,' who rose from rent-collector to rule parts of Tripura.", "whereOrHow": "Champaknagar, Chhagalnaiya" },
+    { "id": "feni-maitri-setu", "title": "See the Maitri Setu border bridge", "category": "experience", "detail": "The 1.9-km Maitri Setu over the Feni river links Bangladesh to Sabroom in Tripura — a new India–Bangladesh crossing.", "whereOrHow": "Feni river border (Ramgarh side)" },
+    { "id": "feni-zahir-raihan", "title": "Remember Zahir Raihan in Sonagazi", "category": "moment", "detail": "The Sonagazi upazila gave Bangladesh the filmmaker behind 'Jibon Theke Neya' and 'Stop Genocide' — born at Majupur village.", "whereOrHow": "Majupur, Sonagazi" },
+    { "id": "feni-kazirbagh", "title": "Stroll Kazirbagh Eco Park", "category": "place", "detail": "A small green park in Feni Sadar with deer, monkeys and peacocks — an easy in-town breather.", "whereOrHow": "Kazirbagh, Feni Sadar" },
+    { "id": "feni-mohipal", "title": "Pass through the Mohipal bus hub", "category": "experience", "detail": "Feni's highway crossroads on the Dhaka–Chittagong road — the pulse of the town's comings and goings.", "whereOrHow": "Mohipal, Feni town" },
+    { "id": "feni-mezban", "title": "Eat at a Feni mezban", "category": "food", "detail": "The greater-Chittagong communal beef feast — rich, spicy and shared, if you can catch a community event.", "whereOrHow": "Community mezban events" }
+  ],
+  "foods": [
+    { "name": "Khondoler Misti", "description": "Feni's signature sweet — a rasogolla-style mishti, unusually served both hot and cold, originating in Khandal near Parshuram.", "whereToFind": "Parshuram & Feni-town sweet shops" },
+    { "name": "Feni Sweetmeats", "description": "Traditional milk-based sweets from the town's long-running confectioners around Zero Point.", "whereToFind": "Feni town (Zero Point area)" },
+    { "name": "Mezban Beef", "description": "The greater-Chittagong communal beef feast — rich and spicy, served at community gatherings.", "whereToFind": "Community mezban events across the district" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Zahir Raihan",
+      "knownFor": "Pioneering novelist and filmmaker — director of 'Jibon Theke Neya' (1970) and the 1971 documentary 'Stop Genocide,' and author of 'Hajar Bachhor Dhore.' Born in Majupur village of Sonagazi, Feni; he disappeared in January 1972.",
+      "era": "1935 – 1972"
+    },
+    {
+      "name": "Selim Al Deen",
+      "knownFor": "Eminent playwright and a founding figure of modern Bangla theatre, long a professor at Jahangirnagar University. Born in Shenerkhil village of Sonagazi, Feni.",
+      "era": "1949 – 2008"
+    },
+    {
+      "name": "Shamsher Gazi",
+      "knownFor": "Eighteenth-century folk hero and zamindar, the 'Tiger of Bhati,' who rose from rent-collector to rule parts of Tripura and Roshnabad and led a peasant resistance. Born in Kungura village of Chhagalnaiya, Feni.",
+      "era": "1712 – 1760"
+    }
+  ],
+  "didYouKnow": [
+    "Feni is one of the smallest districts in Bangladesh (~928 sq km) and the smallest in Chittagong division by area.",
+    "It became a full district only in 1984 — Bangladesh's 64th — after a century as a subdivision of Noakhali.",
+    "The Muhuri Project hosts Bangladesh's first wind-power plant — four turbines installed in 2004–05.",
+    "Bijoy Singh Dighi's legend ties it to the Sen dynasty and to a Tripura king's daughter cured by its 'holy water.'",
+    "Feni borders India's Tripura, and the 1.9-km Maitri Setu (opened 2021) crosses the Feni river toward Sabroom — though its Bangladesh bridgehead sits just over in Ramgarh.",
+    "Feni Junction became a railway junction in 1929, when the line toward Belonia (and Agartala) was built."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Feni Model Thana (Sadar)", "phone": "—" },
+      { "name": "Chhagalnaiya Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Feni 250-Bed General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
