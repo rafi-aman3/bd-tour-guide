@@ -1,0 +1,290 @@
+{
+  "name": "Narsingdi",
+  "division": "Dhaka",
+  "tagline": "The textile country northeast of Dhaka — a 2,500-year-old city at Wari-Bateshwar, the country's largest cloth market at Baburhat, and orchards heavy with lotkon.",
+  "stats": {
+    "area": "1,140.76 sq km",
+    "population": "2,584,452",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to February for cool, dry weather; June to August if you want to see the lotkon and banana orchards in fruit.",
+    "gettingThere": "About 50–60 km northeast of Dhaka on the Dhaka–Sylhet highway and the Dhaka–Chittagong/Sylhet railway. Direct trains stop at Narsingdi station; by road it is roughly 1.5–3 hours depending on traffic.",
+    "difficulty": "Easy — well connected by road and rail, and comfortably day-trippable from Dhaka."
+  },
+  "mustVisit": [
+    {
+      "name": "Wari-Bateshwar Ruins",
+      "type": "historical",
+      "description": "The excavated remains of a fortified urban settlement around 2,500 years old — among the oldest known cities in Bangladesh, with paved roads, a fort and ancient coins.",
+      "history": "Occupied roughly from the 6th century BCE, the site yielded punch-marked coins (first noticed by villagers in 1933 and gathered by teacher Hanif Pathan) and Northern Black Polished Ware. Major excavations by Jahangirnagar University from 2000 revealed the scale of the ancient settlement.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0500, 90.8500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Wari-Bateshwar, Belabo upazila",
+        "distanceKm": 28,
+        "transport": "Road from Narsingdi via Belabo"
+      },
+      "bestTime": "Daytime; cool, dry months",
+      "tips": [
+        "A landmark archaeological site — read up before going",
+        "Combine with the Shah Irani shrine in Belabo"
+      ]
+    },
+    {
+      "name": "Baburhat (Shekherchar) Cloth Market",
+      "type": "culture",
+      "description": "Reputedly the largest wholesale cloth market in Bangladesh — thousands of shops and hundreds of trucks dispatched daily, the trading heart of the district's vast weaving industry.",
+      "history": "Beside the Dhaka–Sylhet highway at Sekherchar, Baburhat anchors a region long called a 'Manchester of the East' for its handloom and powerloom output. It is busiest from Friday to Sunday, when traders come from across the country.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9300, 90.7400],
+      "practical": {
+        "hours": "Busiest Friday–Sunday; daytime trading",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Sekherchar, Narsingdi Sadar",
+        "distanceKm": 3,
+        "transport": "Rickshaw/CNG from Narsingdi town"
+      },
+      "bestTime": "Friday–Sunday daytime, when the market is fullest",
+      "tips": [
+        "Go on a trading day to see the bustle at its peak",
+        "A window into the country's handloom heartland"
+      ]
+    },
+    {
+      "name": "Shah Irani Mazar",
+      "type": "religious",
+      "description": "The mausoleum of Shah Irani, a 14th-century preacher who settled at Habashpur, in Sultanate-style architecture.",
+      "history": "Shah Irani is remembered as an Iranian saint who came to the region after the conquest of Sylhet in 1303 and is credited with spreading Islam locally; he died in the 1350s. His shrine at Habashpur in Belabo remains a place of local devotion.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0700, 90.8200],
+      "practical": {
+        "hours": "Daytime; respect prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Habashpur, Belabo upazila",
+        "distanceKm": 30,
+        "transport": "Road via Belabo"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Pair with the Wari-Bateshwar ruins in the same direction",
+        "Be respectful — it is an active shrine"
+      ]
+    },
+    {
+      "name": "Bhai Girish Chandra Sen's House & Museum",
+      "type": "culture",
+      "description": "The ancestral home of Girish Chandra Sen, the first translator of the Qur'an into Bengali, now a museum at Panchdona.",
+      "history": "Girish Chandra Sen (c. 1835–1910), a Brahmo missionary and scholar, completed the first full Bengali translation of the Qur'an in 1886. His house at Panchdona was opened as a museum in 2017.",
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9500, 90.7300],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Panchdona, Narsingdi Sadar",
+        "distanceKm": 5,
+        "transport": "CNG/auto from Narsingdi town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "A quiet literary-heritage stop just north of town",
+        "Pair with a stroll through Panchdona"
+      ]
+    },
+    {
+      "name": "Dream Holiday Park",
+      "type": "landmark",
+      "description": "A large amusement and water park at Chaitaba near Panchdona, beside the Dhaka–Sylhet highway, with rides, a water park and cottages.",
+      "history": "Opened in August 2011 on around 37 bighas, Dream Holiday Park has grown into one of the district's most popular family day-trip destinations, drawing visitors from Dhaka and beyond.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9600, 90.7200],
+      "practical": {
+        "hours": "Daily, roughly 10am–8pm",
+        "entryFee": "Ticketed",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Chaitaba, Panchdona, Narsingdi Sadar",
+        "distanceKm": 7,
+        "transport": "CNG/auto from Narsingdi town"
+      },
+      "bestTime": "Daytime; cooler months for the rides",
+      "tips": [
+        "Good for families travelling with children",
+        "Right on the highway, easy to reach from Dhaka"
+      ]
+    },
+    {
+      "name": "Lotkon & Banana Orchards of Shibpur",
+      "type": "nature",
+      "description": "The heart of Narsingdi's lotkon belt — orchards of the tangy Burmese grape and sweet sagar bananas around Shibpur, the source of the district's nickname, 'the land of lotkon'.",
+      "history": "Shibpur, especially around Joynagar, grows the great majority of the district's lotkon, and Narsingdi's bananas have been prized since they reached the tables of the Nawabs of Dhaka. The orchards are at their best in the summer harvest.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0700, 90.7000],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Joynagar area, Shibpur upazila",
+        "distanceKm": 18,
+        "transport": "CNG/auto from Narsingdi town"
+      },
+      "bestTime": "June–August for the lotkon and banana harvest",
+      "tips": [
+        "Visit in the summer to see the orchards in fruit",
+        "Buy lotkon fresh from the growers"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Lotkon (Burmese Grape)",
+      "description": "Narsingdi's most famous fruit — small, tangy-sweet lotkon grown across Shibpur and Belabo, now exported as well as sold across the country.",
+      "venue": "Shibpur and Belabo orchards; summer markets"
+    },
+    {
+      "type": "culture",
+      "name": "Handloom Weaving",
+      "description": "The district is a national weaving hub — Baburhat is the country's largest cloth wholesale market, with Shibpur and Madhabdi major handloom and powerloom centres.",
+      "venue": "Baburhat, Shibpur and Madhabdi",
+      "coordinates": [23.9300, 90.7400]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Wari-Bateshwar Ruins",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0500, 90.8500]
+    },
+    {
+      "name": "Shah Irani Mazar, Habashpur",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0700, 90.8200]
+    },
+    {
+      "name": "Bhai Girish Chandra Sen's House & Museum",
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9500, 90.7300]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-narsingdi?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Narsingdi&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Narsingdi&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Narsingdi&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "narsingdi-wari-bateshwar", "title": "Stand among the Wari-Bateshwar ruins", "category": "place", "detail": "A fortified city around 2,500 years old — one of the oldest known urban sites in Bangladesh.", "whereOrHow": "Wari-Bateshwar, Belabo" },
+    { "id": "narsingdi-baburhat", "title": "Walk Baburhat cloth market", "category": "experience", "detail": "The country's largest wholesale cloth market, thousands of shops humming on trading days.", "whereOrHow": "Sekherchar, Narsingdi Sadar", "bestTime": "Friday–Sunday" },
+    { "id": "narsingdi-shah-irani", "title": "Visit the Shah Irani Mazar", "category": "place", "detail": "A 14th-century saint's shrine at Habashpur in Belabo.", "whereOrHow": "Habashpur, Belabo" },
+    { "id": "narsingdi-girish-sen", "title": "See Girish Chandra Sen's house", "category": "place", "detail": "Home and museum of the first translator of the Qur'an into Bengali.", "whereOrHow": "Panchdona, Narsingdi Sadar" },
+    { "id": "narsingdi-lotkon", "title": "Taste fresh lotkon in the orchards", "category": "food", "detail": "The district's famous tangy-sweet Burmese grape, picked in the Shibpur belt.", "whereOrHow": "Shibpur orchards", "bestTime": "June–August" },
+    { "id": "narsingdi-banana", "title": "Try Narsingdi's sagar banana", "category": "food", "detail": "The prized banana once served to the Nawabs of Dhaka, grown across the district.", "whereOrHow": "Local markets" },
+    { "id": "narsingdi-dream-park", "title": "Spend a day at Dream Holiday Park", "category": "experience", "detail": "A large amusement and water park beside the highway at Panchdona.", "whereOrHow": "Chaitaba, Panchdona" },
+    { "id": "narsingdi-handloom", "title": "Watch handloom weaving at Madhabdi", "category": "experience", "detail": "See the looms of the district's weaving heartland in motion.", "whereOrHow": "Madhabdi and Shibpur" },
+    { "id": "narsingdi-badsha-bhog", "title": "Taste Badsha Bhog sweet", "category": "food", "detail": "A traditional local milk sweet with over a century of history.", "whereOrHow": "Narsingdi town sweet shops" },
+    { "id": "narsingdi-colombo-lemon", "title": "Smell the Colombo lemon", "category": "food", "detail": "A large, fragrant lemon variety grown commercially across the district.", "whereOrHow": "Local markets and orchards" },
+    { "id": "narsingdi-train", "title": "Arrive by train from Dhaka", "category": "experience", "detail": "Narsingdi sits on the Dhaka–Sylhet line — an easy, scenic rail run from the capital.", "whereOrHow": "Narsingdi railway station" },
+    { "id": "narsingdi-meghna-bank", "title": "Sit by the Meghna", "category": "moment", "detail": "The great river runs along the district — quiet banks and wide water.", "whereOrHow": "Meghna riverside, Raipura side" }
+  ],
+  "foods": [
+    { "name": "Lotkon (Burmese Grape)", "description": "The district's signature tangy-sweet fruit, grown commercially in Shibpur and exported as well as sold nationwide.", "whereToFind": "Shibpur and Belabo orchards; summer markets" },
+    { "name": "Amrita Sagar Banana", "description": "Narsingdi's prized banana, historically served to the Nawabs of Dhaka.", "whereToFind": "Local markets across the district" },
+    { "name": "Badsha Bhog", "description": "A traditional milk-based sweet with over a hundred years of local history, distinct from the common rosogolla.", "whereToFind": "Narsingdi town sweet shops" },
+    { "name": "Colombo Lemon", "description": "A large, fragrant, juicy lemon variety grown across the district and exported.", "whereToFind": "Local markets and orchards" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Bhai Girish Chandra Sen",
+      "knownFor": "Brahmo missionary and scholar who made the first full translation of the Qur'an into Bengali (1886) — born at Panchdona, now in Narsingdi, where his house is a museum.",
+      "era": "1835 – 1910"
+    },
+    {
+      "name": "Alauddin Al Azad",
+      "knownFor": "Major Bengali novelist, poet and critic and an Ekushey Padak winner — born in 1932 at Ramnagar village, Raipura upazila, Narsingdi.",
+      "era": "1932 – 2009"
+    },
+    {
+      "name": "Birsrestha Matiur Rahman",
+      "knownFor": "Fighter pilot and recipient of the Bir Sreshtho, the highest gallantry award of 1971; though born in Old Dhaka, his family home is at Ramnagar in Raipura, Narsingdi.",
+      "era": "1941 – 1971"
+    },
+    {
+      "name": "Shamsur Rahman",
+      "knownFor": "A leading modern Bengali poet; born in Old Dhaka, with his ancestral home at Paratoli near Raipura, Narsingdi.",
+      "era": "1929 – 2006"
+    }
+  ],
+  "didYouKnow": [
+    "Wari-Bateshwar in Belabo is one of Bangladesh's oldest known urban settlements — a fortified city roughly 2,500 years old, with paved roads and punch-marked coins.",
+    "Narsingdi's Baburhat is widely regarded as the largest wholesale cloth market in Bangladesh, with thousands of shops and hundreds of trucks leaving daily.",
+    "The district is nicknamed 'the land of lotkon' — its tangy Burmese grape is exported to the Middle East and Europe.",
+    "Narsingdi's Amrita Sagar bananas were once prized enough to reach the tables of the Nawabs of Dhaka, carried to the city in dedicated railway compartments.",
+    "Bhai Girish Chandra Sen, who made the first complete Bengali translation of the Qur'an in 1886, was born at Panchdona in Narsingdi."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Narsingdi Sadar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Narsingdi District Sadar (250-Bed) Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
