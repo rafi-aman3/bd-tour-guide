@@ -1,0 +1,210 @@
+{
+  "division": "rangpur",
+  "itineraries": [
+    {
+      "id": "rangpur-city-weekend",
+      "title": "Rangpur City Weekend",
+      "subtitle": "Palace, college lawns & Begum Rokeya's village",
+      "durationDays": 2,
+      "bestSeason": "All year (best October–February)",
+      "seasonNote": "Comfortable any season; coolest and clearest Oct–Feb.",
+      "pace": "Easy",
+      "themeTags": ["City break", "Heritage"],
+      "districts": ["rangpur"],
+      "coverImage": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "summary": "A relaxed two-day dip into Rangpur city's finest: the Indo-European Tajhat Palace and the vast Carmichael College campus on day one, followed by a half-day run out to the quiet village of Payrabondh where Begum Rokeya was born.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Rangpur town — palace & college",
+          "district": "rangpur",
+          "stops": [
+            {
+              "name": "Tajhat Palace (Rangpur Museum)",
+              "coordinates": [25.728, 89.27],
+              "note": "explore the ornate marble staircase and museum galleries"
+            },
+            {
+              "name": "Carmichael College",
+              "coordinates": [25.735, 89.24],
+              "note": "stroll the century-old campus grounds and Victorian-era main building"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Payrabondh & Mithapukur",
+          "district": "rangpur",
+          "stops": [
+            {
+              "name": "Begum Rokeya Memorial Centre, Payrabondh (Mithapukur)",
+              "coordinates": [25.55, 89.3],
+              "note": "pay respects at the birth home and interpretive centre of the pioneer educationist"
+            },
+            {
+              "name": "Mithapukur Mosque",
+              "coordinates": [25.55, 89.28],
+              "note": "a graceful local mosque worth a brief stop on the return to town"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rangpur-heritage-loop",
+      "title": "North Bengal Heritage Loop",
+      "subtitle": "Terracotta temples, palaces & old estates",
+      "durationDays": 4,
+      "bestSeason": "October–February",
+      "seasonNote": "Cool, dry touring weather across the north.",
+      "pace": "Moderate",
+      "themeTags": ["Heritage", "Architecture"],
+      "districts": ["rangpur", "dinajpur", "thakurgaon"],
+      "coverImage": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "summary": "Four days tracing the finest princely and religious architecture of northern Bangladesh — from Rangpur's Italianate palace to Dinajpur's terracotta masterpiece and the mango-tree estate of Thakurgaon.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Rangpur — Tajhat & Carmichael",
+          "district": "rangpur",
+          "stops": [
+            {
+              "name": "Tajhat Palace (Rangpur Museum)",
+              "coordinates": [25.728, 89.27],
+              "note": "the city's centrepiece — budget two hours for the palace and its museum"
+            },
+            {
+              "name": "Carmichael College",
+              "coordinates": [25.735, 89.24],
+              "note": "an evening walk through one of the oldest colleges in Bengal"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Dinajpur — Kantajew & Rajbari",
+          "district": "dinajpur",
+          "stops": [
+            {
+              "name": "Kantajew Temple",
+              "coordinates": [25.696, 88.7],
+              "note": "the finest terracotta temple in Bangladesh — arrive early to beat the crowds"
+            },
+            {
+              "name": "Dinajpur Rajbari",
+              "coordinates": [25.63, 88.64],
+              "note": "a sprawling 18th-century estate; explore the outer courts and pond"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Dinajpur — Ramsagar",
+          "district": "dinajpur",
+          "stops": [
+            {
+              "name": "Ramsagar National Park",
+              "coordinates": [25.566, 88.658],
+              "note": "the largest man-made lake in Bangladesh, ideal for a quiet morning walk"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Thakurgaon — tree & estate",
+          "district": "thakurgaon",
+          "stops": [
+            {
+              "name": "Suryapuri Mango Tree of Harinmari (Baliadangi)",
+              "coordinates": [26.07, 88.26],
+              "note": "the legendary centuries-old mango tree — a singular sight in open farmland"
+            },
+            {
+              "name": "Jamalpur Zamindar Bari Jame Mosque",
+              "coordinates": [26.005, 88.44],
+              "note": "a well-preserved mosque attached to a former zamindar estate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rangpur-frontier-hills",
+      "title": "Far-North Frontier & Hills",
+      "subtitle": "Kanchenjunga views, tea & the Teesta",
+      "durationDays": 4,
+      "bestSeason": "October–February (Kanchenjunga clearest Dec–Jan)",
+      "seasonNote": "Go on a clear winter dawn for the mountain view from Tetulia.",
+      "pace": "Active",
+      "themeTags": ["Nature", "Frontier"],
+      "districts": ["panchagarh", "thakurgaon", "lalmonirhat"],
+      "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "summary": "An active four-day sweep of Bangladesh's northernmost extremities — Himalayan views at dawn from Tetulia, an ancient fort city buried in fields, the world's largest mango tree, and the geopolitical curiosity of the Tin Bigha Corridor by the Teesta Barrage.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Panchagarh — Tetulia & the view",
+          "district": "panchagarh",
+          "stops": [
+            {
+              "name": "Kanchenjunga View from Tetulia",
+              "coordinates": [26.505, 88.415],
+              "note": "rise before dawn for the clearest Himalayan skyline in Bangladesh"
+            },
+            {
+              "name": "Banglabandha Zero Point",
+              "coordinates": [26.64, 88.41],
+              "note": "stand at the northernmost tip of Bangladesh at the India–Nepal tri-junction"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Panchagarh — fort city & tea",
+          "district": "panchagarh",
+          "stops": [
+            {
+              "name": "Bhitargarh Fort City",
+              "coordinates": [26.4, 88.65],
+              "note": "explore the massive earthen ramparts of a pre-medieval fortified city"
+            },
+            {
+              "name": "Tetulia Tea Gardens",
+              "coordinates": [26.45, 88.43],
+              "note": "walk the rows of Bangladesh's northernmost tea garden in the afternoon light"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Thakurgaon — estate & tree",
+          "district": "thakurgaon",
+          "stops": [
+            {
+              "name": "Suryapuri Mango Tree of Harinmari (Baliadangi)",
+              "coordinates": [26.07, 88.26],
+              "note": "the famous centuries-old mango tree that sprawls over nearly an acre"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Lalmonirhat — corridor & barrage",
+          "district": "lalmonirhat",
+          "stops": [
+            {
+              "name": "Tin Bigha Corridor & Dahagram–Angarpota",
+              "coordinates": [26.35, 89.1],
+              "note": "walk the narrow land corridor connecting the Bangladeshi enclave — a unique geopolitical site"
+            },
+            {
+              "name": "Teesta Barrage at Doani (Hatibandha)",
+              "coordinates": [26.105, 89.06],
+              "note": "the major river barrage controlling Teesta irrigation; fine views at dusk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
