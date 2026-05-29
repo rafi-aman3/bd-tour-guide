@@ -1,0 +1,288 @@
+{
+  "name": "Manikganj",
+  "division": "Dhaka",
+  "tagline": "Palaces, ghats and date-palm jaggery on the Dhaka–Aricha road — the grand Baliati estate, Nazrul's Teota, and the Paturia crossing on the Padma.",
+  "stats": {
+    "area": "1,383.66 sq km",
+    "population": "1,558,025",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "November to February for cool, dry weather — also the date-palm season, when the famous Hajari jaggery is made. Avoid the monsoon (June–September), when the river ghats flood and the Padma and Jamuna run high.",
+    "gettingThere": "About 65 km west of Dhaka via the Dhaka–Aricha Highway (N5), which runs ~36 km through the district; frequent buses from Gabtali (~1.5–2 hr). The highway ends at Paturia Ghat, where BIWTC ferries and launches cross the Padma to Daulatdia. There is no railway in Manikganj.",
+    "difficulty": "Easy. Close to Dhaka, well connected by road, with most sites clustered within an hour of Manikganj town. The river-ghat areas can be congested around Eid."
+  },
+  "mustVisit": [
+    {
+      "name": "Baliati Zamindar Bari (Baliati Palace)",
+      "type": "historical",
+      "description": "One of Bangladesh's grandest zamindar palaces — seven separate blocks with around 200 rooms on nearly six acres, enclosed by a wall with three lion-crested gateways and a rear dighi.",
+      "history": "Founded by Gobinda Ram Saha, a salt merchant, and built through the 19th century by his sons and later family figures. The Department of Archaeology acquired it as protected property in 1987 and runs it as a museum, the renamed 'Baliati Palace'.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9500, 90.0500],
+      "practical": {
+        "hours": "Daytime; closed on weekly government holidays",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Baliati, Saturia upazila",
+        "distanceKm": 15,
+        "transport": "Bus/CNG from Manikganj town toward Saturia"
+      },
+      "bestTime": "Daytime for the architecture and the museum",
+      "tips": [
+        "Allow time to walk all seven palace blocks",
+        "The lion-crested gateways and rear dighi are highlights"
+      ]
+    },
+    {
+      "name": "Teota Zamindar Bari",
+      "type": "historical",
+      "description": "A sprawling riverside zamindar palace of some 50+ rooms on the bank of the Jamuna, the family home of Pramila Devi, wife of the rebel poet Kazi Nazrul Islam.",
+      "history": "Founded by Panchanan Chaudhuri, who rose through the tobacco trade, the estate is around three centuries old. Nazrul visited freely through his friendship with the Sen family; Pramila (née Pramila Sen) belonged to this household.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9100, 89.8100],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Teota, Shibalaya upazila",
+        "distanceKm": 28,
+        "transport": "Bus toward Aricha/Shibalaya, then local transport"
+      },
+      "bestTime": "Daytime for the palace and the Navaratna Temple",
+      "tips": [
+        "The Navaratna Temple stands within the grounds",
+        "A good pairing with the nearby Paturia ghat"
+      ]
+    },
+    {
+      "name": "Navaratna Temple, Teota",
+      "type": "religious",
+      "description": "A striking four-storey Hindu temple within the Teota estate, around 65–75 ft high, with unusually European detailing.",
+      "history": "Built in 1857 and used for the family's Dol festival, the temple blends a classic Bengali tower form with colonial-era ornament. Stone inscriptions in the wider complex carry dates as early as 1702–03.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9100, 89.8100],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Within Teota Zamindar Bari, Shibalaya",
+        "distanceKm": 28,
+        "transport": "Bus toward Aricha/Shibalaya, then local transport"
+      },
+      "bestTime": "Daytime for the architecture",
+      "tips": [
+        "See it together with the Teota palace",
+        "Note the European touches on a Hindu temple"
+      ]
+    },
+    {
+      "name": "Paturia Ferry Ghat",
+      "type": "nature",
+      "description": "The major national ferry terminal and riverside viewpoint at the western end of the Dhaka–Aricha Highway, where ferries and launches cross the Padma to Daulatdia.",
+      "history": "The western terminus of the N5 highway, Paturia handles a fleet of vehicle ferries and passenger launches on the ~3 km crossing to Daulatdia (Rajbari), the gateway to the country's southwest. It is a popular spot for sunset views and river snacks.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7800, 89.7100],
+      "practical": {
+        "hours": "Daylight for views; ferries run through the day",
+        "entryFee": "Ferry/launch fares apply",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Shibalaya upazila, on the Padma",
+        "distanceKm": 28,
+        "transport": "Direct bus to Paturia along the N5"
+      },
+      "bestTime": "Late afternoon for sunset over the river",
+      "tips": [
+        "Try the riverside fried snacks while you wait",
+        "Crowds peak around Eid — go on an ordinary day"
+      ]
+    },
+    {
+      "name": "Matta Math (Mottar Moth)",
+      "type": "historical",
+      "description": "A tall old temple-tower of around 50–60 ft on the bank of the Nital Dighi, just east of Manikganj town, carved with terracotta-style motifs.",
+      "history": "Locally held to be over two centuries old and attributed to Zamindar Hem Sen, the math is a long-standing landmark of the Sadar area. Its exact founding date is uncertain.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.8600, 90.0200],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Matta village, Manikganj Sadar",
+        "distanceKm": 3,
+        "transport": "Short rickshaw/CNG ride east of town"
+      },
+      "bestTime": "Daytime for the carving and the dighi",
+      "tips": [
+        "An easy add-on close to Manikganj town",
+        "Pair with a quiet stop by the Nital Dighi"
+      ]
+    },
+    {
+      "name": "Terasree 1971 Memorial",
+      "type": "landmark",
+      "description": "A Liberation War memorial at the village of Terasree, marking one of Manikganj's mass-grave sites of 1971.",
+      "history": "Terasree was the scene of a 1971 massacre during the Liberation War; a memorial now stands at the site, with another near the Manikganj bus stand, in remembrance of those killed.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9000, 90.0000],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Terasree, Ghior upazila",
+        "distanceKm": 18,
+        "transport": "CNG/auto from Manikganj town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "A place of remembrance — visit quietly",
+        "Pair with other Sadar/Ghior sights"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Hajari Gur",
+      "description": "A renowned, pale date-palm jaggery made for some two centuries in the Jhitka area of Harirampur — prized enough that its fame reached far beyond the district. Made fresh in winter.",
+      "venue": "Jhitka, Harirampur upazila"
+    },
+    {
+      "type": "festival",
+      "name": "Baul Gan",
+      "description": "Manikganj is rich in folk song — Baul music is a regional hallmark, alongside older folk forms; the district's own slogan pairs 'Hajari Gur and Baul Gan' as the heart of local life.",
+      "timing": "Year-round, especially at folk gatherings",
+      "coordinates": [23.8600, 90.0000]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Baliati Zamindar Bari / Baliati Palace",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9500, 90.0500]
+    },
+    {
+      "name": "Teota Zamindar Bari & Navaratna Temple",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9100, 89.8100]
+    },
+    {
+      "name": "Matta Math (Mottar Moth)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.8600, 90.0200]
+    },
+    {
+      "name": "Terasree 1971 Memorial",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9000, 90.0000]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-manikganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Manikganj&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Manikganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Manikganj&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "manikganj-baliati", "title": "Tour the grand Baliati Palace", "category": "place", "detail": "Seven palace blocks and ~200 rooms on six acres, state-protected since 1987 and run as a museum.", "whereOrHow": "Baliati, Saturia" },
+    { "id": "manikganj-teota", "title": "Visit Nazrul's Teota Zamindar Bari", "category": "place", "detail": "The riverside palace that was the family home of Pramila Devi, wife of Kazi Nazrul Islam.", "whereOrHow": "Teota, Shibalaya" },
+    { "id": "manikganj-navaratna", "title": "See the Navaratna Temple", "category": "place", "detail": "A four-storey 1857 temple with European detailing inside the Teota estate.", "whereOrHow": "Teota, Shibalaya" },
+    { "id": "manikganj-paturia-sunset", "title": "Watch sunset at Paturia Ghat", "category": "moment", "detail": "The great Padma ferry terminal at the end of the Dhaka–Aricha road, gateway to the southwest.", "whereOrHow": "Paturia, Shibalaya", "bestTime": "Late afternoon" },
+    { "id": "manikganj-ferry", "title": "Cross the Padma by ferry to Daulatdia", "category": "experience", "detail": "Ride a BIWTC ferry or launch across the river on one of Bangladesh's busiest crossings.", "whereOrHow": "Paturia–Daulatdia" },
+    { "id": "manikganj-matta-math", "title": "Find the Matta Math tower", "category": "place", "detail": "A tall old temple-tower by the Nital Dighi, just east of Manikganj town.", "whereOrHow": "Matta, Manikganj Sadar" },
+    { "id": "manikganj-hajari-gur", "title": "Taste Hajari Gur in winter", "category": "food", "detail": "The district's famed pale date-palm jaggery, made fresh in the Jhitka area each cold season.", "whereOrHow": "Jhitka, Harirampur", "bestTime": "Winter" },
+    { "id": "manikganj-baul", "title": "Hear Baul songs", "category": "experience", "detail": "Manikganj's folk-music tradition — Baul gan at local gatherings, half the district's identity.", "whereOrHow": "Folk gatherings across the district" },
+    { "id": "manikganj-terasree", "title": "Pay respects at the Terasree memorial", "category": "place", "detail": "A 1971 Liberation War mass-grave memorial in the district.", "whereOrHow": "Terasree, Ghior" },
+    { "id": "manikganj-pitha", "title": "Eat gur-laden winter pithas", "category": "food", "detail": "Rice cakes made with the local date-palm jaggery — a cold-weather treat.", "whereOrHow": "Winter markets and homes", "bestTime": "Winter" },
+    { "id": "manikganj-jamuna-bank", "title": "Sit on the Jamuna bank at Teota", "category": "moment", "detail": "Wide river views beside the old palace at Shibalaya.", "whereOrHow": "Teota, Shibalaya" },
+    { "id": "manikganj-river-fish", "title": "Eat fresh river fish near the ghats", "category": "food", "detail": "Padma and Jamuna fish, fried fresh at riverside eateries around Paturia.", "whereOrHow": "Paturia ghat eateries" }
+  ],
+  "foods": [
+    { "name": "Hajari Gur", "description": "The district's renowned pale date-palm jaggery from Jhitka, Harirampur — made fresh in winter and famous well beyond Manikganj.", "whereToFind": "Jhitka, Harirampur; winter markets" },
+    { "name": "Khejur Gur (Patali & Jhola)", "description": "Date-palm jaggery in solid (patali) and liquid (jhola) forms — a winter staple of the region.", "whereToFind": "Winter village markets" },
+    { "name": "Pitha-Puli", "description": "Traditional winter rice cakes made with the local date-palm gur.", "whereToFind": "Winter markets and home kitchens" },
+    { "name": "River Fish", "description": "Fresh Padma and Jamuna fish, fried or in light curries at the riverside eateries near Paturia.", "whereToFind": "Paturia ghat and town eateries" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Khan Ataur Rahman",
+      "knownFor": "Filmmaker, actor, music director and singer — born at Ramkantapur, Singair, Manikganj; director and composer behind Nawab Sirajuddaula, Sujon Sokhi and Abar Tora Manush Ho.",
+      "era": "1928 – 1997"
+    },
+    {
+      "name": "Hiralal Sen",
+      "knownFor": "A pioneer of cinema in Bengal, often called the first Bengali filmmaker — his family roots are at Bagjuri, Manikganj, though he worked mainly from Kolkata.",
+      "era": "c. 1866 – 1917"
+    },
+    {
+      "name": "Munier Chowdhury",
+      "knownFor": "Linguist, playwright and martyred intellectual of 1971, whose family home is in Manikganj; remembered for the play Kabar and for his work on Bengali typography.",
+      "era": "1925 – 1971"
+    }
+  ],
+  "didYouKnow": [
+    "Baliati Palace has seven separate palace buildings and around 200 rooms on nearly six acres — one of the largest zamindar complexes in Bangladesh — and has been state-protected by the Department of Archaeology since 1987.",
+    "Teota Zamindar Bari is the family home of Pramila Devi, wife of the rebel poet Kazi Nazrul Islam, who visited often through his friendship with the Sen family.",
+    "The Navaratna Temple at Teota, built in 1857, rises roughly four storeys and is unusually European in its styling for a Hindu temple.",
+    "Manikganj's Hajari Gur, a pale date-palm jaggery made for about two centuries in Jhitka, Harirampur, is so prized that the district's slogan pairs it with Baul gan as 'the real life of Manikganj'.",
+    "Manikganj has no railway — it relies on the Dhaka–Aricha Highway and the Paturia ferry ghat on the Padma, the gateway crossing to the country's southwest."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Manikganj Sadar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Manikganj 250-Bed District Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
