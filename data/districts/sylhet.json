@@ -1,0 +1,316 @@
+{
+  "name": "Sylhet",
+  "division": "Sylhet",
+  "tagline": "City of saints and shrines, doorway to the Khasi hills — clear stone-rivers, swamp forest and the oldest tea garden in the subcontinent.",
+  "stats": {
+    "area": "3,217.28 sq km",
+    "population": "3,857,123",
+    "established": "1782",
+    "attractions": "12+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry — best for the hills, rivers and tea gardens). Monsoon (June–August) for full-flow waterfalls and the swamp forest at peak.",
+    "gettingThere": "By air to MAG Osmani International Airport (~40 min from Dhaka), by rail on the Dhaka–Sylhet line (Parabat / Joyantika / Upaban / Kalni Express), or by road on the Dhaka–Sylhet highway (~240 km, ~5–6 hr). The main sights cluster north of the city in Gowainghat, Jaintapur and Companiganj.",
+    "difficulty": "Easy to moderate — the city, shrines and tea gardens are easy; reaching Bisnakandi, Sada Pathor and Pangthumai needs a CNG plus a country boat, and trails are slippery in the rains."
+  },
+  "mustVisit": [
+    {
+      "name": "Hazrat Shah Jalal Mazar",
+      "type": "religious",
+      "description": "The dargah of the 14th-century Sufi saint who, by tradition, defeated Raja Gour Gobinda in 1303 and made Sylhet a centre of Islam in eastern Bengal. The complex — courtyards, a mosque, ponds of gazar (sacred fish) and pigeons in their thousands — is the spiritual heart of the city.",
+      "history": "Hazrat Shah Jalal (c. 1271–1346) arrived in Sylhet with a band of 360 companions and stayed until his death; his tomb has been a site of pilgrimage for nearly seven centuries. The shrine sits in Dargah Mahalla in the centre of Sylhet city.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9035, 91.8694],
+      "practical": {
+        "hours": "Open around the five daily prayers; visitors welcome outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In the heart of Sylhet city at Dargah Mahalla, ~2 km from Sylhet Railway Station",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG from anywhere in the city"
+      },
+      "bestTime": "Maghrib (sunset) prayer is especially atmospheric; Thursday nights are busiest with devotees",
+      "tips": [
+        "Dress modestly — cover head if female, remove shoes before the inner courtyard",
+        "Photography of the inner tomb is not allowed",
+        "Feed the gazar fish in the shrine pond — a long-standing tradition"
+      ]
+    },
+    {
+      "name": "Ratargul Swamp Forest",
+      "type": "nature",
+      "description": "The only freshwater swamp forest in Bangladesh — a flooded woodland of hijol, koroch and karoch trees where you paddle a country boat between half-submerged trunks. In the monsoon the canopy meets the water and the place feels like a green cathedral.",
+      "history": "About 504 hectares in Gowainghat Upazila on the banks of the Goain river, declared a wildlife sanctuary in 2015 to protect its swamp ecosystem, monkeys, snakes and migratory waterbirds.",
+      "image": "https://images.unsplash.com/photo-1596409890287-c1d0c4ea4f93?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0264, 91.9628],
+      "practical": {
+        "hours": "Daylight hours; best early morning",
+        "entryFee": "Forest Department entry fee + country-boat hire",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 26 km north of Sylhet city, in Gowainghat",
+        "distanceKm": 26,
+        "transport": "CNG / reserved car to Motorgaon ghat, then small wooden boat into the forest"
+      },
+      "bestTime": "June to September — the forest is fully flooded and the boat ride is at its best",
+      "tips": [
+        "Wear quick-dry clothes — the boat can be wet",
+        "Negotiate the boat rate at the ghat before stepping in",
+        "Mornings are quieter; the watchtower is worth the climb"
+      ]
+    },
+    {
+      "name": "Jaflong",
+      "type": "nature",
+      "description": "Bangladesh's most photographed border landscape — shallow, jade-green water rushing over white stones with the Khasi hills of Meghalaya rising straight out of the riverbed, and the Dawki suspension bridge slung across the gorge.",
+      "history": "Sits where the Piyain river enters Bangladesh from India at Tamabil. Long a stone-quarrying area worked by Khasia communities, it has shifted in recent years toward tourism, with viewpoints, country-boat rides and tea-stalls along the riverbank.",
+      "image": "https://images.unsplash.com/photo-1627440301191-036113ec4dd7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1869, 92.0204],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free; boat hire separate",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 60 km northeast of Sylhet city via Tamabil, in Gowainghat",
+        "distanceKm": 60,
+        "transport": "Reserved car / CNG along the Sylhet–Tamabil road; share-jeep also runs"
+      },
+      "bestTime": "October to March; after rain the water is clearest",
+      "tips": [
+        "Stay on the Bangladeshi side of the river — the border is patrolled",
+        "Visit Mari river point and the Khasia Punji (village) for the wider scene",
+        "Avoid the river in heavy monsoon — flash floods are real"
+      ]
+    },
+    {
+      "name": "Bisnakandi",
+      "type": "nature",
+      "description": "Where the hills of Meghalaya, three small waterfalls and a stream full of stones meet — boulders the size of cars, clear water pooling between them, and a wall of forested hills behind. Less developed than Jaflong, more dramatic.",
+      "history": "A stone-quarry and viewpoint in Rustompur Union of Gowainghat, on the Piyain Goyne river. The site has come into tourist circuits only in the last fifteen years and is reached by a country boat through a string of small bazars.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1970, 92.0250],
+      "practical": {
+        "hours": "Daylight hours; the boat ride is the main thing",
+        "entryFee": "Boat hire only",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 70 km from Sylhet city; CNG to Hadarpar bazar then a long country-boat upstream",
+        "distanceKm": 70,
+        "transport": "CNG / car to Hadarpar, then shared or reserved engine boat"
+      },
+      "bestTime": "Late monsoon through winter — clearer water, the falls in the background still flowing",
+      "tips": [
+        "Pair with Pangthumai waterfall on the same boat — they are close",
+        "Wear sandals you can wade in; the stones are slippery",
+        "Don't try to cross to the Indian side of the boulders"
+      ]
+    },
+    {
+      "name": "Lalakhal",
+      "type": "nature",
+      "description": "An emerald-green channel of the Sari river flowing out of the Khasi hills — wide, calm and impossibly clear, with rolling tea gardens on one bank. A long, slow boat ride that feels like a held breath.",
+      "history": "Runs through Jaintapur Upazila near Sari Ghat, edged by the historic Lalakhal Tea Estate. The water gets its colour from minerals washed down out of the hills upstream.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1700, 92.0500],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Boat hire only",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km northeast of Sylhet on the Tamabil road; turn at Sari Ghat / Lalakhal",
+        "distanceKm": 35,
+        "transport": "CNG / car to Sari Ghat, then engine boat upstream"
+      },
+      "bestTime": "October to March — clearest water; avoid heavy monsoon",
+      "tips": [
+        "Combine with Jaintia Rajbari and Megalithic Stones at Jaintapur en route",
+        "Ask the boatman to cut the engine for a few minutes — the silence is the point",
+        "Tea-estate paths are private — ask permission before walking in"
+      ]
+    },
+    {
+      "name": "Sada Pathor (Bholaganj)",
+      "type": "nature",
+      "description": "A vast stretch of the Dhalai river bed covered in chalk-white stones, with the Meghalaya hills and waterfalls rising directly behind. Shin-deep water runs over the stones in winter and you can walk out for hundreds of metres.",
+      "history": "Bholaganj has long been a major stone-quarrying point on the Bangladesh–Meghalaya border in Companiganj Upazila. Tourism here is recent — the 'Sada Pathor' (white stones) zero point only became a destination in its own right in the last decade.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1500, 91.8333],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Boat hire (each-way) at Bholaganj ghat",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km northwest of Sylhet city; CNG / car to Bholaganj ghat, then a 20-minute engine boat to Zero Point",
+        "distanceKm": 35,
+        "transport": "Reserved CNG / car to Bholaganj, country / engine boat from ghat"
+      },
+      "bestTime": "October to March; in winter the water is shallow and you can wade across the stones",
+      "tips": [
+        "Carry rubber-soled sandals — the stones are sharp",
+        "The zero point is right at the international border; do not cross",
+        "Boats run only in daylight and can stop early on busy days"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Shatkora Beef",
+      "description": "Sylhet's signature dish — beef slow-cooked with shatkora, a fragrant local citrus grown only in the greater Sylhet hills, giving the gravy its distinctive bittersweet edge.",
+      "venue": "Home-style Sylheti restaurants across the city"
+    },
+    {
+      "type": "food",
+      "name": "Seven-Colour Tea (Saat Rong Cha)",
+      "description": "Sylhet's most famous drink — seven layers of differently spiced tea, each a different colour and flavour, poured to settle one above the other. Invented in a small tea-stall in Srimangal and now a Sylhet city ritual.",
+      "venue": "Nilkantha Cha Cabin and copycats around town"
+    },
+    {
+      "type": "food",
+      "name": "Malnicherra Estate Tea",
+      "description": "Tea from the country's oldest commercial garden, established in Sylhet city's outskirts in 1849 — a glass in the garden itself is a small piece of subcontinental history.",
+      "venue": "Malnicherra Tea Estate, Sylhet city outskirts"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Hazrat Shah Jalal Mazar (Dargah Mahalla)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9035, 91.8694]
+    },
+    {
+      "name": "Hazrat Shah Paran Mazar (Khadimnagar)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9131, 91.9489]
+    },
+    {
+      "name": "Malnicherra Tea Estate (est. 1849)",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.9097, 91.8825]
+    },
+    {
+      "name": "Osmani Museum (Naiorpul)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8970, 91.8700]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-sylhet?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Sylhet&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Ena Transport", "phone": "—" },
+        { "name": "Green Line Paribahan", "phone": "—" },
+        { "name": "Shyamoli Paribahan", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (e-Ticket)", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Sylhet&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Sylhet Railway Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Biman Bangladesh", "url": "https://biman-airlines.com/" },
+        { "name": "US-Bangla Airlines", "url": "https://usbair.com/" },
+        { "name": "NovoAir", "url": "https://www.flynovoair.com/" }
+      ],
+      "manualBookings": [
+        { "name": "MAG Osmani International Airport (ZYL) Inquiry", "phone": "—" }
+      ]
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Sylhet&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Sylhet&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "sylhet-shah-jalal-mazar", "title": "Stand in the Shah Jalal Mazar courtyard at Maghrib", "category": "experience", "detail": "The minute the azan goes up across Dargah Mahalla and the courtyard fills with devotees is the most Sylhet thing in Sylhet. Feed the sacred gazar fish in the shrine pond afterwards.", "whereOrHow": "Hazrat Shah Jalal Mazar, central Sylhet", "bestTime": "Maghrib (sunset)" },
+    { "id": "sylhet-shah-paran", "title": "Visit Shah Paran's mazar in Khadimnagar", "category": "place", "detail": "The dargah of Shah Jalal's nephew and companion, set on a quieter wooded knoll 7 km east of the city — pair with Khadimnagar National Park on the same trip.", "whereOrHow": "Khadimnagar, ~7 km east of Sylhet city" },
+    { "id": "sylhet-ratargul-monsoon", "title": "Paddle into Ratargul at peak monsoon", "category": "experience", "detail": "When the swamp forest is fully flooded and the canopy meets the water — a green, cathedral-like silence broken only by the splash of an oar.", "whereOrHow": "Ratargul Swamp Forest, Gowainghat", "bestTime": "Jun–Sep, early morning" },
+    { "id": "sylhet-jaflong-dawki", "title": "See the Dawki bridge from the Bangladesh side of Jaflong", "category": "moment", "detail": "The Khasi hills rising straight from the riverbed, the Indian suspension bridge slung across the gorge, and white stones in jade water — the picture-postcard view of greater Sylhet.", "whereOrHow": "Jaflong / Tamabil, Gowainghat", "bestTime": "Oct–Mar, after rain" },
+    { "id": "sylhet-bisnakandi", "title": "Float between car-sized boulders at Bisnakandi", "category": "experience", "detail": "Engine-boat upstream from Hadarpar to a stone-strewn pool with three small Meghalaya waterfalls in the backdrop — wilder and quieter than Jaflong.", "whereOrHow": "Bisnakandi, Rustompur, Gowainghat" },
+    { "id": "sylhet-pangthumai", "title": "Catch Pangthumai waterfall on the Bisnakandi boat", "category": "place", "detail": "A tall waterfall on the Indian side that you watch from a country boat on the Bangladeshi bank — one of the prettiest stops you can tack onto a Bisnakandi day.", "whereOrHow": "Pangthumai, Gowainghat", "bestTime": "Monsoon for full flow" },
+    { "id": "sylhet-lalakhal-boat", "title": "Take the slow boat up Lalakhal", "category": "experience", "detail": "Cut the engine on the emerald Sari river and let the boat drift past tea gardens — the colour of the water alone is the journey.", "whereOrHow": "Lalakhal, Jaintapur", "bestTime": "Oct–Mar" },
+    { "id": "sylhet-sada-pathor", "title": "Wade across the white stones at Bholaganj", "category": "experience", "detail": "Sada Pathor — kilometres of chalk-white stones in the Dhalai river bed at the Meghalaya zero-point, the hills rising straight out of the boulders behind.", "whereOrHow": "Bholaganj Zero Point, Companiganj", "bestTime": "Winter, when water is shin-deep" },
+    { "id": "sylhet-malnicherra", "title": "Walk the rows of Malnicherra — subcontinent's oldest tea garden", "category": "place", "detail": "Established in 1849, Malnicherra is where commercial tea in the subcontinent began. A glass of fresh garden tea in the canteen is the right way to end the visit.", "whereOrHow": "Malnicherra Tea Estate, Sylhet city outskirts" },
+    { "id": "sylhet-osmani-museum", "title": "Pay respects at the Osmani Museum", "category": "place", "detail": "Bangabir General MAG Osmani's family home in Naiorpul, now a museum to the man who commanded the Mukti Bahini through the Liberation War.", "whereOrHow": "Osmani Museum, Naiorpul, Sylhet city" },
+    { "id": "sylhet-seven-colour-tea", "title": "Order a glass of seven-colour tea", "category": "food", "detail": "Seven layers of differently spiced tea, poured so each colour holds its place — Sylhet's most photographed drink. Nilkantha Cha Cabin is the original; copycats abound.", "whereOrHow": "Nilkantha Cha Cabin (multiple Sylhet branches)" },
+    { "id": "sylhet-shatkora-beef", "title": "Eat shatkora beef in its own home district", "category": "food", "detail": "Beef slow-cooked with the fragrant local citrus shatkora — the dish that defines Sylheti home cooking. Eat it where the shatkora actually grows.", "whereOrHow": "Home-style Sylheti restaurants across the city" }
+  ],
+  "foods": [
+    { "name": "Shatkora Beef", "description": "Sylhet's hallmark — beef cooked with shatkora citrus for a fragrant, bittersweet gravy. Best as a slow Friday lunch.", "whereToFind": "Home-style Sylheti restaurants" },
+    { "name": "Akhni (Sylheti Pulao)", "description": "The Sylheti spiced meat-and-rice pulao, fragrant with whole spices and ghee — a feast-day staple across the region.", "whereToFind": "Local restaurants & special occasions" },
+    { "name": "Seven-Colour Tea (Saat Rong Cha)", "description": "Seven layers of differently spiced tea poured to settle one above the other — Sylhet's invented-here party trick.", "whereToFind": "Nilkantha Cha Cabin and other tea cabins in town" },
+    { "name": "Hidol / Shidol Shutki", "description": "Fermented dried-fish paste — pungent, intensely savoury, deeply Sylheti. Eaten with rice or stirred into a curry.", "whereToFind": "Sylheti home kitchens and shutki bazars" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Hazrat Shah Jalal",
+      "knownFor": "14th-century Sufi saint whose arrival in 1303 marks the spread of Islam in Sylhet and across eastern Bengal. His dargah in central Sylhet has been a place of pilgrimage for nearly seven centuries.",
+      "era": "c. 1271 – 1346"
+    },
+    {
+      "name": "General Muhammad Ataul Gani Osmani",
+      "knownFor": "'Bangabir' — Commander-in-Chief of the Bangladesh Forces during the 1971 Liberation War. Born in Sunamganj, but his family home in Naiorpul, Sylhet city, is preserved as the Osmani Museum; he was buried in the Shah Jalal Dargah grounds.",
+      "era": "1918 – 1984"
+    },
+    {
+      "name": "Syed Mujtaba Ali",
+      "knownFor": "Bengali essayist and polyglot whose travel writing ('Deshe Bideshe') defined a generation of Bangla prose. Born in 1904 in Karimganj of undivided Sylhet, schooled at Visva-Bharati under Tagore.",
+      "era": "1904 – 1974"
+    }
+  ],
+  "didYouKnow": [
+    "By tradition, Hazrat Shah Jalal arrived in Sylhet in 1303 with 360 companions; his dargah at Dargah Mahalla has been a pilgrimage site for over 700 years.",
+    "Malnicherra Tea Estate, on the edge of Sylhet city, was established in 1849 — the oldest commercial tea garden in the entire Indian subcontinent.",
+    "Ratargul, in Gowainghat upazila, is the only freshwater swamp forest in Bangladesh and one of just a handful in the world.",
+    "The 'seven-colour tea' that Sylhet is famous for was invented in Srimangal by tea-stall owner Romesh Ram Gour, who later opened the Nilkantha Cha Cabin near Sylhet city.",
+    "Sylhet was administratively part of Assam Province from 1874 until the 1947 referendum, when it voted to join East Pakistan and rejoined Bengal.",
+    "Bangabir General MAG Osmani, who commanded the Mukti Bahini through 1971, is buried in the grounds of the Shah Jalal Dargah; his family home is now the Osmani Museum at Naiorpul."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Sylhet Sadar Model Thana", "phone": "—" },
+      { "name": "Kotwali Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Sylhet MAG Osmani Medical College Hospital", "phone": "—" },
+      { "name": "Sylhet Sadar Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
