@@ -28,7 +28,7 @@ export const DISTRICT_TO_DIVISION: Record<string, string> = {
   "lakshmipur": "Chittagong", "noakhali": "Chittagong", "rangamati": "Chittagong",
 
   // Rajshahi Division
-  "bogra": "Rajshahi", "chapainawabganj": "Rajshahi", "joypurhat": "Rajshahi", "naogaon": "Rajshahi",
+  "bogra": "Rajshahi", "chapainawabganj": "Rajshahi", "nawabganj": "Rajshahi", "joypurhat": "Rajshahi", "naogaon": "Rajshahi",
   "natore": "Rajshahi", "pabna": "Rajshahi", "rajshahi": "Rajshahi", "sirajganj": "Rajshahi",
 
   // Khulna Division

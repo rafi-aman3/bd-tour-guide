@@ -1,0 +1,298 @@
+{
+  "name": "Chapai Nawabganj",
+  "division": "Rajshahi",
+  "tagline": "The mango capital of Bangladesh and the country's westernmost frontier — gilded Sultanate mosques of the lost Gaur capital on the India border, Asia-scale mango markets at Kansat, and a flatbread that keeps for days.",
+  "stats": {
+    "area": "1,702.55 sq km",
+    "population": "1,835,528",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "Mid-May to July for the mango season and the Kansat market in full roar. October to March for the Gaur monuments and riverbanks in cool, dry weather.",
+    "gettingThere": "By road from Dhaka via Rajshahi (~320 km), or by rail to the district's stations (Nawabganj, Amnura, Rohanpur). The Sona Masjid monument cluster sits ~40 km northwest in Shibganj near the land port; Kansat is ~23 km away on the same road; Nachole and its Alpana Gram lie east.",
+    "difficulty": "Easy — the four great Gaur mosques cluster within a few kilometres in Shibganj and make one natural circuit. Carry photo ID: the monuments sit right on the border zone with BGB checkposts."
+  },
+  "mustVisit": [
+    {
+      "name": "Choto Sona Masjid (Small Golden Mosque)",
+      "type": "religious",
+      "description": "A stone-and-terracotta Sultanate mosque whose fifteen domes were once gilded — the source of the 'golden' name. Black-basalt walls carry exquisite floral and hanging-lamp carving, the best-preserved monument of the lost Gaur capital on the border.",
+      "history": "Built between 1493 and 1519 during the reign of Sultan Alauddin Husain Shah, patronised by the courtier Wali Muhammad. Three domes and part of a wall collapsed in the 1897 Assam earthquake and were later rebuilt.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8665, 88.1380],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free / small ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 40 km northwest of Chapai town near the Sona Masjid land port, Shibganj Upazila",
+        "distanceKm": 40,
+        "transport": "Bus / CNG toward Sona Masjid land port"
+      },
+      "bestTime": "October to March",
+      "tips": [
+        "Carry photo ID — it sits in the border zone with BGB checkposts",
+        "Do the four Gaur mosques as one circuit; they're within a few km"
+      ]
+    },
+    {
+      "name": "Tahkhana Complex & Shah Niamatullah Mosque",
+      "type": "heritage",
+      "description": "A Mughal residential-and-spiritual enclave: a three-domed mosque, the tomb of the saint Shah Niamatullah Wali, a hammam (bath house) and ruined quarters around a tank. The tahkhana introduced this bath-house form to Bengal.",
+      "history": "Built by the Mughal governor Shah Shuja (1639–1660) as a retreat beside the saint's shrine, layering Mughal rule over the older Sultanate city of Gaur. It became a prototype copied later in Murshidabad and Dhaka.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8700, 88.1400],
+      "practical": {
+        "hours": "Daylight; mosque opens around prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Adjacent to Choto Sona Masjid, Shibganj Upazila",
+        "distanceKm": 40,
+        "transport": "Walkable from Sona Masjid"
+      },
+      "bestTime": "October to March",
+      "tips": [
+        "Dress modestly — it is an active shrine with pilgrims",
+        "Combine with Sona Masjid on the same walk"
+      ]
+    },
+    {
+      "name": "Darasbari Mosque & Madrasa",
+      "type": "heritage",
+      "description": "A large ruined Sultanate brick mosque beside a great tank, with the remains of a madrasa ('darasbari' = house of learning) to its east — one of the earliest documented teaching mosques of the region. Roofless now, but still rich in terracotta.",
+      "history": "Built in 1479 CE by the Ilyas Shahi sultan Shamsuddin Yusuf Shah, son of Barbak Shah. The madrasa foundations across the tank are easily missed.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8730, 88.1330],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Within the Gaur monument cluster near the border, Shibganj Upazila",
+        "distanceKm": 40,
+        "transport": "CNG / auto within the Sona Masjid area"
+      },
+      "bestTime": "October to March",
+      "tips": [
+        "Go early morning — open ruins with little shade",
+        "Look for the madrasa foundations across the tank"
+      ]
+    },
+    {
+      "name": "Khania Dighi Mosque (Rajbibi Mosque)",
+      "type": "religious",
+      "description": "A single-domed Sultanate mosque on the western bank of the Khania Dighi tank, also called Rajbibi or the 'Chamchika' (bat) Mosque — compact but richly worked in terracotta, standing roughly five centuries.",
+      "history": "A late-15th-century structure within the wider Gaur monument group, long tied by local tradition to a queen ('Rajbibi'). The tank beside it is scenic at sunset.",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8690, 88.1300],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Near Sona Masjid in the Gaur cluster, Shibganj Upazila",
+        "distanceKm": 40,
+        "transport": "Walk / auto within the cluster"
+      },
+      "bestTime": "October to March; sunset for the dighi",
+      "tips": [
+        "Pairs naturally with the other three Gaur mosques",
+        "The terracotta is finest on the entrance façade"
+      ]
+    },
+    {
+      "name": "Kansat Mango Market",
+      "type": "market",
+      "description": "The largest mango wholesale market in Bangladesh and one of the biggest in Asia — growers bring fresh-picked fruit by cycle- and motor-van at dawn, and the kilo-rates fly across stacked baskets of Khirsapat, Fazli, Langra, Gopalbhog and Ashwina.",
+      "history": "Grown around the historic Kansat mango belt, whose orchard tradition is traced to a 19th-century planting. In peak season the daily trade can run into crores of taka.",
+      "image": "https://images.unsplash.com/photo-1605027990121-cbae9e0642df?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7200, 88.1500],
+      "practical": {
+        "hours": "Roughly 6–9 am for the auction action, in season",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 23 km from Chapai town, Shibganj Upazila",
+        "distanceKm": 23,
+        "transport": "Bus / CNG toward Kansat"
+      },
+      "bestTime": "Mid-May to July — the market only runs in mango season",
+      "tips": [
+        "Arrive 6–9 am for the live trade; off-season there is nothing to see",
+        "Buy straight off a grower's van for the best fruit and price"
+      ]
+    },
+    {
+      "name": "Alpana Gram (Painted Village, Tikrampur)",
+      "type": "landmark",
+      "description": "A village where Hindu families paint house walls, floors and courtyards with intricate alpana folk motifs for pujas and weddings, turning the lanes into an open-air canvas. It has become a noted draw, including for foreign visitors.",
+      "history": "A living folk-art tradition rather than a dated monument; 'Alpana Gram' gained national and international attention over the past decade as the painted lanes spread on social media and in the press.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5c8a6e7a2f3c?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7300, 88.3800],
+      "practical": {
+        "hours": "Daylight; freshest around festivals",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Tikrampur, Nachole Upazila, east of Chapai town",
+        "distanceKm": 35,
+        "transport": "CNG / bus to Nachole, then auto"
+      },
+      "bestTime": "Around Durga Puja and the wedding season, when fresh alpana is painted",
+      "tips": [
+        "It's a working village — ask before photographing homes and people",
+        "Paint is freshest in festival weeks, faded in between"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "produce",
+      "name": "Chapai Mango (Aam)",
+      "description": "The district is the mango capital of Bangladesh — Khirsapat (Himsagar), Fazli, Langra, Ashwina, Gopalbhog and Amrapali. The Khirsapat mango won a national Geographical Indication tag in 2019, the country's third GI product.",
+      "venue": "Kansat market & roadside orchards (mid-May–Jul)"
+    },
+    {
+      "type": "food",
+      "name": "Kalai Ruti",
+      "description": "The district's signature savoury — a thick flatbread of mashkalai (black-gram) flour, eaten with begun bharta, green-chilli bharta and beef. Famous for staying soft for three or four days.",
+      "venue": "Roadside 'kalai rutir adda' stalls across Chapai town"
+    },
+    {
+      "type": "food",
+      "name": "Aam Shotto (Mango Leather)",
+      "description": "Sun-dried sheets of mango pulp — the natural by-product of a mango glut, sold in season around Chapai and Kansat.",
+      "venue": "Town and Kansat market stalls (mango season)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Choto Sona Masjid (1493–1519)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8665, 88.1380]
+    },
+    {
+      "name": "Tahkhana & Shah Niamatullah Mosque",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8700, 88.1400]
+    },
+    {
+      "name": "Darasbari Mosque & Madrasa (1479)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8730, 88.1330]
+    },
+    {
+      "name": "Khania Dighi (Rajbibi) Mosque",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8690, 88.1300]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-chapainawabganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Chapainawabganj&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "National Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway e-Ticket", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": [
+        { "name": "Chapai Nawabganj Railway Station", "phone": "—" },
+        { "name": "Rohanpur Junction (Gomastapur)", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Chapainawabganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "nawabganj-sona-masjid", "title": "See the gilded domes of Choto Sona Masjid", "category": "place", "detail": "A 1490s Sultanate mosque whose fifteen domes were once gold-gilded — the best-preserved monument of the lost Gaur capital on the India border.", "whereOrHow": "Choto Sona Masjid, Shibganj", "bestTime": "Oct–Mar" },
+    { "id": "nawabganj-tahkhana", "title": "Wander the Tahkhana & Shah Niamatullah shrine", "category": "place", "detail": "A Mughal retreat of mosque, tomb and bath house built by governor Shah Shuja beside a saint's shrine.", "whereOrHow": "Tahkhana Complex, Shibganj" },
+    { "id": "nawabganj-darasbari", "title": "Stand in the ruins of Darasbari Madrasa", "category": "place", "detail": "A roofless 1479 Sultanate mosque and the foundations of one of Bengal's earliest teaching madrasas, beside a great tank.", "whereOrHow": "Darasbari, Shibganj" },
+    { "id": "nawabganj-khania-dighi", "title": "Find the 'bat mosque' at Khania Dighi", "category": "place", "detail": "A single-domed Rajbibi Mosque on a tank bank, terracotta-rich and around 500 years old.", "whereOrHow": "Khania Dighi, Shibganj", "bestTime": "Sunset" },
+    { "id": "nawabganj-kansat", "title": "Trade at the Kansat mango market", "category": "experience", "detail": "Asia-scale mango wholesale at dawn — vans piled with Khirsapat, Fazli and Langra, kilo-rates flying across the baskets.", "whereOrHow": "Kansat, Shibganj", "bestTime": "Mid-May–Jul, 6–9 am" },
+    { "id": "nawabganj-kalai-ruti", "title": "Eat kalai ruti with bharta", "category": "food", "detail": "The district's thick black-gram flatbread with begun bharta and beef — soft enough to keep for days, sold at roadside addas.", "whereOrHow": "Kalai rutir adda, Chapai town" },
+    { "id": "nawabganj-khirsapat", "title": "Taste a GI-tagged Khirsapat mango", "category": "food", "detail": "Chapai's Khirsapat (Himsagar) became Bangladesh's third GI product in 2019 — sweet, fragrant, and best straight off the orchard.", "whereOrHow": "Kansat & district orchards", "bestTime": "Jun–Jul" },
+    { "id": "nawabganj-alpana-gram", "title": "Walk the painted lanes of Alpana Gram", "category": "place", "detail": "A Nachole village where families paint walls, floors and courtyards with intricate alpana for the pujas — an open-air canvas.", "whereOrHow": "Tikrampur, Nachole", "bestTime": "Festival season" },
+    { "id": "nawabganj-nachole", "title": "Stand where the Nachole uprising rose", "category": "moment", "detail": "Nachole upazila, where Ila Mitra led the Santal-peasant Tebhaga uprising of 1950 — a landmark of Bengal's agrarian history.", "whereOrHow": "Nachole Upazila" },
+    { "id": "nawabganj-padma", "title": "Sit by the Padma and Mahananda", "category": "experience", "detail": "The great rivers that ring the westernmost district — wide, slow water and char sunsets at the edge of the country.", "whereOrHow": "Chapai town riverbanks", "bestTime": "Oct–Mar" },
+    { "id": "nawabganj-sona-masjid-port", "title": "Look across at the Sona Masjid land port", "category": "experience", "detail": "Bangladesh's busy western land gateway to India's Malda, beside the Gaur monument cluster.", "whereOrHow": "Sona Masjid land port, Shibganj" },
+    { "id": "nawabganj-aam-shotto", "title": "Buy aam shotto in mango season", "category": "food", "detail": "Sun-dried sheets of mango pulp — the sweet, chewy by-product of the country's biggest mango harvest.", "whereOrHow": "Town & Kansat market stalls", "bestTime": "Jun–Aug" }
+  ],
+  "foods": [
+    { "name": "Chapai Mango (Aam)", "description": "The mango capital's pride — Khirsapat (GI-tagged 2019), Fazli, Langra, Ashwina, Gopalbhog and Amrapali, sweetest straight off the orchard.", "whereToFind": "Kansat market & roadside orchards (mid-May–Jul)" },
+    { "name": "Kalai Ruti", "description": "A thick mashkalai (black-gram) flatbread eaten with begun bharta, green-chilli bharta and beef — famous for staying soft three or four days.", "whereToFind": "Roadside kalai rutir adda stalls across Chapai town" },
+    { "name": "Aam Shotto (Mango Leather)", "description": "Sun-dried sheets of mango pulp — the chewy, natural by-product of the mango glut.", "whereToFind": "Town and Kansat market stalls (mango season)" },
+    { "name": "Adi Chamcham", "description": "A local sweet specialty of Chapai Nawabganj, sold at the town's old sweet shops.", "whereToFind": "Chapai town sweet shops" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Bir Sreshtho Mohiuddin Jahangir",
+      "knownFor": "Freedom fighter and recipient of the Bir Sreshtho, Bangladesh's highest gallantry award. He was killed on 14 December 1971 at Rehaichar on the Mahananda river while leading the assault that liberated Chapai Nawabganj town; he was born in Rahimganj village of Babuganj, Barisal.",
+      "era": "1949 – 1971"
+    },
+    {
+      "name": "Ila Mitra",
+      "knownFor": "Peasant-movement leader remembered as 'Nacholer Rani' for leading the Santal-peasant Tebhaga (Nachole) uprising of 1950 in this district's Nachole upazila, for which she was arrested and tortured. She was born in Kolkata in 1925, with ancestral roots in Bagutia, Jhenaidah.",
+      "era": "1925 – 2002"
+    }
+  ],
+  "didYouKnow": [
+    "Chapai Nawabganj is the mango capital of Bangladesh — its Khirsapat (Himsagar) mango earned a Geographical Indication tag in 2019, the country's third GI product after Jamdani and Hilsa.",
+    "Kansat hosts the largest mango wholesale market in Bangladesh and one of the biggest in Asia, trading crores of taka a day at the season's peak.",
+    "The district holds the Bangladesh side of the ruins of Gaur (Gauda), capital of the Bengal Sultanate, whose archaeological zone straddles the India border — the rest lies in Malda, West Bengal.",
+    "The Choto Sona Masjid originally carried fifteen gilded domes, which is how the 'golden mosque' got its name.",
+    "The local kalai ruti — a black-gram flatbread — stays soft and edible for three or four days, unusual for any flatbread.",
+    "It is the westernmost district of Bangladesh, bordering India's Malda and Murshidabad, with the busy Sona Masjid land port and the Rohanpur international rail junction."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Chapai Nawabganj Sadar Model Thana", "phone": "—" },
+      { "name": "Shibganj Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Chapai Nawabganj 250-Bed General Hospital", "phone": "—" },
+      { "name": "Shibganj Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
