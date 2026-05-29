@@ -1,0 +1,291 @@
+{
+  "name": "Kishoreganj",
+  "division": "Dhaka",
+  "tagline": "Land of the great Sholakia Eid jamaat and the wide haor — Isa Khan's fort at Jangalbari, the Pagla Mosque's famous donation boxes, and the all-weather road across an inland sea.",
+  "stats": {
+    "area": "2,688.59 sq km",
+    "population": "2,911,907",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "The two Eid jamaats at Sholakia (Eid-ul-Fitr and Eid-ul-Adha) are the single biggest draw. For the haor, July–September (monsoon) is the iconic season, when the wetlands fill and villages look like floating islands; November–February suits the historic sites and easy land travel.",
+    "gettingThere": "About 135 km from Dhaka. Rail is a genuine option — the Egarosindur Provati, Egarosindur Godhuli and Kishoreganj Express run Dhaka–Kishoreganj (~4 hr). By road, go via Bhairab.",
+    "difficulty": "Easy to the town and rail-linked sites. The haor upazilas (Itna–Mithamoin–Austagram, Nikli) are seasonal — in monsoon you travel by boat, while the 29.73 km Itna–Mithamoin–Austagram all-weather road (opened 2020) now allows year-round road access across the haor."
+  },
+  "mustVisit": [
+    {
+      "name": "Sholakia Eidgah Maidan",
+      "type": "religious",
+      "description": "The vast Eidgah where Bangladesh's largest Eid congregation gathers — recent jamaats have drawn 400,000 to 600,000 worshippers — on the bank of the Narsunda River.",
+      "history": "Founded in 1828 by Sayyid Ahmad, who organised the first Eid jamaat here with about 125,000 attendees — the source of the name 'Sholakia' (shoa + lakh = 1.25 lakh). The ~7-acre ground was partly donated in 1950 by a descendant of Isa Khan.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4500, 90.7800],
+      "practical": {
+        "hours": "Busiest on the two Eid mornings",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kishoreganj Sadar, on the Narsunda",
+        "distanceKm": 2,
+        "transport": "Rickshaw/auto within town"
+      },
+      "bestTime": "Eid-ul-Fitr and Eid-ul-Adha mornings",
+      "tips": [
+        "On Eid the crowds are enormous — plan transport well ahead",
+        "On ordinary days it is a quiet open ground by the river"
+      ]
+    },
+    {
+      "name": "Jangalbari Fort",
+      "type": "historical",
+      "description": "The ~40-acre fort at Jangalbari that became Isa Khan's second capital, with a three-domed mosque attributed to him on the site.",
+      "history": "Isa Khan (1536–1599), chief of the 16th-century Baro-Bhuiyan who resisted the Mughals, captured Jangalbari in 1585 from the Koch rulers; his descendants later moved the family here from Sonargaon. Much of the fort was lost in a late-19th-century earthquake.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.5000, 90.9200],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Jangalbari, Karimganj upazila",
+        "distanceKm": 14,
+        "transport": "Road/CNG from Kishoreganj town"
+      },
+      "bestTime": "Cool, dry months",
+      "tips": [
+        "Look for the old three-domed mosque attributed to Isa Khan",
+        "Pair with the Egarosindur mosques nearby"
+      ]
+    },
+    {
+      "name": "Shah Mahmud & Sadi Mosques, Egarosindur",
+      "type": "religious",
+      "description": "Two single-domed Mughal-era mosques standing about 250 m apart at Egarosindur, in the old fort area on the bank of the Brahmaputra.",
+      "history": "The Sadi Mosque was built in 1652 (1062 AH) by Sadi, son of Shaikh Shiru, dated by an inscription over its mihrab. The nearby Shah Mahmud Mosque followed around 1664, raised by a local merchant during Subedar Shaista Khan's time. The two pair naturally on one visit.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3000, 90.7000],
+      "practical": {
+        "hours": "Daytime; respect prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Egarosindur, Pakundia upazila",
+        "distanceKm": 25,
+        "transport": "Road via Pakundia, then local auto"
+      },
+      "bestTime": "Daytime for the architecture",
+      "tips": [
+        "The two mosques are a short walk apart — see both",
+        "The riverside fort area rewards a slow wander"
+      ]
+    },
+    {
+      "name": "Pagla Mosque",
+      "type": "religious",
+      "description": "A historic riverside mosque in the Harua area of Kishoreganj town, nationally famous for its donation boxes — a single opening in 2025 yielded a record sum in cash, gold and foreign currency.",
+      "history": "On the bank of the Narsunda, the mosque draws donations from devotees who believe their wishes will be fulfilled; its boxes, opened every few months, have together yielded sums crossing a hundred crore taka. A large new mosque complex is being developed.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4300, 90.7800],
+      "practical": {
+        "hours": "Daytime; respect prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Harua, Kishoreganj town",
+        "distanceKm": 2,
+        "transport": "Rickshaw within town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "It is an active mosque — dress modestly and be quiet",
+        "Sits right on the Narsunda riverbank"
+      ]
+    },
+    {
+      "name": "Chandrabati Shiv Mandir",
+      "type": "culture",
+      "description": "A late-16th-century Shiva temple at Patuari with fine ornamental brickwork, linked to Chandrabati — widely regarded as the first woman poet of the Bengali language.",
+      "history": "Built by Dwija Bangshi Das in the late 1500s, the temple is associated with his daughter Chandrabati (born c. 1550 at Patuari), known for her woman-centred Ramayana. It still shows delicate terracotta and brick ornament.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4000, 90.7800],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Patuari, Kishoreganj Sadar area",
+        "distanceKm": 8,
+        "transport": "CNG/auto from town"
+      },
+      "bestTime": "Daytime for the brickwork",
+      "tips": [
+        "Read a little of Chandrabati's Ramayana first",
+        "A quiet, lesser-visited literary heritage spot"
+      ]
+    },
+    {
+      "name": "The Haor & Itna–Mithamoin–Austagram Road",
+      "type": "nature",
+      "description": "Kishoreganj's great wetlands — in monsoon a sheet of water dotted with island-villages, crossed by the famous 29.73 km all-weather road that runs straight across the haor between Itna, Mithamoin and Austagram.",
+      "history": "Nearly half the district is haor; four upazilas (Itna, Mithamoin, Austagram, Nikli) are wholly wetland. The all-weather road, opened to traffic in 2020, lets you drive across the haor year-round, running alongside the Dhanu and Baulai rivers.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4800, 91.0500],
+      "practical": {
+        "hours": "Daylight; sunrise and sunset are best",
+        "entryFee": "Boat hire by negotiation in the wet season",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Itna/Mithamoin/Austagram and Nikli upazilas",
+        "distanceKm": 30,
+        "transport": "Road to the haor; rented boats in monsoon"
+      },
+      "bestTime": "July–September for the flooded haor; the road is open year-round",
+      "tips": [
+        "Agree boat fares before setting off in the wet season",
+        "Nikli Haor is the easiest haor day-trip from town"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "festival",
+      "name": "Sholakia Eid Jamaat",
+      "description": "One of the largest Eid congregations in the subcontinent — hundreds of thousands gather at the Sholakia Eidgah on the two Eid mornings, on the bank of the Narsunda.",
+      "timing": "Eid-ul-Fitr and Eid-ul-Adha",
+      "coordinates": [24.4500, 90.7800]
+    },
+    {
+      "type": "food",
+      "name": "Haor Freshwater Fish",
+      "description": "The wetlands yield abundant freshwater fish — fried fresh or in light curries at the haor cafés and town eateries, the signature meal of the region.",
+      "venue": "Haor cafés (Nikli, Mithamoin) and Kishoreganj town"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Jangalbari Fort (Isa Khan's capital)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.5000, 90.9200]
+    },
+    {
+      "name": "Shah Mahmud (1664) & Sadi (1652) Mosques, Egarosindur",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3000, 90.7000]
+    },
+    {
+      "name": "Sholakia Eidgah (1828)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4500, 90.7800]
+    },
+    {
+      "name": "Chandrabati Shiv Mandir (late 16th c.)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4000, 90.7800]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-kishoreganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Kishoreganj&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Kishoreganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Kishoreganj&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "kishoreganj-sholakia", "title": "Stand at the Sholakia Eid jamaat", "category": "experience", "detail": "One of the subcontinent's largest Eid congregations, hundreds of thousands strong on the bank of the Narsunda.", "whereOrHow": "Sholakia Eidgah, Kishoreganj Sadar", "bestTime": "Eid mornings" },
+    { "id": "kishoreganj-jangalbari", "title": "Visit Isa Khan's Jangalbari Fort", "category": "place", "detail": "The ~40-acre fort that became the Baro-Bhuiyan leader's second capital, with his attributed mosque.", "whereOrHow": "Jangalbari, Karimganj" },
+    { "id": "kishoreganj-egarosindur", "title": "See the Egarosindur mosques", "category": "place", "detail": "The Sadi (1652) and Shah Mahmud (1664) Mughal mosques in the old riverside fort area.", "whereOrHow": "Egarosindur, Pakundia" },
+    { "id": "kishoreganj-pagla", "title": "Visit the Pagla Mosque", "category": "place", "detail": "The riverside mosque famous for donation boxes that yield record sums each opening.", "whereOrHow": "Harua, Kishoreganj town" },
+    { "id": "kishoreganj-haor-monsoon", "title": "See the haor flooded in monsoon", "category": "moment", "detail": "An inland sea of water dotted with island-villages, crossed by boat from Nikli or Mithamoin.", "whereOrHow": "Nikli / Itna–Mithamoin–Austagram", "bestTime": "July–September" },
+    { "id": "kishoreganj-haor-road", "title": "Drive the all-weather haor road", "category": "experience", "detail": "The 29.73 km road that runs straight across the haor between Itna, Mithamoin and Austagram.", "whereOrHow": "Itna–Mithamoin–Austagram" },
+    { "id": "kishoreganj-chandrabati", "title": "Find the Chandrabati temple", "category": "place", "detail": "A late-16th-century Shiva temple linked to the first woman poet of Bengali, Chandrabati.", "whereOrHow": "Patuari, Kishoreganj Sadar" },
+    { "id": "kishoreganj-ray-masua", "title": "Trace the Ray family roots at Masua", "category": "place", "detail": "The ancestral village of Upendrakishore and Sukumar Ray (Satyajit Ray's grandfather and father).", "whereOrHow": "Masua, Katiadi" },
+    { "id": "kishoreganj-haor-fish", "title": "Eat fresh haor fish", "category": "food", "detail": "Freshwater fish straight from the wetlands, fried fresh or in light curries.", "whereOrHow": "Haor cafés and town eateries" },
+    { "id": "kishoreganj-pitha", "title": "Taste winter pithas", "category": "food", "detail": "Bhapa pitha and other rice-cakes, a strong seasonal folk-food tradition here.", "whereOrHow": "Winter markets across the district", "bestTime": "Winter" },
+    { "id": "kishoreganj-boat-ride", "title": "Take a haor boat at golden hour", "category": "moment", "detail": "Glide over the still water as the light drops — the truest way to feel the haor.", "whereOrHow": "Nikli and Mithamoin", "bestTime": "Monsoon dusk" },
+    { "id": "kishoreganj-train", "title": "Arrive on the Egarosindur Express", "category": "experience", "detail": "Inland Kishoreganj genuinely has rail — ride the Dhaka–Kishoreganj train through the green country.", "whereOrHow": "Kishoreganj railway station" }
+  ],
+  "foods": [
+    { "name": "Haor Freshwater Fish", "description": "Abundant freshwater fish from the wetlands — fried fresh or in light curries, the signature haor meal.", "whereToFind": "Haor cafés (Nikli, Mithamoin) and town eateries" },
+    { "name": "Bhapa & Winter Pitha", "description": "Steamed and filled rice-flour cakes made through the cool months — a strong local folk-food tradition.", "whereToFind": "Winter markets across the district" },
+    { "name": "Balish Mishti (Regional)", "description": "The pillow-shaped chhana sweet sold widely in Kishoreganj's shops — though its heritage GI home is neighbouring Netrokona.", "whereToFind": "Sweet shops in Kishoreganj and Bhairab" },
+    { "name": "Chhana Sweets", "description": "Milk-and-chhana sweets from the Bhairab–Kishoreganj confectioners, a regional staple.", "whereToFind": "Sweet shops in the district towns" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Chandrabati",
+      "knownFor": "Widely regarded as the first woman poet of the Bengali language, known for her woman-centred Ramayana — born around 1550 at Patuari, Kishoreganj.",
+      "era": "c. 1550 – 16th century"
+    },
+    {
+      "name": "Upendrakishore Ray Chowdhury",
+      "knownFor": "Pioneering children's writer, illustrator and printing technologist who founded the magazine Sandesh — born in 1863 at Masua village, Katiadi, Kishoreganj.",
+      "era": "1863 – 1915"
+    },
+    {
+      "name": "Sukumar Ray",
+      "knownFor": "Master of Bengali nonsense verse (Abol Tabol), son of Upendrakishore and father of Satyajit Ray; the Ray family's ancestral home is at Masua, Katiadi.",
+      "era": "1887 – 1923"
+    }
+  ],
+  "didYouKnow": [
+    "Sholakia hosts one of the largest Eid congregations in the subcontinent — recent jamaats have drawn 400,000 to 600,000 worshippers; the name encodes 'shoa lakh' (1.25 lakh), the turnout at the very first jamaat in 1828.",
+    "The Pagla Mosque's donation boxes once yielded a record sum in a single opening — many crore taka in cash, plus sacks of gold and foreign currency.",
+    "Nearly half of Kishoreganj is haor wetland; four upazilas are wholly haor, and the 29.73 km Itna–Mithamoin–Austagram all-weather road (opened 2020) cuts straight across them.",
+    "The Ray family — Upendrakishore and his son Sukumar, grandfather and father of Satyajit Ray — trace their roots to Masua village in Katiadi.",
+    "Isa Khan, the 16th-century leader of the Baro-Bhuiyan who resisted the Mughals, made Jangalbari Fort his second capital after capturing it in 1585."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Kishoreganj Sadar Model Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Kishoreganj 250-Bed General (Sadar) Hospital", "phone": "—" },
+      { "name": "Shaheed Syed Nazrul Islam Medical College Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
