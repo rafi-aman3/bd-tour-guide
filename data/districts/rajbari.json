@@ -1,0 +1,279 @@
+{
+  "name": "Rajbari",
+  "division": "Dhaka",
+  "tagline": "A railway-and-river town on the Padma — the busy Daulatdia ferry crossing, the old steamer ghat at Goalundo, Mir Mosharraf Hossain's estate, and kheer chomchom in the bazaar.",
+  "stats": {
+    "area": "1,092.28 sq km",
+    "population": "1,189,818",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March, when the weather is cool and dry and the Padma banks and ferry crossings are at their calmest. Avoid June–September, when the river swells and bank erosion and ferry disruptions peak.",
+    "gettingThere": "Rajbari sits on the south bank of the Padma. By road from Dhaka it is ~120 km via the Daulatdia–Paturia ferry crossing (Gabtali buses). By rail it is a historic junction on the Poradah–Goalundo line, served by the Madhumati Express (Dhaka–Rajshahi via Rajbari) and other intercity trains.",
+    "difficulty": "Easy to moderate. Town and main sites are accessible; rural sites like Padamdi in Baliakandi need local transport, and ferry timing can add unpredictable delays."
+  },
+  "mustVisit": [
+    {
+      "name": "Daulatdia Ferry Ghat",
+      "type": "nature",
+      "description": "One of Bangladesh's largest and busiest Padma ferry terminals, on the south bank, linking western Bangladesh to Dhaka via Paturia — ferries run nearly around the clock.",
+      "history": "Daulatdia became the great western gateway to the capital, handling heavy truck, bus and car traffic across the river. It has also borne the brunt of severe Padma erosion, with parts of the terminal repeatedly lost to the river.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7800, 89.7400],
+      "practical": {
+        "hours": "Ferries run through the day and night",
+        "entryFee": "Ferry fares apply",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Goalanda upazila, on the Padma",
+        "distanceKm": 12,
+        "transport": "Bus/CNG to Daulatdia"
+      },
+      "bestTime": "Daylight for the river bustle",
+      "tips": [
+        "Watch the constant ferry traffic across the wide Padma",
+        "The crossing connects to Paturia in Manikganj"
+      ]
+    },
+    {
+      "name": "Goalundo Ghat",
+      "type": "historical",
+      "description": "The historic rail-and-steamer terminus where, from 1870, travellers from Kolkata left the train and boarded overnight steamers to Dhaka — now largely lost to the Padma.",
+      "history": "The Eastern Bengal Railway reached Goalundo on 31 December 1870, making it the great interchange where rail met river. Daily steamers ran to Narayanganj, Chandpur, Barisal and beyond; the direct Kolkata train ran until 1964. Much of the old ghat has since been claimed by Padma erosion.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7300, 89.7800],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Goalanda upazila, on the Padma",
+        "distanceKm": 14,
+        "transport": "Bus/CNG to Goalanda"
+      },
+      "bestTime": "Daytime for the river and its history",
+      "tips": [
+        "A place to picture the old Kolkata–Dhaka steamer journey",
+        "Pair with Daulatdia ghat nearby"
+      ]
+    },
+    {
+      "name": "Mir Mosharraf Hossain Memorial & Tomb, Padamdi",
+      "type": "culture",
+      "description": "The ancestral Padamdi Nawab estate and burial place of Mir Mosharraf Hossain, author of Bishad Sindhu, with a memorial complex around his tomb.",
+      "history": "Mir Mosharraf Hossain (1847–1911), the first major prose writer of Muslim Bengal, spent most of his life on this estate (then Faridpur, now Rajbari) and was buried here at Padamdi. The Ministry of Culture built the memorial centre around his tomb in 1999, managed by Bangla Academy.",
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6800, 89.5400],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Padamdi, Nawabpur union, Baliakandi upazila",
+        "distanceKm": 28,
+        "transport": "Bus to Baliakandi, then local transport"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Read a little of Bishad Sindhu before you go",
+        "A quiet literary-heritage pilgrimage"
+      ]
+    },
+    {
+      "name": "Rajbari Railway Station",
+      "type": "historical",
+      "description": "A historic active rail junction — the colonial-era station that gave Rajbari its identity as a railway town.",
+      "history": "Established on 1 January 1871 on the Poradah–Goalundo Ghat line, the station was a core node of the Eastern Bengal Railway and the reason the town grew. It remains an active junction served by the Madhumati Express and other intercity trains.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7600, 89.6500],
+      "practical": {
+        "hours": "Train services through the day",
+        "entryFee": "Free to view",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Rajbari Sadar, town centre",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "Feel the old railway-town character around the station",
+        "Catch the Madhumati Express toward Rajshahi or Dhaka"
+      ]
+    },
+    {
+      "name": "Godar Bazar (Padma Riverbank)",
+      "type": "nature",
+      "description": "A popular riverbank promenade and market on the Padma just outside Rajbari town, busy on weekends for sunset views and local food.",
+      "history": "Godar Bazar has become the town's favourite riverside gathering spot, where families come for the breeze, the wide river and street snacks, especially on holidays.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7400, 89.6200],
+      "practical": {
+        "hours": "Best in the late afternoon",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Rajbari Sadar, on the Padma bank",
+        "distanceKm": 4,
+        "transport": "Rickshaw/CNG from town"
+      },
+      "bestTime": "Late afternoon for the sunset",
+      "tips": [
+        "Go at golden hour for the river view",
+        "Try the riverside snacks on a weekend"
+      ]
+    },
+    {
+      "name": "UK Beach, Urakanda",
+      "type": "nature",
+      "description": "A 'beach-like' Padma riverbank spot at Urakanda in Rajbari Sadar — locally nicknamed UK Beach — with river views, food stalls and sitting areas.",
+      "history": "A recent, locally popular day-trip spot that has grown up on the Padma bank at Urakanda, drawing town families for the open river and a relaxed riverside afternoon.",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7500, 89.6000],
+      "practical": {
+        "hours": "Best in the afternoon",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Urakanda, Rajbari Sadar",
+        "distanceKm": 8,
+        "transport": "CNG/bike from Rajbari town"
+      },
+      "bestTime": "Afternoon for the river and the light",
+      "tips": [
+        "A casual riverside outing close to town",
+        "Pair with Godar Bazar for a full Padma afternoon"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Kheer Chomchom",
+      "description": "Rajbari's signature sweet — a chomchom heavily coated in khoya/kheer, its outer shell breaking to a syrup-soaked interior. Distinct from Tangail's Porabari chamcham.",
+      "venue": "Rajbari town sweet shops"
+    },
+    {
+      "type": "food",
+      "name": "Goalondo Steamer Curry",
+      "description": "A famous, deceptively simple chicken curry created by the boatmen of the Goalondo–Narayanganj steamers, cooked with mustard oil, onion, ginger, garlic and green chilli.",
+      "venue": "Originating at Goalondo Ghat, Goalanda"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Mir Mosharraf Hossain Memorial & Tomb, Padamdi",
+      "image": "https://images.unsplash.com/photo-1481277542470-605612bd2d61?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.6800, 89.5400]
+    },
+    {
+      "name": "Goalundo Ghat (Eastern Bengal Railway steamer terminus, 1870)",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7300, 89.7800]
+    },
+    {
+      "name": "Rajbari Railway Station (1871)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.7600, 89.6500]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-rajbari?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Rajbari&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Rajbari&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Rajbari&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "rajbari-daulatdia", "title": "Cross the Padma at Daulatdia", "category": "experience", "detail": "Ride a ferry on one of Bangladesh's busiest river crossings, the western gateway to Dhaka.", "whereOrHow": "Daulatdia Ghat, Goalanda" },
+    { "id": "rajbari-goalundo-ghat", "title": "Stand at the old Goalundo Ghat", "category": "place", "detail": "Where, from 1870, Kolkata trains met overnight steamers bound for Dhaka.", "whereOrHow": "Goalanda, on the Padma" },
+    { "id": "rajbari-mir-mosharraf", "title": "Visit Mir Mosharraf Hossain's estate", "category": "place", "detail": "The Padamdi memorial and tomb of the author of Bishad Sindhu.", "whereOrHow": "Padamdi, Baliakandi" },
+    { "id": "rajbari-railway", "title": "Feel the old railway town", "category": "experience", "detail": "Rajbari grew around its 1871 junction — ride the Madhumati Express from the historic station.", "whereOrHow": "Rajbari Railway Station" },
+    { "id": "rajbari-godar-bazar", "title": "Watch sunset at Godar Bazar", "category": "moment", "detail": "The town's favourite Padma-bank promenade, busy and golden at dusk.", "whereOrHow": "Godar Bazar, Rajbari Sadar", "bestTime": "Late afternoon" },
+    { "id": "rajbari-uk-beach", "title": "Relax at UK Beach, Urakanda", "category": "moment", "detail": "A 'beach-like' riverbank spot on the Padma with food stalls and open views.", "whereOrHow": "Urakanda, Rajbari Sadar" },
+    { "id": "rajbari-kheer-chomchom", "title": "Taste Rajbari's kheer chomchom", "category": "food", "detail": "A chomchom thickly coated in kheer, syrup-soaked within — the town's signature sweet.", "whereOrHow": "Rajbari town sweet shops" },
+    { "id": "rajbari-steamer-curry", "title": "Eat Goalondo steamer chicken curry", "category": "food", "detail": "The famous boatmen's chicken curry born on the Goalondo–Narayanganj steamers.", "whereOrHow": "Goalanda and Rajbari eateries" },
+    { "id": "rajbari-roshmalai", "title": "Try Rajbari roshmalai & shor malai", "category": "food", "detail": "Popular creamy local sweets from the town's confectioners.", "whereOrHow": "Rajbari town sweet shops" },
+    { "id": "rajbari-baul", "title": "Hear Baul songs in Pangsha", "category": "experience", "detail": "The Lalon-influenced mystic Baul tradition runs strong in Pangsha.", "whereOrHow": "Pangsha upazila" },
+    { "id": "rajbari-padma-fish", "title": "Eat fresh Padma fish", "category": "food", "detail": "River fish from the Padma, fried fresh near the ghats.", "whereOrHow": "Riverside eateries near Daulatdia/Godar Bazar" },
+    { "id": "rajbari-komola-bhog", "title": "Taste komola bhog", "category": "food", "detail": "A saffron-tinted spongy sweet, a noted Rajbari variety.", "whereOrHow": "Rajbari town sweet shops" }
+  ],
+  "foods": [
+    { "name": "Kheer Chomchom", "description": "Rajbari's signature sweet — a chomchom heavily coated in kheer, with a syrup-soaked interior; distinct from Tangail's Porabari chamcham.", "whereToFind": "Rajbari town sweet shops" },
+    { "name": "Goalondo Steamer Chicken Curry", "description": "The famous boatmen's chicken curry from the Goalondo–Narayanganj steamers, cooked with mustard oil and simple spices.", "whereToFind": "Goalanda and Rajbari eateries" },
+    { "name": "Roshmalai & Shor Malai", "description": "Popular creamy local sweets, market leaders among Rajbari's confectioners.", "whereToFind": "Rajbari town sweet shops" },
+    { "name": "Komola Bhog", "description": "A saffron- or orange-tinted spongy sweet, a noted Rajbari variety.", "whereToFind": "Rajbari town sweet shops" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Mir Mosharraf Hossain",
+      "knownFor": "Author of the classic Bishad Sindhu and the first major prose writer of Muslim Bengal; his ancestral Padamdi estate and burial place are at Baliakandi in Rajbari.",
+      "era": "1847 – 1911"
+    },
+    {
+      "name": "Qazi Motahar Hossain",
+      "knownFor": "Pioneer Bangladeshi statistician, scientist and writer who founded Dhaka University's Statistics department, and a champion chess player; his ancestral home is at Bagmara, Pangsha, Rajbari.",
+      "era": "1897 – 1981"
+    }
+  ],
+  "didYouKnow": [
+    "Daulatdia Ghat in Rajbari is one of Bangladesh's busiest Padma ferry terminals — the western gateway to Dhaka, with ferries running nearly around the clock.",
+    "Goalundo Ghat was where colonial rail met river steamers: from 1870 travellers from Kolkata broke their train journey here and continued by overnight steamer to Dhaka, until the last direct Kolkata train in 1964.",
+    "The 'Goalondo steamer curry', a beloved Bengali chicken dish, was invented by the boatmen of the Goalondo–Narayanganj steamers right here in Rajbari.",
+    "Rajbari grew up as a railway town — its station opened on 1 January 1871 as part of the Eastern Bengal Railway, and it remains an active junction today.",
+    "Mir Mosharraf Hossain, author of Bishad Sindhu and the first major prose writer of Muslim Bengal, lived on and is buried at his ancestral Padamdi estate in Baliakandi, Rajbari."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Rajbari Sadar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Rajbari Sadar (250-Bed) Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
