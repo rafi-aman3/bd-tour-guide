@@ -1,0 +1,308 @@
+{
+  "name": "Netrokona",
+  "division": "Mymensingh",
+  "tagline": "Pink china-clay hills, the Somoshwari from Meghalaya, and the home district of Humayun Ahmed, Helal Hafiz and Nirmalendu Goon.",
+  "stats": {
+    "area": "2794.28 sq km",
+    "population": "2,324,853",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March (cool, dry; Birishiri at its best, haors traversable)",
+    "gettingThere": "By train to Mohanganj or Jaria Junction on the Mymensingh–Mohonganj line, or by road from Dhaka (~5 hr) and Mymensingh (~2 hr). No airport — the nearest is Hazrat Shahjalal International, Dhaka.",
+    "difficulty": "Easy in town; the Birishiri / Bijoypur run is a long drive but the road is good. Haor trips in Mohonganj need a boat."
+  },
+  "mustVisit": [
+    {
+      "name": "China Clay Hills, Birishiri (Susang Durgapur)",
+      "type": "nature",
+      "description": "Low pink, white and grey hills of china clay above the Somoshwari river — surreal pastel slopes that have supplied Bangladesh's ceramic industry since 1960 and remain the district's signature landscape.",
+      "history": "The hills sit just inside the Bangladesh border with Meghalaya, near the Bijoypur frontier. Since 1960, ceramic companies have quarried the kaolin clay here for tiles and crockery; the cut faces have become the country's most photographed earthworks.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1820, 90.6780],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free; small charges may apply at viewing platforms",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 38 km north of Netrokona town in Susang Durgapur, Durgapur Upazila",
+        "distanceKm": 38,
+        "transport": "Bus or car to Durgapur, then easybike across the Somoshwari at Bijoypur"
+      },
+      "bestTime": "October to March, mid-morning when the colours read best",
+      "tips": [
+        "The hills cross the Somoshwari — you need to take a small boat at Bijoypur to reach the prettiest stretches",
+        "Wear closed shoes; the dry kaolin is slippery and dust-fine"
+      ]
+    },
+    {
+      "name": "Somoshwari Riverfront & Bijoypur Border",
+      "type": "nature",
+      "description": "The Somoshwari enters Bangladesh from the Garo-Khasi range at the Bijoypur border — a hilly, clear river with stone-strewn shallows in winter and a dramatic Meghalaya backdrop.",
+      "history": "Originating in India's Meghalaya, the Somoshwari is one of the few rivers in Bangladesh that carries Himalayan-edge boulders. Bijoypur is the Bangladeshi gateway; the riverbed is the working stone quarry of the district.",
+      "image": "https://images.unsplash.com/photo-1590766940554-634a7ed41450?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1850, 90.6650],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free (boat hire negotiable)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 40 km north of Netrokona town at Bijoypur, Durgapur",
+        "distanceKm": 40,
+        "transport": "Car/CNG to Durgapur, then short boat across the river"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Photography of border-fence infrastructure is restricted",
+        "Take a boat upstream past the stone-lifters for the cleanest river view"
+      ]
+    },
+    {
+      "name": "Tribal Cultural Academy (Susang Palace), Birishiri",
+      "type": "heritage",
+      "description": "The former palace of the Maharaja of Susang, now the Tribal Cultural Academy — a small museum and performance space documenting the Garo, Hajong and Achik communities of the region.",
+      "history": "Susang was an old principality whose Maharajas held this estate until the abolition of zamindari. The palace was repurposed as a cultural academy and now holds objects, photographs and an active programme on the indigenous communities of the Garo Hills foothills.",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1620, 90.6900],
+      "practical": {
+        "hours": "Typically open during day; performances seasonal",
+        "entryFee": "Nominal",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Birishiri in Susang Durgapur, ~36 km north of Netrokona town",
+        "distanceKm": 36,
+        "transport": "Bus or car to Birishiri"
+      },
+      "bestTime": "Cool months; cultural events in winter",
+      "tips": [
+        "Call ahead to time a Garo or Hajong performance",
+        "The little museum is modest — pair it with a community visit nearby"
+      ]
+    },
+    {
+      "name": "Hajong Mata Rashimoni Monument",
+      "type": "heritage",
+      "description": "A simple, dignified memorial to Rashimoni Hajong — peasant leader of the Tonk movement against British rule and the zamindari, martyred at Susang Durgapur on 31 January 1946 trying to rescue her kinswoman Kumudini Hajong from the Eastern Frontier Rifles.",
+      "history": "Rashimoni led the 1938 Tonk Andolon, a mass peasant movement against the produce-rent system that forced poor cultivators of the Susang estate to pay their landlords in grain. On the day of her death she rallied hundreds of Hajong men and women — armed with native swords, axes, bows and arrows — against the British camp at Durgapur. She and Surendra Hajong were shot dead. The monument and an annual fair on the anniversary mark her sacrifice.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1700, 90.7000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Susang Durgapur, near the Bijoypur area, ~38 km from Netrokona town",
+        "distanceKm": 38,
+        "transport": "Car or CNG to Durgapur"
+      },
+      "bestTime": "31 January for the annual commemorative fair; cool months otherwise",
+      "tips": [
+        "Read up on the Tonk Andolon before visiting — the monument is small, the history is enormous",
+        "Combine with the Tribal Cultural Academy a short distance away"
+      ]
+    },
+    {
+      "name": "Ranikhong Catholic Church",
+      "type": "religious",
+      "description": "A hilltop mission church above the Somoshwari, founded by Italian Pontifical Institute for Foreign Missions priests in the early 20th century to serve the Garo Catholic community — one of the oldest active rural Catholic centres in Bangladesh.",
+      "history": "The mission was established in 1910–11 and the present church built later in the century. The Garo community of greater Netrokona is largely Christian; Ranikhong has been its anchor parish for over a century.",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1750, 90.6800],
+      "practical": {
+        "hours": "Open during day; Sunday Mass busiest",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Near Birishiri, ~37 km from Netrokona town",
+        "distanceKm": 37,
+        "transport": "Car or CNG to Ranikhong"
+      },
+      "bestTime": "Cool months, Sunday morning",
+      "tips": [
+        "Be quietly respectful — it is a working parish",
+        "The hilltop view over the Somoshwari is the secondary draw"
+      ]
+    },
+    {
+      "name": "Mohonganj & Khaliajuri Haors",
+      "type": "nature",
+      "description": "The vast monsoon-flooded wetlands of the eastern district — open haor country that becomes an inland sea in the wet months and a checkerboard of rice paddies and water channels in the cool, dry months.",
+      "history": "The Mohonganj–Khaliajuri haor belt is part of the great north-eastern haor basin, with its own rhythm of fishing villages, boat life and waterborne markets. It is also the home upazila of novelist Humayun Ahmed, who was born at his grandfather's house in Daulatpur, Mohonganj.",
+      "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.8300, 90.9700],
+      "practical": {
+        "hours": "Daylight; sunset boat trips popular",
+        "entryFee": "Boat hire negotiable",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 35 km east of Netrokona town in Mohonganj / Khaliajuri Upazilas",
+        "distanceKm": 35,
+        "transport": "Bus or train to Mohonganj, then boat from the ghats"
+      },
+      "bestTime": "Monsoon (Jun–Sep) for the inland-sea look; cool months for green paddies and birds",
+      "tips": [
+        "Agree the boat fare before setting off",
+        "Carry sun cover — the haor has no shade"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Balish Mishti",
+      "description": "Netrokona's iconic 'pillow sweet' — a long, soft chhana-and-flour sweet topped with thick malai, first made by Gayanath Ghosh on Barhatta Road over a century ago. Awarded Bangladesh's Geographical Indication (GI) tag in 2025.",
+      "venue": "Gayanath Mistanno Bhandar & town sweet shops"
+    },
+    {
+      "type": "craft",
+      "name": "Garo & Hajong Weaves",
+      "description": "Traditional cotton weaves of the Garo and Hajong communities of the Durgapur–Birishiri belt — bright stripes and geometric panels sold at the Tribal Cultural Academy and Bijoypur stalls.",
+      "venue": "Birishiri & Durgapur"
+    },
+    {
+      "type": "festival",
+      "name": "Hajong Mata Rashimoni Mela",
+      "description": "Every 31 January, Susang Durgapur marks the martyrdom of Rashimoni Hajong with a memorial fair — speeches, song, and Hajong and Garo gatherings.",
+      "timing": "31 January",
+      "coordinates": [25.1700, 90.7000]
+    },
+    {
+      "type": "festival",
+      "name": "Wangala — Garo Harvest Festival",
+      "description": "The Garo post-harvest festival of thanksgiving — drumming, dance and feasting in the Durgapur and Kalmakanda Garo villages.",
+      "timing": "Autumn"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Tribal Cultural Academy (Susang Palace), Birishiri",
+      "image": "https://images.unsplash.com/photo-1517824806704-9040b037703b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1620, 90.6900]
+    },
+    {
+      "name": "Hajong Mata Rashimoni Monument",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1700, 90.7000]
+    },
+    {
+      "name": "Ranikhong Catholic Church",
+      "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1750, 90.6800]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-netrokona?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Netrokona&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Shyamoli Paribahan", "phone": "—" },
+        { "name": "Ena Transport", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway", "url": "https://eticket.railway.gov.bd/booking/train/search?fromcity={fromCity}&tocity=Mohanganj&doj={date}&class=SNIGDHA" }
+      ],
+      "manualBookings": [
+        { "name": "Mohonganj Station Inquiry", "phone": "—" },
+        { "name": "Jaria Jhanjail Station Inquiry", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Netrokona&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Netrokona&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "netrokona-china-clay", "title": "Walk the pink china-clay hills at Birishiri", "category": "moment", "detail": "Pastel kaolin slopes above the Somoshwari at Susang Durgapur — quarried for the country's ceramic industry since 1960 and the most photogenic earthworks in Bangladesh.", "whereOrHow": "Susang Durgapur / Bijoypur", "bestTime": "Oct–Mar, mid-morning" },
+    { "id": "netrokona-somoshwari", "title": "Take a boat across the Somoshwari at Bijoypur", "category": "experience", "detail": "Cross the hill-country river that flows out of Meghalaya — clear water over stone shallows in winter, with the Garo-Khasi range on the horizon.", "whereOrHow": "Bijoypur, Durgapur", "bestTime": "Oct–Mar, late afternoon" },
+    { "id": "netrokona-rashimoni", "title": "Pay respects at the Hajong Mata Rashimoni monument", "category": "place", "detail": "Memorial to the peasant leader of the 1938 Tonk Andolon, martyred on 31 January 1946 trying to free her kinswoman from the Eastern Frontier Rifles.", "whereOrHow": "Susang Durgapur, near Bijoypur", "bestTime": "31 Jan for the fair" },
+    { "id": "netrokona-tribal-academy", "title": "Visit the Tribal Cultural Academy at Birishiri", "category": "experience", "detail": "The old Susang Maharaja's palace, repurposed as a museum and performance space for the Garo, Hajong and Achik communities of the region.", "whereOrHow": "Birishiri, Durgapur" },
+    { "id": "netrokona-ranikhong", "title": "Visit Ranikhong Catholic Church above the river", "category": "place", "detail": "A hilltop mission established by Italian PIME priests in 1910–11, the anchor parish of the Garo Catholic community of Bangladesh for over a century.", "whereOrHow": "Ranikhong, Durgapur" },
+    { "id": "netrokona-haor", "title": "Float on a Mohonganj or Khaliajuri haor", "category": "experience", "detail": "Vast monsoon-flooded wetlands that become an inland sea — and the home upazila of Humayun Ahmed, who was born at his grandfather's house in Daulatpur, Mohonganj.", "whereOrHow": "Mohonganj / Khaliajuri ghats", "bestTime": "Jun–Sep for the inland sea" },
+    { "id": "netrokona-balish-mishti", "title": "Eat balish mishti at Gayanath Mistanno Bhandar", "category": "food", "detail": "The 'pillow sweet' first made by Gayanath Ghosh on Barhatta Road over a century ago — long, soft, malai-topped, and GI-tagged in 2025.", "whereOrHow": "Gayanath Mistanno Bhandar, Netrokona town" },
+    { "id": "netrokona-stone-river", "title": "See the Somoshwari stone-lifters at work", "category": "moment", "detail": "Hundreds of labourers wade into the cold river to lift Himalayan boulders by hand — the river economy that built the district.", "whereOrHow": "Somoshwari riverbed, Bijoypur", "bestTime": "Dry-season morning" },
+    { "id": "netrokona-humayun", "title": "Trace Humayun Ahmed's home ground", "category": "experience", "detail": "The country's most-loved modern novelist was born in 1948 at his grandfather's house in Daulatpur, Mohonganj — the haor country that runs through so much of his fiction.", "whereOrHow": "Daulatpur, Mohonganj" },
+    { "id": "netrokona-goon", "title": "Read Nirmalendu Goon on home ground", "category": "experience", "detail": "Poet of 'Hulia' and 'Swadhinota Ei Shobdoti Kibhabe Amader Holo', born 21 June 1945 at Kashaban village in Barhatta. His paddy fields and ponds are the landscape around you.", "whereOrHow": "Kashaban, Barhatta" },
+    { "id": "netrokona-hafiz", "title": "Read Helal Hafiz on home ground", "category": "experience", "detail": "Poet of 'Je Jole Agun Jhole' — one of the most-loved single Bengali poetry collections of the modern era. Born 7 October 1948 in Netrokona; Bangla Academy Award 2014.", "whereOrHow": "Netrokona town" },
+    { "id": "netrokona-wangala", "title": "Catch a Garo Wangala harvest festival", "category": "festival", "detail": "Drumming, dance and feasting in the Garo villages of Durgapur and Kalmakanda for the post-harvest thanksgiving.", "whereOrHow": "Garo villages, Durgapur & Kalmakanda", "bestTime": "Autumn" }
+  ],
+  "foods": [
+    { "name": "Balish Mishti", "description": "Netrokona's iconic 'pillow sweet' — long, soft chhana-and-flour sweet topped with thick malai, originated by Gayanath Ghosh, GI-tagged in 2025.", "whereToFind": "Gayanath Mistanno Bhandar & town sweet shops" },
+    { "name": "Somoshwari River Fish", "description": "Fresh catch from the hill-country river — small carp and barbs in light mustard curries.", "whereToFind": "Home-style restaurants, Durgapur" },
+    { "name": "Hawor Fish (Mohonganj)", "description": "Open-water catch from the eastern haors — chital, boal and other big-river fish, on the plate within hours of being caught.", "whereToFind": "Mohonganj & Khaliajuri canteens" },
+    { "name": "Garo Bamboo-Shoot Curry", "description": "Tender bamboo-shoot curry with dried fish or pork, a Garo home staple in the Durgapur villages.", "whereToFind": "Garo home-stays & Birishiri eateries" },
+    { "name": "Hajong Khichuri & Rice Beer (Chu)", "description": "Traditional Hajong khichuri and the home-brewed rice beer of Hajong households — usually shared during festivals.", "whereToFind": "Hajong villages, Susang Durgapur" },
+    { "name": "Bharta Platter", "description": "The northern bharta plate — mashed eggplant, potato, dried-fish sidol — paired with rice.", "whereToFind": "Home-style canteens, district-wide" },
+    { "name": "Khejur Gur Pitha", "description": "Winter rice-flour pithas — chitoi and bhapa — served with date-palm jaggery.", "whereToFind": "Winter morning pitha stalls" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Humayun Ahmed",
+      "knownFor": "One of the most beloved modern Bengali novelists, dramatists, screenwriters and filmmakers — author of 'Nondito Noroke', 'Shankhonil Karagar', the Himu and Misir Ali series, and countless plays. Born 13 November 1948 at his grandfather's house in Daulatpur, Mohonganj Upazila, Netrokona.",
+      "era": "1948 – 2012"
+    },
+    {
+      "name": "Helal Hafiz",
+      "knownFor": "Poet of 'Je Jole Agun Jhole' (1986) — one of the most beloved single Bengali poetry collections of the modern era. Born 7 October 1948 in Netrokona; honoured with the Bangla Academy Literary Award (2014).",
+      "era": "1948 – 2024"
+    },
+    {
+      "name": "Nirmalendu Goon",
+      "knownFor": "Major Bengali poet, author of 'Hulia' and 'Swadhinota Ei Shobdoti Kibhabe Amader Holo'. Born 21 June 1945 at Kashaban village, Barhatta Upazila, Netrokona; honoured with the Ekushey Padak.",
+      "era": "born 1945"
+    }
+  ],
+  "didYouKnow": [
+    "Netrokona became a district on 17 January 1984 when its old mahakuma was upgraded; its ten upazilas include the Garo-foothill Durgapur, the haor-edge Mohonganj and Khaliajuri.",
+    "The pink and white china-clay hills above the Somoshwari at Birishiri have supplied Bangladesh's ceramic industry since 1960 and are the country's most photographed earthworks.",
+    "Three of modern Bengali literature's most-loved voices were born here — novelist Humayun Ahmed (Mohonganj, 1948), poet Helal Hafiz (Netrokona, 1948) and poet Nirmalendu Goon (Barhatta, 1945).",
+    "Rashimoni Hajong led the 1938 Tonk Andolon — a mass peasant movement against the produce-rent system of the Susang zamindari — and was martyred at Durgapur on 31 January 1946 trying to free her kinswoman from the British camp.",
+    "Netrokona's 'balish mishti' — created by Gayanath Ghosh on Barhatta Road over a century ago — earned Bangladesh's Geographical Indication (GI) tag in 2025."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Netrokona Sadar Police Station", "phone": "—" },
+      { "name": "Durgapur Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Netrokona Sadar Hospital", "phone": "—" },
+      { "name": "Durgapur Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
