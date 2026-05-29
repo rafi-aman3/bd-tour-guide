@@ -61,15 +61,26 @@ export default async function DivisionPage({ params }: PageProps) {
           Back to country map
         </Link>
 
-        {/* Cover band */}
+        {/* Cover band — atlas plate */}
         <header className="mb-16">
-          <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold font-body text-slate-500">
-            Bangladesh · Division
+          <div className="flex items-start justify-between gap-4">
+            <div className="text-[0.7rem] tracking-[0.18em] uppercase font-semibold font-body text-slate-500">
+              Bangladesh · Division
+            </div>
+            <div className="text-[0.65rem] tracking-[0.18em] uppercase font-semibold font-body text-slate-400 tabular-nums">
+              Atlas · Plate
+            </div>
           </div>
           <h1 className="mt-3 font-display text-5xl md:text-7xl font-semibold tracking-tight text-slate-900">
             {divisionName}
           </h1>
-          <div className="mt-4 h-px w-full bg-[var(--hairline)]" />
+          <p className="mt-3 max-w-xl text-slate-600 font-body leading-relaxed">
+            {districts.length} districts — field guides and ready-made trips across the division.
+          </p>
+          <div className="mt-5 flex items-center gap-3">
+            <span className="h-1 w-12 rounded-full" style={{ backgroundColor: primaryColor }} />
+            <span className="h-px flex-1 bg-[var(--hairline)]" />
+          </div>
           <dl className="mt-5 flex flex-wrap gap-x-10 gap-y-3">
             {stats.map((s) => (
               <div key={s.label}>
@@ -114,13 +125,13 @@ export default async function DivisionPage({ params }: PageProps) {
                 <Link
                   key={slug}
                   href={`/district/${slug}`}
-                  className="group rounded-md border border-[var(--hairline)] bg-white/70 hover:bg-white transition-colors p-4 flex flex-col gap-2"
+                  className="group rounded-md border border-[var(--hairline)] bg-white/70 hover:bg-white cursor-pointer transition-colors duration-200 p-4 flex flex-col gap-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-slate-900/30"
                 >
                   <span className="text-[0.6rem] uppercase tracking-[0.16em] font-semibold font-body text-slate-400 tabular-nums">
                     {folio || "Guide"}
                   </span>
                   <span className="font-display text-lg font-semibold text-slate-900 leading-tight">{name}</span>
-                  <span className="text-[0.7rem] font-body transition-colors" style={{ color: primaryColor }}>
+                  <span className="inline-flex items-center gap-1 text-[0.7rem] font-body font-semibold transition-transform duration-200 motion-safe:group-hover:translate-x-0.5" style={{ color: primaryColor }}>
                     Open field guide →
                   </span>
                 </Link>
