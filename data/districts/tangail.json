@@ -1,0 +1,291 @@
+{
+  "name": "Tangail",
+  "division": "Dhaka",
+  "tagline": "The saree-and-sweet country northwest of Dhaka — the Atia Mosque of the 10-taka note, Bhashani's shrine at Santosh, the 201-dome mosque, Madhupur's sal forest, and Porabari chamcham.",
+  "stats": {
+    "area": "3,414.35 sq km",
+    "population": "4,037,316",
+    "established": "1969",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "October to March, the cool dry season, is best for Madhupur forest and the zamindar baris; avoid the monsoon (June–September), when the Jamuna floods.",
+    "gettingThere": "Tangail town is roughly 90 km northwest of Dhaka on the Dhaka–Tangail–Bangabandhu Bridge (N4) highway and the Dhaka–North Bengal rail corridor via the Jamuna Bridge. Frequent buses run from Mohakhali and Gabtali; intercity trains stop at Tangail station.",
+    "difficulty": "Easy — well connected by road and rail and day-trip friendly from Dhaka, though Madhupur and Gopalpur in the north take a longer ride."
+  },
+  "mustVisit": [
+    {
+      "name": "Atia Mosque",
+      "type": "religious",
+      "description": "A 1609 mosque at Atia in Delduar, blending Sultanate and Mughal styles with four octagonal corner minarets and terracotta ornament — the mosque depicted on the Bangladesh 10-taka note.",
+      "history": "Built in 1609 by Said Khan Panni, the brick mosque carries fine terracotta work. Damaged by an earthquake in 1800, it was repaired in 1837 and again in 1909. It became nationally familiar as the image on the 10-taka note first issued in 1978.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2100, 89.9300],
+      "practical": {
+        "hours": "Daytime; respect prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Atia, Delduar upazila",
+        "distanceKm": 10,
+        "transport": "CNG/auto from Tangail town"
+      },
+      "bestTime": "Daytime for the terracotta detail",
+      "tips": [
+        "Compare it with the image on the 10-taka note",
+        "Look closely at the terracotta and the corner minarets"
+      ]
+    },
+    {
+      "name": "Mawlana Bhashani's Mazar & Santosh",
+      "type": "landmark",
+      "description": "The shrine of Maulana Abdul Hamid Khan Bhashani at Santosh, on the grounds shared with Mawlana Bhashani Science & Technology University, with his museum and historic auditorium.",
+      "history": "Santosh holds the mazar of the peasant leader Bhashani (died 1976), who is buried here. On the same grounds stands MBSTU, whose foundation was laid in 1999 with classes from 2003, along with Bhashani's museum, research centre and the Shah Zamaan shrine.",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2700, 89.8900],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Santosh, Tangail Sadar",
+        "distanceKm": 4,
+        "transport": "Rickshaw/CNG within town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "A place of memory for the 'Majlum Jananeta' — visit quietly",
+        "The MBSTU campus and museum are on the same grounds"
+      ]
+    },
+    {
+      "name": "201 Dome Mosque",
+      "type": "religious",
+      "description": "A record-setting modern mosque at Gopalpur beside the Jhinai river, with 201 domes and a minaret reported as the world's tallest concrete minaret.",
+      "history": "Built by the Rafiqul Islam Welfare Trust from 2013 over five years, the mosque has 201 domes — a central dome of 81 ft and 200 surrounding domes — and a 451 ft (137 m) minaret. It holds around 15,000 worshippers, with its founders aiming for a Guinness record.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.6600, 89.8500],
+      "practical": {
+        "hours": "Daytime; respect prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "South Pathalia, Gopalpur upazila",
+        "distanceKm": 50,
+        "transport": "Bus/CNG to Gopalpur, then local transport"
+      },
+      "bestTime": "Daytime for the domes and minaret",
+      "tips": [
+        "Count the domes — there are 201",
+        "The towering minaret is visible from far off"
+      ]
+    },
+    {
+      "name": "Dhanbari Nawab Palace & Mosque",
+      "type": "historical",
+      "description": "The estate of Nawab Syed Nawab Ali Chowdhury at Dhanbari — a Mughal–European palace of 1919–23 with formal gardens, beside a historic three-domed mosque.",
+      "history": "Nawab Ali Chowdhury (1863–1929) was the first Muslim minister in British India and a key figure in founding the University of Dhaka in 1921. The palace was built between 1919 and 1923; on the grounds is the Dhanbari Mosque, which he expanded and modernised.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7400, 89.9600],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Dhanbari upazila, north of the district",
+        "distanceKm": 55,
+        "transport": "Bus to Dhanbari, then local transport"
+      },
+      "bestTime": "Daytime for the palace and gardens",
+      "tips": [
+        "Note the Nawab's role in founding Dhaka University",
+        "Pair with the historic Dhanbari Mosque on the grounds"
+      ]
+    },
+    {
+      "name": "Karatia Zamindar Bari & Saadat College",
+      "type": "historical",
+      "description": "The estate of the Karatia Panni zamindars and Government Saadat College, founded in 1926 — said to be the first college in Bangladesh established by a Muslim zamindar.",
+      "history": "Saadat College was founded in July 1926 by zamindar-educationalist Wazed Ali Khan Panni, named for his grandfather Saadat Ali Khan Panni, with Ibrahim Khan as first principal. It became a degree college in 1938 and was nationalised in 1979.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2100, 89.9300],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Karatia, on the Dhaka–Tangail highway",
+        "distanceKm": 7,
+        "transport": "CNG/auto from Tangail town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "A short ride from town on the highway",
+        "Historic college campus with an old zamindar legacy"
+      ]
+    },
+    {
+      "name": "Madhupur National Park",
+      "type": "nature",
+      "description": "One of Bangladesh's largest sal (Shorea robusta) forests, declared a national park in 1982, and home to the indigenous Garo (Mandi) people.",
+      "history": "Spanning around 20,800 acres, the forest was reserved in 1962 and made a national park in 1982. About 40% is sal forest, with some 176 plant species; the Garo (Mandi) have lived in the forest for over a century.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.6500, 90.1000],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Park entry fee applies",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Madhupur upazila, north of the district",
+        "distanceKm": 45,
+        "transport": "Bus on the Tangail–Mymensingh highway to Madhupur, then local transport"
+      },
+      "bestTime": "October–March, cool and dry",
+      "tips": [
+        "Walk the sal forest trails in the cool season",
+        "The area is also known for pineapple and jackfruit"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Porabari Chamcham",
+      "description": "Tangail's legendary syrupy sweet — a thickened-milk-crumb chamcham from Porabari village by the Dhaleshwari, given Geographical Indication status in 2024.",
+      "venue": "Porabari and Tangail town sweet shops"
+    },
+    {
+      "type": "culture",
+      "name": "Tangail Saree",
+      "description": "The handloom Tangail saree, woven for some 250 years with fine butta motifs, centred on Pathrail in Delduar — recognised as a Bangladeshi GI product in 2024.",
+      "venue": "Pathrail and Bajitpur weaving villages, Delduar",
+      "coordinates": [24.2000, 89.9000]
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Atia Mosque (1609)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2100, 89.9300]
+    },
+    {
+      "name": "Dhanbari Nawab Palace & Mosque",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.7400, 89.9600]
+    },
+    {
+      "name": "Karatia Zamindar Bari & Saadat College (1926)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2100, 89.9300]
+    },
+    {
+      "name": "Mawlana Bhashani's Mazar, Santosh",
+      "image": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2700, 89.8900]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-tangail?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Tangail&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway (Shohoz)", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Tangail&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Tangail&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "tangail-atia-mosque", "title": "See the Atia Mosque of the 10-taka note", "category": "place", "detail": "A 1609 mosque in Delduar, rich with terracotta — the very mosque on the old 10-taka note.", "whereOrHow": "Atia, Delduar" },
+    { "id": "tangail-bhashani", "title": "Visit Bhashani's shrine at Santosh", "category": "place", "detail": "The mazar of the 'Majlum Jananeta', on the grounds of MBSTU with his museum.", "whereOrHow": "Santosh, Tangail Sadar" },
+    { "id": "tangail-201-dome", "title": "Count the 201 domes at Gopalpur", "category": "place", "detail": "A modern record-setting mosque with 201 domes and a towering minaret by the Jhinai.", "whereOrHow": "South Pathalia, Gopalpur" },
+    { "id": "tangail-dhanbari", "title": "Tour Dhanbari Nawab Palace", "category": "place", "detail": "The 1919–23 palace of the Nawab who helped found Dhaka University, with a historic mosque.", "whereOrHow": "Dhanbari" },
+    { "id": "tangail-karatia", "title": "Visit Karatia & Saadat College", "category": "place", "detail": "The Panni zamindar estate and the 1926 college founded by a Muslim zamindar.", "whereOrHow": "Karatia, Tangail Sadar" },
+    { "id": "tangail-madhupur", "title": "Walk Madhupur's sal forest", "category": "moment", "detail": "One of Bangladesh's largest sal forests, a national park and home of the Garo (Mandi).", "whereOrHow": "Madhupur National Park", "bestTime": "Oct–March" },
+    { "id": "tangail-porabari", "title": "Taste Porabari chamcham", "category": "food", "detail": "The legendary ~200-year-old syrupy sweet of Porabari, a 2024 GI product.", "whereOrHow": "Porabari and Tangail town" },
+    { "id": "tangail-saree", "title": "Watch a Tangail saree being woven", "category": "experience", "detail": "The handloom saree with woven butta motifs, a ~250-year craft and 2024 GI product.", "whereOrHow": "Pathrail, Delduar" },
+    { "id": "tangail-pakutia", "title": "Find the Pakutia Zamindar Bari", "category": "place", "detail": "Three 1915 mansions in Nagarpur, now a college campus.", "whereOrHow": "Pakutia, Nagarpur" },
+    { "id": "tangail-jamuna-bridge", "title": "Cross the Bangabandhu (Jamuna) Bridge", "category": "experience", "detail": "The great multipurpose bridge over the Jamuna at the district's western edge.", "whereOrHow": "Bhuapur/Kalihati" },
+    { "id": "tangail-pineapple", "title": "Eat Madhupur pineapple", "category": "food", "detail": "The red-soil upland of Madhupur is a noted pineapple and jackfruit belt.", "whereOrHow": "Madhupur Garh area", "bestTime": "Summer" },
+    { "id": "tangail-train", "title": "Arrive by intercity train", "category": "experience", "detail": "Tangail sits on the Dhaka–North Bengal rail line via the Jamuna Bridge.", "whereOrHow": "Tangail railway station" }
+  ],
+  "foods": [
+    { "name": "Porabari Chamcham", "description": "Tangail's iconic ~200-year-old syrupy sweet from Porabari by the Dhaleshwari — a 2024 Geographical Indication product.", "whereToFind": "Porabari and Tangail town sweet shops" },
+    { "name": "Tangail-Style Chamcham & Dairy Sweets", "description": "The broader sweet-making tradition around Tangail town and Porabari, rich in milk-based sweets.", "whereToFind": "Tangail town sweet shops" },
+    { "name": "Doi (Sweet Curd)", "description": "Regional sweet curd, a common Bengali dairy treat across the district.", "whereToFind": "Sweet shops in the district towns" },
+    { "name": "Madhupur Pineapple", "description": "Pineapple and jackfruit from the red-soil upland of Madhupur Garh, a noted fruit-growing belt.", "whereToFind": "Madhupur area markets" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Maulana Abdul Hamid Khan Bhashani",
+      "knownFor": "The 'Majlum Jananeta', peasant and anti-colonial leader; born at Dhangara in Sirajganj, he died in 1976 and is buried at Santosh, Tangail, where his shrine and namesake university stand.",
+      "era": "1880 – 1976"
+    },
+    {
+      "name": "Abu Sayeed Chowdhury",
+      "knownFor": "Jurist and statesman, chair of the UN Human Rights Commission and a vice-chancellor of Dhaka University; born in 1921 at Nagbari, Tangail.",
+      "era": "1921 – 1987"
+    },
+    {
+      "name": "Nawab Syed Nawab Ali Chowdhury",
+      "knownFor": "Zamindar of Dhanbari, the first Muslim minister in British India and a key figure in founding the University of Dhaka in 1921.",
+      "era": "1863 – 1929"
+    }
+  ],
+  "didYouKnow": [
+    "The Atia Mosque, built in 1609 in Delduar, is the mosque depicted on Bangladesh's 10-taka note (first issued in 1978).",
+    "Porabari chamcham, Tangail's roughly 200-year-old syrupy sweet, won Geographical Indication status in 2024.",
+    "The Tangail saree, woven for some 250 years and centred on Pathrail in Delduar, was recognised as a Bangladeshi GI product in 2024.",
+    "Madhupur National Park is one of Bangladesh's largest sal forests and home to the indigenous Garo (Mandi) people; it was reserved in 1962 and declared a national park in 1982.",
+    "Gopalpur's 201 Dome Mosque has 201 domes and a 451 ft minaret reported as the world's tallest concrete minaret, built by the Rafiqul Islam Welfare Trust from 2013."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Tangail Sadar (Kotwali) Model Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Tangail General (250-Bed) Hospital", "phone": "—" },
+      { "name": "Mawlana Bhashani Medical College Hospital, Tangail", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
