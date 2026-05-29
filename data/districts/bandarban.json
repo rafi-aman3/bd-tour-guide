@@ -1,0 +1,275 @@
+{
+  "name": "Bandarban",
+  "division": "Chittagong",
+  "tagline": "The roof of Bangladesh — the largest, least-crowded district, holding the country's highest peaks, its grandest golden stupa, cloud-level hill resorts, and eleven Indigenous peoples living across the jhum hills.",
+  "stats": {
+    "area": "4,479.01 sq km",
+    "population": "481,106",
+    "established": "1981",
+    "attractions": "20+"
+  },
+  "guide": {
+    "bestTime": "November to February — clear skies, cool air and the famous sea-of-clouds over the ridges. The monsoon (Jun–Sep) fills the waterfalls but makes hill roads and river treks risky.",
+    "gettingThere": "By bus from Chittagong (~2–3 hr from Bahaddarhat) or overnight coach from Dhaka (~6–8 hr); there is no railway or airport in the Hill Tracts. Internal travel is by chander gari (open-top 4WD jeep). The town sights — Nilachal, Golden Temple, Meghla — are close to Bandarban town; Nilgiri, Chimbuk, Boga Lake and Nafakhum lie deep along the Thanchi and Ruma roads.",
+    "difficulty": "Easy near town; demanding in the interior. Bandarban is part of the Chittagong Hill Tracts: there are army/BGB checkpoints, foreign nationals need permission (best arranged through a registered tour operator), and Ruma/Thanchi treks require a registered local guide and registration. Access rules change without notice — always confirm the current situation locally before any trek."
+  },
+  "mustVisit": [
+    {
+      "name": "Nilgiri",
+      "type": "nature",
+      "description": "A cloud-level hilltop resort at around 2,200 ft where, on clear winter mornings, the clouds drift below the cottages. It is one of Bandarban's most photographed viewpoints, looking out over the Sangu valley and distant ranges.",
+      "history": "Developed and run by the Bangladesh Army, which is why it is well-kept but rule-bound; booking and access go through the military's tourism arrangements.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9000, 92.4100],
+      "practical": {
+        "hours": "Day visits; overnight by advance booking",
+        "entryFee": "Entry/booking via the army-run system",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 46–48 km south of Bandarban town toward Thanchi, Bandarban Sadar/Thanchi road",
+        "distanceKm": 47,
+        "transport": "Chander gari (jeep) hired for the day"
+      },
+      "bestTime": "November to February — clearest cloud views",
+      "tips": [
+        "Reserve accommodation well in advance through the army booking system",
+        "There is no public bus to the gate — hire a chander gari"
+      ]
+    },
+    {
+      "name": "Nilachal",
+      "type": "nature",
+      "description": "The closest 'sky-view' hilltop to Bandarban town, at around 1,600–2,000 ft — the easiest sunrise and sunset point, with most of the surrounding hills laid out below. The go-to introductory viewpoint for first-time visitors.",
+      "history": "Developed by the district administration and Hill District Council as a managed tourism park on a ridge just outside town.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1700, 92.2300],
+      "practical": {
+        "hours": "Daylight; dawn is best",
+        "entryFee": "Small entry/parking fee",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 5 km from Bandarban town, Bandarban Sadar",
+        "distanceKm": 5,
+        "transport": "CNG / chander gari from town"
+      },
+      "bestTime": "November to February; go at dawn for the clouds",
+      "tips": [
+        "Closest viewpoint if you have only half a day",
+        "Arrive before sunrise to beat the haze"
+      ]
+    },
+    {
+      "name": "Buddha Dhatu Jadi (Golden Temple)",
+      "type": "religious",
+      "description": "The largest Theravada Buddhist temple in Bangladesh — a gleaming Arakanese-style golden stupa on a hilltop near Balaghata, holding the country's second-largest Buddha statue. A long stairway climbs past sculptural images, a golden bell and a dragon motif.",
+      "history": "Built between 1995 and 2000 in Southeast-Asian style by Ven. U Pannya Jota Mahathera of the royal Bohmong family; the enshrined relic (dhatu) was gifted in 1994 by Myanmar's State Sangha authority.",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1500, 92.2400],
+      "practical": {
+        "hours": "Daylight; mornings are best",
+        "entryFee": "Free / small donation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 4 km from town at Balaghata, Bandarban Sadar",
+        "distanceKm": 4,
+        "transport": "CNG / chander gari from town"
+      },
+      "bestTime": "Year-round; mornings",
+      "tips": [
+        "An active place of worship — dress modestly and remove shoes",
+        "Photography may be restricted inside the sanctum; ask first"
+      ]
+    },
+    {
+      "name": "Boga Lake (Bogakain Lake)",
+      "type": "nature",
+      "description": "A deep natural lake of strikingly clear blue-green water high in the Ruma hills, ringed by forest — one of the most beloved and most remote sights in the Hill Tracts, and a staging point on the trek toward Keokradong.",
+      "history": "A natural lake long held sacred by the local Bawm community, with origin legends attached to its unusually deep, still water.",
+      "image": "https://images.unsplash.com/photo-1572125675722-238a4f1f4ea2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9500, 92.5200],
+      "practical": {
+        "hours": "Overnight trek territory",
+        "entryFee": "Guide & registration fees",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "70+ km via Ruma, then trek; Ruma Upazila",
+        "distanceKm": 75,
+        "transport": "Bus/chander gari to Ruma, then guided trek/jeep"
+      },
+      "bestTime": "October to March — dry trails",
+      "tips": [
+        "A registered local guide is mandatory and you must register at Ruma and report at army checkpoints",
+        "Routes here have opened and closed in recent years — confirm the current status locally first"
+      ]
+    },
+    {
+      "name": "Nafakhum Waterfall",
+      "type": "nature",
+      "description": "A wide, thundering waterfall on the Sangu River near Remakri, often called the 'Niagara of Bangladesh' for its volume. Reaching it is a full adventure — an engine-boat ride up the Sangu plus a two-to-three-hour riverside walk.",
+      "history": "Set deep in Remakri, Thanchi upazila, in Marma territory; it became a marquee trekking destination only as access slowly improved, and remains weather- and permit-dependent.",
+      "image": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.7800, 92.5400],
+      "practical": {
+        "hours": "Multi-day trip from Thanchi",
+        "entryFee": "Guide & boat fees",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Thanchi → boat → Remakri → trek; Thanchi Upazila",
+        "distanceKm": 80,
+        "transport": "Chander gari to Thanchi, engine boat, then trek"
+      },
+      "bestTime": "Oct–Mar for safe travel (fullest flow is post-monsoon)",
+      "tips": [
+        "A certified guide is mandatory from Thanchi and you must register there",
+        "Boats up the Sangu usually stop running by mid-afternoon — reach Thanchi early or stay overnight"
+      ]
+    },
+    {
+      "name": "Chimbuk Hill",
+      "type": "nature",
+      "description": "One of the most accessible high viewpoints, on the Bandarban–Thanchi road, with panoramic ridge views and Mro villages on the surrounding slopes. An easy half-day from town and a favourite first taste of the high hills.",
+      "history": "A long-standing landmark of the region; the slopes around it are home to Mro communities who practise jhum (hill) cultivation.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [21.9700, 92.3500],
+      "practical": {
+        "hours": "Daylight",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 24–26 km from town toward Thanchi, Bandarban Sadar",
+        "distanceKm": 25,
+        "transport": "Chander gari from town"
+      },
+      "bestTime": "November to February for clear views",
+      "tips": [
+        "Combine with Shoilo Propat waterfall on the same road",
+        "Respect Mro villages — ask before photographing people"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Bamboo Chicken",
+      "description": "Chicken marinated in spices and slow-cooked inside a sealed green bamboo tube over an open flame — the smoky signature dish of the Hill Tracts.",
+      "venue": "Hill restaurants in and around Bandarban town"
+    },
+    {
+      "type": "produce",
+      "name": "Jhum Rice & Hill Vegetables",
+      "description": "Aromatic hill rice and organically grown forest vegetables from jhum (shifting) cultivation — the backbone of everyday Indigenous cooking.",
+      "venue": "Local markets and hill villages"
+    },
+    {
+      "type": "craft",
+      "name": "Tribal Handloom Weaving",
+      "description": "Marma and other Indigenous women weave distinctive backstrap-loom textiles in bold geometric patterns — sold as wraps, bags and cloth.",
+      "venue": "Bandarban town craft shops & village weavers"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Buddha Dhatu Jadi (Golden Temple)",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1500, 92.2400]
+    },
+    {
+      "name": "Ramjadi (Ram Jadi) Buddhist Temple",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.1900, 92.2200]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-bandarban?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Bandarban&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Shyamoli Paribahan", "phone": "—" },
+        { "name": "Purbani / Purbani Express (from Chittagong)", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Bandarban&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "bandarban-nilgiri", "title": "Wake above the clouds at Nilgiri", "category": "moment", "detail": "An army-run hilltop resort at ~2,200 ft where, on clear winter mornings, the clouds sit below your cottage and the Sangu valley unrolls beyond.", "whereOrHow": "Nilgiri, Thanchi road", "bestTime": "Nov–Feb" },
+    { "id": "bandarban-nilachal", "title": "Catch sunrise at Nilachal", "category": "moment", "detail": "The closest sky-view hill to town — a sea of cloud at dawn, all of Bandarban's ridges spread below.", "whereOrHow": "Nilachal, 5 km from town", "bestTime": "Nov–Feb dawn" },
+    { "id": "bandarban-golden-temple", "title": "Climb to the Golden Temple", "category": "place", "detail": "Buddha Dhatu Jadi — the largest Theravada stupa in Bangladesh, gold against the hills, holding a relic gifted by Myanmar's monks.", "whereOrHow": "Balaghata, Bandarban Sadar" },
+    { "id": "bandarban-boga-lake", "title": "Reach the blue water of Boga Lake", "category": "place", "detail": "A deep, impossibly clear natural lake high in the Ruma hills, sacred to the Bawm — the classic CHT trek (guide and registration required).", "whereOrHow": "Boga Lake, Ruma", "bestTime": "Oct–Mar" },
+    { "id": "bandarban-nafakhum", "title": "Trek to Nafakhum, the 'Niagara of Bangladesh'", "category": "experience", "detail": "An engine-boat ride up the Sangu and a riverside walk to the country's most powerful waterfall, deep in Remakri.", "whereOrHow": "Remakri, Thanchi (guide required)", "bestTime": "Oct–Mar" },
+    { "id": "bandarban-chimbuk", "title": "Stand on Chimbuk Hill", "category": "place", "detail": "The most accessible of the high viewpoints, ridge after ridge fading into haze, with Mro villages on the slopes.", "whereOrHow": "Chimbuk, Thanchi road", "bestTime": "Nov–Feb" },
+    { "id": "bandarban-saka-haphong", "title": "Look toward Saka Haphong, the nation's roof", "category": "place", "detail": "The highest point in Bangladesh (~1,064 m) rises in Thanchi on the Myanmar border — the ultimate goal for serious hill trekkers.", "whereOrHow": "Thanchi Upazila (expedition trek)" },
+    { "id": "bandarban-bamboo-chicken", "title": "Eat bamboo chicken in the hills", "category": "food", "detail": "Chicken slow-cooked inside a green bamboo tube over fire — smoky, tender, the signature taste of the Hill Tracts.", "whereOrHow": "Hill restaurants, Bandarban town" },
+    { "id": "bandarban-sangu", "title": "Ride a boat up the Sangu River", "category": "experience", "detail": "The Sangu (Shangu) threads the deep hills toward Thanchi and Remakri — engine boats carry you into country no road reaches.", "whereOrHow": "Thanchi boat ghat", "bestTime": "Oct–Mar" },
+    { "id": "bandarban-chander-gari", "title": "Ride a chander gari over the ridges", "category": "experience", "detail": "The open-top 4WD jeep is how the hills move — grinding up switchbacks with the whole valley falling away beside you.", "whereOrHow": "Hired in Bandarban town" },
+    { "id": "bandarban-shoilo-propat", "title": "Cool off at Shoilo Propat", "category": "place", "detail": "A roadside waterfall on the Chimbuk road where Bawm villagers sell hill fruit and woven cloth.", "whereOrHow": "Shoilo Propat, Thanchi road", "bestTime": "Jun–Oct for flow" },
+    { "id": "bandarban-meghla", "title": "Wander Meghla and Prantik Lake", "category": "place", "detail": "The easy tourism complexes near town — a hanging bridge, cable car and a calm lake, good for a relaxed first afternoon.", "whereOrHow": "Meghla, near Bandarban town" }
+  ],
+  "foods": [
+    { "name": "Bamboo Chicken", "description": "Spiced chicken slow-cooked inside a sealed green bamboo tube over an open fire — the smoky signature dish of the Hill Tracts.", "whereToFind": "Hill restaurants in and around Bandarban town" },
+    { "name": "Jhum Rice & Hill Vegetables", "description": "Aromatic hill rice and forest vegetables grown by jhum (shifting) cultivation — the base of Marma and Mro home cooking.", "whereToFind": "Local markets and hill villages" },
+    { "name": "Bamboo-Shoot Curry", "description": "Tender bamboo shoot cooked with dried fish or fresh hill herbs — a tart, earthy CHT staple.", "whereToFind": "Indigenous-run eateries, Bandarban town" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Ven. U Pannya Jota Mahathera",
+      "knownFor": "Senior Theravada Buddhist monk of the Bohmong royal family who founded and built Bandarban's Buddha Dhatu Jadi (Golden Temple), the largest Theravada temple in Bangladesh, between 1995 and 2000.",
+      "era": "Contemporary"
+    }
+  ],
+  "didYouKnow": [
+    "Bandarban is the largest district in Bangladesh by area (~4,479 sq km) and among the least densely populated, at roughly 107 people per sq km.",
+    "The country's highest peak, Saka Haphong (~1,064 m / ~3,488 ft), rises in Thanchi upazila on the Myanmar border — though it is not yet officially certified, GPS surveys find no higher point in Bangladesh.",
+    "Earlier, Keokradong and Tazing Dong were each popularly called the country's highest peak before digital measurement pointed to Saka Haphong.",
+    "Bandarban holds the largest Theravada Buddhist temple in Bangladesh, the Golden Temple, enshrining a Buddha relic gifted by Myanmar's monastic authority.",
+    "It is the most ethnically diverse district in the country — home to around eleven Indigenous peoples including the Marma, Mro, Tripura, Tanchangya, Bawm, Chakma, Khumi, Chak, Khyang, Lushai and Pankho.",
+    "Bandarban is the seat of the Bohmong Circle, one of the three hereditary Chittagong Hill Tracts chieftaincies formalised under British-era administration."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Bandarban Sadar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Bandarban Sadar Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
