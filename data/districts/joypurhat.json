@@ -1,0 +1,291 @@
+{
+  "name": "Joypurhat",
+  "division": "Rajshahi",
+  "tagline": "The smallest district in Rajshahi division — a quiet northern granary of paddy and sugarcane, an ancient city sprawling across the Tulsiganga banks, and the largest state sugar mill in the country.",
+  "stats": {
+    "area": "965.44 sq km",
+    "population": "956,431",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to March — dry, cool weather for the archaeology and dighi, and the sugarcane crushing season (Dec–Mar) when the mill runs. Winter brings migratory birds to Nandail Dighi.",
+    "gettingThere": "By rail on the Chilahati–Santahar line (Joypurhat station, between Santahar and Parbatipur junctions) or by road via Bogura (~40 km). The archaeology and historic sites are spread across Panchbibi (north) and Akkelpur/Kalai (south), reachable by CNG from town.",
+    "difficulty": "Easy — short, flat CNG/auto hops to every site. A few (Lakma Rajbari, Pathorghata) sit close to the Indian border, so carry ID and avoid restricted zones."
+  },
+  "mustVisit": [
+    {
+      "name": "Nandail Dighi",
+      "type": "nature",
+      "description": "A vast historic tank — nearly 60 acres and over a kilometre long — ringed by greenery and a favourite picnic spot, with migratory birds settling on the water in winter. A grassy mound on its bank adds to the old-fort atmosphere.",
+      "history": "Believed dug around 1610 by a local ruler to provide irrigation and dry-season water; village folklore claims it was excavated in a single night. It is one of the largest historic tanks in northern Bangladesh.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0700, 89.0000],
+      "practical": {
+        "hours": "Daylight; best at sunrise or late afternoon",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 18–20 km southeast of Joypurhat town, Kalai Upazila",
+        "distanceKm": 19,
+        "transport": "CNG / auto from Joypurhat town"
+      },
+      "bestTime": "November to February — migratory birds",
+      "tips": [
+        "Carry water and snacks — few facilities on site",
+        "Early morning is best for birds and calm water"
+      ]
+    },
+    {
+      "name": "Pathorghata Archaeological Complex",
+      "type": "heritage",
+      "description": "An early-historic city sprawling across roughly 9 sq km on both banks of the Tulsiganga river — a scatter of mounds (Mission mound, Uchai mound and others) strewn with potsherds, terracotta plaques and stone sculptures, with the Sultanate-era Nimai Pir Mazar at its edge.",
+      "history": "Artefacts here span the early-historic through Gupta, Pala and Sena periods. The Nimai Pir shrine draws an annual fair in the Bengali month of Joishtho (May–June), and a 19th-century mission church serves the local Christian community.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2000, 89.0500],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 1.5 km east of Panchbibi upazila HQ, northwest of Joypurhat town",
+        "distanceKm": 22,
+        "transport": "Train / CNG to Panchbibi, then auto"
+      },
+      "bestTime": "October to March",
+      "tips": [
+        "The mission church is not a public site — ask residents before entering",
+        "Combine mound, mazar and river in one trip"
+      ]
+    },
+    {
+      "name": "Hinda-Kasba Shahi Jame Mosque",
+      "type": "religious",
+      "description": "A striking five-domed mosque — the domes standing for the five pillars of Islam — clad in glass, porcelain and mosaic in imitation of Mughal style, with a tall minaret on its north side.",
+      "history": "Built in 1958 by Pir Abdul Gafur Chishti (the 'Bagmari Pir'), with construction supervised by Abdul Khaliq Chishti. It is Mughal-inspired rather than medieval, and a much-loved local landmark.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0500, 89.1000],
+      "practical": {
+        "hours": "Daylight; avoid Friday prayer crowds for photos",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Hinda village, Borail union, ~16 km from Joypurhat town, Khetlal Upazila",
+        "distanceKm": 16,
+        "transport": "CNG / auto from town"
+      },
+      "bestTime": "Year-round",
+      "tips": [
+        "Dress modestly; ask permission before entering at prayer times",
+        "The glass-and-mosaic façade is best in morning light"
+      ]
+    },
+    {
+      "name": "Joypurhat Sugar Mill",
+      "type": "landmark",
+      "description": "The largest government-owned sugar mill in Bangladesh, spread over about 100 acres in Joypurhat town, crushing up to 14,000 tonnes of sugarcane a day. The sprawling complex and the surrounding cane belt are a regional landmark, busiest in the winter crushing season.",
+      "history": "Established in 1963. During the 1971 Liberation War the Pakistan Army used the mill as a base and held prisoners on the grounds.",
+      "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.1000, 89.0200],
+      "practical": {
+        "hours": "Working facility; entry may need permission",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In/near Joypurhat town, Joypurhat Sadar",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG within town"
+      },
+      "bestTime": "December to March — crushing season",
+      "tips": [
+        "The photogenic part is the surrounding sugarcane belt",
+        "It is a state facility — don't photograph restricted areas"
+      ]
+    },
+    {
+      "name": "Lakma Rajbari",
+      "type": "heritage",
+      "description": "A roughly 300-year-old zamindar palace near the Indian border, now in partial ruin — crumbling brick walls and old courtyards that recall the area's frontier zamindari past.",
+      "history": "Built by descendants of the Lakma Chowdhury family, attributed to Jainik Chowdhury Hadi Mamun. It sits in West Karia village close to the border in Panchbibi.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2200, 89.0000],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "West Karia village, near the Indian border, Panchbibi Upazila",
+        "distanceKm": 24,
+        "transport": "Train / CNG to Panchbibi, then auto"
+      },
+      "bestTime": "October to March",
+      "tips": [
+        "It's near the border — carry ID and avoid restricted zones",
+        "Pair with the Pathorghata visit"
+      ]
+    },
+    {
+      "name": "Barashibalaya Temple Complex",
+      "type": "religious",
+      "description": "A cluster of twelve identical Shiva temples — the 'Barashibalaya', with the adjacent Akshibalaya — standing beside the Chhoto Jamuna river at Bel-Amla. A handsome and unusual grouping of matched shrines.",
+      "history": "Built in the 19th century by a wealthy Hindu devotee, Rijiblochon Mondol. The complex remains an active worship site, liveliest at Shivaratri.",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0600, 89.0300],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Bel-Amla village, Akkelpur Upazila",
+        "distanceKm": 12,
+        "transport": "Train / CNG to Akkelpur, then auto"
+      },
+      "bestTime": "October to March; Shivaratri for the festival",
+      "tips": [
+        "An active worship site — be respectful",
+        "The riverside setting is best in daylight"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "produce",
+      "name": "Joypurhat Rice (Paddy)",
+      "description": "Called the 'granary of Rajshahi', Joypurhat is dense with high-yield paddy. Its rice is the district's headline product, traded at rural haats and grain markets.",
+      "venue": "Rural haats and town grain markets"
+    },
+    {
+      "type": "produce",
+      "name": "Sugarcane & Gur",
+      "description": "Sugarcane feeds the country's largest state sugar mill here; raw cane and gur (jaggery) are everywhere in the winter crushing months.",
+      "venue": "Around Joypurhat Sugar Mill & rural markets (Dec–Mar)"
+    },
+    {
+      "type": "produce",
+      "name": "Potato & Betel Leaf (Paan)",
+      "description": "Beyond rice, Joypurhat grows large crops of potato and betel leaf, both sold across the district's busy local markets.",
+      "venue": "District haats and wholesale markets"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Pathorghata Archaeological Complex",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2000, 89.0500]
+    },
+    {
+      "name": "Hinda-Kasba Shahi Jame Mosque",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0500, 89.1000]
+    },
+    {
+      "name": "Lakma Rajbari",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.2200, 89.0000]
+    },
+    {
+      "name": "Barashibalaya Shiva Temple Complex",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [25.0600, 89.0300]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-joypurhat?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Joypurhat&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Hanif Enterprise", "phone": "—" },
+        { "name": "SR Travels", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway e-Ticket", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": [
+        { "name": "Joypurhat Railway Station", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Joypurhat&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "joypurhat-nandail-dighi", "title": "Circle the great tank at Nandail Dighi", "category": "place", "detail": "A nearly 60-acre historic tank over a kilometre long, said to have been dug in a single night around 1610 — winter migratory birds and a quiet picnic bank.", "whereOrHow": "Nandail Dighi, Kalai", "bestTime": "Nov–Feb" },
+    { "id": "joypurhat-pathorghata", "title": "Hunt for potsherds at Pathorghata", "category": "place", "detail": "An early-historic city sprawling ~9 sq km on the Tulsiganga, with Gupta-, Pala- and Sena-era finds and the Nimai Pir shrine.", "whereOrHow": "Pathorghata, Panchbibi" },
+    { "id": "joypurhat-hinda-kasba", "title": "See the five domes of Hinda-Kasba Mosque", "category": "place", "detail": "A glass-and-mosaic five-domed mosque built in 1958 by the Bagmari Pir — Mughal in spirit, modern in date.", "whereOrHow": "Hinda village, Khetlal" },
+    { "id": "joypurhat-sugar-mill", "title": "Watch the cane crush at the sugar mill", "category": "experience", "detail": "The largest state sugar mill in Bangladesh, running flat out through the winter crushing season on the country's biggest cane belt.", "whereOrHow": "Joypurhat Sugar Mill", "bestTime": "Dec–Mar" },
+    { "id": "joypurhat-lakma-rajbari", "title": "Find Lakma Rajbari near the border", "category": "place", "detail": "A 300-year-old zamindar palace crumbling in West Karia village, right up against the Indian frontier.", "whereOrHow": "West Karia, Panchbibi" },
+    { "id": "joypurhat-barashibalaya", "title": "Count the twelve Shiva temples at Bel-Amla", "category": "place", "detail": "The Barashibalaya — twelve matched 19th-century Shiva shrines beside the Chhoto Jamuna river.", "whereOrHow": "Bel-Amla, Akkelpur" },
+    { "id": "joypurhat-nimai-pir-fair", "title": "Catch the Nimai Pir fair", "category": "experience", "detail": "A Sultanate-era shrine at Pathorghata draws a big annual mela in the Bengali month of Joishtho.", "whereOrHow": "Nimai Pir Mazar, Panchbibi", "bestTime": "May–Jun" },
+    { "id": "joypurhat-train", "title": "Roll in on the northern rail line", "category": "experience", "detail": "Joypurhat's station — open since 1884 — sits on the Chilahati–Santahar line between the Santahar and Parbatipur junctions.", "whereOrHow": "Joypurhat Railway Station" },
+    { "id": "joypurhat-tulsiganga", "title": "Walk the Tulsiganga riverbank", "category": "experience", "detail": "The small Tulsiganga winds past the Pathorghata mounds — a calm dry-season stroll through the granary countryside.", "whereOrHow": "Tulsiganga river, Panchbibi", "bestTime": "Oct–Mar" },
+    { "id": "joypurhat-gur", "title": "Buy fresh gur in the crushing season", "category": "food", "detail": "Winter brings raw cane and freshly-set jaggery to every roadside around the sugar mill.", "whereOrHow": "Rural markets near the sugar mill", "bestTime": "Dec–Mar" },
+    { "id": "joypurhat-shivaratri", "title": "Visit Bel-Amla at Shivaratri", "category": "moment", "detail": "The twelve-temple complex comes alive with worshippers and lamps on the night of Shivaratri.", "whereOrHow": "Barashibalaya, Akkelpur" },
+    { "id": "joypurhat-paan", "title": "Taste a Joypurhat paan", "category": "food", "detail": "The district grows betel leaf at scale — finish a meal with a freshly-folded local paan.", "whereOrHow": "Town markets and haats" }
+  ],
+  "foods": [
+    { "name": "Joypurhat Rice", "description": "The 'granary of Rajshahi' turns out fine, high-yield rice — the district's headline crop, traded at every rural haat.", "whereToFind": "Rural haats and town grain markets" },
+    { "name": "Gur (Cane Jaggery)", "description": "Raw sugarcane and freshly-set gur flood the district in the winter crushing months around the sugar mill.", "whereToFind": "Roadside stalls near Joypurhat Sugar Mill (Dec–Mar)" },
+    { "name": "Pitha & Payesh", "description": "Winter rice-cakes (pitha) and rice pudding (payesh) — the North Bengal home cooking that the paddy-and-gur belt is built for.", "whereToFind": "Town eateries and seasonal stalls" },
+    { "name": "Betel Leaf (Paan)", "description": "Joypurhat grows betel leaf at scale; a freshly-folded local paan is the standard end to a meal.", "whereToFind": "District markets and haats" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Khurshid Alam",
+      "knownFor": "Beloved Bangladeshi playback singer with more than 300 film songs to his name and the Ekushey Padak (2018). His family hails from Joypurhat, though he was himself born in Old Dhaka.",
+      "era": "b. 1946"
+    }
+  ],
+  "didYouKnow": [
+    "Joypurhat is the smallest district in Rajshahi division — about 965 sq km — and one of the smaller districts in all of Bangladesh.",
+    "It only became a district in 1984; before that it was a subdivision of Bogura from 1971.",
+    "The Joypurhat Sugar Mill, established in 1963, is the largest government-owned sugar mill in Bangladesh, crushing up to 14,000 tonnes of cane a day.",
+    "The Pathorghata site is an early-historic city sprawling roughly 9 sq km, with artefacts from the Gupta, Pala and Sena periods.",
+    "Nandail Dighi is a nearly 60-acre historic tank over a kilometre long — local legend says it was dug in a single night.",
+    "Joypurhat's railway station dates to 1884, on the Chilahati–Parbatipur–Santahar line between two of North Bengal's major junctions."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Joypurhat Sadar Police Station", "phone": "—" },
+      { "name": "Panchbibi Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Joypurhat Sadar Hospital (250-Bed)", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
