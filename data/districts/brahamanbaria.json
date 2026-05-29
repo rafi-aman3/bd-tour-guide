@@ -1,0 +1,290 @@
+{
+  "name": "Brahmanbaria",
+  "division": "Chittagong",
+  "tagline": "A cradle of Bengali classical music on the banks of the Titas — birthplace of sarod legend Ustad Alauddin Khan, home of a 28-foot Shiva idol and Mughal mosques, and the gateway junction of Akhaura.",
+  "stats": {
+    "area": "1,881.20 sq km",
+    "population": "3,306,563",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "October to February — cool, dry weather for the temple, the Mughal mosques and the Titas riverside. Around early September the music programmes mark Ustad Alauddin Khan's death anniversary.",
+    "gettingThere": "By rail on the Dhaka–Chittagong main line (Brahmanbaria and the major Akhaura Junction) or by road via the highway (~110 km from Dhaka). The town sights cluster on the Titas; Sarail's Arifail Mosque is ~15 km northwest, Shibpur (Alauddin Khan's home) ~25–30 km, and Akhaura ~20 km east at the India border.",
+    "difficulty": "Easy — most sites are short CNG/rickshaw or bus hops on flat land. Akhaura is a working border and land port, so carry ID and avoid photographing immigration or security points."
+  },
+  "mustVisit": [
+    {
+      "name": "Kal Bhairab Temple (Kallabhog)",
+      "type": "religious",
+      "description": "A major Shaivite temple at Medda on the bank of the Titas, housing a roughly 28-foot Shiva statue — among the tallest such idols in Bangladesh — with Kali and Parvati worshipped alongside.",
+      "history": "Local tradition says the sculptor Durgacharan Acharjee was inspired by a dream to build the idol; the present statue dates to 1905, on land donated by a Sarail landlord, Noor Muhammad.",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9570, 91.1100],
+      "practical": {
+        "hours": "Daylight; busiest at Shiva festivals",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 1.5 km from the town centre at Medda, Brahmanbaria Sadar",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG from town"
+      },
+      "bestTime": "October to February; Shivaratri for the festival",
+      "tips": [
+        "Dress modestly and remove shoes at the shrine",
+        "Pair it with a short walk along the Titas at Medda ghat"
+      ]
+    },
+    {
+      "name": "Arifail Shahi Mosque & Mazar",
+      "type": "heritage",
+      "description": "A Mughal-period mosque of 1662 in Sarail, blending Bengali and Persian features — three domes, four octagonal corner pillars and carved niches, with an attached tomb (the 'Duel Grave') to the south. A protected national monument.",
+      "history": "Built by Shah Arif when the area lay under the Sylhet Sarkar administration; the mosque is named after its founder and the adjoining graves are believed to hold his family.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0830, 91.1300],
+      "practical": {
+        "hours": "Daylight; visit outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 15 km northwest of town, near Sarail Upazila HQ",
+        "distanceKm": 15,
+        "transport": "Bus / CNG to Sarail"
+      },
+      "bestTime": "Cool months; morning light on the brickwork",
+      "tips": [
+        "It is a protected archaeological site — don't touch the carvings",
+        "Combine with the old Sarail Hatkhola area"
+      ]
+    },
+    {
+      "name": "Ustad Alauddin Khan Memorial, Shibpur",
+      "type": "heritage",
+      "description": "The ancestral home of sarod legend Ustad Alauddin Khan in Shibpur village — a pilgrimage for music lovers, with his house, a small museum, the Sur Samrat academy and the family graves nearby.",
+      "history": "Alauddin Khan founded the Sangeetangan music academy in 1956; his brother Ustad Ayet Ali Khan set up the Alauddin Music College. A mosque Alauddin built in 1898 and the family compound survive at the site.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9000, 91.0000],
+      "practical": {
+        "hours": "Daytime; confirm the museum is open before going",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25–30 km from town in Shibpur, Nabinagar Upazila",
+        "distanceKm": 28,
+        "transport": "Bus / CNG toward Nabinagar"
+      },
+      "bestTime": "Around his death anniversary (early September) for music programmes",
+      "tips": [
+        "A local guide helps locate the family compound",
+        "Bring reverence — this is a shrine of Bengali classical music"
+      ]
+    },
+    {
+      "name": "Ulchapara Jame Mosque",
+      "type": "religious",
+      "description": "A late-Mughal brick mosque on a high plinth in Ulchapara village, prized for the fine carvings inside its dome — a showcase of late-Mughal craftsmanship near town.",
+      "history": "An inscription dates it to 1730–31, built by a devout man named Mohammed Murad. It remains an active neighbourhood mosque.",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9600, 91.1000],
+      "practical": {
+        "hours": "Daylight; outside prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Within/near Brahmanbaria town, Brahmanbaria Sadar",
+        "distanceKm": 3,
+        "transport": "Rickshaw / CNG from town"
+      },
+      "bestTime": "Cool months, morning",
+      "tips": [
+        "Ask permission before photographing the interior",
+        "An easy stop alongside the Kal Bhairab temple"
+      ]
+    },
+    {
+      "name": "Titas River",
+      "type": "nature",
+      "description": "The Titas — a Meghna distributary made famous by Adwaita Mallabarman's novel 'Titas Ekti Nadir Naam' — threads through Brahmanbaria town and defines its fishing culture. The bank at Medda is the classic waterside spot.",
+      "history": "Before the modern town, Medda was a market on the Titas; the river is central to the district's identity and its best-known literary work.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9600, 91.1100],
+      "practical": {
+        "hours": "Daylight; late afternoon is best",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Runs through Brahmanbaria Sadar",
+        "distanceKm": 2,
+        "transport": "Rickshaw to Medda ghat"
+      },
+      "bestTime": "October to March, late afternoon",
+      "tips": [
+        "Best seen near Medda ghat by the Kal Bhairab temple",
+        "Pick up a copy of 'Titas Ekti Nadir Naam' for the river's story"
+      ]
+    },
+    {
+      "name": "Akhaura Junction & Land Port",
+      "type": "landmark",
+      "description": "A historic railway junction on the old Assam–Bengal line, today connecting Dhaka, Chittagong and Sylhet by rail, and a major India border crossing — now tied to Tripura by the new Akhaura–Agartala rail link.",
+      "history": "Built off the Assam–Bengal Railway (begun 1891) to carry Assam tea to Chittagong port; the lines toward Chittagong and Sylhet branch here, making it one of the country's key junctions.",
+      "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.8700, 91.2100],
+      "practical": {
+        "hours": "Working junction / border zone",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 20 km east of town, Akhaura Upazila",
+        "distanceKm": 20,
+        "transport": "Train / bus / CNG to Akhaura"
+      },
+      "bestTime": "Year-round",
+      "tips": [
+        "Don't photograph immigration or security at the land port",
+        "Carry ID near the border zone"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Chhanamukhi",
+      "description": "The district's signature sweet and a GI-tagged product (2024) — small white chhana (cottage-cheese) blocks cut into squares and fried in syrup, taking 7–8 litres of milk per kilogram. The original comes from a ~180-year-old town confectioner.",
+      "venue": "Old sweet shops in Brahmanbaria town (Mohadeb Potti area)"
+    },
+    {
+      "type": "food",
+      "name": "Chhana Milk Sweets",
+      "description": "The same dairy tradition behind Chhanamukhi fills the town's old sweet shops with a wider range of chhana-based mishti.",
+      "venue": "Brahmanbaria town sweet shops"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Arifail Shahi Mosque (1662, Sarail)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.0830, 91.1300]
+    },
+    {
+      "name": "Ulchapara Jame Mosque (1730–31)",
+      "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9600, 91.1000]
+    },
+    {
+      "name": "Ustad Alauddin Khan Memorial, Shibpur",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.9000, 91.0000]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-brahmanbaria?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Brahmanbaria&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Soudia Coach Service", "phone": "—" },
+        { "name": "Tisha / Local Dhaka coaches", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway e-Ticket", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": [
+        { "name": "Brahmanbaria Railway Station", "phone": "—" },
+        { "name": "Akhaura Junction", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Brahmanbaria&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "brahmanbaria-kal-bhairab", "title": "Stand before the 28-foot Kal Bhairab", "category": "place", "detail": "A towering 1905 Shiva idol on the Titas at Medda — among the tallest in Bangladesh, with Kali and Parvati alongside.", "whereOrHow": "Kal Bhairab Temple, Medda" },
+    { "id": "brahmanbaria-alauddin-khan", "title": "Visit Ustad Alauddin Khan's Shibpur", "category": "place", "detail": "The home village of the sarod maestro who founded the Maihar gharana and taught Ravi Shankar — a pilgrimage of Bengali classical music.", "whereOrHow": "Shibpur, Nabinagar", "bestTime": "Early Sep" },
+    { "id": "brahmanbaria-arifail", "title": "Find the Arifail Shahi Mosque", "category": "place", "detail": "A 1662 Mughal mosque in Sarail with octagonal turrets and a carved 'Duel Grave' — a protected national monument.", "whereOrHow": "Sarail Upazila" },
+    { "id": "brahmanbaria-chhanamukhi", "title": "Eat GI-tagged Chhanamukhi", "category": "food", "detail": "Brahmanbaria's signature sweet — fried chhana squares in syrup, a 180-year town tradition that won a GI tag in 2024.", "whereOrHow": "Old sweet shops, Mohadeb Potti" },
+    { "id": "brahmanbaria-ulchapara", "title": "See the carvings of Ulchapara Mosque", "category": "place", "detail": "A late-Mughal brick mosque of 1730–31 on a high plinth, famous for the fine work inside its dome.", "whereOrHow": "Ulchapara, Brahmanbaria Sadar" },
+    { "id": "brahmanbaria-titas", "title": "Sit by the Titas at Medda ghat", "category": "moment", "detail": "The river of Adwaita Mallabarman's classic novel, threading through town — fishing boats, ghats and late-afternoon light.", "whereOrHow": "Medda ghat, Brahmanbaria town", "bestTime": "Late afternoon" },
+    { "id": "brahmanbaria-akhaura", "title": "Watch the trains at Akhaura Junction", "category": "experience", "detail": "One of the country's great rail junctions and an India land port, now linked by rail to Agartala in Tripura.", "whereOrHow": "Akhaura Upazila" },
+    { "id": "brahmanbaria-music", "title": "Hear classical music in its cradle", "category": "experience", "detail": "Brahmanbaria's music academies keep alive the tradition of Alauddin and Ayet Ali Khan — time a visit to a recital or anniversary programme.", "whereOrHow": "Alauddin Khan academies, Brahmanbaria" },
+    { "id": "brahmanbaria-mostafa-kamal", "title": "Pay respects at Daruin, Akhaura", "category": "moment", "detail": "The battlefield and grave where Bir Sreshtho Mostafa Kamal made his last stand on 18 April 1971 — a national place of honour.", "whereOrHow": "Daruin village, Akhaura" },
+    { "id": "brahmanbaria-titas-gas", "title": "Cross the Titas gas country", "category": "experience", "detail": "Brahmanbaria sits over the Titas gas field, the largest in Bangladesh — the flares and pipelines are part of the landscape around Ashuganj.", "whereOrHow": "Ashuganj / Titas area" },
+    { "id": "brahmanbaria-mishti", "title": "Tour the town's sweet shops", "category": "food", "detail": "Beyond Chhanamukhi, the old confectioners turn out a full range of chhana-based mishti.", "whereOrHow": "Brahmanbaria town" },
+    { "id": "brahmanbaria-sarail", "title": "Explore old Sarail", "category": "place", "detail": "The historic Sarail seat — the Arifail mosque, old haveli quarters and the region once known for the Sarail hound.", "whereOrHow": "Sarail Upazila" }
+  ],
+  "foods": [
+    { "name": "Chhanamukhi", "description": "The district's GI-tagged signature sweet (2024) — small fried chhana squares in syrup, taking 7–8 litres of milk per kilogram.", "whereToFind": "Old sweet shops in Brahmanbaria town (Mohadeb Potti area)" },
+    { "name": "Chhana Milk Sweets", "description": "A wider range of chhana-based mishti from the same dairy tradition that produced Chhanamukhi.", "whereToFind": "Brahmanbaria town sweet shops" },
+    { "name": "Titas River Fish", "description": "Fresh river fish from the Titas — the fishing culture immortalised in Adwaita Mallabarman's novel — cooked simply with mustard and chilli.", "whereToFind": "Town eateries near Medda ghat" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Ustad Alauddin Khan",
+      "knownFor": "Sarod maestro and founder of the Maihar gharana — teacher of Ravi Shankar, Ali Akbar Khan and Nikhil Banerjee, and recipient of the Padma Vibhushan (1971). Born in Shibpur village of Brahmanbaria (Nabinagar upazila).",
+      "era": "1862 – 1972"
+    },
+    {
+      "name": "Ustad Ayet Ali Khan",
+      "knownFor": "Musician and instrument innovator — brother of Alauddin Khan — who developed the manohara and mandranad, improved the surbahar and sarod, and founded the Alauddin Music College. Born in Shibpur, Brahmanbaria.",
+      "era": "1884 – 1967"
+    },
+    {
+      "name": "Bir Sreshtho Mostafa Kamal",
+      "knownFor": "Sepoy and recipient of the Bir Sreshtho, Bangladesh's highest gallantry award. Born in Hajipur of Daulatkhan, Bhola, he was killed in action defending his position at Daruin in Akhaura, Brahmanbaria, on 18 April 1971 — where his grave and memorial now stand.",
+      "era": "1947 – 1971"
+    }
+  ],
+  "didYouKnow": [
+    "Brahmanbaria is regarded as a cradle of Bengali classical music: sarod legend Ustad Alauddin Khan, founder of the Maihar gharana and teacher of Ravi Shankar, was born in Shibpur village here.",
+    "The Titas Gas Field under the district is the largest gas field in Bangladesh — discovered in 1962 and producing from 1968.",
+    "The Kal Bhairab Temple holds a roughly 28-foot Shiva idol, made in 1905 and among the tallest in the country.",
+    "The district's signature sweet, Chhanamukhi, won a Geographical Indication tag in 2024 and takes 7–8 litres of cow's milk to make a single kilogram.",
+    "The Arifail Shahi Mosque (1662) in Sarail is a protected Mughal-era monument blending Bengali and Persian design.",
+    "Akhaura Junction — built off the 1891 Assam–Bengal Railway to move Assam tea to Chittagong port — is one of Bangladesh's major rail junctions and now anchors the Akhaura–Agartala rail link to India."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Brahmanbaria Sadar Model Thana", "phone": "—" },
+      { "name": "Akhaura Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Brahmanbaria 250-Bed General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}

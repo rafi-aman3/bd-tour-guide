@@ -25,6 +25,7 @@ export const DISTRICT_TO_DIVISION: Record<string, string> = {
   // Chittagong Division
   "bandarban": "Chittagong", "brahmanbaria": "Chittagong", "chandpur": "Chittagong", "chittagong": "Chittagong",
   "comilla": "Chittagong", "coxs-bazar": "Chittagong", "feni": "Chittagong", "khagrachhari": "Chittagong",
+  "brahamanbaria": "Chittagong",
   "lakshmipur": "Chittagong", "noakhali": "Chittagong", "rangamati": "Chittagong",
 
   // Rajshahi Division
