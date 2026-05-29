@@ -1,0 +1,292 @@
+{
+  "name": "Munshiganj",
+  "division": "Dhaka",
+  "tagline": "Historic Bikrampur on the Padma — birthplace of Atish Dipankar, a Mughal river fort at Idrakpur, thousand-year-old Buddhist ruins at Nateshwar, and fresh hilsa at Mawa.",
+  "stats": {
+    "area": "954.96 sq km",
+    "population": "1,625,416",
+    "established": "1984",
+    "attractions": "6+"
+  },
+  "guide": {
+    "bestTime": "November to February for the most pleasant weather; any clear day suits a hilsa run to Mawa.",
+    "gettingThere": "Very close to Dhaka — about 30 km — by road via the Dhaka–Munshiganj and Dhaka–Mawa highways. Mawa Ghat in Louhajang is the famous riverside stop for fresh hilsa and the gateway to the Padma Bridge (opened 2022). Buses run from Gulistan, Dhaka.",
+    "difficulty": "Easy — an easy day trip from Dhaka with good road access throughout the district."
+  },
+  "mustVisit": [
+    {
+      "name": "Idrakpur Fort",
+      "type": "historical",
+      "description": "A compact Mughal river fort in the heart of Munshiganj town, built to guard the water approaches to Dhaka, with a great round bastion and a screen wall dividing its two courts.",
+      "history": "Built around 1660 by Mir Jumla II, Subahdar of Bengal, to check Magh (Arakanese) and Portuguese pirates pushing toward Dhaka — one of a triangle of river forts with Hajiganj and Sonakanda. It is a protected monument and on UNESCO's tentative list of Mughal forts on fluvial terrains.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5450, 90.5300],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Munshiganj Sadar town centre",
+        "distanceKm": 1,
+        "transport": "Walk or rickshaw within town"
+      },
+      "bestTime": "Daytime; morning light on the bastion",
+      "tips": [
+        "Climb to the top of the round drum bastion for the view",
+        "Easy to combine with the rest of Munshiganj town"
+      ]
+    },
+    {
+      "name": "Nateshwar Buddhist Archaeological Site",
+      "type": "historical",
+      "description": "The excavated remains of a thousand-year-old Buddhist city and monastic complex at Nateshwar — stupas, monastery cells and brick-paved roads from the heart of ancient Bikrampur.",
+      "history": "Occupied roughly between the 8th and 13th centuries and excavated since 2010 by the Agrasar Bikrampur Foundation with Jahangirnagar University and Chinese archaeologists. Finds include sixteen stupas, among them Bangladesh's only pyramid-shaped stupa and its largest, alongside monastery ruins and octagonal stupas.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5000, 90.4300],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Nateshwar, Tongibari upazila",
+        "distanceKm": 14,
+        "transport": "CNG/auto from Munshiganj town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "This is the ancient capital region of Bikrampur — read up first",
+        "Pair with the Atish Dipankar memorial nearby"
+      ]
+    },
+    {
+      "name": "Birthplace of Atish Dipankar (Vajrayogini)",
+      "type": "culture",
+      "description": "The village of Vajrayogini in old Bikrampur, birthplace of Atish Dipankar Srigyan, the 11th-century Buddhist master who reformed Tibetan Buddhism, where a memorial marks his legacy.",
+      "history": "Atish Dipankar (980–1053), born here as Chandragarbha to a royal family, became one of the greatest Buddhist scholars of his age and travelled to Tibet, where his teaching transformed Tibetan Buddhism. A memorial to him stands in the area.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5200, 90.5200],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Vajrayogini, Munshiganj Sadar",
+        "distanceKm": 6,
+        "transport": "CNG/auto from Munshiganj town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "A pilgrimage point for Buddhists from across Asia",
+        "Combine with the Nateshwar excavations"
+      ]
+    },
+    {
+      "name": "Baba Adam's Mosque",
+      "type": "religious",
+      "description": "A six-domed Sultanate-era mosque at Kadi Kasba in Rampal, beside the tomb of the 15th-century preacher Baba Adam Shahid.",
+      "history": "Built in 1483 (888 AH) during the reign of Sultan Jalaluddin Fateh Shah by his officer Malik al-Muazzam, as recorded in the Arabic inscription over the central doorway. Its six equal domes in two rows are classic Bengal Sultanate work; it is a protected monument.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5500, 90.5100],
+      "practical": {
+        "hours": "Daytime; respect prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Kadi Kasba, Rampal, Munshiganj Sadar",
+        "distanceKm": 4,
+        "transport": "CNG/auto from Munshiganj town"
+      },
+      "bestTime": "Daytime for the architecture",
+      "tips": [
+        "Read the inscription dating it to 1483",
+        "The tomb of Baba Adam Shahid lies nearby"
+      ]
+    },
+    {
+      "name": "Sonarang Twin Temples",
+      "type": "religious",
+      "description": "Two ornate 19th-century Hindu temples on a single platform with a moat on three sides at Sonarang, the taller one rising to a fine octagonal spire.",
+      "history": "By their inscriptions, the larger Kali temple was built in 1843 and the smaller Shiva temple in 1886, raised by one Rupchandra. The western temple stands about 15 m high, crowned with an octagonal shikhara and kalsa finial.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4600, 90.4500],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "—",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Sonarang, Tongibari upazila",
+        "distanceKm": 12,
+        "transport": "CNG/auto from Munshiganj town"
+      },
+      "bestTime": "Daytime for the spires and brickwork",
+      "tips": [
+        "Note the moat on three sides of the platform",
+        "Pair with the Tongibari sights"
+      ]
+    },
+    {
+      "name": "Mawa Ghat & Padma Resort",
+      "type": "nature",
+      "description": "The riverside ghat at Louhajang beside the Padma Bridge, famous for fresh hilsa markets and fried-hilsa eateries, and a launching point for the island Padma Resort.",
+      "history": "Mawa grew as a busy ferry ghat and remains the place Dhaka comes for fresh Padma hilsa, even after the bridge replaced the ferries. Padma Resort, reached by boat across the water, is a popular day-trip with river views and a hilsa kitchen.",
+      "image": "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4000, 90.2700],
+      "practical": {
+        "hours": "Daytime; hilsa eateries through the day",
+        "entryFee": "Boat hire by negotiation",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "Mawa, Louhajang upazila",
+        "distanceKm": 28,
+        "transport": "Bus from Gulistan (Dhaka) or car; CNG locally"
+      },
+      "bestTime": "Daytime; hilsa season for the freshest fish",
+      "tips": [
+        "Pick your hilsa fresh and have it fried on the spot",
+        "Take a short boat ride for the Padma Bridge view"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Mawa Hilsa (Ilish)",
+      "description": "Fresh Padma hilsa, picked at the Mawa ghat market and fried or curried at the riverside eateries — the district's signature taste.",
+      "venue": "Mawa Ghat, Louhajang"
+    },
+    {
+      "type": "food",
+      "name": "Bhagyakul Sweets & Ghol",
+      "description": "Bhagyakul Bazar in Sreenagar is famous for its sandesh and chhana sweets and especially its ghol — a cool buttermilk-and-whey drink.",
+      "venue": "Bhagyakul Bazar, Sreenagar"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Idrakpur Fort (c. 1660)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5450, 90.5300]
+    },
+    {
+      "name": "Baba Adam's Mosque (1483)",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5500, 90.5100]
+    },
+    {
+      "name": "Sonarang Twin Temples (1843 & 1886)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.4600, 90.4500]
+    },
+    {
+      "name": "Nateshwar Buddhist Archaeological Site",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.5000, 90.4300]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-munshiganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Munshiganj&doj={date}&dor=" }
+      ],
+      "manualBookings": []
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Munshiganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
+      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Munshiganj&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3003" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "munshiganj-idrakpur", "title": "Climb Idrakpur Fort", "category": "place", "detail": "A Mughal river fort of c. 1660 in the heart of Munshiganj town, built to stop river pirates reaching Dhaka.", "whereOrHow": "Munshiganj Sadar" },
+    { "id": "munshiganj-nateshwar", "title": "Walk the Nateshwar Buddhist ruins", "category": "place", "detail": "A thousand-year-old Buddhist city with sixteen stupas, excavated in ancient Bikrampur.", "whereOrHow": "Nateshwar, Tongibari" },
+    { "id": "munshiganj-atish", "title": "Visit Atish Dipankar's birthplace", "category": "place", "detail": "Vajrayogini village, birthplace of the 11th-century master who reformed Tibetan Buddhism.", "whereOrHow": "Vajrayogini, Munshiganj Sadar" },
+    { "id": "munshiganj-baba-adam", "title": "See Baba Adam's Mosque", "category": "place", "detail": "A six-domed Sultanate mosque of 1483 beside the tomb of Baba Adam Shahid.", "whereOrHow": "Rampal, Munshiganj Sadar" },
+    { "id": "munshiganj-sonarang", "title": "Find the Sonarang Twin Temples", "category": "place", "detail": "Two ornate 19th-century temples (1843 and 1886) on a single moated platform.", "whereOrHow": "Sonarang, Tongibari" },
+    { "id": "munshiganj-mawa-hilsa", "title": "Eat fresh hilsa at Mawa", "category": "food", "detail": "Pick your Padma hilsa at the market and have it fried fresh on the riverbank.", "whereOrHow": "Mawa Ghat, Louhajang" },
+    { "id": "munshiganj-padma-resort", "title": "Boat across to Padma Resort", "category": "experience", "detail": "A short boat ride to the island resort for river views and a hilsa lunch.", "whereOrHow": "From Mawa, Louhajang" },
+    { "id": "munshiganj-bhagyakul-ghol", "title": "Drink Bhagyakul ghol", "category": "food", "detail": "The cool buttermilk-and-whey drink Bhagyakul Bazar is most famous for.", "whereOrHow": "Bhagyakul Bazar, Sreenagar" },
+    { "id": "munshiganj-bhagyakul-mishti", "title": "Taste Bhagyakul sweets", "category": "food", "detail": "Sandesh, chamcham and chhana sweets from the old Bhagyakul confectioners.", "whereOrHow": "Bhagyakul Bazar, Sreenagar" },
+    { "id": "munshiganj-rarikhal", "title": "See J.C. Bose's ancestral home, Rarikhal", "category": "place", "detail": "The family home and memorial of the great scientist Sir Jagadish Chandra Bose.", "whereOrHow": "Rarikhal, Sreenagar" },
+    { "id": "munshiganj-padma-bridge", "title": "View the Padma Bridge from the water", "category": "moment", "detail": "The great bridge spans the Padma off Louhajang — best seen from a Mawa boat.", "whereOrHow": "Mawa, Louhajang" },
+    { "id": "munshiganj-bikrampur", "title": "Trace ancient Bikrampur", "category": "experience", "detail": "Munshiganj is the historic Bikrampur, a capital and centre of Buddhist learning a thousand years ago.", "whereOrHow": "Across the district" }
+  ],
+  "foods": [
+    { "name": "Mawa Ilish (Padma Hilsa)", "description": "Fresh hilsa from the Padma, fried or curried at the Mawa Ghat eateries.", "whereToFind": "Mawa Ghat, Louhajang" },
+    { "name": "Bhagyakul Ghol", "description": "The signature cool buttermilk-and-whey drink of Bhagyakul Bazar.", "whereToFind": "Bhagyakul Bazar, Sreenagar" },
+    { "name": "Bhagyakul Mishti", "description": "Traditional Bengali sweets — sandesh, chamcham and chhana — from the old Bhagyakul shops.", "whereToFind": "Bhagyakul Bazar, Sreenagar" },
+    { "name": "Riverside Fried Fish", "description": "Padma-fresh fish platters fried at the Mawa riverbank stalls.", "whereToFind": "Mawa Ghat, Louhajang" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Atish Dipankar Srigyan",
+      "knownFor": "One of the great Buddhist scholars of his age, who reformed and revitalised Tibetan Buddhism — born around 980 at Vajrayogini in Bikrampur (Munshiganj).",
+      "era": "980 – 1053"
+    },
+    {
+      "name": "Brojen Das",
+      "knownFor": "Long-distance swimmer and the first Asian to swim the English Channel (1958), crossing it six times — born at Kuchiamora in Bikrampur (Munshiganj).",
+      "era": "1927 – 1998"
+    },
+    {
+      "name": "Humayun Azad",
+      "knownFor": "Poet, novelist, linguist and critic, born at Rarikhal in Sreenagar, Munshiganj — a fearless literary voice of late-20th-century Bangladesh.",
+      "era": "1947 – 2004"
+    },
+    {
+      "name": "Sir Jagadish Chandra Bose",
+      "knownFor": "Pioneering scientist of radio waves and plant physiology, whose ancestral home is at Rarikhal in Bikrampur (Munshiganj), though he was born in Mymensingh where his father was posted.",
+      "era": "1858 – 1937"
+    }
+  ],
+  "didYouKnow": [
+    "Munshiganj is the historic Bikrampur, an ancient capital of Bengal and a centre of Buddhist learning and pilgrimage over a thousand years ago.",
+    "Atish Dipankar Srigyan, who reformed Tibetan Buddhism, was born here at Vajrayogini around 980 CE.",
+    "Idrakpur Fort was built around 1660 by the Mughal governor Mir Jumla II as part of a three-fort ring to stop Magh and Portuguese river pirates from reaching Dhaka.",
+    "Excavations at Nateshwar since 2010 uncovered a roughly thousand-year-old Buddhist city with sixteen stupas — including Bangladesh's only pyramid-shaped stupa and its largest.",
+    "Brojen Das of Bikrampur became the first Asian to swim across the English Channel in 1958, and went on to cross it six times."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Munshiganj Sadar Police Station", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Munshiganj 250-Bed General Hospital", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
