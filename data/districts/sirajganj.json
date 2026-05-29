@@ -1,0 +1,297 @@
+{
+  "name": "Sirajganj",
+  "division": "Rajshahi",
+  "tagline": "The western gateway across the Jamuna — anchor of the great Bangabandhu Bridge, handloom heartland of Belkuchi and Shahzadpur, dairy country of Milk Vita, and the riverside estate where Tagore wrote 'Sonar Tori'.",
+  "stats": {
+    "area": "2,402.05 sq km",
+    "population": "3,357,706",
+    "established": "1984",
+    "attractions": "9+"
+  },
+  "guide": {
+    "bestTime": "November to February — cool, dry weather for the bridge, riverbank and terracotta temples. July to October for a full Chalan Beel and Jamuna in flood.",
+    "gettingThere": "By road or rail on the Dhaka–north corridor across the Bangabandhu Bridge (~3–4 hr from Dhaka). Sirajganj town and the Hard Point riverfront are on the Jamuna's west bank; Shahzadpur (Tagore's Kachharibari, Milk Vita) and the Hatikumrul temple lie ~25–40 km southwest.",
+    "difficulty": "Easy — the town sites and bridge zone are short road hops; Shahzadpur and Chalan Beel are day trips by bus or car. The beel needs a local boat in the wet season."
+  },
+  "mustVisit": [
+    {
+      "name": "Bangabandhu (Jamuna) Bridge & Jamuna Resort",
+      "type": "landmark",
+      "description": "The 4.8 km bridge over the Jamuna links Sirajganj on the west bank to Tangail on the east, carrying both road and rail. The adjacent Jamuna Resort and embankment viewpoints make the west-bank approach a popular stop.",
+      "history": "Opened to traffic in June 1998 — the 11th-longest bridge in the world at the time — it stitched the isolated northwest to Dhaka. A dedicated Jamuna Rail Bridge, inaugurated in 2025, now runs trains across alongside it.",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4030, 89.7790],
+      "practical": {
+        "hours": "Viewpoints open daylight; best at sunset",
+        "entryFee": "Free (resort charges separate)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 12–14 km north of Sirajganj town, Sadar/Kamarkhanda side (west bank)",
+        "distanceKm": 13,
+        "transport": "CNG / bus to the bridge approach"
+      },
+      "bestTime": "November to February; late afternoon for sunset",
+      "tips": [
+        "Stopping on the bridge deck is restricted — use the resort and embankment viewpoints",
+        "Combine with the Bangabandhu Eco Park alongside"
+      ]
+    },
+    {
+      "name": "Rabindra Kachharibari, Shahzadpur",
+      "type": "heritage",
+      "description": "The Tagore family's estate revenue house in Shahzadpur, now the Rabindra Memorial Museum — holding some 331 artefacts, including a couch, chairs, piano, mirror and palanquin used by the poet himself.",
+      "history": "Grandfather Dwarkanath Tagore bought the estate in 1840; Rabindranath first came in 1890 and returned through 1901, writing parts of Sonar Tori, Chitra and Chhinnapatra here. Around 38 of his surviving letters were written from Shahzadpur.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1690, 89.5990],
+      "practical": {
+        "hours": "Mon–Sat, ~9 am – 6 pm",
+        "entryFee": "Small ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 40 km southwest of Sirajganj town, in Shahzadpur town",
+        "distanceKm": 40,
+        "transport": "Bus / CNG to Shahzadpur"
+      },
+      "bestTime": "November to February; Tagore festivals (Pohela Boishakh, 25 Boishakh)",
+      "tips": [
+        "Carry ID for the ticket counter",
+        "Pair with Shahzadpur's Milk Vita dairy and the handloom villages nearby"
+      ]
+    },
+    {
+      "name": "Hatikumrul Navaratna Temple",
+      "type": "religious",
+      "description": "A three-storied Hindu temple — the largest Navaratna (nine-spired) temple in Bangladesh, locally called the Dol Moncho — its outer walls once richly clad in terracotta plaques of deities and floral motifs.",
+      "history": "Built around 1704–1728 by Ramnath Bhaduri, a revenue collector under Nawab Murshid Quli Khan, blending Bengali and Sikhara styles. Much of the terracotta has weathered, but the scale and form remain striking.",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3010, 89.5260],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 25 km southwest at Hatikumrul, Ullapara Upazila, near the highway junction",
+        "distanceKm": 25,
+        "transport": "Bus / CNG to the Hatikumrul roundabout"
+      },
+      "bestTime": "November to February; Dol Purnima for festival colour",
+      "tips": [
+        "Easy detour off the N5 / Hatikumrul roundabout",
+        "Go for the architecture and scale rather than pristine carvings"
+      ]
+    },
+    {
+      "name": "Sirajganj Hard Point & Cross Bars",
+      "type": "nature",
+      "description": "A 2.5 km concrete revetment along the Jamuna's right bank, with groyne 'cross bars' jutting into the river — the town's favourite riverside promenade for strolls, picnics and sunsets.",
+      "history": "The Hard Point was built between 1995 and 1999 to protect Sirajganj town from the Jamuna's erosion; the cross-bar groynes redirect the current and reclaim land, and have since become recreational spots.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4530, 89.7000],
+      "practical": {
+        "hours": "Daylight; best late afternoon to sunset",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "On the eastern edge of Sirajganj town, Sirajganj Sadar",
+        "distanceKm": 2,
+        "transport": "Rickshaw / CNG within town"
+      },
+      "bestTime": "November to February",
+      "tips": [
+        "Cross Bar 3 ('China Bandh') is the liveliest hangout",
+        "Mind footing near the unguarded concrete edges, especially with children"
+      ]
+    },
+    {
+      "name": "Bangabandhu Eco Park",
+      "type": "nature",
+      "description": "An eco park laid out near the west-bank approach of the Bangabandhu Bridge — greenery, walking trails and river views, a family picnic complement to the bridge and resort.",
+      "history": "Developed alongside the bridge tourism zone after the 1998 opening, as part of the Jamuna Resort eco-tourism cluster.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3990, 89.7820],
+      "practical": {
+        "hours": "Daytime",
+        "entryFee": "Small ticket",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 13 km north of town beside the bridge approach, Sadar/Kamarkhanda",
+        "distanceKm": 13,
+        "transport": "CNG / bus to the bridge zone"
+      },
+      "bestTime": "November to February; mornings for birds",
+      "tips": [
+        "Loop it with the bridge viewpoint and Jamuna Resort",
+        "Carry water and snacks — on-site food is limited"
+      ]
+    },
+    {
+      "name": "Chalan Beel (Tarash)",
+      "type": "nature",
+      "description": "Bangladesh's largest inland wetland, shared across Sirajganj, Natore and Pabna — a vast monsoon expanse of water, fish and birds that shrinks to farmland in the dry season. The Sirajganj share lies mainly in Tarash.",
+      "history": "About a tenth of Chalan Beel falls in Tarash upazila. The beel is a relic of an old river floodplain and a historic fishing and rice bowl of the region.",
+      "image": "https://images.unsplash.com/photo-1572125675722-238a4f1f4ea2?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.2600, 89.3300],
+      "practical": {
+        "hours": "Daylight; boating in the wet season",
+        "entryFee": "Free; boat hire extra",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 45–55 km west/southwest, Tarash (and Ullapara) Upazila",
+        "distanceKm": 50,
+        "transport": "Bus / CNG to Tarash, then local boat"
+      },
+      "bestTime": "July to October for full water; winter for migratory birds",
+      "tips": [
+        "Hire a local boat from a Tarash landing for the full beel",
+        "Go with a local guide — access points shift with the season"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "craft",
+      "name": "Tant Handloom Saris",
+      "description": "Sirajganj is one of Bangladesh's largest handloom hubs, weaving saris, lungis, bedsheets and three-pieces. The looms cluster in Belkuchi, Shahzadpur, Enayetpur and Ullapara, with the Shohagpur cloth market at their heart.",
+      "venue": "Belkuchi, Shahzadpur & Enayetpur weaving villages"
+    },
+    {
+      "type": "food",
+      "name": "Enayetpur Pantua",
+      "description": "Sirajganj's signature sweet — a fried chhana dumpling in syrup, credited to the confectioner Ganesh Modak of Enayetpur about a century ago.",
+      "venue": "Bholanath Mishtanno Bhandar, Enayetpur Bazar (Chauhali)"
+    },
+    {
+      "type": "produce",
+      "name": "Milk Vita Dairy (Baghabari)",
+      "description": "Bangladesh's pioneering dairy cooperative set up its first pasteurization plant at Baghabari, Shahzadpur, in 1973 — and the district remains a national milk heartland, rich in ghee and chhana sweets.",
+      "venue": "Baghabari / Shahzadpur (Milk Vita products region-wide)"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Rabindra Kachharibari, Shahzadpur",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.1690, 89.5990]
+    },
+    {
+      "name": "Hatikumrul Navaratna Temple (c.1704–1728)",
+      "image": "https://images.unsplash.com/photo-1609766418204-94aae0ecf4e5?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.3010, 89.5260]
+    },
+    {
+      "name": "Bangabandhu (Jamuna) Bridge",
+      "image": "https://images.unsplash.com/photo-1559521783-1d1599583485?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [24.4030, 89.7790]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-sirajganj?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Sirajganj&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "SI Enterprise", "phone": "—" },
+        { "name": "Hanif Enterprise", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "Bangladesh Railway e-Ticket", "url": "https://eticket.railway.gov.bd/" }
+      ],
+      "manualBookings": [
+        { "name": "Sirajganj Railway Station", "phone": "—" },
+        { "name": "Sirajganj Bazar / Bangabandhu East Station", "phone": "—" }
+      ]
+    },
+    "launch": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Sirajganj&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "sirajganj-jamuna-bridge", "title": "Watch sunset over the Bangabandhu Bridge", "category": "moment", "detail": "The 4.8 km bridge that stitched the northwest to Dhaka in 1998 — best from the west-bank resort and embankment as the Jamuna turns gold.", "whereOrHow": "Bangabandhu Bridge, west bank", "bestTime": "Nov–Feb, dusk" },
+    { "id": "sirajganj-kachharibari", "title": "Stand in Tagore's Shahzadpur Kachharibari", "category": "place", "detail": "The estate house where Rabindranath wrote parts of Sonar Tori between 1890 and 1901 — now a museum of 331 artefacts, including his piano and palanquin.", "whereOrHow": "Rabindra Kachharibari, Shahzadpur" },
+    { "id": "sirajganj-navaratna", "title": "Circle the nine spires of Hatikumrul", "category": "place", "detail": "The largest Navaratna temple in Bangladesh — a three-storey terracotta shrine built by Ramnath Bhaduri around 1704–1728.", "whereOrHow": "Hatikumrul Navaratna Temple, Ullapara" },
+    { "id": "sirajganj-hard-point", "title": "Stroll the Hard Point at golden hour", "category": "experience", "detail": "A 2.5 km riverside promenade on the Jamuna where the town walks, picnics and watches the sun drop behind the chars.", "whereOrHow": "Sirajganj Hard Point & Cross Bars", "bestTime": "Late afternoon" },
+    { "id": "sirajganj-tant", "title": "Watch a tant loom at work in Belkuchi", "category": "experience", "detail": "One of the country's biggest handloom belts — the clack of shuttles weaving saris, lungis and bedsheets across Belkuchi and Enayetpur.", "whereOrHow": "Belkuchi / Enayetpur weaving villages" },
+    { "id": "sirajganj-pantua", "title": "Eat pantua at its Enayetpur birthplace", "category": "food", "detail": "A fried chhana sweet in syrup, made by the descendants of Ganesh Modak who created it here about a century ago.", "whereOrHow": "Bholanath Mishtanno Bhandar, Enayetpur" },
+    { "id": "sirajganj-milkvita", "title": "Drink fresh milk in Milk Vita country", "category": "food", "detail": "Baghabari in Shahzadpur built Bangladesh's first dairy pasteurization plant in 1973 — this is the nation's milk heartland.", "whereOrHow": "Baghabari / Shahzadpur" },
+    { "id": "sirajganj-chalan-beel", "title": "Boat across Chalan Beel in flood", "category": "experience", "detail": "Bangladesh's largest inland wetland, brimming in monsoon with water, fish and birds — the Sirajganj share is in Tarash.", "whereOrHow": "Chalan Beel, Tarash", "bestTime": "Jul–Oct" },
+    { "id": "sirajganj-eco-park", "title": "Picnic at Bangabandhu Eco Park", "category": "place", "detail": "Green walking trails and river views beside the bridge approach — the family complement to the Jamuna viewpoints.", "whereOrHow": "Bangabandhu Eco Park, Sadar" },
+    { "id": "sirajganj-rail-bridge", "title": "Cross on the new Jamuna Rail Bridge", "category": "experience", "detail": "Inaugurated in 2025, the dedicated rail bridge runs trains across the Jamuna at speed alongside the road bridge.", "whereOrHow": "Jamuna Rail Bridge" },
+    { "id": "sirajganj-ghee", "title": "Buy Shahzadpur ghee and chhana sweets", "category": "food", "detail": "The dairy economy that feeds Milk Vita also turns out fine ghee and chhana-based mishti around Shahzadpur.", "whereOrHow": "Shahzadpur sweet shops" },
+    { "id": "sirajganj-cross-bar", "title": "Hang out at Cross Bar 3 ('China Bandh')", "category": "moment", "detail": "The most popular of the groyne cross bars jutting into the Jamuna — the town's go-to evening spot.", "whereOrHow": "Cross Bar 3, Sirajganj Sadar", "bestTime": "Evening" }
+  ],
+  "foods": [
+    { "name": "Enayetpur Pantua", "description": "Sirajganj's signature sweet — a fried chhana dumpling soaked in syrup, credited to Ganesh Modak of Enayetpur about a century ago.", "whereToFind": "Bholanath Mishtanno Bhandar, Enayetpur Bazar (Chauhali)" },
+    { "name": "Shahzadpur Ghee & Chhana Sweets", "description": "As a dairy heartland, the Shahzadpur–Baghabari belt is known for rich ghee and milk-based mishti.", "whereToFind": "Shahzadpur sweet shops" },
+    { "name": "Milk Vita Dairy", "description": "Fresh milk, butter and ghee from Bangladesh's pioneering dairy cooperative, whose first plant rose at Baghabari in 1973.", "whereToFind": "Baghabari / Shahzadpur (products region-wide)" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Syed Ismail Hossain Siraji",
+      "knownFor": "Poet, writer and reformer of the Bengali Muslim reawakening, born in Sirajganj in 1880. His first poetry book, Anal-Prabaha, was banned by the British government and he was imprisoned — often called the first South Asian poet jailed for calling for independence.",
+      "era": "1880 – 1931"
+    },
+    {
+      "name": "Mahadev Saha",
+      "knownFor": "One of modern Bengali poetry's most-loved romantic and protest voices, author of dozens of collections. Born 5 August 1944 at Dhanghara in Sirajganj; awarded the Ekushey Padak (2001) and the Independence Award (2021).",
+      "era": "b. 1944"
+    },
+    {
+      "name": "Maulana Abdul Hamid Khan Bhashani",
+      "knownFor": "Towering social reformer and peasant-rights leader known as the 'Majlum Jananeta' (leader of the oppressed). Born around 1880 at Dhangara village in the Sirajganj region, he spent his life organising the rural poor across Bengal and Assam.",
+      "era": "1880 – 1976"
+    }
+  ],
+  "didYouKnow": [
+    "The Bangabandhu (Jamuna) Bridge, opened in June 1998 at 4.8 km, was the 11th-longest bridge in the world at the time — and made Sirajganj the western gateway between Dhaka and the north.",
+    "Sirajganj is one of Bangladesh's largest handloom (tant) weaving hubs; Belkuchi, Shahzadpur and Enayetpur clothe much of the country in saris, lungis and bedsheets.",
+    "Milk Vita, the country's flagship dairy cooperative, built its first pasteurization plant at Baghabari in Shahzadpur in 1973 — Sirajganj is a national dairy heartland.",
+    "Rabindranath Tagore wrote parts of Sonar Tori and Chhinnapatra at the Shahzadpur Kachharibari, which still holds some 331 of the poet's artefacts.",
+    "The Hatikumrul Navaratna Temple (c. 1704–1728) is the largest nine-spired temple in Bangladesh.",
+    "About a tenth of Chalan Beel, Bangladesh's largest inland wetland, lies within Sirajganj's Tarash upazila."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Sirajganj Sadar Police Station", "phone": "—" },
+      { "name": "Shahzadpur Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Sirajganj 250-Bed Bongomata Sheikh Fazilatunnesa Mujib General Hospital", "phone": "—" },
+      { "name": "Shahzadpur Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
