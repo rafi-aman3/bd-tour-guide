@@ -1,0 +1,293 @@
+{
+  "name": "Pirojpur",
+  "division": "Barisal",
+  "tagline": "Asia's largest guava belt — floating markets where boats trade by the kilo, a two-kilometre boat haat on the Kuriana canal, and the village where modernist poet Ahsan Habib was born.",
+  "stats": {
+    "area": "1,277.80 sq km",
+    "population": "1,198,195",
+    "established": "1984",
+    "attractions": "8+"
+  },
+  "guide": {
+    "bestTime": "July to September — the guava harvest and full monsoon water, when the floating markets and Noukar Haat run at full volume. October–February for the boatyards and mosques.",
+    "gettingThere": "By overnight launch from Dhaka Sadarghat (~10 hr to Hularhat / Pirojpur), or by road via Barisal (~50 km, ~1.5 hr). The guava orchards and floating markets cluster in Nesarabad (Swarupkathi) on the northern edge; Mathbaria and Indurkani sit closer to the Sundarbans.",
+    "difficulty": "Easy — most floating-market and orchard trips are short boat rides; the Bhandaria mosques and zamindari ruins are quick CNG hops."
+  },
+  "mustVisit": [
+    {
+      "name": "Atghar Kuriana Floating Guava Market",
+      "type": "nature",
+      "description": "A weekday floating wholesale market on the Sondha canal where small boats pile high with green and amber guavas — growers row out at dawn, traders moor their bigger boats mid-stream, and the kilo-rates are shouted across the water until early afternoon.",
+      "history": "The Nesarabad orchards form one corner of a 31,000-acre guava belt across Pirojpur, Jhalokati and Barisal — the largest in Asia. The Atghar Kuriana market is the Pirojpur half of the trade; the Bhimruli market in Jhalokati is the sister site one canal across.",
+      "image": "https://images.unsplash.com/photo-1505765050516-f72dcac9c60e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7333, 90.0500],
+      "practical": {
+        "hours": "Roughly 9 am – 1 pm, daily during the season",
+        "entryFee": "Boat hire only (negotiate at Kuriana ghat)",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 18 km north of Pirojpur town in Atghar Kuriana, Nesarabad (Swarupkathi) Upazila",
+        "distanceKm": 18,
+        "transport": "CNG to Kuriana ghat, then small wooden boat into the canal"
+      },
+      "bestTime": "July to September; August is the peak",
+      "tips": [
+        "Go on a weekday — Friday morning is taken over by the boat haat further upstream",
+        "Buy directly from a grower's boat — it is cheaper, fresher and the right etiquette",
+        "Pair with Atghar–Kuriana orchard walk on dry land"
+      ]
+    },
+    {
+      "name": "Kuriana Boat Market (Noukar Haat)",
+      "type": "heritage",
+      "description": "A two-kilometre weekly boat market on the Kuriana canal — every Friday in the rains, hundreds of newly-built wooden 'panshi' country boats line the bank for sale, builders standing at their bows, the air heavy with mangosteen tar.",
+      "history": "Held on the Kuriana canal between Banaripara (Barisal) and Swarupkathi (Pirojpur), the Noukar Haat is the country's biggest boat-selling market. Boats are built in the surrounding villages of Chami, Boitha Kata, Dubi and Kathali — coated in tar and mangosteen tannin to make them watertight.",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7500, 90.0500],
+      "practical": {
+        "hours": "Friday mornings during the monsoon (roughly Ashar–Ashwin)",
+        "entryFee": "Free; small boat hire to row through the haat",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 20 km north of Pirojpur on the Kuriana canal, between Banaripara and Swarupkathi",
+        "distanceKm": 20,
+        "transport": "CNG to Kuriana, hire a small boat at the haat"
+      },
+      "bestTime": "Monsoon Fridays — Jun to Sep",
+      "tips": [
+        "Get there by mid-morning — the haat thins out after midday",
+        "Watch a builder at work in one of the village yards — Boitha Kata is the easiest to reach",
+        "Don't expect a tourist-grade arrangement; this is a working market"
+      ]
+    },
+    {
+      "name": "Bibichini Shahi Mosque (Bhandaria)",
+      "type": "religious",
+      "description": "A 17th-century single-domed brick mosque at Sarengkati in Bhandaria — squat walls, octagonal corner turrets and a single dome set on an octagonal drum. One of the southwestern coast's older surviving Mughal-era mosques.",
+      "history": "Built around 1660–80 by Bibi Chini, daughter of Mughal Emperor Shah Shuja, on a fief said to have been granted to a local pir by Emperor Shah Jahan. Stands at Sarengkati village in Bhandaria Upazila, protected as an archaeological monument.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.4833, 90.0500],
+      "practical": {
+        "hours": "Daylight hours; mosque opens around prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 30 km south of Pirojpur town in Sarengkati, Bhandaria Upazila",
+        "distanceKm": 30,
+        "transport": "Bus / CNG to Bhandaria, then rickshaw to Sarengkati"
+      },
+      "bestTime": "Late afternoon for the brickwork light",
+      "tips": [
+        "Cover head if female; remove shoes before entering",
+        "Combine with Mathbaria coastal villages on the same day"
+      ]
+    },
+    {
+      "name": "Rayerkati Zamindarbari & Shiva Mandir",
+      "type": "heritage",
+      "description": "The crumbling brick palace and adjoining Shiva temple of the Rayerkati zamindar family — banyan-tangled walls, terracotta panels and a still-active Shiva mandir in the inner courtyard.",
+      "history": "Seat of the Rayerkati zamindars, one of the old Hindu landed families of greater Bakerganj, dating from the 18th–19th centuries. The temple complex remains in worship; parts of the rajbari are restored.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6167, 90.0333],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free; small donation at the mandir",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 10 km east of Pirojpur town in Rayerkati, Pirojpur Sadar",
+        "distanceKm": 10,
+        "transport": "CNG / rickshaw from Pirojpur town"
+      },
+      "bestTime": "Cool months; Shiva Chaturdashi for the festival",
+      "tips": [
+        "Mind your step — parts of the rajbari are unstable",
+        "Photograph the terracotta panels; do not climb the walls"
+      ]
+    },
+    {
+      "name": "Ahsan Habib's Shankarpasha",
+      "type": "heritage",
+      "description": "The home village of the modernist poet Ahsan Habib — a quiet Sadar-upazila settlement with a small memorial library at the family bari. A pilgrimage for anyone who has read 'Megh Bole Chaitre Jabo.'",
+      "history": "Ahsan Habib (1917–1985), one of the great modernist voices of Bengali poetry, was born here on 2 February 1917. He spent his working life in Dhaka and Kolkata; his ancestral house in Shankarpasha holds his books, photographs and personal letters.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5800, 89.9700],
+      "practical": {
+        "hours": "Daylight; ask at the family home / local school",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 5 km from Pirojpur town in Shankarpasha village, Pirojpur Sadar",
+        "distanceKm": 5,
+        "transport": "Rickshaw / CNG from Pirojpur town"
+      },
+      "bestTime": "Cool months; 2 February (his birthday) for a small annual gathering",
+      "tips": [
+        "Bring a copy of his poems — locals appreciate the reverence",
+        "The memorial is informal — ask at the village if the bari is open"
+      ]
+    },
+    {
+      "name": "Nesarabad Backwaters & Guava Orchards",
+      "type": "nature",
+      "description": "The canal-and-orchard country of Nesarabad — a maze of narrow waterways threading 31,000 acres of guava trees. Hire a wooden boat in monsoon and drift between orchards where families pluck fruit from canoes pulled alongside.",
+      "history": "The Pirojpur-Jhalokati-Barisal guava belt has been worked for over a century — the trees thrive on the silted canal banks and harvested fruit goes straight onto boats for the floating markets. About 20,000 farming families across 26 villages live off the trade.",
+      "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7300, 90.0500],
+      "practical": {
+        "hours": "Daylight; mornings are quietest",
+        "entryFee": "Boat hire only",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "About 18–22 km north of Pirojpur town; ghats at Kuriana, Atghar and Adamkathi",
+        "distanceKm": 20,
+        "transport": "CNG to a ghat, then small wooden boat"
+      },
+      "bestTime": "July to September — full water and ripe guava",
+      "tips": [
+        "Negotiate hourly boat hire at the ghat before stepping in",
+        "Buy guava off the harvester boats — fresh, sweet, almost free",
+        "Carry rain protection — afternoon showers are routine"
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "type": "food",
+      "name": "Swarupkathi Guava (Peyara)",
+      "description": "Crisp, fragrant white-flesh guava — the variety the Nesarabad orchards are built on. Eaten raw with salt and chilli straight off the boat in season.",
+      "venue": "Atghar Kuriana floating market & orchard ghats (Jul–Sep)"
+    },
+    {
+      "type": "craft",
+      "name": "Kuriana Panshi Boat",
+      "description": "Hand-built wooden country boats from Chami, Boitha Kata, Dubi and Kathali villages — sealed with tar and mangosteen tannin, sold at the weekly Friday boat haat.",
+      "venue": "Kuriana boat haat & village boatyards (monsoon Fridays)"
+    },
+    {
+      "type": "food",
+      "name": "Coconut & Date-Palm Gur",
+      "description": "Bhandaria and Mathbaria are coconut country; the date-palm villages produce nalen gur and patali in the cold months — winter sweet shops live off both.",
+      "venue": "Bhandaria and Mathbaria town stalls"
+    }
+  ],
+  "heritageSites": [
+    {
+      "name": "Bibichini Shahi Mosque (Bhandaria, c.1660)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.4833, 90.0500]
+    },
+    {
+      "name": "Rayerkati Zamindarbari & Shiva Mandir",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.6167, 90.0333]
+    },
+    {
+      "name": "Kuriana Boat Building Villages",
+      "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.7500, 90.0500]
+    },
+    {
+      "name": "Ahsan Habib Memorial (Shankarpasha)",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [22.5800, 89.9700]
+    }
+  ],
+  "transport": {
+    "bus": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-pirojpur?journeyDate={date}" },
+        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Pirojpur&doj={date}&dor=" }
+      ],
+      "manualBookings": [
+        { "name": "Sakura Paribahan", "phone": "—" },
+        { "name": "Hanif Enterprise", "phone": "—" }
+      ]
+    },
+    "train": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    },
+    "launch": {
+      "available": true,
+      "bookingUrls": [
+        { "name": "BDTickets Launch (Hularhat / Pirojpur)", "url": "https://bdtickets.com/launch/search/{fromCityLowercase}-to-pirojpur?journeyDate={date}" }
+      ],
+      "manualBookings": [
+        { "name": "Hularhat Launch Ghat (Sadarghat overnight)", "phone": "—" }
+      ]
+    },
+    "plane": {
+      "available": false,
+      "bookingUrls": [],
+      "manualBookings": []
+    }
+  },
+  "hotels": {
+    "available": true,
+    "bookingUrls": [
+      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Pirojpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" }
+    ],
+    "manualBookings": []
+  },
+  "advertisements": [],
+  "bucketlist": [
+    { "id": "pirojpur-kuriana-guava", "title": "Buy guava off a grower's boat at Atghar Kuriana", "category": "experience", "detail": "A weekday wholesale market on the Sondha canal — small boats pile high with green and amber fruit, kilo-rates shouted across the water, the air sweet with ripe guava.", "whereOrHow": "Atghar Kuriana Floating Market, Nesarabad", "bestTime": "Jul–Sep" },
+    { "id": "pirojpur-noukar-haat", "title": "Row through the Kuriana Noukar Haat", "category": "experience", "detail": "Two kilometres of newly-built wooden panshi boats lining the Kuriana canal every Friday in the rains — Bangladesh's biggest boat market, with builders standing at their bows.", "whereOrHow": "Kuriana Boat Market", "bestTime": "Monsoon Fridays" },
+    { "id": "pirojpur-bibichini", "title": "Find Bibichini Shahi Mosque", "category": "place", "detail": "A 17th-century single-domed Mughal mosque at Sarengkati in Bhandaria, said to be built by Bibi Chini, a daughter of Emperor Shah Shuja.", "whereOrHow": "Bibichini Shahi Mosque, Bhandaria" },
+    { "id": "pirojpur-rayerkati", "title": "Walk Rayerkati Zamindarbari at sunset", "category": "place", "detail": "Crumbling brick rajbari and a still-active Shiva mandir of the Rayerkati zamindars — banyan-tangled walls, terracotta panels and the quietest corner of Pirojpur Sadar.", "whereOrHow": "Rayerkati, Pirojpur Sadar", "bestTime": "Late afternoon" },
+    { "id": "pirojpur-ahsan-habib", "title": "Visit Ahsan Habib's Shankarpasha", "category": "place", "detail": "The village where the modernist poet Ahsan Habib (Megh Bole Chaitre Jabo) was born in 1917 — a small memorial at the family bari, quiet and unceremonious.", "whereOrHow": "Shankarpasha, Pirojpur Sadar" },
+    { "id": "pirojpur-orchard-boat", "title": "Drift through a Nesarabad guava orchard by boat", "category": "experience", "detail": "Narrow canals threading 31,000 acres of guava trees — families pluck fruit from canoes pulled alongside; you drift, eat, and don't pay much.", "whereOrHow": "Nesarabad backwaters", "bestTime": "Jul–Sep, mornings" },
+    { "id": "pirojpur-boitha-kata", "title": "Watch a panshi being built at Boitha Kata", "category": "experience", "detail": "The village yards along the Kuriana canal where each Friday's boats are made — adze and gum and mangosteen tar, hands black with pitch.", "whereOrHow": "Boitha Kata village, near Kuriana", "bestTime": "Monsoon weekdays" },
+    { "id": "pirojpur-launch", "title": "Take the Hularhat–Sadarghat overnight launch", "category": "experience", "detail": "The classic 10-hour Pirojpur-to-Dhaka launch journey — boarding at dusk at Hularhat, sleeping through the rivers, docking at dawn at Sadarghat.", "whereOrHow": "Hularhat Launch Ghat → Dhaka Sadarghat", "bestTime": "Oct–Mar" },
+    { "id": "pirojpur-mathbaria-coast", "title": "Drive to the Sundarbans edge at Mathbaria", "category": "place", "detail": "The southern tip of Pirojpur, where coastal villages and shrimp farms back into the Sundarbans buffer — a quieter alternative to Mongla.", "whereOrHow": "Mathbaria Upazila" },
+    { "id": "pirojpur-coconut-gur", "title": "Buy date-palm gur in Bhandaria", "category": "food", "detail": "Bhandaria's winter date-palm villages produce some of the country's best nalen gur and patali — pour it on pitha at a roadside stall.", "whereOrHow": "Bhandaria town sweet stalls", "bestTime": "Dec–Feb" }
+  ],
+  "foods": [
+    { "name": "Swarupkathi Peyara (Guava)", "description": "Crisp, fragrant white-flesh guava — the variety the whole Nesarabad guava belt is built on. Eaten raw with salt and chilli straight off the boat.", "whereToFind": "Atghar Kuriana floating market & orchard ghats (Jul–Sep)" },
+    { "name": "Floating-Market Daab (Green Coconut)", "description": "Cold green coconut from char gardens, hawked from boats — the antidote to a humid orchard afternoon.", "whereToFind": "Kuriana and Atghar ghats" },
+    { "name": "Nalen Gur & Patali (Date-Palm Jaggery)", "description": "Bhandaria's winter date-palm villages turn out some of the country's best raw and set jaggery — eaten on pitha or stirred into milk.", "whereToFind": "Bhandaria and Mathbaria town sweet shops (Dec–Feb)" },
+    { "name": "Pirojpur Hilsa (Sandha River)", "description": "Hilsa from the Sandha and Kacha rivers — slightly leaner than Bhola's Meghna fish, but pulled fresh into Hularhat ghat each morning in season.", "whereToFind": "Hularhat ghat-side restaurants (Aug–Nov)" }
+  ],
+  "famousPeople": [
+    {
+      "name": "Ahsan Habib",
+      "knownFor": "Modernist Bengali poet, novelist and editor — one of the central voices of post-1947 Bangla poetry. Books include Ratri Shesh (1947), Sara Dupur (1964) and Megh Bole Chaitre Jabo (1976). Born 2 February 1917 in Shankarpasha village of Pirojpur Sadar; awarded the Bangla Academy Literary Award (1961) and Ekushey Padak (1978).",
+      "era": "1917 – 1985"
+    }
+  ],
+  "didYouKnow": [
+    "The Nesarabad–Jhalokati–Barisal belt holds Asia's largest contiguous guava orchard — about 31,000 acres across 26 villages, with some 20,000 families depending on the trade.",
+    "Pirojpur's Atghar Kuriana floating market and the Bhimruli market across the canal in Jhalokati form one of the few year-round floating wholesale fruit markets in the world.",
+    "The weekly Kuriana Noukar Haat — held Fridays through the monsoon on a 2-km stretch of the Kuriana canal — is Bangladesh's biggest boat-selling market.",
+    "Bibichini Shahi Mosque in Bhandaria was built around 1660–80 by Bibi Chini, daughter of Mughal Emperor Shah Shuja, on a fief granted to a local pir.",
+    "Modernist poet Ahsan Habib — author of 'Megh Bole Chaitre Jabo' and recipient of the 1978 Ekushey Padak — was born in 1917 in Shankarpasha village of Pirojpur Sadar.",
+    "Kuriana's village boat-builders coat their newly-finished panshi boats with tar and the tannin of mangosteen bark to seal them against the water."
+  ],
+  "emergency": {
+    "generalEmergency": "999",
+    "police": [
+      { "name": "Pirojpur Sadar Model Thana", "phone": "—" },
+      { "name": "Nesarabad Thana", "phone": "—" }
+    ],
+    "hospital": [
+      { "name": "Pirojpur 250-Bed Sadar Hospital", "phone": "—" },
+      { "name": "Nesarabad Upazila Health Complex", "phone": "—" }
+    ],
+    "fire": { "phone": "—" },
+    "touristPolice": { "phone": "—" }
+  }
+}
