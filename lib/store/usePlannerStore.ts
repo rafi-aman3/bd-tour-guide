@@ -1,6 +1,7 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import { v4 as uuidv4 } from "uuid";
+import type { Itinerary } from "@/lib/itineraries";
 
 export interface Place {
   id: string;
@@ -35,6 +36,7 @@ interface PlannerStore {
   activeTripId: string | null;
   setActiveTrip: (id: string) => void;
   createTrip: (id: string, initialDistrict?: string) => void;
+  createTripFromTemplate: (id: string, template: Itinerary) => void;
   deleteTrip: (id: string) => void;
 
   // Actions for active trip
@@ -74,6 +76,38 @@ export const usePlannerStore = create<PlannerStore>()(
           if (state.trips[id]) return state; // Don't overwrite if it exists
           return {
             trips: { ...state.trips, [id]: defaultTripData(id, initialDistrict) },
+            activeTripId: id,
+          };
+        }),
+
+      createTripFromTemplate: (id, template) =>
+        set((state) => {
+          if (state.trips[id]) {
+            return { activeTripId: id };
+          }
+          const placesToExplore = template.days.flatMap((d) =>
+            d.stops.map((s) => ({
+              id: uuidv4(),
+              name: s.name,
+              district: d.district,
+              coordinates: s.coordinates,
+              dayOffset: d.day - 1, // ItineraryTab is 0-indexed: Day 1 === offset 0
+            }))
+          );
+          const trip: TripData = {
+            id,
+            tripName: template.title,
+            dateRange: {},
+            travelers: 1,
+            origin: "",
+            destinations: [...template.districts],
+            placesToExplore,
+            budgetItems: [],
+            notes: `Prefilled from "${template.title}" · Best season: ${template.bestSeason}.`,
+            createdAt: new Date().toISOString(),
+          };
+          return {
+            trips: { ...state.trips, [id]: trip },
             activeTripId: id,
           };
         }),
