@@ -173,8 +173,8 @@ export default function DivisionItineraries({ itineraries, primaryColor, seconda
                       <span className="ml-auto text-[0.62rem] uppercase tracking-[0.14em] font-semibold text-slate-400 font-body capitalize">{d.district}</span>
                     </div>
                     <ul className="mt-2.5 space-y-1.5 pl-1">
-                      {d.stops.map((s) => (
-                        <li key={s.name} className="text-sm text-slate-700 font-body flex gap-2 leading-snug">
+                      {d.stops.map((s, i) => (
+                        <li key={`${d.day}-${i}`} className="text-sm text-slate-700 font-body flex gap-2 leading-snug">
                           <MapPin className="h-3.5 w-3.5 mt-0.5 shrink-0" style={{ color: primaryColor }} />
                           <span><span className="font-semibold text-slate-900">{s.name}</span>{s.note ? ` — ${s.note}` : ""}</span>
                         </li>
