@@ -31,6 +31,8 @@ There is no test suite.
 
    **Cache caveat:** `loadAll()` in `lib/district-data.ts` holds a module-level `cache` populated once at startup. Editing a JSON file does **not** hot-reload it — the dev server must be restarted to pick up content changes (the `.ts` folio registry does hot-reload).
 
+   **Division itineraries** are a parallel editorial read: `data/itineraries/<divisionSlug>.json` via `getDivisionItineraries(slug)` in `lib/itineraries.ts` (same `fs` + module-cache, same restart-to-refresh caveat; returns `[]` when no file exists). See "Division pages & predefined itineraries" below.
+
 The `lib/map-data.ts` `DISTRICT_TO_DIVISION` map is a **third** independent source of truth used as a fallback when the JSON doesn't supply `division`. If you add/rename a district, update all three: `data/districts.json`, `lib/map-data.ts`, and `scripts/generate_districts.js`.
 
 ### Building a district field guide
@@ -44,11 +46,21 @@ Districts are upgraded one at a time from the generic placeholder to a full fiel
 4. Add the slug to `BUILT_DISTRICTS` in `lib/field-guide-folio.ts` — this gates field-guide rendering and auto-assigns the folio number (N°02, N°03 …).
 5. Validate (`node -e "JSON.parse(...)"`) and `npx tsc --noEmit`, then commit straight to main (one commit per district: `content(<slug>): build out field guide N°NN with real data`).
 
+### Division pages & predefined itineraries
+
+`app/division/[division]/page.tsx` is an editorial **"atlas"** page (same field-guide tokens — see Thematic colors / UI conventions — but a distinct wide cover-plate layout, NOT the district's vertical folio). Sections: cover band · **§ 01 Trip Plans** · § 02 The Map (`DynamicMap mode="division-districts"`) · § 03 Districts index (links to `/district/<slug>` with `folioNumber()`; the district list is derived from `DISTRICT_TO_DIVISION` filtered by division name). It reads `data/divisions.json` only for the name + verified stats — don't reintroduce the old fabricated "tourists/year"/placeholder cuisine blocks.
+
+**Predefined itineraries** live in `data/itineraries/<divisionSlug>.json` (`{ division, itineraries: [...] }`), typed by `Itinerary` in `lib/itineraries.ts`. Each itinerary: `id`, `title`, `subtitle`, `durationDays`, `bestSeason` (the "suitable for which time" badge), `seasonNote`, `pace` (`Easy|Moderate|Active`), `themeTags[]`, `districts[]` (unique, route order), `coverImage`, `summary`, `days[]` (`day` 1-indexed, `title`, `district` slug, `stops[{ name, coordinates, note }]`). **Stops must be copied verbatim (name + coordinates) from the already-built district field guides — never fabricate** (cross-check with a `node -e` against `data/districts/<slug>.json`).
+
+**Planner handoff:** the client component `components/DivisionItineraries.tsx` renders the cards + a preview modal; "Make this trip" mints `crypto.randomUUID()`, calls `usePlannerStore.createTripFromTemplate(id, itinerary)`, then `router.push('/planner/'+id)`. The store action builds a full `TripData` (tripName=title, destinations=districts, `placesToExplore` = days→stops with **`dayOffset = day - 1`, 0-indexed to match `ItineraryTab`** which filters `p.dayOffset === day.offset`). Zustand is a module singleton so state survives the client nav. `ItineraryTab` was patched so its day count also derives from the max `dayOffset` (`totalDays = Math.max(totalDays, maxAssignedOffset + 1)`) — otherwise multi-day seeded plans are invisible until the user sets a date range.
+
+**Status:** only **Rangpur** is built (3 itineraries). The other 7 divisions are pending content — add a `data/itineraries/<slug>.json` each, one at a time (same cadence/discipline as district guides). Spec/plan: `docs/superpowers/specs/2026-05-30-division-page-itineraries-design.md`, `docs/superpowers/plans/2026-05-30-division-page-itineraries.md`.
+
 ### Routing
 
 App Router with three dynamic segments:
 - `/` — country map, click a division → `/division/[division]`
-- `/division/[division]` — division overview + districts map, click a district → `/district/[district]`
+- `/division/[division]` — editorial atlas page: predefined trip itineraries (§ 01) + districts map + districts index; click a district → `/district/[district]` (see "Division pages & predefined itineraries")
 - `/district/[district]` — district detail page with upazila map
 - `/planner/[id]` — client-only trip planner; `id` is a UUID minted at the "Plan a Trip" link and used as the persistence key
 
