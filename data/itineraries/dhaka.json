@@ -1,0 +1,365 @@
+{
+  "division": "dhaka",
+  "itineraries": [
+    {
+      "id": "dhaka-old-dhaka-weekend",
+      "title": "Old Dhaka in a Weekend",
+      "subtitle": "Mughal forts, the Pink Palace & Louis Kahn",
+      "durationDays": 2,
+      "bestSeason": "All year (best November–February)",
+      "seasonNote": "Doable any season; coolest, clearest and least humid Nov–Feb.",
+      "pace": "Easy",
+      "themeTags": ["City break", "Heritage"],
+      "districts": ["dhaka"],
+      "coverImage": "https://images.unsplash.com/photo-1583422409516-2895a77efded?auto=format&fit=crop&q=80&w=800",
+      "summary": "Two days through the layers of the capital: the lanes of Old Dhaka with its unfinished Mughal fort, the Nawabs' riverside Pink Palace and the ghats of the Buriganga on day one, then the modern republic's two great monuments — Louis Kahn's National Parliament and the martyrs' memorial at Savar.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Old Dhaka — fort, palace & river",
+          "district": "dhaka",
+          "stops": [
+            {
+              "name": "Lalbagh Fort",
+              "coordinates": [23.7188, 90.388],
+              "note": "start early at the unfinished 1678 Mughal fort and the tomb of Pari Bibi"
+            },
+            {
+              "name": "Ahsan Manzil (Pink Palace)",
+              "coordinates": [23.7083, 90.406],
+              "note": "the domed riverside palace of the Dhaka Nawabs, now a museum"
+            },
+            {
+              "name": "Sadarghat & the Buriganga",
+              "coordinates": [23.706, 90.411],
+              "note": "end the day among the launches and ferries at the city's old river port"
+            },
+            {
+              "name": "Dhakeshwari Temple",
+              "coordinates": [23.7242, 90.388],
+              "note": "the national temple and namesake of the city, a short hop from Lalbagh"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "The modern capital — Parliament & memorial",
+          "district": "dhaka",
+          "stops": [
+            {
+              "name": "Jatiya Sangsad Bhaban (National Parliament)",
+              "coordinates": [23.7625, 90.3785],
+              "note": "Louis Kahn's monumental concrete parliament, best seen from across its lake"
+            },
+            {
+              "name": "Jatiyo Smriti Soudho (National Martyrs' Memorial)",
+              "coordinates": [23.908, 90.258],
+              "note": "the soaring Liberation War memorial at Savar, a half-hour drive northwest"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dhaka-mughal-capital-sonargaon",
+      "title": "Mughal Capital & Sonargaon",
+      "subtitle": "From Lalbagh to the lost city of Panam",
+      "durationDays": 3,
+      "bestSeason": "November–February",
+      "seasonNote": "Cool, dry weather for walking the open ruins and forts.",
+      "pace": "Moderate",
+      "themeTags": ["Heritage", "Architecture"],
+      "districts": ["dhaka", "narayanganj", "munshiganj"],
+      "coverImage": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&q=80&w=800",
+      "summary": "Three days tracing the old seats of power around the capital — the Mughal core of Dhaka, the abandoned merchant city of Panam at Sonargaon, and the riverside forts and ancient mounds of Munshiganj across the Dhaleshwari.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Dhaka — the Mughal city",
+          "district": "dhaka",
+          "stops": [
+            {
+              "name": "Lalbagh Fort",
+              "coordinates": [23.7188, 90.388],
+              "note": "the unfinished 17th-century fort complex — budget a couple of hours"
+            },
+            {
+              "name": "Ahsan Manzil (Pink Palace)",
+              "coordinates": [23.7083, 90.406],
+              "note": "the Nawabs' palace on the Buriganga to close the day"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Sonargaon — the lost merchant city",
+          "district": "narayanganj",
+          "stops": [
+            {
+              "name": "Panam Nagar (Panam City)",
+              "coordinates": [23.647, 90.603],
+              "note": "walk the single street of crumbling merchant mansions at old Sonargaon"
+            },
+            {
+              "name": "Sonargaon Folk Art & Craft Museum (Boro Sardar Bari)",
+              "coordinates": [23.645, 90.599],
+              "note": "the restored Sardar Bari mansion and the national folk-art collection"
+            },
+            {
+              "name": "Goaldi Mosque",
+              "coordinates": [23.652, 90.601],
+              "note": "a single-domed pre-Mughal mosque hidden among the village fields"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Munshiganj — forts & ancient mounds",
+          "district": "munshiganj",
+          "stops": [
+            {
+              "name": "Idrakpur Fort",
+              "coordinates": [23.545, 90.53],
+              "note": "a compact Mughal river fort of 1660 in the heart of Munshiganj town"
+            },
+            {
+              "name": "Baba Adam's Mosque",
+              "coordinates": [23.55, 90.51],
+              "note": "a six-domed mosque of 1483, one of the oldest in the region"
+            },
+            {
+              "name": "Nateshwar Buddhist Archaeological Site",
+              "coordinates": [23.5, 90.43],
+              "note": "the excavated remains of an ancient Buddhist monastery and stupa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dhaka-forests-palaces-terracotta",
+      "title": "Forests, Palaces & Terracotta",
+      "subtitle": "A north & west loop through Gazipur, Tangail & Manikganj",
+      "durationDays": 3,
+      "bestSeason": "October–March",
+      "seasonNote": "Dry-season touring; the sal forests are greenest just after the monsoon.",
+      "pace": "Moderate",
+      "themeTags": ["Nature", "Heritage"],
+      "districts": ["gazipur", "tangail", "manikganj"],
+      "coverImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&q=80&w=800",
+      "summary": "Three days looping out from the capital through the sal forests and palaces of Gazipur, the terracotta mosques and zamindar estates of Tangail, and the grand Baliati mansion of Manikganj before the ferry back along the Padma.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Gazipur — forest & palace",
+          "district": "gazipur",
+          "stops": [
+            {
+              "name": "Bhawal National Park",
+              "coordinates": [24.05, 90.4],
+              "note": "walk the trails of the sal forest just north of the city"
+            },
+            {
+              "name": "Bhawal Rajbari (Joydebpur)",
+              "coordinates": [23.999, 90.42],
+              "note": "the sprawling estate at the heart of Bengal's famous 'lost prince' case"
+            },
+            {
+              "name": "Nuhash Polli (Pirozali)",
+              "coordinates": [24.07, 90.48],
+              "note": "novelist Humayun Ahmed's wooded retreat, now open to visitors"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Tangail — mosques & estates",
+          "district": "tangail",
+          "stops": [
+            {
+              "name": "Atia Mosque",
+              "coordinates": [24.21, 89.93],
+              "note": "a richly terracotta-decorated mosque of 1609, once on the 10-taka note"
+            },
+            {
+              "name": "Karatia Zamindar Bari & Saadat College",
+              "coordinates": [24.21, 89.93],
+              "note": "the grand estate and college of the Karatia zamindars"
+            },
+            {
+              "name": "Mawlana Bhashani's Mazar & Santosh",
+              "coordinates": [24.27, 89.89],
+              "note": "the tomb of the 'Red Maulana' beside the university he founded at Santosh"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Manikganj — Baliati & the ferry",
+          "district": "manikganj",
+          "stops": [
+            {
+              "name": "Baliati Zamindar Bari (Baliati Palace)",
+              "coordinates": [23.95, 90.05],
+              "note": "one of Bengal's most imposing zamindar complexes, a wall of columned facades"
+            },
+            {
+              "name": "Paturia Ferry Ghat",
+              "coordinates": [23.78, 89.71],
+              "note": "watch the river traffic on the Padma before the return to Dhaka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dhaka-padma-delta-bangabandhu",
+      "title": "Padma Delta & the Father of the Nation",
+      "subtitle": "The great bridge, Tungipara & the river districts",
+      "durationDays": 5,
+      "bestSeason": "November–March",
+      "seasonNote": "Dry season; rivers are calmer and ferry crossings smoother.",
+      "pace": "Moderate",
+      "themeTags": ["River", "Heritage"],
+      "districts": ["shariatpur", "madaripur", "gopalganj", "faridpur", "rajbari"],
+      "coverImage": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?auto=format&fit=crop&q=80&w=800",
+      "summary": "Five days across the south-western delta of the Dhaka division — beginning with the great Padma Bridge crossing into Shariatpur, then the shrines and lakes of Madaripur, the mausoleum of Bangabandhu at Tungipara, the poet's country of Faridpur, and the old Padma ferry town of Rajbari.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Shariatpur — the great crossing",
+          "district": "shariatpur",
+          "stops": [
+            {
+              "name": "Padma Bridge (Jajira Point)",
+              "coordinates": [23.44, 90.262],
+              "note": "cross the landmark 6.15 km bridge and stop at the Jajira viewpoint"
+            },
+            {
+              "name": "Sureshwar Darbar Sharif",
+              "coordinates": [23.3, 90.34],
+              "note": "a major riverside Sufi shrine and pilgrimage centre"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Madaripur — shrine & lake",
+          "district": "madaripur",
+          "stops": [
+            {
+              "name": "Dargah of Hazrat Shah Madar",
+              "coordinates": [23.17, 90.2],
+              "note": "the medieval shrine that gives the district its name"
+            },
+            {
+              "name": "Shakuni Lake (Shukuni Dighi)",
+              "coordinates": [23.1641, 90.1897],
+              "note": "the town's great heritage tank, ringed by a walking promenade"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "title": "Gopalganj — Tungipara",
+          "district": "gopalganj",
+          "stops": [
+            {
+              "name": "Mausoleum of Sheikh Mujibur Rahman (Tungipara)",
+              "coordinates": [22.92, 89.9],
+              "note": "the resting place and memorial complex of the founding leader"
+            },
+            {
+              "name": "Orakandi Thakurbari",
+              "coordinates": [23.13, 89.65],
+              "note": "the Matua faith's holiest site, busy at the spring Baruni Snan festival"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "title": "Faridpur — the poet's country",
+          "district": "faridpur",
+          "stops": [
+            {
+              "name": "House of Pallikabi Jasimuddin",
+              "coordinates": [23.58, 89.82],
+              "note": "the riverside home and grave of the beloved 'folk poet' Jasimuddin"
+            },
+            {
+              "name": "Mathurapur Deul",
+              "coordinates": [23.5, 89.55],
+              "note": "a tall, tapering brick tower of uncertain origin in the fields"
+            }
+          ]
+        },
+        {
+          "day": 5,
+          "title": "Rajbari — the old ferry town",
+          "district": "rajbari",
+          "stops": [
+            {
+              "name": "Daulatdia Ferry Ghat",
+              "coordinates": [23.78, 89.74],
+              "note": "the vast Padma ferry terminal, gateway back across to Manikganj"
+            },
+            {
+              "name": "Godar Bazar (Padma Riverbank)",
+              "coordinates": [23.74, 89.62],
+              "note": "the town's favourite riverside spot for an evening by the Padma"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dhaka-eastern-edge-ruins-haor",
+      "title": "The Eastern Edge — Ancient Ruins & the Haor",
+      "subtitle": "A 2,500-year-old city and the road across the wetlands",
+      "durationDays": 2,
+      "bestSeason": "Monsoon (June–September) for the flooded haor; Oct–Feb for dry-road touring",
+      "seasonNote": "The haor is at its spectacular best under monsoon water; the all-weather road is drivable year-round.",
+      "pace": "Active",
+      "themeTags": ["Archaeology", "Nature"],
+      "districts": ["narsingdi", "kishoreganj"],
+      "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "summary": "Two days along the division's eastern rim — the excavated 2,500-year-old fort-city of Wari-Bateshwar and the great cloth market of Narsingdi, then the mosques of Kishoreganj and the celebrated submersible road threading the Itna–Mithamoin–Austagram haor.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Narsingdi — the ancient city",
+          "district": "narsingdi",
+          "stops": [
+            {
+              "name": "Wari-Bateshwar Ruins",
+              "coordinates": [24.05, 90.85],
+              "note": "the excavated remains of a fortified city dated to roughly 450 BCE"
+            },
+            {
+              "name": "Baburhat (Shekherchar) Cloth Market",
+              "coordinates": [23.93, 90.74],
+              "note": "one of the largest wholesale cloth markets in the country"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Kishoreganj — mosque & haor road",
+          "district": "kishoreganj",
+          "stops": [
+            {
+              "name": "Pagla Mosque",
+              "coordinates": [24.43, 90.78],
+              "note": "the famous mosque whose donation boxes yield record sums when opened"
+            },
+            {
+              "name": "The Haor & Itna–Mithamoin–Austagram Road",
+              "coordinates": [24.48, 91.05],
+              "note": "drive the submersible road across the open haor — magic at sunset"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

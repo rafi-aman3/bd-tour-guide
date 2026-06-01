@@ -54,7 +54,7 @@ Districts are upgraded one at a time from the generic placeholder to a full fiel
 
 **Planner handoff:** the client component `components/DivisionItineraries.tsx` renders the cards + a preview modal; "Make this trip" mints `crypto.randomUUID()`, calls `usePlannerStore.createTripFromTemplate(id, itinerary)`, then `router.push('/planner/'+id)`. The store action builds a full `TripData` (tripName=title, destinations=districts, `placesToExplore` = days→stops with **`dayOffset = day - 1`, 0-indexed to match `ItineraryTab`** which filters `p.dayOffset === day.offset`). Zustand is a module singleton so state survives the client nav. `ItineraryTab` was patched so its day count also derives from the max `dayOffset` (`totalDays = Math.max(totalDays, maxAssignedOffset + 1)`) — otherwise multi-day seeded plans are invisible until the user sets a date range.
 
-**Status:** only **Rangpur** is built (3 itineraries). The other 7 divisions are pending content — add a `data/itineraries/<slug>.json` each, one at a time (same cadence/discipline as district guides). Spec/plan: `docs/superpowers/specs/2026-05-30-division-page-itineraries-design.md`, `docs/superpowers/plans/2026-05-30-division-page-itineraries.md`.
+**Status:** **Rangpur** (3 itineraries) and **Dhaka** (5 itineraries — all 13 districts covered) are built. The other 6 divisions are pending content — add a `data/itineraries/<slug>.json` each, one at a time (same cadence/discipline as district guides). Spec/plan: `docs/superpowers/specs/2026-05-30-division-page-itineraries-design.md`, `docs/superpowers/plans/2026-05-30-division-page-itineraries.md`.
 
 ### Routing
 
