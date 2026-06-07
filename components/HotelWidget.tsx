@@ -46,6 +46,8 @@ export default function HotelWidget({ data, primaryColor }: HotelWidgetProps) {
 
   if (!data || !data.available) return null;
 
+  const hasOnline = data.bookingUrls.length > 0;
+
   const fieldClasses = "flex flex-col gap-1.5";
   const labelClasses = "text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body";
   const controlClasses =
@@ -62,7 +64,8 @@ export default function HotelWidget({ data, primaryColor }: HotelWidgetProps) {
         </h2>
       </header>
 
-      {/* Search form */}
+      {/* Search form — only when online partners exist (the inputs feed the search URLs) */}
+      {hasOnline && (
       <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
         <div className={fieldClasses}>
           <label className={labelClasses}>Check in</label>
@@ -117,7 +120,10 @@ export default function HotelWidget({ data, primaryColor }: HotelWidgetProps) {
         </div>
       </div>
 
+      )}
+
       {/* Online bookings */}
+      {hasOnline && (
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
         {data.bookingUrls.map((booking, idx) => (
           <a
@@ -136,6 +142,7 @@ export default function HotelWidget({ data, primaryColor }: HotelWidgetProps) {
           </a>
         ))}
       </div>
+      )}
 
       {/* Offline verified hotels */}
       {data.manualBookings.length > 0 && (
