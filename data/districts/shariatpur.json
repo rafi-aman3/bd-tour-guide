@@ -1,23 +1,23 @@
 {
   "name": "Shariatpur",
   "division": "Dhaka",
-  "tagline": "The southern bank of the Padma — where the country's longest bridge meets old river shrines and zamindar ruins.",
+  "tagline": "The southern bank of the Padma — where the country's longest bridge meets old river shrines, jinn-built mosques and zamindar ruins.",
   "stats": {
     "area": "1102.45 sq km",
     "population": "1,294,562",
     "established": "1984",
-    "attractions": "8+"
+    "attractions": "10+"
   },
   "guide": {
     "bestTime": "October to March (cool, dry, pleasant river weather)",
-    "gettingThere": "By road from Dhaka across the Padma Bridge (~80 km, ~2–2.5 hr) — the 2022 bridge opening cut what was once a half-day ferry journey to a short drive. Nearest railhead and airport are both in Dhaka.",
+    "gettingThere": "By road from Dhaka across the Padma Bridge (~80 km, ~2–2.5 hr) — the 2022 bridge opening cut what was once a half-day ferry journey to a short drive. There is no train or airport in the district; the nearest railhead and airport are both in Dhaka. Buses to Shariatpur run from the Jatrabari / Gulistan area of Dhaka — there is no online ticketing, so book at the counter or by phone.",
     "difficulty": "Easy — well connected by road since the Padma Bridge opened in 2022."
   },
   "mustVisit": [
     {
       "name": "Padma Bridge (Jajira Point)",
       "type": "landmark",
-      "description": "The Shariatpur landing of the Padma Multipurpose Bridge — the longest bridge in Bangladesh and the country's most-photographed piece of modern infrastructure. The Jajira approach gives you a clean, sweeping view of the 6.15-km road-rail span across the Padma.",
+      "description": "The Shariatpur landing of the Padma Multipurpose Bridge — the longest bridge in Bangladesh and the country's most-photographed piece of modern infrastructure. The Jajira approach near Naodoba gives you a clean, sweeping view of the 6.15-km road-rail span across the Padma.",
       "history": "A two-level road-rail bridge connecting Louhajang (Munshiganj) on the north bank with Zazira (Jajira) in Shariatpur. Inaugurated on 25 June 2022. It holds the deepest bridge piles in the world at roughly 127 m and reconnected the long-isolated southwest of the country to Dhaka.",
       "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80&w=800",
       "coordinates": [23.4400, 90.2620],
@@ -28,7 +28,7 @@
         "website": "—"
       },
       "howToReach": {
-        "fromDistrictTown": "About 30 km northwest of Shariatpur town, at the Jajira end of the bridge",
+        "fromDistrictTown": "About 30 km northwest of Shariatpur town, at the Jajira end of the bridge near the Naodoba roundabout",
         "distanceKm": 30,
         "transport": "Bus or CNG to Jajira / Naodoba, then a short ride to the approach road"
       },
@@ -44,7 +44,7 @@
       "description": "A major Sufi shrine on the bank of the Padma in Naria Upazila — one of the most visited pilgrimage sites in the greater Faridpur region, drawing devotees from across the country.",
       "history": "The shrine (darbar) grew around the mausoleum of the Sufi saint Hazrat Shah Sufi Syed Jan Sharif Shah. Its annual Urs Sharif is held each year from 19–21 Magh (early February) and gathers very large crowds of followers.",
       "image": "https://images.unsplash.com/photo-1609234656432-603fd648c8c1?auto=format&fit=crop&q=80&w=800",
-      "coordinates": [23.3000, 90.3400],
+      "coordinates": [23.3114, 90.4617],
       "practical": {
         "hours": "Open daily; busiest during the Magh Urs",
         "entryFee": "Free",
@@ -54,7 +54,7 @@
       "howToReach": {
         "fromDistrictTown": "About 20 km from Shariatpur town, near the Padma in Naria Upazila",
         "distanceKm": 20,
-        "transport": "Bus or CNG to Naria, then easybike to Sureshwar"
+        "transport": "Bus or CNG to Naria, then easybike to Sureshwar; or launch from Sadarghat to Sureshwar ghat"
       },
       "bestTime": "During the Urs Sharif (19–21 Magh / early February) for the full pilgrimage atmosphere",
       "tips": [
@@ -63,12 +63,84 @@
       ]
     },
     {
+      "name": "Dhanuka Manasa Bari",
+      "type": "heritage",
+      "description": "A roughly 600-year-old temple complex south of Shariatpur Sadar — five Sultanate- and Mughal-era structures (a Manasa temple, Durga and Kali temples, a nabatkhana music pavilion and a residence) clustered in Dhanuka village. Locally also called Moyur Bhatt's bari.",
+      "history": "Tradition holds that pilgrims came from across the subcontinent to worship Manasa, the serpent goddess, at Moyur Bhatt's house — which is how it became the 'Manasa Bari'. A local legend tells of a boy who saw a great snake in the garden three days running; on the fourth it danced in the courtyard, and that night Manasa Devi appeared in the family's dreams asking that a temple be built and kept. As the house stands in Dhanuka village, it became known as the Dhanuka Manasa Bari.",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2002, 90.3484],
+      "practical": {
+        "hours": "Daylight hours",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Dhanuka village, a short ride south of Shariatpur Sadar near Mandir Road",
+        "distanceKm": 4,
+        "transport": "CNG / easybike from Shariatpur town"
+      },
+      "bestTime": "Cool months; liveliest on Hindu festival and puja days",
+      "tips": [
+        "Respect any ongoing worship at the temples",
+        "Some of the structures are fragile — admire from the courtyard"
+      ]
+    },
+    {
+      "name": "Jinn Mosque (Talukdar Bari Jame Masjid)",
+      "type": "religious",
+      "description": "A small, single-domed mosque at Shibpur in Nagerpara union of Gosairhat — known across the district as the 'Jiner Masjid' (Jinn Mosque) for the legend that surrounds it. A quiet, atmospheric stop reached down the Nagerpara–Gosairhat road.",
+      "history": "Reckoned to be around 400 years old, the four-sided, single-domed mosque sits on about five kathas of land with room for three rows of worshippers. Village elders say jinns began raising the mosque in a single night and were nearly finished by dawn — when a man from a neighbouring village came near to fish, the jinns left it incomplete and vanished. Long unrepaired, the historic structure is now badly decayed.",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0935, 90.3596],
+      "practical": {
+        "hours": "Open around prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Shibpur, Nagerpara union, in Gosairhat Upazila — south of Shariatpur town off the Nagerpara–Gosairhat road",
+        "distanceKm": 25,
+        "transport": "Bus to Gosairhat, then CNG / easybike to Nagerpara–Shibpur"
+      },
+      "bestTime": "Cool months, morning light; busy for Tarabi and Jumma in Ramadan",
+      "tips": [
+        "The masonry is fragile — do not climb the structure",
+        "Cover head if female; remove shoes before entering"
+      ]
+    },
+    {
+      "name": "Kartikpur Zamindar Bari",
+      "type": "heritage",
+      "description": "An ornate, abandoned two-storey zamindar manor — locally the Chowdhury Bari — in Kartikpur village of Naria Upazila, set beside a stone-lined pond with a surviving gateway flanked by tall ornamental minarets.",
+      "history": "The estate is about 200 years old, though the family line reaches back further: a Mughal officer, Fateh Muhammad, married into the local Sheikh family and settled here. The most influential of the line, Munshi Nazimuddin Chowdhury, raised the estate's standing and founded an English school at Kartikpur in 1866. The manor now stands decayed, propped by iron beams, its minarets crumbling.",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2526, 90.4757],
+      "practical": {
+        "hours": "Always open (exterior only)",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "In Kartikpur village (Shakhipur side), Naria Upazila, east of Shariatpur town",
+        "distanceKm": 28,
+        "transport": "Bus toward Bhedarganj — it passes the property — then autorickshaw; or launch to Sureshwar ghat, then auto (~200 tk)"
+      },
+      "bestTime": "Cool months, morning light",
+      "tips": [
+        "The building is structurally unsafe — do not enter or climb the upper floor",
+        "Carry water; few shops at the site"
+      ]
+    },
+    {
       "name": "Mahisarer Digambari Dighi",
       "type": "religious",
-      "description": "A vast, centuries-old pond in the Mahisar area with an adjacent Digambari sannyasi's house — one of the most revered Hindu pilgrimage and recreation spots in the district, ringed by old trees.",
+      "description": "A vast, centuries-old pond in the Mahisar area of Bhedarganj with an adjacent Digambari sannyasi's house — one of the most revered Hindu pilgrimage and recreation spots in the district, ringed by old trees.",
       "history": "Local tradition holds the great tank was excavated by Raja Chand Ray, a Bikrampur-region zamindar of the Mughal era, at the request of a Digambari sannyasi. The site is reckoned to be around 600 years old.",
       "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
-      "coordinates": [23.1800, 90.4600],
+      "coordinates": [23.2049, 90.4312],
       "practical": {
         "hours": "Daylight hours",
         "entryFee": "Free",
@@ -92,7 +164,7 @@
       "description": "A roughly 150-year-old Hindu monastery (math) with a tall, ornamented spire in the Rudrakar union of Shariatpur Sadar — the district's best-known piece of pre-modern temple architecture.",
       "history": "Built in the 19th century, the math served as a monastic and ritual centre for the local Hindu community. Its terracotta-and-plaster tower is the surviving landmark of the complex.",
       "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
-      "coordinates": [23.2200, 90.3400],
+      "coordinates": [23.1829, 90.3460],
       "practical": {
         "hours": "Exterior accessible during daylight",
         "entryFee": "Free",
@@ -107,6 +179,52 @@
       "bestTime": "Morning light for the spire",
       "tips": [
         "Parts of the structure are fragile — admire from the courtyard rather than climbing"
+      ]
+    },
+    {
+      "name": "Buri'r Hat Jame Masjid",
+      "type": "heritage",
+      "description": "A handsome early-20th-century mosque at Buri'r Hat bazar in Rudrakar union — counted among the district's finest pieces of Islamic architecture, with a tall later minaret rising over the bazar.",
+      "history": "Built in 1907, the mosque was raised with concrete and cement imported from England and costly dressed stone brought from Kolkata — a measure of the patron's reach in the late-colonial river trade. Its large present-day minaret was added in the 1980s.",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1789, 90.3815],
+      "practical": {
+        "hours": "Open around prayer times",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At Buri'r Hat bazar on the Burirhat–Damudda road, Rudrakar union",
+        "distanceKm": 12,
+        "transport": "CNG / easybike from Shariatpur town"
+      },
+      "bestTime": "Outside Friday noon prayers",
+      "tips": [
+        "Cover head if female; remove shoes before entering"
+      ]
+    },
+    {
+      "name": "Kobi Rathindrakanta Ghatak Chowdhury's House",
+      "type": "heritage",
+      "description": "The two-storey family home of the poet and Rabindra researcher Rathindrakanta Ghatak Chowdhury at South Baluchar, about a kilometre from Shariatpur town — a quiet literary landmark holding an old library.",
+      "history": "Rathindrakanta Ghatak Chowdhury (1921–1988) was a poet, essayist, Rabindra-sangeet researcher and social worker who chaired the local Palong union for some twenty-five years. After his death the 'Rathindra Sahitya Parishad' was founded in Shariatpur to keep his memory; his old house with its library still stands at South Baluchar.",
+      "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2024, 90.3574],
+      "practical": {
+        "hours": "Exterior accessible during daylight; ask locally to see the library",
+        "entryFee": "Free",
+        "contact": "—",
+        "website": "—"
+      },
+      "howToReach": {
+        "fromDistrictTown": "At South Baluchar, about 1 km from Shariatpur town near Premtola",
+        "distanceKm": 1,
+        "transport": "Rickshaw / easybike from Shariatpur town"
+      },
+      "bestTime": "Daytime",
+      "tips": [
+        "This is a private family home — be courteous and ask before entering"
       ]
     },
     {
@@ -132,36 +250,19 @@
         "The masonry is unstable — do not climb the walls or roof",
         "Carry water; there are few shops at the site"
       ]
-    },
-    {
-      "name": "Buri'r Hat Mosque",
-      "type": "heritage",
-      "description": "An old mosque-and-house complex at Buri'r Hat, counted among the district's notable historic sites alongside the zamindar baris and the Rudrakar math.",
-      "history": "—",
-      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
-      "coordinates": [23.2500, 90.4000],
-      "practical": {
-        "hours": "Open around prayer times",
-        "entryFee": "Free",
-        "contact": "—",
-        "website": "—"
-      },
-      "howToReach": {
-        "fromDistrictTown": "Near Buri'r Hat; ask locally for directions from the nearest bazar",
-        "distanceKm": 15,
-        "transport": "CNG / easybike from Shariatpur town"
-      },
-      "bestTime": "Outside Friday noon prayers",
-      "tips": [
-        "Cover head if female; remove shoes before entering"
-      ]
     }
   ],
   "specialties": [
     {
       "type": "food",
+      "name": "Haru Ghosh's Roshogolla",
+      "description": "Shariatpur's most famous sweet — the spongy, syrup-soaked roshogolla of Haru Ghosh Mishtanno Bhandar at Palong Bazar. The shop has been running since 1950, and roshogolla alone makes up roughly 80% of everything it sells.",
+      "venue": "Haru Ghosh Mishtanno Bhandar, Palong Bazar, Shariatpur town"
+    },
+    {
+      "type": "food",
       "name": "Bibikhana Pitha",
-      "description": "Shariatpur's signature sweet — a dense, cake-like rice pitha baked with rice flour, milk, ghee, date-palm or sugar syrup and cardamom. Made especially for festivals and the winter pitha season.",
+      "description": "Shariatpur's signature pitha — a dense, cake-like rice pitha baked with rice flour, milk, ghee, date-palm or sugar syrup and cardamom. Made especially for festivals and the winter pitha season.",
       "venue": "Naria & Sadar sweet shops; winter pitha stalls"
     },
     {
@@ -169,14 +270,34 @@
       "name": "Sureshwar Urs Sharif",
       "description": "The annual gathering at Sureshwar Darbar Sharif honouring the shrine's saint. Devotees pour in from across the country for three days of zikr, qawwali and communal meals.",
       "timing": "19–21 Magh (early February)",
-      "coordinates": [23.3000, 90.3400]
+      "coordinates": [23.3114, 90.4617]
     }
   ],
   "heritageSites": [
     {
+      "name": "Dhanuka Manasa Bari (~600 yrs)",
+      "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2002, 90.3484]
+    },
+    {
+      "name": "Kartikpur Zamindar Bari",
+      "image": "https://images.unsplash.com/photo-1599824632881-8b43f07a424e?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.2526, 90.4757]
+    },
+    {
+      "name": "Jinn Mosque, Shibpur (~400 yrs)",
+      "image": "https://images.unsplash.com/photo-1591604129939-f1efa4d9f7fa?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.0935, 90.3596]
+    },
+    {
+      "name": "Buri'r Hat Jame Masjid (1907)",
+      "image": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056?auto=format&fit=crop&q=80&w=800",
+      "coordinates": [23.1789, 90.3815]
+    },
+    {
       "name": "Rudrakar Math (19th c.)",
       "image": "https://images.unsplash.com/photo-1604537529428-15bcbeecfe4d?auto=format&fit=crop&q=80&w=800",
-      "coordinates": [23.2200, 90.3400]
+      "coordinates": [23.1829, 90.3460]
     },
     {
       "name": "Haturia Zamindar Bari",
@@ -186,18 +307,19 @@
     {
       "name": "Mahisarer Digambari Dighi",
       "image": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&q=80&w=800",
-      "coordinates": [23.1800, 90.4600]
+      "coordinates": [23.2049, 90.4312]
     }
   ],
   "transport": {
     "bus": {
       "available": true,
-      "bookingUrls": [
-        { "name": "BDTickets", "url": "https://bdtickets.com/bus/search/{fromCityLowercase}-to-shariatpur?journeyDate={date}" },
-        { "name": "Shohoz", "url": "https://www.shohoz.com/bus-tickets/booking/bus/search?fromcity={fromCity}&tocity=Shariatpur&doj={date}&dor=" }
-      ],
+      "bookingUrls": [],
       "manualBookings": [
-        { "name": "BRTC Bus Service", "phone": "—" }
+        { "name": "Shariatpur Super Service — Jatrabari, Dhaka", "phone": "01325-122888" },
+        { "name": "Shariatpur Super Service — Shariatpur Bus Station", "phone": "01325-122884" },
+        { "name": "Shariatpur Super Service — Jajira Counter", "phone": "01325-122885" },
+        { "name": "Shariatpur Super Service — Nawdoba Counter", "phone": "01325-122887" },
+        { "name": "BRTC Bus — Gulistan, Dhaka", "phone": "01743787540" }
       ]
     },
     "train": {
@@ -206,7 +328,7 @@
       "manualBookings": []
     },
     "launch": {
-      "available": false,
+      "available": true,
       "bookingUrls": [],
       "manualBookings": []
     },
@@ -218,35 +340,38 @@
   },
   "hotels": {
     "available": true,
-    "bookingUrls": [
-      { "name": "GoZayaan", "url": "https://gozayaan.com/hotel/list?checkin={checkin}&checkout={checkout}&search=&location=Shariatpur&rooms={rooms},2,0&child_ages=&sort=POPULARITY" },
-      { "name": "ShareTrip", "url": "https://sharetrip.net/hotel-search?checkInDate={checkin}&checkOutDate={checkout}&cityName=Shariatpur&countryName=Bangladesh&currency=BDT&limit=10&nationality=BD&numberOfGuestsInRooms=%5B%7B%22adults%22%3A{guests}%2C%22children%22%3A%5B%5D%7D%5D&offset=0&regionId=3002" }
-    ],
-    "manualBookings": []
+    "bookingUrls": [],
+    "manualBookings": [
+      { "name": "Janata Hotel (Abasik), Palong Modhyo Bazar", "phone": "01919849696", "coordinates": [23.2083, 90.3537] },
+      { "name": "Sikder Abasik Hotel, Rupnagar (Sadar Road)", "phone": "01717361079", "coordinates": [23.2100, 90.3522] }
+    ]
   },
   "advertisements": [],
   "bucketlist": [
-    { "id": "shariatpur-padma-bridge", "title": "Watch the Padma Bridge at golden hour from Jajira", "category": "moment", "detail": "The 6.15-km span glows orange at sunset. From the Jajira approach you get the cleanest view of the bridge that reconnected the country's southwest to Dhaka in 2022.", "whereOrHow": "Jajira / Naodoba approach", "bestTime": "Late afternoon" },
+    { "id": "shariatpur-padma-bridge", "title": "Watch the Padma Bridge at golden hour from Jajira", "category": "moment", "detail": "The 6.15-km span glows orange at sunset. From the Jajira approach near Naodoba you get the cleanest view of the bridge that reconnected the country's southwest to Dhaka in 2022.", "whereOrHow": "Jajira / Naodoba approach", "bestTime": "Late afternoon" },
+    { "id": "shariatpur-haru-ghosh-roshogolla", "title": "Eat a roshogolla at Haru Ghosh's in Palong Bazar", "category": "food", "detail": "Spongy and dripping with syrup, the roshogolla from Haru Ghosh Mishtanno Bhandar has been the district's pride since 1950 — it makes up some 80% of everything the shop sells. The single most loved sweet in Shariatpur.", "whereOrHow": "Haru Ghosh Mishtanno Bhandar, Palong Bazar" },
     { "id": "shariatpur-sureshwar-urs", "title": "Join the Urs Sharif crowds at Sureshwar Darbar", "category": "experience", "detail": "For three days every Magh, the riverside shrine fills with devotees for zikr, qawwali and communal meals — one of the largest Sufi gatherings in the region.", "whereOrHow": "Sureshwar, Naria Upazila", "bestTime": "19–21 Magh (early February)" },
+    { "id": "shariatpur-dhanuka-manasa", "title": "Walk the 600-year-old Dhanuka Manasa Bari", "category": "place", "detail": "Five Sultanate- and Mughal-era structures — a Manasa temple, Durga and Kali temples, a music pavilion and a residence — clustered in Dhanuka village, wrapped in serpent-goddess legend.", "whereOrHow": "Dhanuka village, south of Shariatpur Sadar", "bestTime": "Cool months" },
+    { "id": "shariatpur-jinn-mosque", "title": "Find the 'Jinn Mosque' at Shibpur", "category": "place", "detail": "A small single-domed mosque around 400 years old, which village lore says jinns raised in a single night and abandoned, unfinished, at dawn. Atmospheric and little-visited, down the Nagerpara–Gosairhat road.", "whereOrHow": "Shibpur, Nagerpara, Gosairhat Upazila" },
+    { "id": "shariatpur-kartikpur", "title": "See the crumbling Kartikpur Zamindar Bari", "category": "place", "detail": "An ornate two-storey manor beside a stone-lined pond in Naria, its surviving gateway flanked by tall minarets. The family founded an English school here back in 1866.", "whereOrHow": "Kartikpur village, Naria Upazila" },
     { "id": "shariatpur-bibikhana", "title": "Eat Bibikhana pitha where it's a local institution", "category": "food", "detail": "Dense, cake-like and fragrant with cardamom and date-palm syrup — Shariatpur's signature pitha is best straight from a Naria or Sadar sweet shop in winter.", "whereOrHow": "Naria & Sadar sweet shops" },
     { "id": "shariatpur-mahisar-dighi", "title": "Sit by the 600-year-old Mahisar Dighi", "category": "place", "detail": "A huge ancient tank beside a Digambari sannyasi's house, said to have been dug by a Mughal-era zamindar. Quiet most days, alive with pilgrims on festival dates.", "whereOrHow": "Mahisar, Bhedarganj Upazila", "bestTime": "Cool months" },
     { "id": "shariatpur-rudrakar-math", "title": "See the spire of Rudrakar Math", "category": "place", "detail": "The district's finest pre-modern temple architecture — a ~150-year-old monastery tower in plaster and terracotta, a short ride from Shariatpur town.", "whereOrHow": "Rudrakar union, Shariatpur Sadar", "bestTime": "Morning light" },
     { "id": "shariatpur-haturia", "title": "Walk the ruins of Haturia Zamindar Bari", "category": "place", "detail": "A decaying 19th-century manor with a striking footnote — in 1927 it was one of the first two houses in the greater Dhaka region lit by electric lamp, alongside Ahsan Manzil.", "whereOrHow": "Gosairhat Upazila" },
     { "id": "shariatpur-padma-ilish", "title": "Eat Padma hilsa at a riverside bazar", "category": "food", "detail": "Hilsa pulled from the Padma is prized as the country's best — have it fried, in mustard (shorshe ilish), or with khichuri during the monsoon run.", "whereOrHow": "Riverside bazaars near Jajira & Naria", "bestTime": "Monsoon (Jul–Oct) for the hilsa run" },
-    { "id": "shariatpur-buri-hat", "title": "Find the old mosque at Buri'r Hat", "category": "place", "detail": "An old mosque-and-house complex counted among the district's heritage sites — a quiet detour for anyone tracing Shariatpur's pre-modern footprint.", "whereOrHow": "Buri'r Hat", "bestTime": "Outside Friday noon prayers" },
-    { "id": "shariatpur-khejur-gur", "title": "Buy fresh date-palm gur at a winter haat", "category": "food", "detail": "The winter sap harvest sweetens the season's pithas. Buy it fresh and dark at a rural market between December and February.", "whereOrHow": "Rural haats, Dec–Feb", "bestTime": "December–February" },
     { "id": "shariatpur-padma-boat", "title": "Take a country-boat ride on the Padma", "category": "experience", "detail": "Away from the bridge, the river is still worked by fishing boats and ferries. A short hired-boat ride gives you the old, slow view of the Padma.", "whereOrHow": "Ghats near Naria / Jajira", "bestTime": "Cool, calm mornings" }
   ],
   "foods": [
-    { "name": "Bibikhana Pitha", "description": "Shariatpur's signature sweet — a dense, cake-like rice pitha of rice flour, milk, ghee, date-palm or sugar syrup and cardamom, baked for festivals and the winter season.", "whereToFind": "Naria & Sadar sweet shops; winter pitha stalls" },
+    { "name": "Haru Ghosh's Roshogolla", "description": "The district's most celebrated sweet — spongy, milk-white roshogolla soaked in light syrup, made at Haru Ghosh Mishtanno Bhandar at Palong Bazar since 1950. Roshogolla makes up around 80% of the shop's daily sales; sondesh, rosmalai and lalmohan are sold alongside.", "whereToFind": "Haru Ghosh Mishtanno Bhandar, Palong Bazar, Shariatpur town" },
+    { "name": "Bibikhana Pitha", "description": "Shariatpur's signature pitha — a dense, cake-like rice pitha of rice flour, milk, ghee, date-palm or sugar syrup and cardamom, baked for festivals and the winter season.", "whereToFind": "Naria & Sadar sweet shops; winter pitha stalls" },
     { "name": "Padma Ilish (Hilsa)", "description": "Hilsa from the Padma, prized as the finest in the country — eaten fried, in a mustard paste (shorshe ilish), or with khichuri during the rains.", "whereToFind": "Riverside bazaars near Jajira & Naria" },
     { "name": "Khejur Gur", "description": "Concentrated date-palm jaggery from the winter sap harvest — the base of the season's pithas and a strong sweetener for tea.", "whereToFind": "Rural haats, December–February" }
   ],
   "famousPeople": [
     {
-      "name": "Abdur Razzaq",
-      "knownFor": "Awami League politician from Naria; served as Minister for Water Resources of Bangladesh from 1996 to 2001.",
-      "era": "1942 – 2011"
+      "name": "Rathindrakanta Ghatak Chowdhury",
+      "knownFor": "Poet, essayist and Rabindra-sangeet researcher from South Baluchar, Palong; long-serving local union chairman, remembered by the 'Rathindra Sahitya Parishad' founded in his name.",
+      "era": "1921 – 1988"
     },
     {
       "name": "Abdul Haque Faridi",
@@ -256,15 +381,16 @@
   ],
   "didYouKnow": [
     "Shariatpur is named after Haji Shariatullah (1781–1840), the Islamic reformer who founded the Faraizi movement in 19th-century Bengal.",
+    "Haru Ghosh's sweet shop at Palong Bazar has made its famous roshogolla for over 75 years — founded in 1950, roshogolla alone accounts for roughly 80% of everything it sells.",
+    "A roughly 400-year-old single-domed mosque at Shibpur in Gosairhat is known as the 'Jinn Mosque' — village lore says jinns raised it in a single night and left it unfinished at dawn when a fisherman came near.",
     "The Padma Bridge touches down on the Shariatpur side at Jajira — it is the longest bridge in Bangladesh and has the deepest piles (about 127 m) of any bridge in the world.",
     "Haturia Zamindar Bari was, in 1927, one of the first two houses in the greater Dhaka region to be lit by electric lamp — the other was Ahsan Manzil.",
-    "Mahisar's Digambari Dighi is reckoned to be around 600 years old, said to have been excavated by a Mughal-era zamindar of Bikrampur at a sannyasi's request.",
     "Shariatpur only became a district in 1984 — before that it was a subdivision of Faridpur."
   ],
   "emergency": {
     "generalEmergency": "999",
     "police": [
-      { "name": "Shariatpur Sadar Model Thana", "phone": "—" },
+      { "name": "Shariatpur Sadar (Palong) Model Thana", "phone": "—" },
       { "name": "Naria Thana", "phone": "—" }
     ],
     "hospital": [

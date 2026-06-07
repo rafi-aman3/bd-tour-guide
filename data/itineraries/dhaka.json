@@ -237,7 +237,7 @@
             },
             {
               "name": "Sureshwar Darbar Sharif",
-              "coordinates": [23.3, 90.34],
+              "coordinates": [23.3114, 90.4617],
               "note": "a major riverside Sufi shrine and pilgrimage centre"
             }
           ]
@@ -356,6 +356,86 @@
               "name": "The Haor & Itna–Mithamoin–Austagram Road",
               "coordinates": [24.48, 91.05],
               "note": "drive the submersible road across the open haor — magic at sunset"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dhaka-shariatpur-heritage-loop",
+      "title": "Shariatpur Heritage Loop",
+      "subtitle": "Padma bridge, jinn mosque & zamindar ruins",
+      "durationDays": 2,
+      "bestSeason": "October to March",
+      "seasonNote": "Best in the cool, dry months (Oct–Mar) for river weather and clear light; the Sureshwar Urs falls in early February.",
+      "pace": "Active",
+      "themeTags": [
+        "Heritage",
+        "River",
+        "Pilgrimage"
+      ],
+      "districts": [
+        "shariatpur"
+      ],
+      "coverImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&q=80&w=800",
+      "summary": "Two days threading the old river country on the south bank of the Padma — from the great bridge at Jajira through Sadar's temples, the poet's house and Buri'r Hat mosque, then south to the legendary Jinn Mosque and east through Bhedarganj's ancient tank to Naria's crumbling zamindar manor and the Sufi shrine at Sureshwar. A loop traced straight from the district's own heritage map, broken by a plate of Haru Ghosh's famous roshogolla in Palong Bazar.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Sadar & the bridge — temples, poet's house & roshogolla",
+          "district": "shariatpur",
+          "stops": [
+            {
+              "name": "Padma Bridge (Jajira Point)",
+              "coordinates": [23.44, 90.262],
+              "note": "start at the Jajira approach near Naodoba for a clean view of the 6.15 km span"
+            },
+            {
+              "name": "Rudrakar Math",
+              "coordinates": [23.1829, 90.346],
+              "note": "the district's finest pre-modern temple — a ~150-year-old monastery spire"
+            },
+            {
+              "name": "Dhanuka Manasa Bari",
+              "coordinates": [23.2002, 90.3484],
+              "note": "a ~600-year-old complex of Sultanate- and Mughal-era temples wrapped in serpent-goddess legend"
+            },
+            {
+              "name": "Kobi Rathindrakanta Ghatak Chowdhury's House",
+              "coordinates": [23.2024, 90.3574],
+              "note": "the poet's two-storey family home with its old library, near Premtola — then break for Haru Ghosh's famous roshogolla at Palong Bazar"
+            },
+            {
+              "name": "Buri'r Hat Jame Masjid",
+              "coordinates": [23.1789, 90.3815],
+              "note": "a 1907 mosque built with English cement and Kolkata stone, capped by a tall later minaret"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "South & the river — jinn mosque, ancient tank & the Sufi shrine",
+          "district": "shariatpur",
+          "stops": [
+            {
+              "name": "Jinn Mosque (Talukdar Bari Jame Masjid)",
+              "coordinates": [23.0935, 90.3596],
+              "note": "the ~400-year-old single-domed mosque at Shibpur that lore says jinns raised overnight"
+            },
+            {
+              "name": "Mahisarer Digambari Dighi",
+              "coordinates": [23.2049, 90.4312],
+              "note": "a vast ~600-year-old tank beside a Digambari sannyasi's house in Bhedarganj"
+            },
+            {
+              "name": "Kartikpur Zamindar Bari",
+              "coordinates": [23.2526, 90.4757],
+              "note": "an ornate, crumbling two-storey manor beside a stone-lined pond in Naria"
+            },
+            {
+              "name": "Sureshwar Darbar Sharif",
+              "coordinates": [23.3114, 90.4617],
+              "note": "end at the great riverside Sufi shrine and pilgrimage centre on the Padma"
             }
           ]
         }
