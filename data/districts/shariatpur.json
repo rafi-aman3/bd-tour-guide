@@ -330,7 +330,13 @@
     "launch": {
       "available": true,
       "bookingUrls": [],
-      "manualBookings": []
+      "manualBookings": [
+        { "name": "Pubali (Sadarghat ⇄ Sureshwar)", "phone": "01986023052" },
+        { "name": "Miraj 6 (Sadarghat ⇄ Naria)", "phone": "01716512323" },
+        { "name": "Nagrik (Sadarghat ⇄ Sureshwar)", "phone": "01718919303" },
+        { "name": "M.V. Risan-7 (Sadarghat ⇄ Naria)", "phone": "01742525844" },
+        { "name": "Gazi Express 4 (Sadarghat ⇄ Sureshwar)", "phone": "01732343124" }
+      ]
     },
     "plane": {
       "available": false,

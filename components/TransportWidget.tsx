@@ -68,6 +68,7 @@ export default function TransportWidget({ data, primaryColor, districtName }: Tr
   ] as const;
 
   const currentData = data?.[activeTab];
+  const hasOnline = !!currentData?.bookingUrls?.length;
   const inputClasses =
     "w-full px-4 py-3 rounded-md border border-[var(--hairline)] bg-white font-body text-sm font-medium text-slate-900 focus:outline-none focus:ring-1 focus:border-transparent transition-all";
 
@@ -108,73 +109,70 @@ export default function TransportWidget({ data, primaryColor, districtName }: Tr
       </div>
 
       <div className="pt-8">
-        {/* Booking Form */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-          <div>
-            <label className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-2 block">
-              Origin (from)
-            </label>
-            <select
-              value={fromCity}
-              onChange={(e) => setFromCity(e.target.value)}
-              className={`${inputClasses} cursor-pointer appearance-none`}
-            >
-              {MAJOR_CITIES.map((city) => (
-                <option key={city} value={city}>
-                  {city}
-                </option>
-              ))}
-            </select>
-          </div>
+        {/* Booking Form — only when online partners exist (origin/date feed the booking URLs) */}
+        {hasOnline && (
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <div>
+              <label className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-2 block">
+                Origin (from)
+              </label>
+              <select
+                value={fromCity}
+                onChange={(e) => setFromCity(e.target.value)}
+                className={`${inputClasses} cursor-pointer appearance-none`}
+              >
+                {MAJOR_CITIES.map((city) => (
+                  <option key={city} value={city}>
+                    {city}
+                  </option>
+                ))}
+              </select>
+            </div>
 
-          <div>
-            <label className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-2 block">
-              Journey date
-            </label>
-            <div className="relative">
-              <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
-                <Calendar className="w-4 h-4 text-slate-400" />
+            <div>
+              <label className="text-[0.65rem] uppercase tracking-[0.16em] font-semibold text-slate-500 font-body mb-2 block">
+                Journey date
+              </label>
+              <div className="relative">
+                <div className="absolute inset-y-0 left-3 flex items-center pointer-events-none">
+                  <Calendar className="w-4 h-4 text-slate-400" />
+                </div>
+                <input
+                  type="date"
+                  value={journeyDate}
+                  onChange={(e) => setJourneyDate(e.target.value)}
+                  className={`${inputClasses} pl-10`}
+                />
               </div>
-              <input
-                type="date"
-                value={journeyDate}
-                onChange={(e) => setJourneyDate(e.target.value)}
-                className={`${inputClasses} pl-10`}
-              />
             </div>
           </div>
-        </div>
+        )}
 
         {currentData && currentData.available ? (
           <div className="space-y-8">
             {/* Online bookings */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {currentData.bookingUrls.map((booking, idx) => (
-                <a
-                  key={idx}
-                  href={formatBookingUrl(booking.url, journeyDate, fromCity)}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="group flex justify-between items-center w-full px-5 py-4 rounded-md text-white font-body transition-opacity hover:opacity-90"
-                  style={{ backgroundColor: primaryColor }}
-                >
-                  <span className="flex flex-col text-left">
-                    <span className="font-semibold text-sm leading-tight">Book via {booking.name}</span>
-                    <span className="text-[0.6rem] font-semibold text-white/70 uppercase tracking-[0.16em] mt-1">
-                      {fromCity} &rarr; {districtName}
+            {hasOnline && (
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {currentData.bookingUrls.map((booking, idx) => (
+                  <a
+                    key={idx}
+                    href={formatBookingUrl(booking.url, journeyDate, fromCity)}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group flex justify-between items-center w-full px-5 py-4 rounded-md text-white font-body transition-opacity hover:opacity-90"
+                    style={{ backgroundColor: primaryColor }}
+                  >
+                    <span className="flex flex-col text-left">
+                      <span className="font-semibold text-sm leading-tight">Book via {booking.name}</span>
+                      <span className="text-[0.6rem] font-semibold text-white/70 uppercase tracking-[0.16em] mt-1">
+                        {fromCity} &rarr; {districtName}
+                      </span>
                     </span>
-                  </span>
-                  <ArrowRight className="w-4 h-4 shrink-0 transition-transform group-hover:translate-x-1" />
-                </a>
-              ))}
-              {currentData.bookingUrls.length === 0 && (
-                <div className="col-span-full py-6 text-center border border-dashed border-[var(--hairline)] rounded-md">
-                  <p className="text-slate-400 font-body text-xs uppercase tracking-[0.16em] font-semibold">
-                    No online partners configured
-                  </p>
-                </div>
-              )}
-            </div>
+                    <ArrowRight className="w-4 h-4 shrink-0 transition-transform group-hover:translate-x-1" />
+                  </a>
+                ))}
+              </div>
+            )}
 
             {/* Offline counters */}
             {currentData.manualBookings.length > 0 && (
@@ -200,6 +198,15 @@ export default function TransportWidget({ data, primaryColor, districtName }: Tr
                     </a>
                   ))}
                 </div>
+              </div>
+            )}
+
+            {/* Available, but no online or offline options listed */}
+            {!hasOnline && currentData.manualBookings.length === 0 && (
+              <div className="py-6 text-center border border-dashed border-[var(--hairline)] rounded-md">
+                <p className="text-slate-400 font-body text-xs uppercase tracking-[0.16em] font-semibold">
+                  Runs on this route — book locally at the ghat / counter
+                </p>
               </div>
             )}
           </div>
